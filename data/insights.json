@@ -321,7 +321,7 @@
   "quickBrowse": [
     {
       "id": "20260312_q001",
-      "title": "The Anatomy of an Agent Harness",
+      "title": "Agent架构解析：模型与工程化的结合",
       "category": "agent",
       "fact": {
         "summary": "By Vivek Trivedy\nTLDR: Agent = Model + Harness.  Harness engineering is how we build systems around models to turn them into work engines.  The model ",
@@ -336,11 +336,11 @@
         "techStars": "★★★☆☆",
         "implStars": "★★★☆☆",
         "maturity": "待评估",
-        "keyInsight": "By Vivek Trivedy\nTLDR: Agent = Model + Harness.  Harness engineering is how we build systems around ...",
+        "keyInsight": "Agent的本质是模型+工程化框架。通过系统化设计模型外围的控制逻辑，可以将对话模型转化为可靠的生产力工具。",
         "recommendations": {
-          "short": "持续关注该领域动态",
-          "medium": "评估技术成熟度后试点",
-          "long": "根据市场反馈制定战略"
+          "short": "1.调研同类解决方案 2.评估技术可行性 3.识别潜在应用场景",
+          "medium": "1.开发概念验证原型 2.收集用户反馈 3.优化产品体验",
+          "long": "1.制定商业化策略 2.构建竞争壁垒 3.规划生态布局"
         },
         "category": "agent"
       },
@@ -353,7 +353,7 @@
     },
     {
       "id": "20260312_q002",
-      "title": "How Coding Agents Are Reshaping Engineering, Product and Design",
+      "title": "编程Agent如何重塑工程、产品和设计",
       "category": "agent",
       "fact": {
         "summary": "EPD (Engineering, Product, and Design) at software company is about creating good software. Separate roles exist, but the end goal is functional softw",
@@ -368,11 +368,11 @@
         "techStars": "★★★☆☆",
         "implStars": "★★★☆☆",
         "maturity": "待评估",
-        "keyInsight": "EPD (Engineering, Product, and Design) at software company is about creating good software. Separate...",
+        "keyInsight": "编程Agent正在模糊工程、产品和设计的边界。通过自然语言描述即可生成代码，降低技术门槛，加速产品迭代。",
         "recommendations": {
-          "short": "持续关注该领域动态",
-          "medium": "评估技术成熟度后试点",
-          "long": "根据市场反馈制定战略"
+          "short": "1.调研同类解决方案 2.评估技术可行性 3.识别潜在应用场景",
+          "medium": "1.开发概念验证原型 2.收集用户反馈 3.优化产品体验",
+          "long": "1.制定商业化策略 2.构建竞争壁垒 3.规划生态布局"
         },
         "category": "agent"
       },
@@ -385,7 +385,7 @@
     },
     {
       "id": "20260312_q003",
-      "title": "Improving instruction hierarchy in frontier LLMs",
+      "title": "前沿大模型的指令层级优化",
       "category": "application",
       "fact": {
         "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injectio",
@@ -400,11 +400,11 @@
         "techStars": "★★★☆☆",
         "implStars": "★★★☆☆",
         "maturity": "待评估",
-        "keyInsight": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safe...",
+        "keyInsight": "指令层级技术让模型学会区分可信指令和潜在攻击，提升AI系统的安全性和可控性。",
         "recommendations": {
-          "short": "持续关注该领域动态",
-          "medium": "评估技术成熟度后试点",
-          "long": "根据市场反馈制定战略"
+          "short": "1.调研同类解决方案 2.评估技术可行性 3.识别潜在应用场景",
+          "medium": "1.开发概念验证原型 2.收集用户反馈 3.优化产品体验",
+          "long": "1.制定商业化策略 2.构建竞争壁垒 3.规划生态布局"
         },
         "category": "application"
       },
@@ -417,7 +417,7 @@
     },
     {
       "id": "20260312_q004",
-      "title": "New ways to learn math and science in ChatGPT",
+      "title": "ChatGPT推出数学和科学学习新方式",
       "category": "application",
       "fact": {
         "summary": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
@@ -432,11 +432,11 @@
         "techStars": "★★★☆☆",
         "implStars": "★★★☆☆",
         "maturity": "待评估",
-        "keyInsight": "ChatGPT introduces interactive visual explanations for math and science, helping students explore fo...",
+        "keyInsight": "ChatGPT通过交互式可视化解释数学和科学概念，让抽象知识变得直观易懂。",
         "recommendations": {
-          "short": "持续关注该领域动态",
-          "medium": "评估技术成熟度后试点",
-          "long": "根据市场反馈制定战略"
+          "short": "1.调研同类解决方案 2.评估技术可行性 3.识别潜在应用场景",
+          "medium": "1.开发概念验证原型 2.收集用户反馈 3.优化产品体验",
+          "long": "1.制定商业化策略 2.构建竞争壁垒 3.规划生态布局"
         },
         "category": "application"
       },
@@ -449,7 +449,7 @@
     },
     {
       "id": "20260312_q005",
-      "title": "OpenAI to acquire Promptfoo",
+      "title": "OpenAI收购Promptfoo强化AI安全",
       "category": "devtool",
       "fact": {
         "summary": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate vulnerabilities in AI systems during development.",
@@ -464,11 +464,11 @@
         "techStars": "★★★☆☆",
         "implStars": "★★★☆☆",
         "maturity": "待评估",
-        "keyInsight": "OpenAI is acquiring Promptfoo, an AI security platform that helps enterprises identify and remediate...",
+        "keyInsight": "OpenAI收购Promptfoo补强企业级AI安全能力，帮助企业识别和修复AI系统漏洞。",
         "recommendations": {
-          "short": "持续关注该领域动态",
-          "medium": "评估技术成熟度后试点",
-          "long": "根据市场反馈制定战略"
+          "short": "1.调研同类解决方案 2.评估技术可行性 3.识别潜在应用场景",
+          "medium": "1.开发概念验证原型 2.收集用户反馈 3.优化产品体验",
+          "long": "1.制定商业化策略 2.构建竞争壁垒 3.规划生态布局"
         },
         "category": "devtool"
       },
@@ -481,7 +481,7 @@
     },
     {
       "id": "20260312_q006",
-      "title": "How Descript enables multilingual video dubbing at scale",
+      "title": "Descript实现大规模多语言视频配音",
       "category": "video",
       "fact": {
         "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural a",
@@ -496,11 +496,11 @@
         "techStars": "★★★☆☆",
         "implStars": "★★★☆☆",
         "maturity": "待评估",
-        "keyInsight": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both me...",
+        "keyInsight": "Descript利用OpenAI模型实现高质量多语言配音，优化翻译的语义准确性和时间同步。",
         "recommendations": {
-          "short": "持续关注该领域动态",
-          "medium": "评估技术成熟度后试点",
-          "long": "根据市场反馈制定战略"
+          "short": "1.调研同类解决方案 2.评估技术可行性 3.识别潜在应用场景",
+          "medium": "1.开发概念验证原型 2.收集用户反馈 3.优化产品体验",
+          "long": "1.制定商业化策略 2.构建竞争壁垒 3.规划生态布局"
         },
         "category": "video"
       },
@@ -530,9 +530,9 @@
         "maturity": "待评估",
         "keyInsight": "Codex Security is an AI application security agent that analyzes project context to detect, validate...",
         "recommendations": {
-          "short": "持续关注该领域动态",
-          "medium": "评估技术成熟度后试点",
-          "long": "根据市场反馈制定战略"
+          "short": "1.调研同类解决方案 2.评估技术可行性 3.识别潜在应用场景",
+          "medium": "1.开发概念验证原型 2.收集用户反馈 3.优化产品体验",
+          "long": "1.制定商业化策略 2.构建竞争壁垒 3.规划生态布局"
         },
         "category": "agent"
       },
@@ -562,9 +562,9 @@
         "maturity": "待评估",
         "keyInsight": "See how Balyasny built an AI research system with GPT-5.4, rigorous model evaluation, and agent work...",
         "recommendations": {
-          "short": "持续关注该领域动态",
-          "medium": "评估技术成熟度后试点",
-          "long": "根据市场反馈制定战略"
+          "short": "1.调研同类解决方案 2.评估技术可行性 3.识别潜在应用场景",
+          "medium": "1.开发概念验证原型 2.收集用户反馈 3.优化产品体验",
+          "long": "1.制定商业化策略 2.构建竞争壁垒 3.规划生态布局"
         },
         "category": "agent"
       },
@@ -577,7 +577,7 @@
     },
     {
       "id": "20260312_q009",
-      "title": "Evaluating Skills",
+      "title": "Agent技能评估体系",
       "category": "agent",
       "fact": {
         "summary": "By Robert Xu\nRecently at LangChain we’ve been building skills to help coding agents like Codex, Claude Code, and Deep Agents CLI work with our ecosyst",
@@ -592,11 +592,11 @@
         "techStars": "★★★☆☆",
         "implStars": "★★★☆☆",
         "maturity": "待评估",
-        "keyInsight": "By Robert Xu\nRecently at LangChain we’ve been building skills to help coding agents like Codex, Clau...",
+        "keyInsight": "建立系统化的Agent技能评估体系，量化模型在特定任务上的能力边界和可靠性。",
         "recommendations": {
-          "short": "持续关注该领域动态",
-          "medium": "评估技术成熟度后试点",
-          "long": "根据市场反馈制定战略"
+          "short": "1.调研同类解决方案 2.评估技术可行性 3.识别潜在应用场景",
+          "medium": "1.开发概念验证原型 2.收集用户反馈 3.优化产品体验",
+          "long": "1.制定商业化策略 2.构建竞争壁垒 3.规划生态布局"
         },
         "category": "agent"
       },
@@ -626,9 +626,9 @@
         "maturity": "待评估",
         "keyInsight": "We’re releasing a CLI along with our first set of skills to give AI coding agents expertise in the L...",
         "recommendations": {
-          "short": "持续关注该领域动态",
-          "medium": "评估技术成熟度后试点",
-          "long": "根据市场反馈制定战略"
+          "short": "1.调研同类解决方案 2.评估技术可行性 3.识别潜在应用场景",
+          "medium": "1.开发概念验证原型 2.收集用户反馈 3.优化产品体验",
+          "long": "1.制定商业化策略 2.构建竞争壁垒 3.规划生态布局"
         },
         "category": "agent"
       },
