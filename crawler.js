@@ -10,25 +10,27 @@ const rssParser = new RSSParser({
   }
 });
 
-// 权威AI新闻源（基于tech-news-digest技能配置）
+// 权威AI新闻源
 const SOURCES = [
-  // 高优先级：官方和顶级专家
-  { name: 'OpenAI Blog', url: 'https://openai.com/blog/rss.xml', type: 'official', maxItems: 2 },
-  { name: 'Hugging Face', url: 'https://huggingface.co/blog/feed.xml', type: 'official', maxItems: 2 },
-  { name: 'Google AI', url: 'https://blog.google/technology/ai/rss/', type: 'official', maxItems: 2 },
-  
-  // 中优先级：行业专家和KOL
-  { name: 'Simon Willison', url: 'https://simonwillison.net/atom/everything/', type: 'expert', maxItems: 2 },
-  { name: 'Sebastian Raschka', url: 'https://magazine.sebastianraschka.com/feed', type: 'expert', maxItems: 2 },
-  { name: 'Lil\'Log', url: 'https://lilianweng.github.io/index.xml', type: 'expert', maxItems: 2 },
-  { name: 'Gary Marcus', url: 'https://garymarcus.substack.com/feed', type: 'expert', maxItems: 1 },
-  
-  // 中文媒体
-  { name: '量子位', url: 'https://www.qbitai.com/rss', type: 'media', maxItems: 3 },
-  
-  // Agent专项
-  { name: 'LangChain', url: 'https://blog.langchain.dev/rss/', type: 'agent', maxItems: 2 },
+  { name: 'OpenAI Blog', url: 'https://openai.com/blog/rss.xml', type: '官方', maxItems: 3 },
+  { name: '量子位', url: 'https://www.qbitai.com/rss', type: '媒体', maxItems: 4 },
+  { name: 'LangChain', url: 'https://blog.langchain.dev/rss/', type: 'Agent', maxItems: 3 },
+  { name: 'Hugging Face', url: 'https://huggingface.co/blog/feed.xml', type: '官方', maxItems: 2 },
+  { name: 'Google AI', url: 'https://blog.google/technology/ai/rss/', type: '官方', maxItems: 2 },
+  { name: 'Sebastian Raschka', url: 'https://magazine.sebastianraschka.com/feed', type: '专家', maxItems: 2 },
+  { name: 'Lil Log', url: 'https://lilianweng.github.io/index.xml', type: '专家', maxItems: 2 },
 ];
+
+// 7个内容分类
+const CATEGORIES = {
+  'llm': '大语言模型',
+  'image-video': 'AI绘画/视频',
+  'agent': 'Agent',
+  'research': '科研突破',
+  'company': '企业动态',
+  'devtool': '开发工具',
+  'application': '应用落地'
+};
 
 // 过滤低质量内容
 const BAD_WORDS = ['token自由', '奖金', '0门槛', '冲就完了', '大舞台', '养虾', '龙虾', '羊毛', '限时', '免费领', '速来'];
@@ -53,119 +55,106 @@ async function fetchRSS(source) {
 
 function isValidNews(news) {
   const text = (news.title + news.summary).toLowerCase();
-  // 过滤广告
   for (const word of BAD_WORDS) {
     if (text.includes(word)) return false;
   }
-  // 必须包含AI关键词
   const aiWords = ['ai', '人工智能', '大模型', 'llm', 'gpt', 'agent', '智能体', 'openai', 'claude', 'langchain'];
   return aiWords.some(w => text.includes(w));
 }
 
-// 预置的中文标题翻译
-const TITLE_TRANSLATIONS = {
-  'autonomous context compression': 'LangChain推出自主上下文压缩技术',
-  'rakuten fixes issues twice as fast': 'Rakuten用Codex将问题修复速度提升2倍',
-  'designing ai agents to resist prompt injection': '设计抗提示注入的AI Agent安全方案',
-  'wayfair boosts catalog accuracy': 'Wayfair用OpenAI提升电商产品目录精准度',
-  'from model to agent': 'OpenAI发布Agent运行环境',
-  'the anatomy of an agent harness': 'Agent架构解析：模型与工程化框架',
-  'how coding agents are reshaping': '编程Agent如何重塑工程、产品和设计',
-  'improving instruction hierarchy': '前沿大模型的指令层级安全优化',
-  'new ways to learn math': 'ChatGPT推出数学和科学交互式学习',
-  'openai to acquire promptfoo': 'OpenAI收购Promptfoo强化AI安全能力',
-  'how descript enables': 'Descript实现大规模多语言视频配音',
-  'how wattpad uses': 'Wattpad用OpenAI扩展内容审核能力',
-  'how coding agents work': '编程Agent工作原理深度解析',
-  'evaluating skills': 'Agent技能评估体系设计',
-  'qq浏览器': 'QQ浏览器入选a16z全球AI应用榜单',
-  '对话vast': '对话VAST：2秒生成3D内容的技术突破'
-};
-
-// 产品机会画布模板（根据新闻类型匹配）
-const PRODUCT_CANVAS_TEMPLATES = {
-  developer: {
-    targetUser: '企业开发者、技术团队负责人',
-    scenarios: '代码开发、自动化测试、DevOps流程',
-    competitors: 'GitHub Copilot、Cursor、国内同类产品',
-    difficulty: 3,
-    potential: '高'
-  },
-  enterprise: {
-    targetUser: '企业决策者、产品经理',
-    scenarios: '客服自动化、知识管理、业务流程优化',
-    competitors: '传统SaaS、大厂AI产品',
-    difficulty: 4,
-    potential: '中高'
-  },
-  consumer: {
-    targetUser: 'C端用户、创作者',
-    scenarios: '内容创作、学习辅助、日常效率',
-    competitors: '现有消费级AI产品',
-    difficulty: 2,
-    potential: '中'
-  },
-  infrastructure: {
-    targetUser: 'AI基础设施开发者、平台架构师',
-    scenarios: '模型训练、推理优化、工具链建设',
-    competitors: '云厂商AI服务、开源方案',
-    difficulty: 5,
-    potential: '高'
-  }
-};
-
-function translateTitle(title) {
-  const lower = title.toLowerCase();
-  for (const [key, value] of Object.entries(TITLE_TRANSLATIONS)) {
-    if (lower.includes(key)) return value;
-  }
-  return title;
-}
-
-function detectProductType(title, summary) {
+function categorizeNews(title, summary) {
   const text = (title + ' ' + summary).toLowerCase();
-  if (text.includes('code') || text.includes('coding') || text.includes('developer') || text.includes('dev')) return 'developer';
-  if (text.includes('enterprise') || text.includes('business') || text.includes('company')) return 'enterprise';
-  if (text.includes('consumer') || text.includes('user') || text.includes('app')) return 'consumer';
-  return 'infrastructure';
+  
+  if (text.includes('agent') || text.includes('智能体') || text.includes('langchain') || text.includes('autogpt')) {
+    return 'agent';
+  }
+  if (text.includes('image') || text.includes('绘画') || text.includes('video') || text.includes('视频') || text.includes('sora') || text.includes('diffusion')) {
+    return 'image-video';
+  }
+  if (text.includes('research') || text.includes('论文') || text.includes('arxiv') || text.includes('study')) {
+    return 'research';
+  }
+  if (text.includes('openai') || text.includes('google') || text.includes('meta') || text.includes('anthropic') || text.includes('收购') || text.includes('融资')) {
+    return 'company';
+  }
+  if (text.includes('code') || text.includes('代码') || text.includes('dev') || text.includes('tool') || text.includes('github')) {
+    return 'devtool';
+  }
+  if (text.includes('app') || text.includes('应用') || text.includes('product') || text.includes('用户')) {
+    return 'application';
+  }
+  return 'llm';
 }
 
-function generateDeepInsight(news) {
-  const title = translateTitle(news.title);
-  const productType = detectProductType(news.title, news.summary);
-  const canvas = PRODUCT_CANVAS_TEMPLATES[productType];
+async function generateAnalysis(news) {
+  const apiKey = process.env.SILICONFLOW_API_KEY;
+  if (!apiKey) {
+    // 无API时返回简化版
+    return {
+      coreInsight: `${news.title}。该技术值得关注，建议评估其落地可行性。`,
+      scenarios: '企业级应用、开发者工具',
+      techKeywords: 'AI大模型: 基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力',
+      productDesign: '可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。'
+    };
+  }
   
-  // 根据来源生成不同的技术解读深度
-  const techAnalysis = {
-    official: `该技术由${news.sourceName}官方发布，代表了行业最新发展方向。从技术架构看，这属于${productType === 'developer' ? '开发者工具层' : productType === 'enterprise' ? '企业应用层' : '基础设施层'}的创新，可能改变现有产品形态。`,
-    expert: `${news.sourceName}作为领域专家，深入分析了该技术的实现原理。核心突破在于架构设计的优化，这对产品化落地具有重要参考价值。`,
-    media: '该技术在中文市场引发关注，从技术成熟度看已具备商业化条件，值得评估其在国内的适用性和竞争格局。',
-    agent: 'Agent技术栈的又一进展，重点解决了多步骤任务执行中的关键问题，对构建复杂AI工作流有实际帮助。'
-  };
+  const category = categorizeNews(news.title, news.summary);
+  const categoryName = CATEGORIES[category];
   
-  const marketImpact = {
-    developer: '将降低开发门槛，提升个体开发者效率，可能改变团队协作模式和技术栈选择。',
-    enterprise: '有望替代传统SaaS的部分功能，企业采购决策将面临AI原生方案 vs 传统方案的选择。',
-    consumer: '用户体验将被重新定义，交互方式从GUI向自然语言过渡，产品形态需重新设计。',
-    infrastructure: '底层能力增强将催生上层应用创新，平台型机会显现，但技术壁垒较高。'
-  };
+  const prompt = `作为资深AI产品经理，分析以下新闻：
+
+标题：${news.title}
+摘要：${news.summary.substring(0, 400)}
+来源：${news.sourceName}
+
+请输出JSON格式：
+{
+  "coreInsight": "核心洞察：技术原理+用法说明，2-3句话，讲清楚这是什么技术、怎么工作、怎么用",
+  "scenarios": "应用场景：2-3个最适合的使用场景，用顿号分隔",
+  "techKeywords": "技术关键词：格式'英文术语(English Name): 2-3句话解释核心原理和应用'",
+  "productDesign": "产品设计点：从PM角度分析这条新闻带来的产品启示和机会，2-3句话"
+}
+
+注意：
+1. 内容分类是：${categoryName}
+2. 所有输出用中文
+3. 技术关键词必须保留英文原词
+4. 讲核心点，不要废话`;
+
+  try {
+    const res = await axios.post('https://api.siliconflow.cn/v1/chat/completions', {
+      model: 'deepseek-ai/DeepSeek-V3',
+      messages: [
+        { role: 'system', content: '你是资深AI产品经理，擅长技术评估和商业化分析。输出合法JSON。' },
+        { role: 'user', content: prompt }
+      ],
+      temperature: 0.7,
+      max_tokens: 800
+    }, {
+      headers: { 'Authorization': `Bearer ${apiKey}`, 'Content-Type': 'application/json' },
+      timeout: 90000
+    });
+    
+    const content = res.data.choices[0].message.content;
+    const match = content.match(/\{[\s\S]*\}/);
+    if (match) {
+      return JSON.parse(match[0]);
+    }
+  } catch (e) {
+    console.log(`[AI失败] ${e.message.substring(0, 50)}`);
+  }
   
+  // 失败时返回简化版
   return {
-    title,
-    // 深度洞察 - 技术产品双维度
-    deepInsight: {
-      techPrinciple: techAnalysis[news.sourceType] || techAnalysis.media,
-      productValue: `对产品经理而言，这意味着${marketImpact[productType]}`,
-      marketImpact: marketImpact[productType],
-      timeWindow: news.sourceType === 'official' ? '官方已发布，建议3个月内评估落地' : '技术验证阶段，建议持续关注6个月'
-    },
-    // 产品机会画布
-    productCanvas: canvas
+    coreInsight: `${news.title}。该技术值得关注，建议评估其落地可行性。`,
+    scenarios: '企业级应用、开发者工具',
+    techKeywords: 'AI大模型: 基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力',
+    productDesign: '可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。'
   };
 }
 
 async function main() {
-  console.log('=== 开始爬取 ===');
+  console.log('=== AI新闻爬取开始 ===');
   
   // 1. 获取所有新闻
   let allNews = [];
@@ -196,63 +185,80 @@ async function main() {
   });
   console.log(`[去重] 剩余 ${allNews.length} 条`);
   
-  // 4. 生成洞察（前15条）
-  const today = new Date().toISOString().split('T')[0].replace(/-/g, '');
+  // 4. 分类并排序（每个分类最多2条进入头条）
+  const categoryCount = {};
   const headlines = [];
   const quickBrowse = [];
   
-  for (let i = 0; i < allNews.length && i < 15; i++) {
-    const news = allNews[i];
-    const result = generateDeepInsight(news);
+  for (const news of allNews) {
+    news.category = categorizeNews(news.title, news.summary);
+    categoryCount[news.category] = (categoryCount[news.category] || 0) + 1;
     
-    const item = {
-      id: `${today}_${String(i+1).padStart(3, '0')}`,
-      title: result.title,
-      category: news.sourceType,
-      fact: {
-        sourceName: news.sourceName,
-        sourceType: news.sourceType,
-        sourceUrl: news.url
-      },
-      insight: {
-        techFeasibility: result.productCanvas.difficulty,
-        implementation: result.productCanvas.difficulty,
-        techStars: '★'.repeat(result.productCanvas.difficulty) + '☆'.repeat(5 - result.productCanvas.difficulty),
-        implStars: '★'.repeat(result.productCanvas.difficulty) + '☆'.repeat(5 - result.productCanvas.difficulty),
-        maturity: '可用',
-        // 核心洞察（增强版）- 去掉换行符，用空格分隔
-        keyInsight: result.deepInsight.techPrinciple + ' ' + result.deepInsight.productValue + ' ' + result.deepInsight.marketImpact,
-        // 时间窗口
-        timeWindow: result.deepInsight.timeWindow,
-        // 产品画布
-        targetUser: result.productCanvas.targetUser,
-        scenarios: result.productCanvas.scenarios,
-        competitors: result.productCanvas.competitors,
-        potential: result.productCanvas.potential
-      },
-      tags: [news.sourceType]
-    };
-    
-    if (i < 5) {
-      headlines.push(item);
-    } else {
-      quickBrowse.push(item);
+    if (headlines.length < 5 && categoryCount[news.category] <= 2) {
+      headlines.push(news);
+    } else if (quickBrowse.length < 10) {
+      quickBrowse.push(news);
     }
   }
   
-  // 5. 保存
+  // 5. 生成分析内容
+  const today = new Date().toISOString().split('T')[0];
+  const todayStr = today.replace(/-/g, '');
+  
+  const processNews = async (news, index, isHeadline) => {
+    const analysis = await generateAnalysis(news);
+    
+    return {
+      id: `${todayStr}_${isHeadline ? String(index + 1).padStart(3, '0') : 'q' + String(index + 1).padStart(3, '0')}`,
+      title: news.title,
+      category: news.category,
+      categoryName: CATEGORIES[news.category],
+      publishDate: news.pubDate,
+      crawlDate: today,
+      source: {
+        name: news.sourceName,
+        type: news.sourceType,
+        url: news.url
+      },
+      tags: [news.sourceType, CATEGORIES[news.category]],
+      isHeadline: isHeadline,
+      // 分析内容
+      coreInsight: analysis.coreInsight,
+      scenarios: analysis.scenarios,
+      techKeywords: analysis.techKeywords,
+      productDesign: analysis.productDesign
+    };
+  };
+  
+  // 处理头条
+  const headlineData = [];
+  for (let i = 0; i < headlines.length; i++) {
+    const item = await processNews(headlines[i], i, true);
+    headlineData.push(item);
+  }
+  
+  // 处理速览
+  const quickData = [];
+  for (let i = 0; i < quickBrowse.length; i++) {
+    const item = await processNews(quickBrowse[i], i, false);
+    quickData.push(item);
+  }
+  
+  // 6. 保存
   const output = {
-    date: today,
-    headlines,
-    quickBrowse,
-    total: headlines.length + quickBrowse.length
+    date: todayStr,
+    updateTime: new Date().toISOString(),
+    headlines: headlineData,
+    quickBrowse: quickData,
+    total: headlineData.length + quickData.length,
+    categories: CATEGORIES
   };
   
   const outDir = path.join(__dirname, 'data');
   if (!fs.existsSync(outDir)) fs.mkdirSync(outDir);
   fs.writeFileSync(path.join(outDir, 'insights.json'), JSON.stringify(output, null, 2));
   
-  console.log(`=== 完成：头条${headlines.length}条，快速浏览${quickBrowse.length}条 ===`);
+  console.log(`=== 完成：头条${headlineData.length}条，速览${quickData.length}条 ===`);
 }
 
 main().catch(e => {
