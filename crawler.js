@@ -134,31 +134,36 @@ async function generateInsightWithAI(news) {
   
   const prompt = `作为资深AI产品经理，分析以下新闻并提供洞察。
 
-新闻标题：${news.title}
-新闻摘要：${news.summary.substring(0, 500)}
+原文标题：${news.title}
+原文摘要：${news.summary.substring(0, 500)}
 来源：${news.sourceName}
 
 请输出JSON格式：
 {
+  "chineseTitle": "中文标题（简洁明了，突出核心价值）",
+  "englishTitle": "${news.title}",
   "techFeasibility": 1-5,
   "implementation": 1-5,
   "maturity": "实验阶段|可用|生产就绪",
-  "keyInsight": "核心洞察，2-3句话，中文",
+  "keyInsight": "核心洞察，2-3句话，纯中文",
   "useCases": [{"scenario": "应用场景", "value": "价值"}],
   "competitors": [{"name": "竞品", "context": "动态"}],
   "recommendations": {
-    "short": "1个月行动建议",
-    "medium": "3个月规划",
-    "long": "半年战略"
+    "short": "1个月行动建议，具体可执行",
+    "medium": "3个月规划，明确里程碑",
+    "long": "半年以上战略，方向清晰"
   },
   "tools": ["相关工具1", "工具2"],
   "category": "llm|image|video|agent|devtool|research|company|application"
 }
 
-注意：
-1. 如果是Agent/智能体相关内容，重点分析编排能力、工具调用、多智能体协作
-2. 评估技术可行性和落地难度
-3. 给出具体可执行的建议`;
+重要要求：
+1. 所有文本字段必须用中文输出
+2. chineseTitle 要简洁有力，突出对PM的价值
+3. keyInsight 用中文详细阐述技术原理和产品机会
+4. 如果是Agent/智能体相关内容，重点分析编排能力、工具调用、多智能体协作
+5. 评估技术可行性和落地难度，给出具体可执行的建议
+6. 确保JSON格式合法，不要包含换行符在字符串内`;
 
   try {
     console.log(`[AI] 生成洞察: ${news.title.substring(0, 40)}...`);
@@ -207,6 +212,13 @@ function generateQuickInsight(news) {
     implementation: 3,
     techStars: '★★★☆☆',
     implStars: '★★★☆☆',
+    maturity: '待评估',
+    keyInsight: news.summary ? (news.summary.substring(0, 80) + '...') : '暂无详细洞察',
+    recommendations: {
+      short: '持续关注该领域动态',
+      medium: '评估技术成熟度后试点',
+      long: '根据市场反馈制定战略'
+    },
     maturity: '待评估',
     keyInsight: news.summary.substring(0, 100) + '...',
     category: categorizeNews(news)
@@ -281,9 +293,14 @@ async function main() {
     const news = headlines[i];
     const aiInsight = await generateInsightWithAI(news);
     
+    // 使用中文标题（如果有）
+    const displayTitle = aiInsight?.chineseTitle || news.title;
+    const englishTitle = aiInsight?.englishTitle || news.title;
+    
     headlineInsights.push({
       id: `${today}_${String(i + 1).padStart(3, '0')}`,
-      title: news.title,
+      title: displayTitle,
+      englishTitle: englishTitle,
       category: aiInsight?.category || news.category,
       fact: {
         summary: news.summary.substring(0, 200),
