@@ -1,6 +1,6 @@
 {
   "date": "20260312",
-  "lastUpdate": "2026-03-12T15:38:03.260Z",
+  "lastUpdate": "2026-03-12T15:44:52.666Z",
   "headlines": [
     {
       "id": "20260312_001",
@@ -20,35 +20,35 @@
         "techFeasibility": 4,
         "implementation": 4,
         "maturity": "生产就绪",
-        "keyInsight": "QQ浏览器通过集成AI技术提升搜索和信息处理效率，展示了国内浏览器在AI应用领域的领先地位。其核心在于结合大语言模型优化用户体验，为浏览器类产品提供了商业化新思路。",
+        "keyInsight": "QQ浏览器通过集成AI技术提升浏览体验，展示了国内AI应用的国际竞争力。其核心价值在于结合搜索、内容推荐和用户交互，利用AI优化个性化服务。",
         "useCases": [
           {
             "scenario": "智能搜索",
-            "value": "通过AI技术提供更精准的搜索结果和摘要，提升用户效率"
+            "value": "通过AI理解用户意图，提供更精准的搜索结果"
           },
           {
             "scenario": "内容推荐",
-            "value": "利用用户行为数据，智能推荐个性化内容"
+            "value": "利用AI分析用户行为，推荐个性化内容"
           }
         ],
         "competitors": [
           {
-            "name": "Google Chrome",
-            "context": "正在积极整合Gemini模型，提升浏览器的AI能力"
+            "name": "Chrome",
+            "context": "Google正在测试AI驱动的搜索和内容推荐功能"
           },
           {
-            "name": "Microsoft Edge",
-            "context": "通过Copilot功能深度整合AI技术"
+            "name": "Edge",
+            "context": "微软Edge已集成Copilot，提供AI辅助浏览"
           }
         ],
         "recommendations": {
-          "short": "分析a16z榜单评估标准，优化产品文档以提升国际影响力",
-          "medium": "基于现有AI能力开发2-3个特色功能，形成差异化竞争优势",
-          "long": "构建完整的AI浏览器生态，涵盖搜索、内容、服务等多维度智能体验"
+          "short": "优化现有AI功能，收集用户反馈并快速迭代",
+          "medium": "扩展AI应用场景，如智能书签、语音交互等",
+          "long": "构建AI生态，开放API吸引开发者共创AI插件"
         },
         "tools": [
-          "大语言模型",
-          "用户行为分析系统"
+          "TensorFlow",
+          "PyTorch"
         ],
         "category": "application",
         "techStars": "★★★★☆",
@@ -64,72 +64,7 @@
     },
     {
       "id": "20260312_002",
-      "title": "2秒3D生成技术突破",
-      "englishTitle": "对话VAST曹炎培：2秒才是3D生成本该有的速度",
-      "category": "3d",
-      "fact": {
-        "summary": "AI 3D的2.0范式来了",
-        "sourceName": "量子位",
-        "sourceType": "media",
-        "sourceUrl": "https://www.qbitai.com/2026/03/386717.html",
-        "originalDate": "Thu, 12 Mar 2026 12:09:09 +0000"
-      },
-      "insight": {
-        "chineseTitle": "2秒3D生成技术突破",
-        "englishTitle": "对话VAST曹炎培：2秒才是3D生成本该有的速度",
-        "techFeasibility": 4,
-        "implementation": 3,
-        "maturity": "实验阶段",
-        "keyInsight": "VAST提出的2秒3D生成技术通过优化的神经网络架构和分布式计算显著提升了生成效率。该技术将传统3D生成从分钟级缩短到秒级，为实时3D内容创作打开了新机会，特别是在需要快速原型的领域如游戏开发和虚拟现实。",
-        "useCases": [
-          {
-            "scenario": "游戏开发",
-            "value": "快速生成3D场景原型"
-          },
-          {
-            "scenario": "电商展示",
-            "value": "实时生成产品3D模型"
-          },
-          {
-            "scenario": "虚拟现实",
-            "value": "动态创建3D环境"
-          }
-        ],
-        "competitors": [
-          {
-            "name": "NVIDIA Omniverse",
-            "context": "提供3D协作平台，但生成速度较慢"
-          },
-          {
-            "name": "OpenAI Point-E",
-            "context": "专注3D点云生成，速度未达秒级"
-          }
-        ],
-        "recommendations": {
-          "short": "1. 联系VAST获取技术文档 2. 评估API集成可行性",
-          "medium": "1. 开发MVP应用验证生成质量 2. 测试不同硬件环境性能",
-          "long": "1. 构建3D生成平台 2. 探索与游戏引擎的深度集成"
-        },
-        "tools": [
-          "VAST API",
-          "Unity3D",
-          "Unreal Engine"
-        ],
-        "category": "3d",
-        "techStars": "★★★★☆",
-        "implStars": "★★★☆☆"
-      },
-      "tags": [
-        "application",
-        "media"
-      ],
-      "importance": 5,
-      "displayDate": "20260312",
-      "isHeadline": true
-    },
-    {
-      "id": "20260312_003",
-      "title": "智能体自主上下文压缩技术",
+      "title": "智能体自主上下文压缩",
       "englishTitle": "Autonomous context compression",
       "category": "agent",
       "fact": {
@@ -140,36 +75,36 @@
         "originalDate": "Wed, 11 Mar 2026 18:24:27 GMT"
       },
       "insight": {
-        "chineseTitle": "智能体自主上下文压缩技术",
+        "chineseTitle": "智能体自主上下文压缩",
         "englishTitle": "Autonomous context compression",
         "techFeasibility": 4,
         "implementation": 3,
         "maturity": "可用",
-        "keyInsight": "该技术让AI模型能自主判断时机压缩上下文窗口，通过替换旧信息降低内存占用。这解决了长对话中token限制的关键瓶颈，为构建更复杂的多轮对话系统创造了条件。产品化后可显著降低大模型API调用成本，是LLM应用落地的关键基础设施。",
+        "keyInsight": "该技术通过让模型自主判断时机压缩历史对话上下文，有效解决长对话场景下的token限制问题。产品机会在于将压缩策略与业务逻辑结合，例如优先保留关键业务实体或高频对话片段，实现智能化内存管理。",
         "useCases": [
           {
             "scenario": "客服对话系统",
-            "value": "支持超长对话历史保持核心上下文"
+            "value": "延长有效对话轮次而不超token限制"
           },
           {
-            "scenario": "代码生成助手",
-            "value": "维持完整项目上下文同时控制token消耗"
+            "scenario": "多轮决策智能体",
+            "value": "保留关键决策依据同时控制上下文长度"
           }
         ],
         "competitors": [
           {
             "name": "LangChain记忆模块",
-            "context": "提供基础的记忆管理但缺乏自动化"
+            "context": "提供基础的消息修剪功能"
           },
           {
             "name": "AutoGPT",
-            "context": "采用固定窗口截断策略"
+            "context": "采用固定长度的滚动窗口"
           }
         ],
         "recommendations": {
-          "short": "在现有对话产品中集成测试版SDK，收集压缩策略有效性数据",
-          "medium": "开发可视化调试工具，帮助PM观察不同压缩策略的影响",
-          "long": "构建智能体记忆管理套件，整合压缩/检索/更新全流程能力"
+          "short": "1. 在现有智能体系统中集成压缩工具 2. 收集不同场景下的压缩效果数据",
+          "medium": "1. 开发可视化压缩效果分析面板 2. 实现基于业务规则的定制化压缩策略",
+          "long": "1. 构建压缩质量评估体系 2. 探索压缩内容的重构生成能力"
         },
         "tools": [
           "Deep Agents SDK",
@@ -188,71 +123,10 @@
       "isHeadline": true
     },
     {
-      "id": "20260312_004",
-      "title": "智能体控制框架：模型落地的关键工程",
-      "englishTitle": "The Anatomy of an Agent Harness",
-      "category": "agent",
-      "fact": {
-        "summary": "By Vivek Trivedy\nTLDR: Agent = Model + Harness.  Harness engineering is how we build systems around models to turn them into work engines.  The model contains the intelligence and the harness makes th",
-        "sourceName": "LangChain Blog",
-        "sourceType": "agent",
-        "sourceUrl": "https://blog.langchain.com/the-anatomy-of-an-agent-harness/",
-        "originalDate": "Wed, 11 Mar 2026 02:41:22 GMT"
-      },
-      "insight": {
-        "chineseTitle": "智能体控制框架：模型落地的关键工程",
-        "englishTitle": "The Anatomy of an Agent Harness",
-        "techFeasibility": 4,
-        "implementation": 3,
-        "maturity": "可用",
-        "keyInsight": "Agent框架由模型和控制器(Harness)组成，模型提供智能，控制器将智能转化为可落地的工程系统。核心在于通过编排引擎、工具调用接口、状态管理等组件实现智能体的模块化部署。这为构建复杂多智能体系统提供了标准化解决方案，特别适合需要动态任务编排的业务场景。",
-        "useCases": [
-          {
-            "scenario": "客户服务自动化",
-            "value": "通过控制器实现意图识别、知识库查询、工单生成的流水线作业"
-          },
-          {
-            "scenario": "供应链优化",
-            "value": "多智能体协作完成需求预测、库存调配、物流规划等链式任务"
-          }
-        ],
-        "competitors": [
-          {
-            "name": "AutoGPT",
-            "context": "开源项目，缺乏企业级控制器设计"
-          },
-          {
-            "name": "Microsoft Autogen",
-            "context": "专注多智能体会话，工具链整合较弱"
-          }
-        ],
-        "recommendations": {
-          "short": "搭建最小可行性控制器原型，测试LangChain工具集成",
-          "medium": "开发可视化编排面板，实现工作流版本管理",
-          "long": "构建领域专用控制器组件库，形成智能体开发生态"
-        },
-        "tools": [
-          "LangChain",
-          "LlamaIndex",
-          "AutoGen"
-        ],
-        "category": "agent",
-        "techStars": "★★★★☆",
-        "implStars": "★★★☆☆"
-      },
-      "tags": [
-        "agent",
-        "agent"
-      ],
-      "importance": 5,
-      "displayDate": "20260312",
-      "isHeadline": true
-    },
-    {
-      "id": "20260312_005",
-      "title": "乐天借助Codex实现故障修复速度翻倍",
+      "id": "20260312_003",
+      "title": "Rakuten fixes issues twice as fast with Codex",
       "englishTitle": "Rakuten fixes issues twice as fast with Codex",
-      "category": "devtool",
+      "category": "agent",
       "fact": {
         "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
         "sourceName": "OpenAI Blog",
@@ -261,53 +135,18 @@
         "originalDate": "Wed, 11 Mar 2026 13:00:00 GMT"
       },
       "insight": {
-        "chineseTitle": "乐天借助Codex实现故障修复速度翻倍",
-        "englishTitle": "Rakuten fixes issues twice as fast with Codex",
-        "techFeasibility": 4,
-        "implementation": 4,
-        "maturity": "生产就绪",
-        "keyInsight": "OpenAI的Codex通过自动化代码审查和优化CI/CD流程，显著缩短平均修复时间(MTTR)。该案例证明LLM在软件开发流水线中可承担代码生成、错误检测等重复性工作，释放工程师生产力。",
-        "useCases": [
-          {
-            "scenario": "自动化代码审查",
-            "value": "减少人工审查工作量50%"
-          },
-          {
-            "scenario": "持续集成部署",
-            "value": "实现全栈构建周期从月缩短到周"
-          },
-          {
-            "scenario": "生产故障修复",
-            "value": "MTTR降低50%"
-          }
-        ],
-        "competitors": [
-          {
-            "name": "GitHub Copilot",
-            "context": "微软持续加强企业级功能集成"
-          },
-          {
-            "name": "Amazon CodeWhisperer",
-            "context": "AWS生态内深度绑定"
-          },
-          {
-            "name": "Replit GhostWriter",
-            "context": "专注云端开发环境"
-          }
-        ],
+        "techFeasibility": 3,
+        "implementation": 3,
+        "techStars": "★★★☆☆",
+        "implStars": "★★★☆☆",
+        "maturity": "待评估",
+        "keyInsight": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 5...",
         "recommendations": {
-          "short": "在非核心业务模块试点Codex代码生成，建立基线指标",
-          "medium": "将AI审查集成到现有CI/CD流水线，优先处理单元测试用例",
-          "long": "构建AI驱动的全自动运维系统，覆盖开发-测试-部署-监控全链路"
+          "short": "持续关注该领域动态",
+          "medium": "评估技术成熟度后试点",
+          "long": "根据市场反馈制定战略"
         },
-        "tools": [
-          "GitHub Actions",
-          "Jenkins",
-          "Docker"
-        ],
-        "category": "devtool",
-        "techStars": "★★★★☆",
-        "implStars": "★★★★☆"
+        "category": "agent"
       },
       "tags": [
         "agent",
@@ -321,14 +160,14 @@
   "quickBrowse": [
     {
       "id": "20260312_q001",
-      "title": "荣耀机器人亮相MWC，瑞声科技深度参与关键结构件支持",
+      "title": "对话VAST曹炎培：2秒才是3D生成本该有的速度",
       "category": "application",
       "fact": {
-        "summary": "",
+        "summary": "AI 3D的2.0范式来了",
         "sourceName": "量子位",
         "sourceType": "media",
-        "sourceUrl": "https://www.qbitai.com/2026/03/386713.html",
-        "originalDate": "Thu, 12 Mar 2026 11:32:53 +0000"
+        "sourceUrl": "https://www.qbitai.com/2026/03/386717.html",
+        "originalDate": "Thu, 12 Mar 2026 12:09:09 +0000"
       },
       "insight": {
         "techFeasibility": 3,
@@ -336,7 +175,7 @@
         "techStars": "★★★☆☆",
         "implStars": "★★★☆☆",
         "maturity": "待评估",
-        "keyInsight": "...",
+        "keyInsight": "AI 3D的2.0范式来了...",
         "recommendations": {
           "short": "持续关注该领域动态",
           "medium": "评估技术成熟度后试点",
@@ -353,14 +192,14 @@
     },
     {
       "id": "20260312_q002",
-      "title": "全网首份「龙虾」安全部署指南来了！360出品",
-      "category": "application",
+      "title": "The Anatomy of an Agent Harness",
+      "category": "agent",
       "fact": {
-        "summary": "养龙虾，需谨慎",
-        "sourceName": "量子位",
-        "sourceType": "media",
-        "sourceUrl": "https://www.qbitai.com/2026/03/386707.html",
-        "originalDate": "Thu, 12 Mar 2026 09:54:02 +0000"
+        "summary": "By Vivek Trivedy\nTLDR: Agent = Model + Harness.  Harness engineering is how we build systems around models to turn them into work engines.  The model ",
+        "sourceName": "LangChain Blog",
+        "sourceType": "agent",
+        "sourceUrl": "https://blog.langchain.com/the-anatomy-of-an-agent-harness/",
+        "originalDate": "Wed, 11 Mar 2026 02:41:22 GMT"
       },
       "insight": {
         "techFeasibility": 3,
@@ -368,16 +207,16 @@
         "techStars": "★★★☆☆",
         "implStars": "★★★☆☆",
         "maturity": "待评估",
-        "keyInsight": "养龙虾，需谨慎...",
+        "keyInsight": "By Vivek Trivedy\nTLDR: Agent = Model + Harness.  Harness engineering is how we build systems around ...",
         "recommendations": {
           "short": "持续关注该领域动态",
           "medium": "评估技术成熟度后试点",
           "long": "根据市场反馈制定战略"
         },
-        "category": "application"
+        "category": "agent"
       },
       "tags": [
-        "application"
+        "agent"
       ],
       "importance": 5,
       "displayDate": "20260312",
@@ -385,38 +224,6 @@
     },
     {
       "id": "20260312_q003",
-      "title": "养虾人Token自由！千亿Token+百万奖金等你来拿，0门槛冲就完了",
-      "category": "application",
-      "fact": {
-        "summary": "龙虾大舞台，想来你就来",
-        "sourceName": "量子位",
-        "sourceType": "media",
-        "sourceUrl": "https://www.qbitai.com/2026/03/386669.html",
-        "originalDate": "Thu, 12 Mar 2026 09:35:21 +0000"
-      },
-      "insight": {
-        "techFeasibility": 3,
-        "implementation": 3,
-        "techStars": "★★★☆☆",
-        "implStars": "★★★☆☆",
-        "maturity": "待评估",
-        "keyInsight": "龙虾大舞台，想来你就来...",
-        "recommendations": {
-          "short": "持续关注该领域动态",
-          "medium": "评估技术成熟度后试点",
-          "long": "根据市场反馈制定战略"
-        },
-        "category": "application"
-      },
-      "tags": [
-        "application"
-      ],
-      "importance": 5,
-      "displayDate": "20260312",
-      "isHeadline": false
-    },
-    {
-      "id": "20260312_q004",
       "title": "How Coding Agents Are Reshaping Engineering, Product and Design",
       "category": "agent",
       "fact": {
@@ -448,71 +255,7 @@
       "isHeadline": false
     },
     {
-      "id": "20260312_q005",
-      "title": "How we built LangChain’s GTM Agent",
-      "category": "agent",
-      "fact": {
-        "summary": "Learn how we built a GTM agent that increased lead conversion by 250% while saving each sales rep 40 hours per month",
-        "sourceName": "LangChain Blog",
-        "sourceType": "agent",
-        "sourceUrl": "https://blog.langchain.com/how-we-built-langchains-gtm-agent/",
-        "originalDate": "Mon, 09 Mar 2026 15:30:13 GMT"
-      },
-      "insight": {
-        "techFeasibility": 3,
-        "implementation": 3,
-        "techStars": "★★★☆☆",
-        "implStars": "★★★☆☆",
-        "maturity": "待评估",
-        "keyInsight": "Learn how we built a GTM agent that increased lead conversion by 250% while saving each sales rep 40...",
-        "recommendations": {
-          "short": "持续关注该领域动态",
-          "medium": "评估技术成熟度后试点",
-          "long": "根据市场反馈制定战略"
-        },
-        "category": "agent"
-      },
-      "tags": [
-        "agent"
-      ],
-      "importance": 5,
-      "displayDate": "20260312",
-      "isHeadline": false
-    },
-    {
-      "id": "20260312_q006",
-      "title": "Evaluating Skills",
-      "category": "agent",
-      "fact": {
-        "summary": "By Robert Xu\nRecently at LangChain we’ve been building skills to help coding agents like Codex, Claude Code, and Deep Agents CLI work with our ecosyst",
-        "sourceName": "LangChain Blog",
-        "sourceType": "agent",
-        "sourceUrl": "https://blog.langchain.com/evaluating-skills/",
-        "originalDate": "Thu, 05 Mar 2026 18:00:49 GMT"
-      },
-      "insight": {
-        "techFeasibility": 3,
-        "implementation": 3,
-        "techStars": "★★★☆☆",
-        "implStars": "★★★☆☆",
-        "maturity": "待评估",
-        "keyInsight": "By Robert Xu\nRecently at LangChain we’ve been building skills to help coding agents like Codex, Clau...",
-        "recommendations": {
-          "short": "持续关注该领域动态",
-          "medium": "评估技术成熟度后试点",
-          "long": "根据市场反馈制定战略"
-        },
-        "category": "agent"
-      },
-      "tags": [
-        "agent"
-      ],
-      "importance": 5,
-      "displayDate": "20260312",
-      "isHeadline": false
-    },
-    {
-      "id": "20260312_q007",
+      "id": "20260312_q004",
       "title": "Designing AI agents to resist prompt injection",
       "category": "agent",
       "fact": {
@@ -544,5 +287,5 @@
       "isHeadline": false
     }
   ],
-  "total": 12
+  "total": 7
 }

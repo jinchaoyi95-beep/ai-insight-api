@@ -47,6 +47,22 @@ const CORE_KEYWORDS = [
   'prompt', '提示词', '推理', 'reasoning'
 ];
 
+// 低质量/广告关键词（用于过滤）
+const LOW_QUALITY_KEYWORDS = [
+  'token自由', '奖金', '0门槛', '冲就完了', '大舞台',
+  '养虾', '龙虾', '挖矿', '空投', '羊毛',
+  '限时', '免费领', '速来', '爆款', '秒杀'
+];
+
+// 必须包含至少一个AI相关关键词才算有效新闻
+const REQUIRED_AI_KEYWORDS = [
+  'ai', '人工智能', '大模型', 'llm', 'gpt', 'claude', 'agent', '智能体',
+  'openai', 'anthropic', 'google', 'meta', '微软', '百度', '阿里', '腾讯',
+  '生成式', 'aigc', '机器学习', '深度学习', '神经网络',
+  'rag', '多模态', 'chatgpt', 'copilot', 'midjourney', 'stable diffusion',
+  'langchain', 'llama', 'gemini', '文心', '通义', '混元'
+];
+
 async function fetchRSS(source) {
   try {
     console.log(`[RSS] 获取: ${source.name}`);
@@ -64,6 +80,34 @@ async function fetchRSS(source) {
     console.error(`[RSS] ${source.name} 失败:`, error.message);
     return [];
   }
+}
+
+function isValidNews(news) {
+  const text = (news.title + ' ' + news.summary).toLowerCase();
+  
+  // 1. 检查是否包含低质量关键词
+  for (const keyword of LOW_QUALITY_KEYWORDS) {
+    if (text.includes(keyword.toLowerCase())) {
+      console.log(`[过滤] 低质量内容: ${news.title.substring(0, 40)}...`);
+      return false;
+    }
+  }
+  
+  // 2. 检查是否包含AI相关关键词（必须至少一个）
+  let hasAIKeyword = false;
+  for (const keyword of REQUIRED_AI_KEYWORDS) {
+    if (text.includes(keyword.toLowerCase())) {
+      hasAIKeyword = true;
+      break;
+    }
+  }
+  
+  if (!hasAIKeyword) {
+    console.log(`[过滤] 非AI内容: ${news.title.substring(0, 40)}...`);
+    return false;
+  }
+  
+  return true;
 }
 
 function calculateImportance(news) {
@@ -265,10 +309,19 @@ async function main() {
     process.exit(1);
   }
   
-  // 2. 去重（按标题相似度）
+  // 2. 过滤低质量和非AI内容
+  const filteredNews = allNews.filter(isValidNews);
+  console.log(`[过滤] 剩余 ${filteredNews.length} 条有效新闻`);
+  
+  if (filteredNews.length === 0) {
+    console.error('[错误] 过滤后没有有效新闻');
+    process.exit(1);
+  }
+  
+  // 3. 去重（按标题相似度）
   const uniqueNews = [];
   const seenTitles = new Set();
-  for (const news of allNews) {
+  for (const news of filteredNews) {
     const key = news.title.toLowerCase().replace(/[^\w\u4e00-\u9fa5]/g, '').substring(0, 20);
     if (!seenTitles.has(key)) {
       seenTitles.add(key);
@@ -277,13 +330,13 @@ async function main() {
   }
   console.log(`[去重] 剩余 ${uniqueNews.length} 条`);
   
-  // 3. 计算重要性和分类
+  // 4. 计算重要性和分类
   for (const news of uniqueNews) {
     news.importance = calculateImportance(news);
     news.category = categorizeNews(news);
   }
   
-  // 4. 排序：来源优先级 > 重要性 > 时效性
+  // 6. 排序：来源优先级 > 重要性 > 时效性
   uniqueNews.sort((a, b) => {
     // 首先按来源优先级（中文媒体优先）
     if (b.sourcePriority !== a.sourcePriority) {
@@ -297,7 +350,7 @@ async function main() {
     return b.rawDate - a.rawDate;
   });
   
-  // 5. 选择头条5条（确保多样性：最多2条来自同一来源）
+  // 7. 选择头条5条（确保多样性：最多1条来自同一来源，避免LangChain垄断）
   const headlines = [];
   const headlineSourceCount = {};
   
@@ -307,13 +360,13 @@ async function main() {
     const sourceName = news.sourceName;
     headlineSourceCount[sourceName] = (headlineSourceCount[sourceName] || 0) + 1;
     
-    // 限制同一来源最多2条进入头条
-    if (headlineSourceCount[sourceName] <= 2) {
+    // 限制同一来源最多1条进入头条（增加多样性）
+    if (headlineSourceCount[sourceName] <= 1) {
       headlines.push(news);
     }
   }
   
-  // 6. 选择快速浏览10条（同样确保多样性）
+  // 8. 选择快速浏览10条（同样确保多样性，同一来源最多2条）
   const remaining = uniqueNews.filter(n => !headlines.includes(n));
   const quickBrowse = [];
   const quickSourceCount = {};
@@ -324,8 +377,8 @@ async function main() {
     const sourceName = news.sourceName;
     quickSourceCount[sourceName] = (quickSourceCount[sourceName] || 0) + 1;
     
-    // 限制同一来源最多3条进入快速浏览
-    if (quickSourceCount[sourceName] <= 3 && (news.importance >= 3 || news.category === 'agent')) {
+    // 限制同一来源最多2条进入快速浏览
+    if (quickSourceCount[sourceName] <= 2 && (news.importance >= 3 || news.category === 'agent')) {
       quickBrowse.push(news);
     }
   }
