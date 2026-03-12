@@ -26,7 +26,7 @@ jobs:
       
     - name: Run crawler
       env:
-        SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
+        SILICONFLOW_API_KEY: sk-cqgwfjqbgvrdxxxazprkytqaabszazhuccglfkeoxujrreuj
       run: node crawler.js
       
     - name: Commit and push
