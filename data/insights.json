@@ -3,6 +3,190 @@
   "headlines": [
     {
       "id": "20260312_001",
+      "title": "Rakuten用Codex将问题修复速度提升2倍",
+      "category": "official",
+      "fact": {
+        "sourceName": "OpenAI Blog",
+        "sourceType": "official",
+        "sourceUrl": "https://openai.com/index/rakuten"
+      },
+      "insight": {
+        "techFeasibility": 4,
+        "implementation": 3,
+        "techStars": "★★★★☆",
+        "implStars": "★★★☆☆",
+        "maturity": "可用",
+        "keyInsight": "作为官方发布的技术/产品，代表了行业发展方向，建议关注其技术细节和商业化策略。",
+        "recommendations": {
+          "short": "1.调研技术原理 2.评估适用场景 3.关注竞品动态",
+          "medium": "1.开发概念验证 2.收集用户反馈 3.优化产品体验",
+          "long": "1.制定商业化策略 2.构建技术壁垒 3.规划生态布局"
+        }
+      },
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "20260312_002",
+      "title": "设计抗提示注入的AI Agent安全方案",
+      "category": "official",
+      "fact": {
+        "sourceName": "OpenAI Blog",
+        "sourceType": "official",
+        "sourceUrl": "https://openai.com/index/designing-agents-to-resist-prompt-injection"
+      },
+      "insight": {
+        "techFeasibility": 4,
+        "implementation": 3,
+        "techStars": "★★★★☆",
+        "implStars": "★★★☆☆",
+        "maturity": "可用",
+        "keyInsight": "作为官方发布的技术/产品，代表了行业发展方向，建议关注其技术细节和商业化策略。",
+        "recommendations": {
+          "short": "1.调研技术原理 2.评估适用场景 3.关注竞品动态",
+          "medium": "1.开发概念验证 2.收集用户反馈 3.优化产品体验",
+          "long": "1.制定商业化策略 2.构建技术壁垒 3.规划生态布局"
+        }
+      },
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "20260312_003",
+      "title": "How AI is helping improve heart health in rural Australia",
+      "category": "official",
+      "fact": {
+        "sourceName": "Google AI",
+        "sourceType": "official",
+        "sourceUrl": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/"
+      },
+      "insight": {
+        "techFeasibility": 4,
+        "implementation": 3,
+        "techStars": "★★★★☆",
+        "implStars": "★★★☆☆",
+        "maturity": "可用",
+        "keyInsight": "作为官方发布的技术/产品，代表了行业发展方向，建议关注其技术细节和商业化策略。",
+        "recommendations": {
+          "short": "1.调研技术原理 2.评估适用场景 3.关注竞品动态",
+          "medium": "1.开发概念验证 2.收集用户反馈 3.优化产品体验",
+          "long": "1.制定商业化策略 2.构建技术壁垒 3.规划生态布局"
+        }
+      },
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "20260312_004",
+      "title": "A Dream of Spring for Open-Weight LLMs: 10 Architectures from Jan-Feb 2026",
+      "category": "expert",
+      "fact": {
+        "sourceName": "Sebastian Raschka",
+        "sourceType": "expert",
+        "sourceUrl": "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight"
+      },
+      "insight": {
+        "techFeasibility": 4,
+        "implementation": 3,
+        "techStars": "★★★★☆",
+        "implStars": "★★★☆☆",
+        "maturity": "可用",
+        "keyInsight": "该技术/产品在中文市场具有重要参考价值，值得关注其商业化落地进展和对国内AI生态的影响。",
+        "recommendations": {
+          "short": "1.调研技术原理 2.评估适用场景 3.关注竞品动态",
+          "medium": "1.开发概念验证 2.收集用户反馈 3.优化产品体验",
+          "long": "1.制定商业化策略 2.构建技术壁垒 3.规划生态布局"
+        }
+      },
+      "tags": [
+        "expert"
+      ]
+    },
+    {
+      "id": "20260312_005",
+      "title": "Categories of Inference-Time Scaling for Improved LLM Reasoning",
+      "category": "expert",
+      "fact": {
+        "sourceName": "Sebastian Raschka",
+        "sourceType": "expert",
+        "sourceUrl": "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling"
+      },
+      "insight": {
+        "techFeasibility": 4,
+        "implementation": 3,
+        "techStars": "★★★★☆",
+        "implStars": "★★★☆☆",
+        "maturity": "可用",
+        "keyInsight": "该技术/产品在中文市场具有重要参考价值，值得关注其商业化落地进展和对国内AI生态的影响。",
+        "recommendations": {
+          "short": "1.调研技术原理 2.评估适用场景 3.关注竞品动态",
+          "medium": "1.开发概念验证 2.收集用户反馈 3.优化产品体验",
+          "long": "1.制定商业化策略 2.构建技术壁垒 3.规划生态布局"
+        }
+      },
+      "tags": [
+        "expert"
+      ]
+    }
+  ],
+  "quickBrowse": [
+    {
+      "id": "20260312_006",
+      "title": "Why We Think",
+      "category": "expert",
+      "fact": {
+        "sourceName": "Lil'Log",
+        "sourceType": "expert",
+        "sourceUrl": "https://lilianweng.github.io/posts/2025-05-01-thinking/"
+      },
+      "insight": {
+        "techFeasibility": 4,
+        "implementation": 3,
+        "techStars": "★★★★☆",
+        "implStars": "★★★☆☆",
+        "maturity": "可用",
+        "keyInsight": "该技术/产品在中文市场具有重要参考价值，值得关注其商业化落地进展和对国内AI生态的影响。",
+        "recommendations": {
+          "short": "1.调研技术原理 2.评估适用场景 3.关注竞品动态",
+          "medium": "1.开发概念验证 2.收集用户反馈 3.优化产品体验",
+          "long": "1.制定商业化策略 2.构建技术壁垒 3.规划生态布局"
+        }
+      },
+      "tags": [
+        "expert"
+      ]
+    },
+    {
+      "id": "20260312_007",
+      "title": "Reward Hacking in Reinforcement Learning",
+      "category": "expert",
+      "fact": {
+        "sourceName": "Lil'Log",
+        "sourceType": "expert",
+        "sourceUrl": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/"
+      },
+      "insight": {
+        "techFeasibility": 4,
+        "implementation": 3,
+        "techStars": "★★★★☆",
+        "implStars": "★★★☆☆",
+        "maturity": "可用",
+        "keyInsight": "该技术/产品在中文市场具有重要参考价值，值得关注其商业化落地进展和对国内AI生态的影响。",
+        "recommendations": {
+          "short": "1.调研技术原理 2.评估适用场景 3.关注竞品动态",
+          "medium": "1.开发概念验证 2.收集用户反馈 3.优化产品体验",
+          "long": "1.制定商业化策略 2.构建技术壁垒 3.规划生态布局"
+        }
+      },
+      "tags": [
+        "expert"
+      ]
+    },
+    {
+      "id": "20260312_008",
       "title": "QQ浏览器入选a16z全球AI应用榜单",
       "category": "media",
       "fact": {
@@ -28,7 +212,7 @@
       ]
     },
     {
-      "id": "20260312_002",
+      "id": "20260312_009",
       "title": "对话VAST：2秒生成3D内容的技术突破",
       "category": "media",
       "fact": {
@@ -54,7 +238,7 @@
       ]
     },
     {
-      "id": "20260312_003",
+      "id": "20260312_010",
       "title": "LangChain推出自主上下文压缩技术",
       "category": "agent",
       "fact": {
@@ -80,7 +264,7 @@
       ]
     },
     {
-      "id": "20260312_004",
+      "id": "20260312_011",
       "title": "Agent架构解析：模型与工程化框架",
       "category": "agent",
       "fact": {
@@ -104,139 +288,7 @@
       "tags": [
         "agent"
       ]
-    },
-    {
-      "id": "20260312_005",
-      "title": "编程Agent如何重塑工程、产品和设计",
-      "category": "agent",
-      "fact": {
-        "sourceName": "LangChain",
-        "sourceType": "agent",
-        "sourceUrl": "https://blog.langchain.com/how-coding-agents-are-reshaping-engineering-product-and-design/"
-      },
-      "insight": {
-        "techFeasibility": 4,
-        "implementation": 3,
-        "techStars": "★★★★☆",
-        "implStars": "★★★☆☆",
-        "maturity": "可用",
-        "keyInsight": "Agent技术正在快速发展，该方案在自动化工作流、工具调用等方面具有实践价值，建议评估其适用场景。",
-        "recommendations": {
-          "short": "1.调研技术原理 2.评估适用场景 3.关注竞品动态",
-          "medium": "1.开发概念验证 2.收集用户反馈 3.优化产品体验",
-          "long": "1.制定商业化策略 2.构建技术壁垒 3.规划生态布局"
-        }
-      },
-      "tags": [
-        "agent"
-      ]
     }
   ],
-  "quickBrowse": [
-    {
-      "id": "20260312_006",
-      "title": "How we built LangChain’s GTM Agent",
-      "category": "agent",
-      "fact": {
-        "sourceName": "LangChain",
-        "sourceType": "agent",
-        "sourceUrl": "https://blog.langchain.com/how-we-built-langchains-gtm-agent/"
-      },
-      "insight": {
-        "techFeasibility": 4,
-        "implementation": 3,
-        "techStars": "★★★★☆",
-        "implStars": "★★★☆☆",
-        "maturity": "可用",
-        "keyInsight": "Agent技术正在快速发展，该方案在自动化工作流、工具调用等方面具有实践价值，建议评估其适用场景。",
-        "recommendations": {
-          "short": "1.调研技术原理 2.评估适用场景 3.关注竞品动态",
-          "medium": "1.开发概念验证 2.收集用户反馈 3.优化产品体验",
-          "long": "1.制定商业化策略 2.构建技术壁垒 3.规划生态布局"
-        }
-      },
-      "tags": [
-        "agent"
-      ]
-    },
-    {
-      "id": "20260312_007",
-      "title": "Rakuten用Codex将问题修复速度提升2倍",
-      "category": "official",
-      "fact": {
-        "sourceName": "OpenAI",
-        "sourceType": "official",
-        "sourceUrl": "https://openai.com/index/rakuten"
-      },
-      "insight": {
-        "techFeasibility": 4,
-        "implementation": 3,
-        "techStars": "★★★★☆",
-        "implStars": "★★★☆☆",
-        "maturity": "可用",
-        "keyInsight": "作为官方发布的技术/产品，代表了行业发展方向，建议关注其技术细节和商业化策略。",
-        "recommendations": {
-          "short": "1.调研技术原理 2.评估适用场景 3.关注竞品动态",
-          "medium": "1.开发概念验证 2.收集用户反馈 3.优化产品体验",
-          "long": "1.制定商业化策略 2.构建技术壁垒 3.规划生态布局"
-        }
-      },
-      "tags": [
-        "official"
-      ]
-    },
-    {
-      "id": "20260312_008",
-      "title": "设计抗提示注入的AI Agent安全方案",
-      "category": "official",
-      "fact": {
-        "sourceName": "OpenAI",
-        "sourceType": "official",
-        "sourceUrl": "https://openai.com/index/designing-agents-to-resist-prompt-injection"
-      },
-      "insight": {
-        "techFeasibility": 4,
-        "implementation": 3,
-        "techStars": "★★★★☆",
-        "implStars": "★★★☆☆",
-        "maturity": "可用",
-        "keyInsight": "作为官方发布的技术/产品，代表了行业发展方向，建议关注其技术细节和商业化策略。",
-        "recommendations": {
-          "short": "1.调研技术原理 2.评估适用场景 3.关注竞品动态",
-          "medium": "1.开发概念验证 2.收集用户反馈 3.优化产品体验",
-          "long": "1.制定商业化策略 2.构建技术壁垒 3.规划生态布局"
-        }
-      },
-      "tags": [
-        "official"
-      ]
-    },
-    {
-      "id": "20260312_009",
-      "title": "OpenAI发布Agent运行环境",
-      "category": "official",
-      "fact": {
-        "sourceName": "OpenAI",
-        "sourceType": "official",
-        "sourceUrl": "https://openai.com/index/equip-responses-api-computer-environment"
-      },
-      "insight": {
-        "techFeasibility": 4,
-        "implementation": 3,
-        "techStars": "★★★★☆",
-        "implStars": "★★★☆☆",
-        "maturity": "可用",
-        "keyInsight": "作为官方发布的技术/产品，代表了行业发展方向，建议关注其技术细节和商业化策略。",
-        "recommendations": {
-          "short": "1.调研技术原理 2.评估适用场景 3.关注竞品动态",
-          "medium": "1.开发概念验证 2.收集用户反馈 3.优化产品体验",
-          "long": "1.制定商业化策略 2.构建技术壁垒 3.规划生态布局"
-        }
-      },
-      "tags": [
-        "official"
-      ]
-    }
-  ],
-  "total": 9
+  "total": 11
 }

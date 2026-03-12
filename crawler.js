@@ -10,11 +10,24 @@ const rssParser = new RSSParser({
   }
 });
 
-// 稳定可用的信息源
+// 权威AI新闻源（基于tech-news-digest技能配置）
 const SOURCES = [
-  { name: '量子位', url: 'https://www.qbitai.com/rss', type: 'media', maxItems: 6 },
-  { name: 'LangChain', url: 'https://blog.langchain.dev/rss/', type: 'agent', maxItems: 4 },
-  { name: 'OpenAI', url: 'https://openai.com/blog/rss.xml', type: 'official', maxItems: 3 },
+  // 高优先级：官方和顶级专家
+  { name: 'OpenAI Blog', url: 'https://openai.com/blog/rss.xml', type: 'official', maxItems: 2 },
+  { name: 'Hugging Face', url: 'https://huggingface.co/blog/feed.xml', type: 'official', maxItems: 2 },
+  { name: 'Google AI', url: 'https://blog.google/technology/ai/rss/', type: 'official', maxItems: 2 },
+  
+  // 中优先级：行业专家和KOL
+  { name: 'Simon Willison', url: 'https://simonwillison.net/atom/everything/', type: 'expert', maxItems: 2 },
+  { name: 'Sebastian Raschka', url: 'https://magazine.sebastianraschka.com/feed', type: 'expert', maxItems: 2 },
+  { name: 'Lil\'Log', url: 'https://lilianweng.github.io/index.xml', type: 'expert', maxItems: 2 },
+  { name: 'Gary Marcus', url: 'https://garymarcus.substack.com/feed', type: 'expert', maxItems: 1 },
+  
+  // 中文媒体
+  { name: '量子位', url: 'https://www.qbitai.com/rss', type: 'media', maxItems: 3 },
+  
+  // Agent专项
+  { name: 'LangChain', url: 'https://blog.langchain.dev/rss/', type: 'agent', maxItems: 2 },
 ];
 
 // 过滤低质量内容
