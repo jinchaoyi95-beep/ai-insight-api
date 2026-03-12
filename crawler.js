@@ -62,7 +62,7 @@ function isValidNews(news) {
   return aiWords.some(w => text.includes(w));
 }
 
-// 预置的中文标题翻译（避免AI调用不稳定）
+// 预置的中文标题翻译
 const TITLE_TRANSLATIONS = {
   'autonomous context compression': 'LangChain推出自主上下文压缩技术',
   'rakuten fixes issues twice as fast': 'Rakuten用Codex将问题修复速度提升2倍',
@@ -82,36 +82,85 @@ const TITLE_TRANSLATIONS = {
   '对话vast': '对话VAST：2秒生成3D内容的技术突破'
 };
 
+// 产品机会画布模板（根据新闻类型匹配）
+const PRODUCT_CANVAS_TEMPLATES = {
+  developer: {
+    targetUser: '企业开发者、技术团队负责人',
+    scenarios: '代码开发、自动化测试、DevOps流程',
+    competitors: 'GitHub Copilot、Cursor、国内同类产品',
+    difficulty: 3,
+    potential: '高'
+  },
+  enterprise: {
+    targetUser: '企业决策者、产品经理',
+    scenarios: '客服自动化、知识管理、业务流程优化',
+    competitors: '传统SaaS、大厂AI产品',
+    difficulty: 4,
+    potential: '中高'
+  },
+  consumer: {
+    targetUser: 'C端用户、创作者',
+    scenarios: '内容创作、学习辅助、日常效率',
+    competitors: '现有消费级AI产品',
+    difficulty: 2,
+    potential: '中'
+  },
+  infrastructure: {
+    targetUser: 'AI基础设施开发者、平台架构师',
+    scenarios: '模型训练、推理优化、工具链建设',
+    competitors: '云厂商AI服务、开源方案',
+    difficulty: 5,
+    potential: '高'
+  }
+};
+
 function translateTitle(title) {
   const lower = title.toLowerCase();
   for (const [key, value] of Object.entries(TITLE_TRANSLATIONS)) {
     if (lower.includes(key)) return value;
   }
-  // 如果匹配不到，返回原标题
   return title;
 }
 
-function generateInsight(news) {
-  // 不使用AI，直接用规则生成稳定的中文内容
+function detectProductType(title, summary) {
+  const text = (title + ' ' + summary).toLowerCase();
+  if (text.includes('code') || text.includes('coding') || text.includes('developer') || text.includes('dev')) return 'developer';
+  if (text.includes('enterprise') || text.includes('business') || text.includes('company')) return 'enterprise';
+  if (text.includes('consumer') || text.includes('user') || text.includes('app')) return 'consumer';
+  return 'infrastructure';
+}
+
+function generateDeepInsight(news) {
   const title = translateTitle(news.title);
+  const productType = detectProductType(news.title, news.summary);
+  const canvas = PRODUCT_CANVAS_TEMPLATES[productType];
   
-  // 根据来源类型生成不同的洞察
-  const insights = {
-    media: '该技术/产品在中文市场具有重要参考价值，值得关注其商业化落地进展和对国内AI生态的影响。',
-    agent: 'Agent技术正在快速发展，该方案在自动化工作流、工具调用等方面具有实践价值，建议评估其适用场景。',
-    official: '作为官方发布的技术/产品，代表了行业发展方向，建议关注其技术细节和商业化策略。'
+  // 根据来源生成不同的技术解读深度
+  const techAnalysis = {
+    official: `该技术由${news.sourceName}官方发布，代表了行业最新发展方向。从技术架构看，这属于${productType === 'developer' ? '开发者工具层' : productType === 'enterprise' ? '企业应用层' : '基础设施层'}的创新，可能改变现有产品形态。`,
+    expert: `${news.sourceName}作为领域专家，深入分析了该技术的实现原理。核心突破在于架构设计的优化，这对产品化落地具有重要参考价值。`,
+    media: '该技术在中文市场引发关注，从技术成熟度看已具备商业化条件，值得评估其在国内的适用性和竞争格局。',
+    agent: 'Agent技术栈的又一进展，重点解决了多步骤任务执行中的关键问题，对构建复杂AI工作流有实际帮助。'
   };
   
-  const recommendations = {
-    short: '1.调研技术原理 2.评估适用场景 3.关注竞品动态',
-    medium: '1.开发概念验证 2.收集用户反馈 3.优化产品体验',
-    long: '1.制定商业化策略 2.构建技术壁垒 3.规划生态布局'
+  const marketImpact = {
+    developer: '将降低开发门槛，提升个体开发者效率，可能改变团队协作模式和技术栈选择。',
+    enterprise: '有望替代传统SaaS的部分功能，企业采购决策将面临AI原生方案 vs 传统方案的选择。',
+    consumer: '用户体验将被重新定义，交互方式从GUI向自然语言过渡，产品形态需重新设计。',
+    infrastructure: '底层能力增强将催生上层应用创新，平台型机会显现，但技术壁垒较高。'
   };
   
   return {
     title,
-    insight: insights[news.sourceType] || insights.media,
-    ...recommendations
+    // 深度洞察 - 技术产品双维度
+    deepInsight: {
+      techPrinciple: techAnalysis[news.sourceType] || techAnalysis.media,
+      productValue: `对产品经理而言，这意味着${marketImpact[productType]}`,
+      marketImpact: marketImpact[productType],
+      timeWindow: news.sourceType === 'official' ? '官方已发布，建议3个月内评估落地' : '技术验证阶段，建议持续关注6个月'
+    },
+    // 产品机会画布
+    productCanvas: canvas
   };
 }
 
@@ -154,7 +203,7 @@ async function main() {
   
   for (let i = 0; i < allNews.length && i < 15; i++) {
     const news = allNews[i];
-    const result = generateInsight(news);
+    const result = generateDeepInsight(news);
     
     const item = {
       id: `${today}_${String(i+1).padStart(3, '0')}`,
@@ -166,17 +215,15 @@ async function main() {
         sourceUrl: news.url
       },
       insight: {
-        techFeasibility: 4,
-        implementation: 3,
-        techStars: '★★★★☆',
-        implStars: '★★★☆☆',
+        techFeasibility: result.productCanvas.difficulty,
+        implementation: result.productCanvas.difficulty,
+        techStars: '★'.repeat(result.productCanvas.difficulty) + '☆'.repeat(5 - result.productCanvas.difficulty),
+        implStars: '★'.repeat(result.productCanvas.difficulty) + '☆'.repeat(5 - result.productCanvas.difficulty),
         maturity: '可用',
-        keyInsight: result.insight,
-        recommendations: {
-          short: result.short,
-          medium: result.medium,
-          long: result.long
-        }
+        // 深度洞察
+        deepInsight: result.deepInsight,
+        // 产品机会画布（替代行动建议）
+        productCanvas: result.productCanvas
       },
       tags: [news.sourceType]
     };

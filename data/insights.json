@@ -11,16 +11,23 @@
         "sourceUrl": "https://openai.com/index/rakuten"
       },
       "insight": {
-        "techFeasibility": 4,
+        "techFeasibility": 3,
         "implementation": 3,
-        "techStars": "★★★★☆",
+        "techStars": "★★★☆☆",
         "implStars": "★★★☆☆",
         "maturity": "可用",
-        "keyInsight": "作为官方发布的技术/产品，代表了行业发展方向，建议关注其技术细节和商业化策略。",
-        "recommendations": {
-          "short": "1.调研技术原理 2.评估适用场景 3.关注竞品动态",
-          "medium": "1.开发概念验证 2.收集用户反馈 3.优化产品体验",
-          "long": "1.制定商业化策略 2.构建技术壁垒 3.规划生态布局"
+        "deepInsight": {
+          "techPrinciple": "该技术由OpenAI Blog官方发布，代表了行业最新发展方向。从技术架构看，这属于开发者工具层的创新，可能改变现有产品形态。",
+          "productValue": "对产品经理而言，这意味着将降低开发门槛，提升个体开发者效率，可能改变团队协作模式和技术栈选择。",
+          "marketImpact": "将降低开发门槛，提升个体开发者效率，可能改变团队协作模式和技术栈选择。",
+          "timeWindow": "官方已发布，建议3个月内评估落地"
+        },
+        "productCanvas": {
+          "targetUser": "企业开发者、技术团队负责人",
+          "scenarios": "代码开发、自动化测试、DevOps流程",
+          "competitors": "GitHub Copilot、Cursor、国内同类产品",
+          "difficulty": 3,
+          "potential": "高"
         }
       },
       "tags": [
@@ -37,16 +44,23 @@
         "sourceUrl": "https://openai.com/index/designing-agents-to-resist-prompt-injection"
       },
       "insight": {
-        "techFeasibility": 4,
-        "implementation": 3,
-        "techStars": "★★★★☆",
-        "implStars": "★★★☆☆",
+        "techFeasibility": 5,
+        "implementation": 5,
+        "techStars": "★★★★★",
+        "implStars": "★★★★★",
         "maturity": "可用",
-        "keyInsight": "作为官方发布的技术/产品，代表了行业发展方向，建议关注其技术细节和商业化策略。",
-        "recommendations": {
-          "short": "1.调研技术原理 2.评估适用场景 3.关注竞品动态",
-          "medium": "1.开发概念验证 2.收集用户反馈 3.优化产品体验",
-          "long": "1.制定商业化策略 2.构建技术壁垒 3.规划生态布局"
+        "deepInsight": {
+          "techPrinciple": "该技术由OpenAI Blog官方发布，代表了行业最新发展方向。从技术架构看，这属于基础设施层的创新，可能改变现有产品形态。",
+          "productValue": "对产品经理而言，这意味着底层能力增强将催生上层应用创新，平台型机会显现，但技术壁垒较高。",
+          "marketImpact": "底层能力增强将催生上层应用创新，平台型机会显现，但技术壁垒较高。",
+          "timeWindow": "官方已发布，建议3个月内评估落地"
+        },
+        "productCanvas": {
+          "targetUser": "AI基础设施开发者、平台架构师",
+          "scenarios": "模型训练、推理优化、工具链建设",
+          "competitors": "云厂商AI服务、开源方案",
+          "difficulty": 5,
+          "potential": "高"
         }
       },
       "tags": [
@@ -55,32 +69,6 @@
     },
     {
       "id": "20260312_003",
-      "title": "How AI is helping improve heart health in rural Australia",
-      "category": "official",
-      "fact": {
-        "sourceName": "Google AI",
-        "sourceType": "official",
-        "sourceUrl": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/"
-      },
-      "insight": {
-        "techFeasibility": 4,
-        "implementation": 3,
-        "techStars": "★★★★☆",
-        "implStars": "★★★☆☆",
-        "maturity": "可用",
-        "keyInsight": "作为官方发布的技术/产品，代表了行业发展方向，建议关注其技术细节和商业化策略。",
-        "recommendations": {
-          "short": "1.调研技术原理 2.评估适用场景 3.关注竞品动态",
-          "medium": "1.开发概念验证 2.收集用户反馈 3.优化产品体验",
-          "long": "1.制定商业化策略 2.构建技术壁垒 3.规划生态布局"
-        }
-      },
-      "tags": [
-        "official"
-      ]
-    },
-    {
-      "id": "20260312_004",
       "title": "A Dream of Spring for Open-Weight LLMs: 10 Architectures from Jan-Feb 2026",
       "category": "expert",
       "fact": {
@@ -89,16 +77,23 @@
         "sourceUrl": "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight"
       },
       "insight": {
-        "techFeasibility": 4,
-        "implementation": 3,
-        "techStars": "★★★★☆",
-        "implStars": "★★★☆☆",
+        "techFeasibility": 5,
+        "implementation": 5,
+        "techStars": "★★★★★",
+        "implStars": "★★★★★",
         "maturity": "可用",
-        "keyInsight": "该技术/产品在中文市场具有重要参考价值，值得关注其商业化落地进展和对国内AI生态的影响。",
-        "recommendations": {
-          "short": "1.调研技术原理 2.评估适用场景 3.关注竞品动态",
-          "medium": "1.开发概念验证 2.收集用户反馈 3.优化产品体验",
-          "long": "1.制定商业化策略 2.构建技术壁垒 3.规划生态布局"
+        "deepInsight": {
+          "techPrinciple": "Sebastian Raschka作为领域专家，深入分析了该技术的实现原理。核心突破在于架构设计的优化，这对产品化落地具有重要参考价值。",
+          "productValue": "对产品经理而言，这意味着底层能力增强将催生上层应用创新，平台型机会显现，但技术壁垒较高。",
+          "marketImpact": "底层能力增强将催生上层应用创新，平台型机会显现，但技术壁垒较高。",
+          "timeWindow": "技术验证阶段，建议持续关注6个月"
+        },
+        "productCanvas": {
+          "targetUser": "AI基础设施开发者、平台架构师",
+          "scenarios": "模型训练、推理优化、工具链建设",
+          "competitors": "云厂商AI服务、开源方案",
+          "difficulty": 5,
+          "potential": "高"
         }
       },
       "tags": [
@@ -106,7 +101,7 @@
       ]
     },
     {
-      "id": "20260312_005",
+      "id": "20260312_004",
       "title": "Categories of Inference-Time Scaling for Improved LLM Reasoning",
       "category": "expert",
       "fact": {
@@ -115,16 +110,56 @@
         "sourceUrl": "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling"
       },
       "insight": {
-        "techFeasibility": 4,
+        "techFeasibility": 5,
+        "implementation": 5,
+        "techStars": "★★★★★",
+        "implStars": "★★★★★",
+        "maturity": "可用",
+        "deepInsight": {
+          "techPrinciple": "Sebastian Raschka作为领域专家，深入分析了该技术的实现原理。核心突破在于架构设计的优化，这对产品化落地具有重要参考价值。",
+          "productValue": "对产品经理而言，这意味着底层能力增强将催生上层应用创新，平台型机会显现，但技术壁垒较高。",
+          "marketImpact": "底层能力增强将催生上层应用创新，平台型机会显现，但技术壁垒较高。",
+          "timeWindow": "技术验证阶段，建议持续关注6个月"
+        },
+        "productCanvas": {
+          "targetUser": "AI基础设施开发者、平台架构师",
+          "scenarios": "模型训练、推理优化、工具链建设",
+          "competitors": "云厂商AI服务、开源方案",
+          "difficulty": 5,
+          "potential": "高"
+        }
+      },
+      "tags": [
+        "expert"
+      ]
+    },
+    {
+      "id": "20260312_005",
+      "title": "Why We Think",
+      "category": "expert",
+      "fact": {
+        "sourceName": "Lil'Log",
+        "sourceType": "expert",
+        "sourceUrl": "https://lilianweng.github.io/posts/2025-05-01-thinking/"
+      },
+      "insight": {
+        "techFeasibility": 3,
         "implementation": 3,
-        "techStars": "★★★★☆",
+        "techStars": "★★★☆☆",
         "implStars": "★★★☆☆",
         "maturity": "可用",
-        "keyInsight": "该技术/产品在中文市场具有重要参考价值，值得关注其商业化落地进展和对国内AI生态的影响。",
-        "recommendations": {
-          "short": "1.调研技术原理 2.评估适用场景 3.关注竞品动态",
-          "medium": "1.开发概念验证 2.收集用户反馈 3.优化产品体验",
-          "long": "1.制定商业化策略 2.构建技术壁垒 3.规划生态布局"
+        "deepInsight": {
+          "techPrinciple": "Lil'Log作为领域专家，深入分析了该技术的实现原理。核心突破在于架构设计的优化，这对产品化落地具有重要参考价值。",
+          "productValue": "对产品经理而言，这意味着将降低开发门槛，提升个体开发者效率，可能改变团队协作模式和技术栈选择。",
+          "marketImpact": "将降低开发门槛，提升个体开发者效率，可能改变团队协作模式和技术栈选择。",
+          "timeWindow": "技术验证阶段，建议持续关注6个月"
+        },
+        "productCanvas": {
+          "targetUser": "企业开发者、技术团队负责人",
+          "scenarios": "代码开发、自动化测试、DevOps流程",
+          "competitors": "GitHub Copilot、Cursor、国内同类产品",
+          "difficulty": 3,
+          "potential": "高"
         }
       },
       "tags": [
@@ -135,32 +170,6 @@
   "quickBrowse": [
     {
       "id": "20260312_006",
-      "title": "Why We Think",
-      "category": "expert",
-      "fact": {
-        "sourceName": "Lil'Log",
-        "sourceType": "expert",
-        "sourceUrl": "https://lilianweng.github.io/posts/2025-05-01-thinking/"
-      },
-      "insight": {
-        "techFeasibility": 4,
-        "implementation": 3,
-        "techStars": "★★★★☆",
-        "implStars": "★★★☆☆",
-        "maturity": "可用",
-        "keyInsight": "该技术/产品在中文市场具有重要参考价值，值得关注其商业化落地进展和对国内AI生态的影响。",
-        "recommendations": {
-          "short": "1.调研技术原理 2.评估适用场景 3.关注竞品动态",
-          "medium": "1.开发概念验证 2.收集用户反馈 3.优化产品体验",
-          "long": "1.制定商业化策略 2.构建技术壁垒 3.规划生态布局"
-        }
-      },
-      "tags": [
-        "expert"
-      ]
-    },
-    {
-      "id": "20260312_007",
       "title": "Reward Hacking in Reinforcement Learning",
       "category": "expert",
       "fact": {
@@ -169,16 +178,23 @@
         "sourceUrl": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/"
       },
       "insight": {
-        "techFeasibility": 4,
+        "techFeasibility": 3,
         "implementation": 3,
-        "techStars": "★★★★☆",
+        "techStars": "★★★☆☆",
         "implStars": "★★★☆☆",
         "maturity": "可用",
-        "keyInsight": "该技术/产品在中文市场具有重要参考价值，值得关注其商业化落地进展和对国内AI生态的影响。",
-        "recommendations": {
-          "short": "1.调研技术原理 2.评估适用场景 3.关注竞品动态",
-          "medium": "1.开发概念验证 2.收集用户反馈 3.优化产品体验",
-          "long": "1.制定商业化策略 2.构建技术壁垒 3.规划生态布局"
+        "deepInsight": {
+          "techPrinciple": "Lil'Log作为领域专家，深入分析了该技术的实现原理。核心突破在于架构设计的优化，这对产品化落地具有重要参考价值。",
+          "productValue": "对产品经理而言，这意味着将降低开发门槛，提升个体开发者效率，可能改变团队协作模式和技术栈选择。",
+          "marketImpact": "将降低开发门槛，提升个体开发者效率，可能改变团队协作模式和技术栈选择。",
+          "timeWindow": "技术验证阶段，建议持续关注6个月"
+        },
+        "productCanvas": {
+          "targetUser": "企业开发者、技术团队负责人",
+          "scenarios": "代码开发、自动化测试、DevOps流程",
+          "competitors": "GitHub Copilot、Cursor、国内同类产品",
+          "difficulty": 3,
+          "potential": "高"
         }
       },
       "tags": [
@@ -186,7 +202,7 @@
       ]
     },
     {
-      "id": "20260312_008",
+      "id": "20260312_007",
       "title": "QQ浏览器入选a16z全球AI应用榜单",
       "category": "media",
       "fact": {
@@ -195,16 +211,23 @@
         "sourceUrl": "https://www.qbitai.com/2026/03/387068.html"
       },
       "insight": {
-        "techFeasibility": 4,
-        "implementation": 3,
-        "techStars": "★★★★☆",
-        "implStars": "★★★☆☆",
+        "techFeasibility": 5,
+        "implementation": 5,
+        "techStars": "★★★★★",
+        "implStars": "★★★★★",
         "maturity": "可用",
-        "keyInsight": "该技术/产品在中文市场具有重要参考价值，值得关注其商业化落地进展和对国内AI生态的影响。",
-        "recommendations": {
-          "short": "1.调研技术原理 2.评估适用场景 3.关注竞品动态",
-          "medium": "1.开发概念验证 2.收集用户反馈 3.优化产品体验",
-          "long": "1.制定商业化策略 2.构建技术壁垒 3.规划生态布局"
+        "deepInsight": {
+          "techPrinciple": "该技术在中文市场引发关注，从技术成熟度看已具备商业化条件，值得评估其在国内的适用性和竞争格局。",
+          "productValue": "对产品经理而言，这意味着底层能力增强将催生上层应用创新，平台型机会显现，但技术壁垒较高。",
+          "marketImpact": "底层能力增强将催生上层应用创新，平台型机会显现，但技术壁垒较高。",
+          "timeWindow": "技术验证阶段，建议持续关注6个月"
+        },
+        "productCanvas": {
+          "targetUser": "AI基础设施开发者、平台架构师",
+          "scenarios": "模型训练、推理优化、工具链建设",
+          "competitors": "云厂商AI服务、开源方案",
+          "difficulty": 5,
+          "potential": "高"
         }
       },
       "tags": [
@@ -212,7 +235,7 @@
       ]
     },
     {
-      "id": "20260312_009",
+      "id": "20260312_008",
       "title": "对话VAST：2秒生成3D内容的技术突破",
       "category": "media",
       "fact": {
@@ -221,16 +244,23 @@
         "sourceUrl": "https://www.qbitai.com/2026/03/386717.html"
       },
       "insight": {
-        "techFeasibility": 4,
-        "implementation": 3,
-        "techStars": "★★★★☆",
-        "implStars": "★★★☆☆",
+        "techFeasibility": 5,
+        "implementation": 5,
+        "techStars": "★★★★★",
+        "implStars": "★★★★★",
         "maturity": "可用",
-        "keyInsight": "该技术/产品在中文市场具有重要参考价值，值得关注其商业化落地进展和对国内AI生态的影响。",
-        "recommendations": {
-          "short": "1.调研技术原理 2.评估适用场景 3.关注竞品动态",
-          "medium": "1.开发概念验证 2.收集用户反馈 3.优化产品体验",
-          "long": "1.制定商业化策略 2.构建技术壁垒 3.规划生态布局"
+        "deepInsight": {
+          "techPrinciple": "该技术在中文市场引发关注，从技术成熟度看已具备商业化条件，值得评估其在国内的适用性和竞争格局。",
+          "productValue": "对产品经理而言，这意味着底层能力增强将催生上层应用创新，平台型机会显现，但技术壁垒较高。",
+          "marketImpact": "底层能力增强将催生上层应用创新，平台型机会显现，但技术壁垒较高。",
+          "timeWindow": "技术验证阶段，建议持续关注6个月"
+        },
+        "productCanvas": {
+          "targetUser": "AI基础设施开发者、平台架构师",
+          "scenarios": "模型训练、推理优化、工具链建设",
+          "competitors": "云厂商AI服务、开源方案",
+          "difficulty": 5,
+          "potential": "高"
         }
       },
       "tags": [
@@ -238,7 +268,7 @@
       ]
     },
     {
-      "id": "20260312_010",
+      "id": "20260312_009",
       "title": "LangChain推出自主上下文压缩技术",
       "category": "agent",
       "fact": {
@@ -247,16 +277,23 @@
         "sourceUrl": "https://blog.langchain.com/autonomous-context-compression/"
       },
       "insight": {
-        "techFeasibility": 4,
-        "implementation": 3,
-        "techStars": "★★★★☆",
-        "implStars": "★★★☆☆",
+        "techFeasibility": 5,
+        "implementation": 5,
+        "techStars": "★★★★★",
+        "implStars": "★★★★★",
         "maturity": "可用",
-        "keyInsight": "Agent技术正在快速发展，该方案在自动化工作流、工具调用等方面具有实践价值，建议评估其适用场景。",
-        "recommendations": {
-          "short": "1.调研技术原理 2.评估适用场景 3.关注竞品动态",
-          "medium": "1.开发概念验证 2.收集用户反馈 3.优化产品体验",
-          "long": "1.制定商业化策略 2.构建技术壁垒 3.规划生态布局"
+        "deepInsight": {
+          "techPrinciple": "Agent技术栈的又一进展，重点解决了多步骤任务执行中的关键问题，对构建复杂AI工作流有实际帮助。",
+          "productValue": "对产品经理而言，这意味着底层能力增强将催生上层应用创新，平台型机会显现，但技术壁垒较高。",
+          "marketImpact": "底层能力增强将催生上层应用创新，平台型机会显现，但技术壁垒较高。",
+          "timeWindow": "技术验证阶段，建议持续关注6个月"
+        },
+        "productCanvas": {
+          "targetUser": "AI基础设施开发者、平台架构师",
+          "scenarios": "模型训练、推理优化、工具链建设",
+          "competitors": "云厂商AI服务、开源方案",
+          "difficulty": 5,
+          "potential": "高"
         }
       },
       "tags": [
@@ -264,7 +301,7 @@
       ]
     },
     {
-      "id": "20260312_011",
+      "id": "20260312_010",
       "title": "Agent架构解析：模型与工程化框架",
       "category": "agent",
       "fact": {
@@ -273,16 +310,23 @@
         "sourceUrl": "https://blog.langchain.com/the-anatomy-of-an-agent-harness/"
       },
       "insight": {
-        "techFeasibility": 4,
-        "implementation": 3,
-        "techStars": "★★★★☆",
-        "implStars": "★★★☆☆",
+        "techFeasibility": 5,
+        "implementation": 5,
+        "techStars": "★★★★★",
+        "implStars": "★★★★★",
         "maturity": "可用",
-        "keyInsight": "Agent技术正在快速发展，该方案在自动化工作流、工具调用等方面具有实践价值，建议评估其适用场景。",
-        "recommendations": {
-          "short": "1.调研技术原理 2.评估适用场景 3.关注竞品动态",
-          "medium": "1.开发概念验证 2.收集用户反馈 3.优化产品体验",
-          "long": "1.制定商业化策略 2.构建技术壁垒 3.规划生态布局"
+        "deepInsight": {
+          "techPrinciple": "Agent技术栈的又一进展，重点解决了多步骤任务执行中的关键问题，对构建复杂AI工作流有实际帮助。",
+          "productValue": "对产品经理而言，这意味着底层能力增强将催生上层应用创新，平台型机会显现，但技术壁垒较高。",
+          "marketImpact": "底层能力增强将催生上层应用创新，平台型机会显现，但技术壁垒较高。",
+          "timeWindow": "技术验证阶段，建议持续关注6个月"
+        },
+        "productCanvas": {
+          "targetUser": "AI基础设施开发者、平台架构师",
+          "scenarios": "模型训练、推理优化、工具链建设",
+          "competitors": "云厂商AI服务、开源方案",
+          "difficulty": 5,
+          "potential": "高"
         }
       },
       "tags": [
@@ -290,5 +334,5 @@
       ]
     }
   ],
-  "total": 11
+  "total": 10
 }
