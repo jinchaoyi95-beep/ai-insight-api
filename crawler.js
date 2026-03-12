@@ -220,10 +220,15 @@ async function main() {
         techStars: '★'.repeat(result.productCanvas.difficulty) + '☆'.repeat(5 - result.productCanvas.difficulty),
         implStars: '★'.repeat(result.productCanvas.difficulty) + '☆'.repeat(5 - result.productCanvas.difficulty),
         maturity: '可用',
-        // 深度洞察
-        deepInsight: result.deepInsight,
-        // 产品机会画布（替代行动建议）
-        productCanvas: result.productCanvas
+        // 核心洞察（增强版）
+        keyInsight: result.deepInsight.techPrinciple + '\n\n' + result.deepInsight.productValue + '\n\n' + result.deepInsight.marketImpact,
+        // 时间窗口
+        timeWindow: result.deepInsight.timeWindow,
+        // 产品画布
+        targetUser: result.productCanvas.targetUser,
+        scenarios: result.productCanvas.scenarios,
+        competitors: result.productCanvas.competitors,
+        potential: result.productCanvas.potential
       },
       tags: [news.sourceType]
     };
