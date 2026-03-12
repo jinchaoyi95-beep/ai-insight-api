@@ -220,8 +220,8 @@ async function main() {
         techStars: '★'.repeat(result.productCanvas.difficulty) + '☆'.repeat(5 - result.productCanvas.difficulty),
         implStars: '★'.repeat(result.productCanvas.difficulty) + '☆'.repeat(5 - result.productCanvas.difficulty),
         maturity: '可用',
-        // 核心洞察（增强版）
-        keyInsight: result.deepInsight.techPrinciple + '\n\n' + result.deepInsight.productValue + '\n\n' + result.deepInsight.marketImpact,
+        // 核心洞察（增强版）- 去掉换行符，用空格分隔
+        keyInsight: result.deepInsight.techPrinciple + ' ' + result.deepInsight.productValue + ' ' + result.deepInsight.marketImpact,
         // 时间窗口
         timeWindow: result.deepInsight.timeWindow,
         // 产品画布
