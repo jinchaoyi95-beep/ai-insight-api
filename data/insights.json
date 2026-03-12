@@ -1,291 +1,242 @@
 {
   "date": "20260312",
-  "lastUpdate": "2026-03-12T15:44:52.666Z",
   "headlines": [
     {
       "id": "20260312_001",
-      "title": "QQ浏览器入选a16z全球AI榜单",
-      "englishTitle": "国内唯一入选的 AI 浏览器！QQ浏览器登上 a16z 全球 AI 应用榜单",
-      "category": "application",
+      "title": "QQ浏览器入选a16z全球AI应用榜单",
+      "category": "media",
       "fact": {
-        "summary": "",
         "sourceName": "量子位",
         "sourceType": "media",
-        "sourceUrl": "https://www.qbitai.com/2026/03/387068.html",
-        "originalDate": "Thu, 12 Mar 2026 13:13:50 +0000"
+        "sourceUrl": "https://www.qbitai.com/2026/03/387068.html"
       },
       "insight": {
-        "chineseTitle": "QQ浏览器入选a16z全球AI榜单",
-        "englishTitle": "国内唯一入选的 AI 浏览器！QQ浏览器登上 a16z 全球 AI 应用榜单",
         "techFeasibility": 4,
-        "implementation": 4,
-        "maturity": "生产就绪",
-        "keyInsight": "QQ浏览器通过集成AI技术提升浏览体验，展示了国内AI应用的国际竞争力。其核心价值在于结合搜索、内容推荐和用户交互，利用AI优化个性化服务。",
-        "useCases": [
-          {
-            "scenario": "智能搜索",
-            "value": "通过AI理解用户意图，提供更精准的搜索结果"
-          },
-          {
-            "scenario": "内容推荐",
-            "value": "利用AI分析用户行为，推荐个性化内容"
-          }
-        ],
-        "competitors": [
-          {
-            "name": "Chrome",
-            "context": "Google正在测试AI驱动的搜索和内容推荐功能"
-          },
-          {
-            "name": "Edge",
-            "context": "微软Edge已集成Copilot，提供AI辅助浏览"
-          }
-        ],
-        "recommendations": {
-          "short": "优化现有AI功能，收集用户反馈并快速迭代",
-          "medium": "扩展AI应用场景，如智能书签、语音交互等",
-          "long": "构建AI生态，开放API吸引开发者共创AI插件"
-        },
-        "tools": [
-          "TensorFlow",
-          "PyTorch"
-        ],
-        "category": "application",
+        "implementation": 3,
         "techStars": "★★★★☆",
-        "implStars": "★★★★☆"
+        "implStars": "★★★☆☆",
+        "maturity": "可用",
+        "keyInsight": "该技术/产品在中文市场具有重要参考价值，值得关注其商业化落地进展和对国内AI生态的影响。",
+        "recommendations": {
+          "short": "1.调研技术原理 2.评估适用场景 3.关注竞品动态",
+          "medium": "1.开发概念验证 2.收集用户反馈 3.优化产品体验",
+          "long": "1.制定商业化策略 2.构建技术壁垒 3.规划生态布局"
+        }
       },
       "tags": [
-        "application",
         "media"
-      ],
-      "importance": 5,
-      "displayDate": "20260312",
-      "isHeadline": true
+      ]
     },
     {
       "id": "20260312_002",
-      "title": "智能体自主上下文压缩",
-      "englishTitle": "Autonomous context compression",
-      "category": "agent",
+      "title": "对话VAST：2秒生成3D内容的技术突破",
+      "category": "media",
       "fact": {
-        "summary": "TL;DR: We've added a tool to the Deep Agents SDK (Python) and CLI that allows models to compress their own context windows at opportune times.\n\nMotivation\nContext compression is an action that reduces",
-        "sourceName": "LangChain Blog",
-        "sourceType": "agent",
-        "sourceUrl": "https://blog.langchain.com/autonomous-context-compression/",
-        "originalDate": "Wed, 11 Mar 2026 18:24:27 GMT"
+        "sourceName": "量子位",
+        "sourceType": "media",
+        "sourceUrl": "https://www.qbitai.com/2026/03/386717.html"
       },
       "insight": {
-        "chineseTitle": "智能体自主上下文压缩",
-        "englishTitle": "Autonomous context compression",
         "techFeasibility": 4,
         "implementation": 3,
-        "maturity": "可用",
-        "keyInsight": "该技术通过让模型自主判断时机压缩历史对话上下文，有效解决长对话场景下的token限制问题。产品机会在于将压缩策略与业务逻辑结合，例如优先保留关键业务实体或高频对话片段，实现智能化内存管理。",
-        "useCases": [
-          {
-            "scenario": "客服对话系统",
-            "value": "延长有效对话轮次而不超token限制"
-          },
-          {
-            "scenario": "多轮决策智能体",
-            "value": "保留关键决策依据同时控制上下文长度"
-          }
-        ],
-        "competitors": [
-          {
-            "name": "LangChain记忆模块",
-            "context": "提供基础的消息修剪功能"
-          },
-          {
-            "name": "AutoGPT",
-            "context": "采用固定长度的滚动窗口"
-          }
-        ],
-        "recommendations": {
-          "short": "1. 在现有智能体系统中集成压缩工具 2. 收集不同场景下的压缩效果数据",
-          "medium": "1. 开发可视化压缩效果分析面板 2. 实现基于业务规则的定制化压缩策略",
-          "long": "1. 构建压缩质量评估体系 2. 探索压缩内容的重构生成能力"
-        },
-        "tools": [
-          "Deep Agents SDK",
-          "LangChain"
-        ],
-        "category": "agent",
         "techStars": "★★★★☆",
-        "implStars": "★★★☆☆"
+        "implStars": "★★★☆☆",
+        "maturity": "可用",
+        "keyInsight": "该技术/产品在中文市场具有重要参考价值，值得关注其商业化落地进展和对国内AI生态的影响。",
+        "recommendations": {
+          "short": "1.调研技术原理 2.评估适用场景 3.关注竞品动态",
+          "medium": "1.开发概念验证 2.收集用户反馈 3.优化产品体验",
+          "long": "1.制定商业化策略 2.构建技术壁垒 3.规划生态布局"
+        }
       },
       "tags": [
-        "agent",
-        "agent"
-      ],
-      "importance": 5,
-      "displayDate": "20260312",
-      "isHeadline": true
+        "media"
+      ]
     },
     {
       "id": "20260312_003",
-      "title": "Rakuten fixes issues twice as fast with Codex",
-      "englishTitle": "Rakuten fixes issues twice as fast with Codex",
+      "title": "LangChain推出自主上下文压缩技术",
       "category": "agent",
       "fact": {
-        "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
-        "sourceName": "OpenAI Blog",
-        "sourceType": "official",
-        "sourceUrl": "https://openai.com/index/rakuten",
-        "originalDate": "Wed, 11 Mar 2026 13:00:00 GMT"
+        "sourceName": "LangChain",
+        "sourceType": "agent",
+        "sourceUrl": "https://blog.langchain.com/autonomous-context-compression/"
       },
       "insight": {
-        "techFeasibility": 3,
+        "techFeasibility": 4,
         "implementation": 3,
-        "techStars": "★★★☆☆",
+        "techStars": "★★★★☆",
         "implStars": "★★★☆☆",
-        "maturity": "待评估",
-        "keyInsight": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 5...",
+        "maturity": "可用",
+        "keyInsight": "Agent技术正在快速发展，该方案在自动化工作流、工具调用等方面具有实践价值，建议评估其适用场景。",
         "recommendations": {
-          "short": "持续关注该领域动态",
-          "medium": "评估技术成熟度后试点",
-          "long": "根据市场反馈制定战略"
-        },
-        "category": "agent"
+          "short": "1.调研技术原理 2.评估适用场景 3.关注竞品动态",
+          "medium": "1.开发概念验证 2.收集用户反馈 3.优化产品体验",
+          "long": "1.制定商业化策略 2.构建技术壁垒 3.规划生态布局"
+        }
       },
       "tags": [
-        "agent",
-        "official"
-      ],
-      "importance": 5,
-      "displayDate": "20260312",
-      "isHeadline": true
+        "agent"
+      ]
+    },
+    {
+      "id": "20260312_004",
+      "title": "Agent架构解析：模型与工程化框架",
+      "category": "agent",
+      "fact": {
+        "sourceName": "LangChain",
+        "sourceType": "agent",
+        "sourceUrl": "https://blog.langchain.com/the-anatomy-of-an-agent-harness/"
+      },
+      "insight": {
+        "techFeasibility": 4,
+        "implementation": 3,
+        "techStars": "★★★★☆",
+        "implStars": "★★★☆☆",
+        "maturity": "可用",
+        "keyInsight": "Agent技术正在快速发展，该方案在自动化工作流、工具调用等方面具有实践价值，建议评估其适用场景。",
+        "recommendations": {
+          "short": "1.调研技术原理 2.评估适用场景 3.关注竞品动态",
+          "medium": "1.开发概念验证 2.收集用户反馈 3.优化产品体验",
+          "long": "1.制定商业化策略 2.构建技术壁垒 3.规划生态布局"
+        }
+      },
+      "tags": [
+        "agent"
+      ]
+    },
+    {
+      "id": "20260312_005",
+      "title": "编程Agent如何重塑工程、产品和设计",
+      "category": "agent",
+      "fact": {
+        "sourceName": "LangChain",
+        "sourceType": "agent",
+        "sourceUrl": "https://blog.langchain.com/how-coding-agents-are-reshaping-engineering-product-and-design/"
+      },
+      "insight": {
+        "techFeasibility": 4,
+        "implementation": 3,
+        "techStars": "★★★★☆",
+        "implStars": "★★★☆☆",
+        "maturity": "可用",
+        "keyInsight": "Agent技术正在快速发展，该方案在自动化工作流、工具调用等方面具有实践价值，建议评估其适用场景。",
+        "recommendations": {
+          "short": "1.调研技术原理 2.评估适用场景 3.关注竞品动态",
+          "medium": "1.开发概念验证 2.收集用户反馈 3.优化产品体验",
+          "long": "1.制定商业化策略 2.构建技术壁垒 3.规划生态布局"
+        }
+      },
+      "tags": [
+        "agent"
+      ]
     }
   ],
   "quickBrowse": [
     {
-      "id": "20260312_q001",
-      "title": "对话VAST曹炎培：2秒才是3D生成本该有的速度",
-      "category": "application",
-      "fact": {
-        "summary": "AI 3D的2.0范式来了",
-        "sourceName": "量子位",
-        "sourceType": "media",
-        "sourceUrl": "https://www.qbitai.com/2026/03/386717.html",
-        "originalDate": "Thu, 12 Mar 2026 12:09:09 +0000"
-      },
-      "insight": {
-        "techFeasibility": 3,
-        "implementation": 3,
-        "techStars": "★★★☆☆",
-        "implStars": "★★★☆☆",
-        "maturity": "待评估",
-        "keyInsight": "AI 3D的2.0范式来了...",
-        "recommendations": {
-          "short": "持续关注该领域动态",
-          "medium": "评估技术成熟度后试点",
-          "long": "根据市场反馈制定战略"
-        },
-        "category": "application"
-      },
-      "tags": [
-        "application"
-      ],
-      "importance": 5,
-      "displayDate": "20260312",
-      "isHeadline": false
-    },
-    {
-      "id": "20260312_q002",
-      "title": "The Anatomy of an Agent Harness",
+      "id": "20260312_006",
+      "title": "How we built LangChain’s GTM Agent",
       "category": "agent",
       "fact": {
-        "summary": "By Vivek Trivedy\nTLDR: Agent = Model + Harness.  Harness engineering is how we build systems around models to turn them into work engines.  The model ",
-        "sourceName": "LangChain Blog",
+        "sourceName": "LangChain",
         "sourceType": "agent",
-        "sourceUrl": "https://blog.langchain.com/the-anatomy-of-an-agent-harness/",
-        "originalDate": "Wed, 11 Mar 2026 02:41:22 GMT"
+        "sourceUrl": "https://blog.langchain.com/how-we-built-langchains-gtm-agent/"
       },
       "insight": {
-        "techFeasibility": 3,
+        "techFeasibility": 4,
         "implementation": 3,
-        "techStars": "★★★☆☆",
+        "techStars": "★★★★☆",
         "implStars": "★★★☆☆",
-        "maturity": "待评估",
-        "keyInsight": "By Vivek Trivedy\nTLDR: Agent = Model + Harness.  Harness engineering is how we build systems around ...",
+        "maturity": "可用",
+        "keyInsight": "Agent技术正在快速发展，该方案在自动化工作流、工具调用等方面具有实践价值，建议评估其适用场景。",
         "recommendations": {
-          "short": "持续关注该领域动态",
-          "medium": "评估技术成熟度后试点",
-          "long": "根据市场反馈制定战略"
-        },
-        "category": "agent"
+          "short": "1.调研技术原理 2.评估适用场景 3.关注竞品动态",
+          "medium": "1.开发概念验证 2.收集用户反馈 3.优化产品体验",
+          "long": "1.制定商业化策略 2.构建技术壁垒 3.规划生态布局"
+        }
       },
       "tags": [
         "agent"
-      ],
-      "importance": 5,
-      "displayDate": "20260312",
-      "isHeadline": false
+      ]
     },
     {
-      "id": "20260312_q003",
-      "title": "How Coding Agents Are Reshaping Engineering, Product and Design",
-      "category": "agent",
+      "id": "20260312_007",
+      "title": "Rakuten用Codex将问题修复速度提升2倍",
+      "category": "official",
       "fact": {
-        "summary": "EPD (Engineering, Product, and Design) at software company is about creating good software. Separate roles exist, but the end goal is functional softw",
-        "sourceName": "LangChain Blog",
-        "sourceType": "agent",
-        "sourceUrl": "https://blog.langchain.com/how-coding-agents-are-reshaping-engineering-product-and-design/",
-        "originalDate": "Tue, 10 Mar 2026 22:34:07 GMT"
-      },
-      "insight": {
-        "techFeasibility": 3,
-        "implementation": 3,
-        "techStars": "★★★☆☆",
-        "implStars": "★★★☆☆",
-        "maturity": "待评估",
-        "keyInsight": "EPD (Engineering, Product, and Design) at software company is about creating good software. Separate...",
-        "recommendations": {
-          "short": "持续关注该领域动态",
-          "medium": "评估技术成熟度后试点",
-          "long": "根据市场反馈制定战略"
-        },
-        "category": "agent"
-      },
-      "tags": [
-        "agent"
-      ],
-      "importance": 5,
-      "displayDate": "20260312",
-      "isHeadline": false
-    },
-    {
-      "id": "20260312_q004",
-      "title": "Designing AI agents to resist prompt injection",
-      "category": "agent",
-      "fact": {
-        "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
-        "sourceName": "OpenAI Blog",
+        "sourceName": "OpenAI",
         "sourceType": "official",
-        "sourceUrl": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
-        "originalDate": "Wed, 11 Mar 2026 11:30:00 GMT"
+        "sourceUrl": "https://openai.com/index/rakuten"
       },
       "insight": {
-        "techFeasibility": 3,
+        "techFeasibility": 4,
         "implementation": 3,
-        "techStars": "★★★☆☆",
+        "techStars": "★★★★☆",
         "implStars": "★★★☆☆",
-        "maturity": "待评估",
-        "keyInsight": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions an...",
+        "maturity": "可用",
+        "keyInsight": "作为官方发布的技术/产品，代表了行业发展方向，建议关注其技术细节和商业化策略。",
         "recommendations": {
-          "short": "持续关注该领域动态",
-          "medium": "评估技术成熟度后试点",
-          "long": "根据市场反馈制定战略"
-        },
-        "category": "agent"
+          "short": "1.调研技术原理 2.评估适用场景 3.关注竞品动态",
+          "medium": "1.开发概念验证 2.收集用户反馈 3.优化产品体验",
+          "long": "1.制定商业化策略 2.构建技术壁垒 3.规划生态布局"
+        }
       },
       "tags": [
-        "agent"
-      ],
-      "importance": 5,
-      "displayDate": "20260312",
-      "isHeadline": false
+        "official"
+      ]
+    },
+    {
+      "id": "20260312_008",
+      "title": "设计抗提示注入的AI Agent安全方案",
+      "category": "official",
+      "fact": {
+        "sourceName": "OpenAI",
+        "sourceType": "official",
+        "sourceUrl": "https://openai.com/index/designing-agents-to-resist-prompt-injection"
+      },
+      "insight": {
+        "techFeasibility": 4,
+        "implementation": 3,
+        "techStars": "★★★★☆",
+        "implStars": "★★★☆☆",
+        "maturity": "可用",
+        "keyInsight": "作为官方发布的技术/产品，代表了行业发展方向，建议关注其技术细节和商业化策略。",
+        "recommendations": {
+          "short": "1.调研技术原理 2.评估适用场景 3.关注竞品动态",
+          "medium": "1.开发概念验证 2.收集用户反馈 3.优化产品体验",
+          "long": "1.制定商业化策略 2.构建技术壁垒 3.规划生态布局"
+        }
+      },
+      "tags": [
+        "official"
+      ]
+    },
+    {
+      "id": "20260312_009",
+      "title": "OpenAI发布Agent运行环境",
+      "category": "official",
+      "fact": {
+        "sourceName": "OpenAI",
+        "sourceType": "official",
+        "sourceUrl": "https://openai.com/index/equip-responses-api-computer-environment"
+      },
+      "insight": {
+        "techFeasibility": 4,
+        "implementation": 3,
+        "techStars": "★★★★☆",
+        "implStars": "★★★☆☆",
+        "maturity": "可用",
+        "keyInsight": "作为官方发布的技术/产品，代表了行业发展方向，建议关注其技术细节和商业化策略。",
+        "recommendations": {
+          "short": "1.调研技术原理 2.评估适用场景 3.关注竞品动态",
+          "medium": "1.开发概念验证 2.收集用户反馈 3.优化产品体验",
+          "long": "1.制定商业化策略 2.构建技术壁垒 3.规划生态布局"
+        }
+      },
+      "tags": [
+        "official"
+      ]
     }
   ],
-  "total": 7
+  "total": 9
 }
