@@ -12,22 +12,22 @@ const rssParser = new RSSParser({
 
 // 信息源配置（按优先级排序）
 const SOURCES = {
-  // 官方源 - 最高优先级
-  official: [
-    { name: 'OpenAI Blog', url: 'https://openai.com/blog/rss.xml', type: 'official' },
-    { name: 'Google AI Blog', url: 'https://ai.googleblog.com/feeds/posts/default', type: 'official' },
-    { name: 'Meta AI Blog', url: 'https://ai.meta.com/blog/rss/', type: 'official' },
-    { name: 'Anthropic Blog', url: 'https://www.anthropic.com/rss.xml', type: 'official' },
-  ],
-  // 权威中文媒体
+  // 第一优先级：中文行业媒体（你最关注的）
   media: [
-    { name: '机器之心', url: 'https://www.jiqizhixin.com/rss', type: 'media' },
-    { name: '量子位', url: 'https://www.qbitai.com/rss', type: 'media' },
-    { name: 'AI Base', url: 'https://www.aibase.com/rss', type: 'media' },
+    { name: '机器之心', url: 'https://www.jiqizhixin.com/rss', type: 'media', priority: 3 },
+    { name: '量子位', url: 'https://www.qbitai.com/rss', type: 'media', priority: 3 },
+    { name: 'AI Base', url: 'https://www.aibase.com/rss', type: 'media', priority: 3 },
   ],
-  // Agent专项
+  
+  // 第二优先级：Agent专项（你重点关注的领域）
   agent: [
-    { name: 'LangChain Blog', url: 'https://blog.langchain.dev/rss/', type: 'agent' },
+    { name: 'LangChain Blog', url: 'https://blog.langchain.dev/rss/', type: 'agent', priority: 2 },
+  ],
+  
+  // 第三优先级：官方源（限制数量，避免占比过高）
+  official: [
+    { name: 'OpenAI Blog', url: 'https://openai.com/blog/rss.xml', type: 'official', priority: 1, maxItems: 2 },
+    { name: 'Anthropic Blog', url: 'https://www.anthropic.com/rss.xml', type: 'official', priority: 1, maxItems: 1 },
   ]
 };
 
@@ -72,9 +72,10 @@ function calculateImportance(news) {
   const summaryLower = news.summary.toLowerCase();
   const text = titleLower + ' ' + summaryLower;
   
-  // 来源加分
-  if (news.sourceType === 'official') score += 1.5;
-  if (news.sourceType === 'agent') score += 0.5;
+  // 来源加分（中文媒体优先级最高）
+  if (news.sourceType === 'media') score += 2; // 中文媒体+2
+  else if (news.sourceType === 'agent') score += 1; // Agent专项+1
+  else if (news.sourceType === 'official') score += 0.5; // 官方源+0.5（降低权重）
   
   // Agent关键词加分（用户重点关注）
   for (const keyword of AGENT_KEYWORDS) {
@@ -229,12 +230,30 @@ async function main() {
   console.log('=== AI新闻爬取开始 ===');
   console.log('时间:', new Date().toISOString());
   
-  // 1. 爬取所有源
+  // 1. 按优先级爬取所有源
   const allNews = [];
-  for (const [category, sources] of Object.entries(SOURCES)) {
+  const sourceCount = {}; // 记录每个来源的数量
+  
+  // 按优先级顺序处理：media > agent > official
+  const priorityOrder = ['media', 'agent', 'official'];
+  
+  for (const category of priorityOrder) {
+    const sources = SOURCES[category] || [];
     for (const source of sources) {
       const news = await fetchRSS(source);
-      allNews.push(...news);
+      
+      // 限制每个来源的数量
+      const maxItems = source.maxItems || 10;
+      const limitedNews = news.slice(0, maxItems);
+      
+      // 标记来源优先级
+      limitedNews.forEach(item => {
+        item.sourcePriority = source.priority || 1;
+      });
+      
+      allNews.push(...limitedNews);
+      console.log(`[RSS] ${source.name}: 获取 ${limitedNews.length} 条 (限制: ${maxItems})`);
+      
       await new Promise(r => setTimeout(r, 1000)); // 防限流
     }
   }
@@ -258,29 +277,58 @@ async function main() {
   }
   console.log(`[去重] 剩余 ${uniqueNews.length} 条`);
   
-  // 3. 计算重要性
+  // 3. 计算重要性和分类
   for (const news of uniqueNews) {
     news.importance = calculateImportance(news);
     news.category = categorizeNews(news);
   }
   
-  // 4. 排序：重要性 > 时效性
+  // 4. 排序：来源优先级 > 重要性 > 时效性
   uniqueNews.sort((a, b) => {
+    // 首先按来源优先级（中文媒体优先）
+    if (b.sourcePriority !== a.sourcePriority) {
+      return b.sourcePriority - a.sourcePriority;
+    }
+    // 然后按重要性
     if (b.importance !== a.importance) {
       return b.importance - a.importance;
     }
+    // 最后按时效性
     return b.rawDate - a.rawDate;
   });
   
-  // 5. 选择头条5条（重要性>=4）
-  const headlineCandidates = uniqueNews.filter(n => n.importance >= 4);
-  const headlines = headlineCandidates.slice(0, 5);
+  // 5. 选择头条5条（确保多样性：最多2条来自同一来源）
+  const headlines = [];
+  const headlineSourceCount = {};
   
-  // 6. 选择快速浏览10条（剩余中重要性>=3，或Agent领域）
+  for (const news of uniqueNews) {
+    if (headlines.length >= 5) break;
+    
+    const sourceName = news.sourceName;
+    headlineSourceCount[sourceName] = (headlineSourceCount[sourceName] || 0) + 1;
+    
+    // 限制同一来源最多2条进入头条
+    if (headlineSourceCount[sourceName] <= 2) {
+      headlines.push(news);
+    }
+  }
+  
+  // 6. 选择快速浏览10条（同样确保多样性）
   const remaining = uniqueNews.filter(n => !headlines.includes(n));
-  const quickBrowse = remaining
-    .filter(n => n.importance >= 3 || n.category === 'agent')
-    .slice(0, 10);
+  const quickBrowse = [];
+  const quickSourceCount = {};
+  
+  for (const news of remaining) {
+    if (quickBrowse.length >= 10) break;
+    
+    const sourceName = news.sourceName;
+    quickSourceCount[sourceName] = (quickSourceCount[sourceName] || 0) + 1;
+    
+    // 限制同一来源最多3条进入快速浏览
+    if (quickSourceCount[sourceName] <= 3 && (news.importance >= 3 || news.category === 'agent')) {
+      quickBrowse.push(news);
+    }
+  }
   
   console.log(`[选择] 头条: ${headlines.length}, 快速浏览: ${quickBrowse.length}`);
   
