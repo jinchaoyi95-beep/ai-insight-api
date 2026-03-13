@@ -3,6 +3,9 @@ const RSSParser = require('rss-parser');
 const fs = require('fs');
 const path = require('path');
 
+// 硬编码 API Key 确保翻译生效
+const SILICONFLOW_API_KEY = 'sk-cqgwfjqbgvrdxxxazprkytqaabszazhuccglfkeoxujrreuj';
+
 const rssParser = new RSSParser({
   timeout: 10000,
   headers: {
@@ -12,13 +15,15 @@ const rssParser = new RSSParser({
 
 // 权威AI新闻源
 const SOURCES = [
-  { name: 'OpenAI Blog', url: 'https://openai.com/blog/rss.xml', type: '官方', maxItems: 3 },
-  { name: '量子位', url: 'https://www.qbitai.com/rss', type: '媒体', maxItems: 4 },
-  { name: 'LangChain', url: 'https://blog.langchain.dev/rss/', type: 'Agent', maxItems: 3 },
-  { name: 'Hugging Face', url: 'https://huggingface.co/blog/feed.xml', type: '官方', maxItems: 2 },
-  { name: 'Google AI', url: 'https://blog.google/technology/ai/rss/', type: '官方', maxItems: 2 },
-  { name: 'Sebastian Raschka', url: 'https://magazine.sebastianraschka.com/feed', type: '专家', maxItems: 2 },
-  { name: 'Lil Log', url: 'https://lilianweng.github.io/index.xml', type: '专家', maxItems: 2 },
+  { name: 'OpenAI Blog', url: 'https://openai.com/blog/rss.xml', type: '官方', maxItems: 5 },
+  { name: '量子位', url: 'https://www.qbitai.com/rss', type: '媒体', maxItems: 5 },
+  { name: 'LangChain', url: 'https://blog.langchain.dev/rss/', type: 'Agent', maxItems: 4 },
+  { name: 'Hugging Face', url: 'https://huggingface.co/blog/feed.xml', type: '官方', maxItems: 3 },
+  { name: 'Google AI', url: 'https://blog.google/technology/ai/rss/', type: '官方', maxItems: 3 },
+  { name: 'Sebastian Raschka', url: 'https://magazine.sebastianraschka.com/feed', type: '专家', maxItems: 3 },
+  { name: 'Lil Log', url: 'https://lilianweng.github.io/index.xml', type: '专家', maxItems: 3 },
+  { name: '机器之心', url: 'https://www.jiqizhixin.com/rss', type: '媒体', maxItems: 4 },
+  { name: 'MIT Technology Review', url: 'https://www.technologyreview.com/feed/', type: '媒体', maxItems: 3 },
 ];
 
 // 7个内容分类
@@ -86,14 +91,64 @@ function categorizeNews(title, summary) {
   return 'llm';
 }
 
-async function generateAnalysis(news) {
-  const apiKey = process.env.SILICONFLOW_API_KEY;
+// 判断标题是否为英文
+function isEnglishTitle(title) {
+  if (!title) return false;
+  const asciiChars = title.replace(/[^a-zA-Z]/g, '').length;
+  return asciiChars / title.length > 0.5;
+}
+
+// 翻译英文标题为中文
+async function translateTitle(title, summary, apiKey) {
+  if (!isEnglishTitle(title)) return title;
+  const key = apiKey || SILICONFLOW_API_KEY;
+  if (!key) return title; // 无API时保留原文
+
+  try {
+    const res = await axios.post('https://api.siliconflow.cn/v1/chat/completions', {
+      model: 'deepseek-ai/DeepSeek-V3',
+      messages: [
+        { role: 'system', content: '你是AI行业新闻编辑。将英文标题翻译成简洁的中文标题，保留关键产品名和技术术语原文。只输出翻译结果，不要解释。' },
+        { role: 'user', content: `翻译这个AI新闻标题为中文（保留产品名如OpenAI/LangChain等）：\n${title}` }
+      ],
+      temperature: 0.3,
+      max_tokens: 100
+    }, {
+      headers: { 'Authorization': `Bearer ${key}`, 'Content-Type': 'application/json' },
+      timeout: 30000
+    });
+    const translated = res.data.choices[0].message.content.trim();
+    // 去除可能的引号
+    const cleaned = translated.replace(/^["'""]+|["'""]+$/g, '');
+    if (cleaned.length > 0 && cleaned.length < 100) {
+      console.log(`[翻译] ${title} → ${cleaned}`);
+      return cleaned;
+    }
+  } catch (e) {
+    console.log(`[翻译失败] ${title}: ${e.message.substring(0, 30)}`);
+  }
+  return title;
+}
+
+// 确保 techKeywords 输出为字符串
+function normalizeTechKeywords(kw) {
+  if (!kw) return '';
+  if (typeof kw === 'string') return kw;
+  // 如果AI返回了对象，转为 "术语：说明" 格式的字符串
+  try {
+    return Object.entries(kw).map(([k, v]) => `${k}：${v}`).join('\n');
+  } catch(e) {
+    return JSON.stringify(kw);
+  }
+}
+
+async function generateAnalysis(news, chineseTitle) {
+  const apiKey = SILICONFLOW_API_KEY;
   if (!apiKey) {
-    // 无API时返回简化版
     return {
-      coreInsight: `${news.title}。该技术值得关注，建议评估其落地可行性。`,
+      coreInsight: `${chineseTitle}。该技术值得关注，建议评估其落地可行性。`,
       scenarios: '企业级应用、开发者工具',
-      techKeywords: 'AI大模型: 基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力',
+      techKeywords: 'AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。',
       productDesign: '可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。'
     };
   }
@@ -103,29 +158,29 @@ async function generateAnalysis(news) {
   
   const prompt = `作为资深AI产品经理，分析以下新闻：
 
-标题：${news.title}
+标题：${chineseTitle}
+原标题：${news.title}
 摘要：${news.summary.substring(0, 400)}
 来源：${news.sourceName}
 
-请输出JSON格式：
+请严格按以下JSON格式输出（所有value都是字符串，不要嵌套对象）：
 {
-  "coreInsight": "核心洞察：技术原理+用法说明，2-3句话，讲清楚这是什么技术、怎么工作、怎么用",
-  "scenarios": "应用场景：2-3个最适合的使用场景，用顿号分隔",
-  "techKeywords": "技术关键词：格式'英文术语(English Name): 2-3句话解释核心原理和应用'",
-  "productDesign": "产品设计点：从PM角度分析这条新闻带来的产品启示和机会，2-3句话"
+  "coreInsight": "核心洞察：技术原理+用法说明，2-3句话",
+  "scenarios": "应用场景1、应用场景2、应用场景3",
+  "techKeywords": "术语A(English)：2句话说明核心原理。术语B(English)：2句话说明。",
+  "productDesign": "从PM角度分析产品启示和机会，2-3句话"
 }
 
-注意：
-1. 内容分类是：${categoryName}
-2. 所有输出用中文
-3. 技术关键词必须保留英文原词
-4. 讲核心点，不要废话`;
+要求：
+1. 所有字段的值必须是纯字符串，techKeywords不要用嵌套对象
+2. 所有输出用中文，技术关键词保留英文原词
+3. 讲核心点，不要废话`;
 
   try {
     const res = await axios.post('https://api.siliconflow.cn/v1/chat/completions', {
       model: 'deepseek-ai/DeepSeek-V3',
       messages: [
-        { role: 'system', content: '你是资深AI产品经理，擅长技术评估和商业化分析。输出合法JSON。' },
+        { role: 'system', content: '你是资深AI产品经理。所有JSON字段的值必须是纯字符串。techKeywords字段绝对不能是对象/字典，必须是一个字符串。' },
         { role: 'user', content: prompt }
       ],
       temperature: 0.7,
@@ -138,17 +193,20 @@ async function generateAnalysis(news) {
     const content = res.data.choices[0].message.content;
     const match = content.match(/\{[\s\S]*\}/);
     if (match) {
-      return JSON.parse(match[0]);
+      const parsed = JSON.parse(match[0]);
+      // 强制确保 techKeywords 是字符串
+      parsed.techKeywords = normalizeTechKeywords(parsed.techKeywords);
+      parsed.chineseTitle = chineseTitle;
+      return parsed;
     }
   } catch (e) {
     console.log(`[AI失败] ${e.message.substring(0, 50)}`);
   }
   
-  // 失败时返回简化版
   return {
-    coreInsight: `${news.title}。该技术值得关注，建议评估其落地可行性。`,
+    coreInsight: `${chineseTitle}。该技术值得关注，建议评估其落地可行性。`,
     scenarios: '企业级应用、开发者工具',
-    techKeywords: 'AI大模型: 基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力',
+    techKeywords: 'AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。',
     productDesign: '可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。'
   };
 }
@@ -206,11 +264,17 @@ async function main() {
   const todayStr = today.replace(/-/g, '');
   
   const processNews = async (news, index, isHeadline) => {
-    const analysis = await generateAnalysis(news);
+    // 先强制翻译标题（不依赖 generateAnalysis）
+    const chineseTitle = await translateTitle(news.title, news.summary, SILICONFLOW_API_KEY);
+    
+    const analysis = await generateAnalysis(news, chineseTitle);
+    // 使用翻译后的中文标题
+    const displayTitle = chineseTitle || news.title;
     
     return {
       id: `${todayStr}_${isHeadline ? String(index + 1).padStart(3, '0') : 'q' + String(index + 1).padStart(3, '0')}`,
-      title: news.title,
+      title: displayTitle,
+      originalTitle: news.title, // 保留英文原标题
       category: news.category,
       categoryName: CATEGORIES[news.category],
       publishDate: news.pubDate,
@@ -222,11 +286,11 @@ async function main() {
       },
       tags: [news.sourceType, CATEGORIES[news.category]],
       isHeadline: isHeadline,
-      // 分析内容
-      coreInsight: analysis.coreInsight,
-      scenarios: analysis.scenarios,
-      techKeywords: analysis.techKeywords,
-      productDesign: analysis.productDesign
+      // 分析内容（techKeywords 强制为字符串）
+      coreInsight: analysis.coreInsight || '',
+      scenarios: analysis.scenarios || '',
+      techKeywords: normalizeTechKeywords(analysis.techKeywords),
+      productDesign: analysis.productDesign || ''
     };
   };
   
