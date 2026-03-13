@@ -1,14 +1,15 @@
 {
-  "date": "20260312",
-  "updateTime": "2026-03-12T17:17:51.823Z",
+  "date": "20260313",
+  "updateTime": "2026-03-13T02:03:25.289Z",
   "headlines": [
     {
-      "id": "20260312_001",
-      "title": "Rakuten fixes issues twice as fast with Codex",
+      "id": "20260313_001",
+      "title": "乐天借助Codex将问题修复速度提升一倍",
+      "originalTitle": "Rakuten fixes issues twice as fast with Codex",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Wed, 11 Mar 2026 13:00:00 GMT",
-      "crawlDate": "2026-03-12",
+      "crawlDate": "2026-03-13",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -19,22 +20,19 @@
         "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "Codex是OpenAI开发的AI编程助手，基于GPT-3模型理解自然语言并生成代码。它通过分析开发者的注释或需求描述，自动生成可执行代码片段，集成在CI/CD流程中实现智能代码审查。",
-      "scenarios": "自动化代码审查、快速原型开发、遗留系统现代化改造",
-      "techKeywords": {
-        "Codex": "基于GPT-3的代码生成模型，通过自然语言理解转换为多种编程语言代码，特别适合重复性编码任务",
-        "MTTR(Mean Time to Repair)": "平均修复时间指标，Codex通过自动诊断和修复建议将MTTR降低50%",
-        "CI/CD(Continuous Integration/Delivery)": "持续集成/交付流程，Codex可自动化代码审查环节并生成测试用例"
-      },
-      "productDesign": "应探索AI编程助手与现有开发工具的深度集成方案，重点关注企业级代码安全审查和知识沉淀功能。可设计'AI结对编程'模式提升开发者效率。"
+      "coreInsight": "Rakuten利用OpenAI的Codex代码代理实现自动化代码审查和修复，将平均修复时间(MTTR)降低50%。Codex通过理解自然语言指令生成和优化代码，显著提升软件开发效率。",
+      "scenarios": "应用场景1：自动化CI/CD流程中的代码审查。应用场景2：加速全栈应用的构建和部署。应用场景3：实时检测和修复生产环境问题。",
+      "techKeywords": "Codex：基于GPT-3的AI系统，能够将自然语言转换为功能性代码。MTTR(Mean Time To Repair)：衡量系统从故障中恢复的平均时间，是运维效率的关键指标。",
+      "productDesign": "产品启示：AI代码助手可以深度整合到DevOps流程中，关键是建立准确的意图识别和领域适配能力。机会点：开发垂直行业的定制化代码生成方案，如电商领域的特定业务逻辑自动化。"
     },
     {
-      "id": "20260312_002",
-      "title": "Designing AI agents to resist prompt injection",
+      "id": "20260313_002",
+      "title": "设计能抵御提示注入攻击的AI代理",
+      "originalTitle": "Designing AI agents to resist prompt injection",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Wed, 11 Mar 2026 11:30:00 GMT",
-      "crawlDate": "2026-03-12",
+      "crawlDate": "2026-03-13",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -45,18 +43,19 @@
         "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "Designing AI agents to resist prompt injection。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型: 基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+      "coreInsight": "OpenAI通过限制高风险操作和保护敏感数据来防御prompt injection攻击，这是通过在AI代理工作流中实施安全约束实现的。该方法既保持模型功能又提升安全性，适用于需要处理敏感信息的AI代理场景。",
+      "scenarios": "应用场景1：企业级AI客服处理用户隐私数据。应用场景2：金融领域AI助手执行敏感操作。应用场景3：医疗健康AI系统处理患者信息。",
+      "techKeywords": "Prompt Injection：攻击者通过精心设计的输入操控AI输出。防御方法是检测并过滤恶意prompt。Social Engineering：利用人类心理弱点进行攻击。AI通过行为约束和权限控制来防护。",
+      "productDesign": "启示1：需要在功能性和安全性之间找到平衡。机会：可开发专门的安全审计模块作为增值功能，帮助企业客户合规使用AI代理。"
     },
     {
-      "id": "20260312_003",
-      "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+      "id": "20260313_003",
+      "title": "Wayfair借助OpenAI提升商品目录准确率和客服速度",
+      "originalTitle": "Wayfair boosts catalog accuracy and support speed with OpenAI",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Wed, 11 Mar 2026 11:00:00 GMT",
-      "crawlDate": "2026-03-12",
+      "crawlDate": "2026-03-13",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -67,21 +66,19 @@
         "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "Wayfair利用OpenAI模型优化电商支持与产品目录准确性，通过自动化工单分类和大规模增强产品属性实现效率提升。该技术基于自然语言处理(NLP)和机器学习，自动解析用户请求并更新产品信息。",
-      "scenarios": "电商客服自动化、产品信息管理、大规模数据标注与清洗",
-      "techKeywords": {
-        "Ticket Triage(工单分类)": "利用NLP模型自动识别用户请求类型并分配优先级，减少人工干预",
-        "Attribute Enhancement(属性增强)": "通过机器学习模型批量补全/修正产品属性字段，提升数据质量"
-      },
-      "productDesign": "启示1：AI+传统工作流可创造显著效率红利；机会点：垂直领域数据清洗工具、智能工单系统"
+      "coreInsight": "Wayfair利用OpenAI模型实现商品属性自动优化和工单智能分类，通过NLP技术自动处理海量产品数据并提升客服响应效率。关键技术是使用深度学习模型对非结构化数据进行自动标注和分类处理。",
+      "scenarios": "电商商品属性自动标注、客服工单智能分类、产品目录大规模质量优化",
+      "techKeywords": "NLP(Natural Language Processing)：使用深度学习模型理解和处理人类语言数据。Ticket Triage：基于AI的工单分类系统，通过语义分析自动分配工单优先级。",
+      "productDesign": "启示1：AI可显著提升电商平台数据治理效率；启示2：客服场景的智能化升级需要结合业务规则与AI模型；启示3：产品经理应关注大模型在非结构化数据处理中的应用潜力。"
     },
     {
-      "id": "20260312_004",
+      "id": "20260313_004",
       "title": "国内唯一入选的 AI 浏览器！QQ浏览器登上 a16z 全球 AI 应用榜单",
+      "originalTitle": "国内唯一入选的 AI 浏览器！QQ浏览器登上 a16z 全球 AI 应用榜单",
       "category": "application",
       "categoryName": "应用落地",
       "publishDate": "Thu, 12 Mar 2026 13:13:50 +0000",
-      "crawlDate": "2026-03-12",
+      "crawlDate": "2026-03-13",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -92,21 +89,19 @@
         "应用落地"
       ],
       "isHeadline": true,
-      "coreInsight": "QQ浏览器通过集成AI大模型能力实现智能化浏览体验，核心技术是基于生成式AI的语义理解和内容生成，用户可通过自然语言交互获取信息或生成内容。",
-      "scenarios": "信息检索与摘要生成、跨语言内容浏览、个性化内容推荐",
-      "techKeywords": {
-        "LLM(Large Language Model)": "通过海量数据训练的大规模预训练模型，能理解上下文并生成连贯文本，应用于智能问答和内容创作",
-        "Semantic Search(语义搜索)": "超越关键词匹配的深层语义理解技术，用于精准匹配用户查询意图"
-      },
-      "productDesign": "启示1：浏览器可作为AI能力落地的重要入口；启示2：需重点解决用户对AI生成内容的信任度问题；启示3：探索新型商业化模式如增值AI服务"
+      "coreInsight": "QQ浏览器通过集成AI技术实现智能搜索和内容推荐，采用生成式AI提升用户体验。其核心技术包括自然语言处理和个性化推荐算法。",
+      "scenarios": "场景1：智能搜索答案。场景2：个性化内容推荐。场景3：多语言实时翻译。",
+      "techKeywords": "NLP(Natural Language Processing)：通过深度学习模型理解用户查询意图。Generative AI：利用大语言模型生成连贯的文本回答。",
+      "productDesign": "启示1：浏览器可作为AI服务入口。机会1：垂直领域智能助手集成。机会2：跨设备AI体验联动。"
     },
     {
-      "id": "20260312_005",
+      "id": "20260313_005",
       "title": "对话VAST曹炎培：2秒才是3D生成本该有的速度",
+      "originalTitle": "对话VAST曹炎培：2秒才是3D生成本该有的速度",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Thu, 12 Mar 2026 12:09:09 +0000",
-      "crawlDate": "2026-03-12",
+      "crawlDate": "2026-03-13",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -117,20 +112,21 @@
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "对话VAST曹炎培：2秒才是3D生成本该有的速度。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型: 基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+      "coreInsight": "VAST通过技术创新将3D生成速度提升至2秒，突破传统生成耗时瓶颈。这标志着AI 3D技术进入2.0时代，实现了实时交互级别的生成效率。",
+      "scenarios": "实时游戏场景搭建、电商3D产品快速建模、VR/AR内容即时生成",
+      "techKeywords": "Neural Rendering：通过神经网络直接生成3D几何和纹理，绕过传统建模流程。Diffusion Models：采用改进的扩散模型架构，大幅加速3D数据生成过程。",
+      "productDesign": "产品设计应重点优化3D生成效率指标，建立实时交互能力门槛。可探索'低代码3D生成'工具方向，降低专业建模门槛。"
     }
   ],
   "quickBrowse": [
     {
-      "id": "20260312_q001",
-      "title": "Autonomous context compression",
+      "id": "20260313_q001",
+      "title": "自主上下文压缩",
+      "originalTitle": "Autonomous context compression",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Wed, 11 Mar 2026 18:24:27 GMT",
-      "crawlDate": "2026-03-12",
+      "crawlDate": "2026-03-13",
       "source": {
         "name": "LangChain",
         "type": "Agent",
@@ -141,21 +137,19 @@
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "Deep Agents SDK新增的自主上下文压缩工具允许AI模型在适当时机主动压缩工作记忆中的信息，通过替换旧消息来优化上下文窗口管理。开发者可通过Python SDK或CLI直接调用该功能，实现动态内存管理。",
-      "scenarios": "长对话会话管理、持续学习任务处理、多轮复杂决策场景",
-      "techKeywords": {
-        "Context Compression": "智能选择历史信息进行压缩/摘要，解决LLM的上下文窗口限制问题",
-        "Autonomous Memory Management": "模型自主决定压缩时机，动态维持最优上下文长度"
-      },
-      "productDesign": "该技术为构建长周期自主Agent提供了关键基础设施，可探索在智能客服会话保持、游戏NPC记忆优化等场景的商业化应用。建议设计压缩策略可视化面板帮助开发者调优。"
+      "coreInsight": "核心技术是通过Context compression功能让AI模型自主压缩上下文窗口，优化内存使用。Deep Agents SDK提供Python和CLI工具实现自动触发压缩时机。",
+      "scenarios": "长对话机器人保持上下文相关性、大规模数据处理优化内存开销、持续学习系统管理历史数据",
+      "techKeywords": "Context compression：AI模型主动压缩历史对话数据，保留关键信息减少内存占用。Deep Agents SDK：提供上下文管理的开发工具包，支持Python和命令行接口。",
+      "productDesign": "应优先考虑模型自主决策能力的产品化，可扩展为智能内存管理模块。同时需要设计压缩阈值和重要信息保留的评估机制。"
     },
     {
-      "id": "20260312_q002",
-      "title": "The Anatomy of an Agent Harness",
+      "id": "20260313_q002",
+      "title": "剖析Agent Harness的架构",
+      "originalTitle": "The Anatomy of an Agent Harness",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Wed, 11 Mar 2026 02:41:22 GMT",
-      "crawlDate": "2026-03-12",
+      "crawlDate": "2026-03-13",
       "source": {
         "name": "LangChain",
         "type": "Agent",
@@ -166,22 +160,19 @@
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "Agent技术由模型(Model)和框架(Harness)组成，模型提供智能核心，框架负责将智能转化为实际工作能力。通过工程化框架设计，可以使通用AI模型具备特定领域任务执行能力。",
-      "scenarios": "智能客服系统、自动化流程处理、个性化推荐引擎",
-      "techKeywords": {
-        "Model": "AI核心算法模块，负责理解、推理和生成能力",
-        "Harness": "任务编排框架，包含数据预处理、流程控制、结果验证等系统组件",
-        "Agent": "模型+框架的完整解决方案，具备端到端任务执行能力"
-      },
-      "productDesign": "产品设计应注重模块化框架开发，通过配置化接口连接不同AI模型。机会在于开发垂直领域的标准化Harness组件库，降低AI应用开发门槛。"
+      "coreInsight": "Agent Harness的核心架构揭示了AI系统的构建逻辑：Model提供智能，Harness通过工程化封装使其成为可工作的引擎。这种分离设计让基础模型能力可通过标准化接口被调用和扩展。",
+      "scenarios": "自动化业务流程编排、多模型协作系统开发、AI能力快速产品化",
+      "techKeywords": "Model(English)：基础AI模型承载核心认知能力，通常需要大规模训练获得。Harness(English)：工程化框架负责输入输出处理、任务调度等，使模型具备生产环境可用性。",
+      "productDesign": "启示1：可设计可视化Harness搭建工具降低AI工程门槛；机会2：建立Harness组件市场加速AI解决方案组合创新"
     },
     {
-      "id": "20260312_q003",
-      "title": "How Coding Agents Are Reshaping Engineering, Product and Design",
+      "id": "20260313_q003",
+      "title": "编程代理如何重塑工程、产品与设计",
+      "originalTitle": "How Coding Agents Are Reshaping Engineering, Product and Design",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Tue, 10 Mar 2026 22:34:07 GMT",
-      "crawlDate": "2026-03-12",
+      "crawlDate": "2026-03-13",
       "source": {
         "name": "LangChain",
         "type": "Agent",
@@ -192,115 +183,13 @@
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "How Coding Agents Are Reshaping Engineering, Product and Design。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型: 基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260312_q004",
-      "title": "A Dream of Spring for Open-Weight LLMs: 10 Architectures from Jan-Feb 2026",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 25 Feb 2026 13:26:56 GMT",
-      "crawlDate": "2026-03-12",
-      "source": {
-        "name": "Sebastian Raschka",
-        "type": "专家",
-        "url": "https://magazine.sebastianraschka.com/p/a-dream-of-spring-for-open-weight"
-      },
-      "tags": [
-        "专家",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "2026年初发布的10个开源权重LLM架构对比，展示了开源大模型的最新进展。这些模型通过公开权重和架构设计，允许研究者和开发者自由使用和改进，推动AI技术民主化。用户可通过HuggingFace等平台直接下载使用，或基于这些架构进行二次开发。",
-      "scenarios": "学术研究、垂直领域AI助手开发、多语言应用",
-      "techKeywords": {
-        "Open-Weight LLMs": "开源权重的大语言模型，公开模型权重和架构，支持社区协作和透明化研究",
-        "Model Architecture": "不同LLM的结构设计差异，影响模型性能、效率和特定任务表现",
-        "Fine-Tuning": "基于开源模型的迁移学习，使模型适配特定领域或任务"
-      },
-      "productDesign": "该趋势表明开源模型生态将持续繁荣，产品可考虑：1) 构建面向开源模型的应用工具链 2) 设计模型对比评估服务 3) 开发开源模型商业化解决方案"
-    },
-    {
-      "id": "20260312_q005",
-      "title": "Categories of Inference-Time Scaling for Improved LLM Reasoning",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sat, 24 Jan 2026 11:23:18 GMT",
-      "crawlDate": "2026-03-12",
-      "source": {
-        "name": "Sebastian Raschka",
-        "type": "专家",
-        "url": "https://magazine.sebastianraschka.com/p/categories-of-inference-time-scaling"
-      },
-      "tags": [
-        "专家",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "该技术通过推理时动态调整LLM的计算规模（如层数、注意力头数等）来提升推理效率，核心原理是根据输入复杂度自适应分配计算资源。使用时开发者需定义缩放策略和触发条件，典型实现方式包括Early Exiting和Layer Skipping。",
-      "scenarios": "实时对话系统、长文本摘要生成、多轮复杂推理",
-      "techKeywords": {
-        "Inference-Time Scaling": "在推理阶段动态调整模型计算图结构，通过减少简单任务的计算量来提升吞吐量",
-        "Early Exiting": "在前向传播过程中提前退出计算，适用于输入答案置信度高的场景",
-        "Layer Skipping": "选择性跳过某些Transformer层的计算，基于当前隐藏状态的复杂度预测"
-      },
-      "productDesign": "可为LLM云服务设计动态计费模块，根据实际计算量收费；在端侧部署时可开发自适应功耗模式，平衡响应速度与能耗。"
-    },
-    {
-      "id": "20260312_q006",
-      "title": "Why We Think",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Thu, 01 May 2025 00:00:00 +0000",
-      "crawlDate": "2026-03-12",
-      "source": {
-        "name": "Lil Log",
-        "type": "专家",
-        "url": "https://lilianweng.github.io/posts/2025-05-01-thinking/"
-      },
-      "tags": [
-        "专家",
-        "科研突破"
-      ],
-      "isHeadline": false,
-      "coreInsight": "该新闻讨论了Test time compute和Chain-of-thought (CoT)技术如何显著提升模型性能。Test time compute通过在推理阶段增加计算资源来提高模型表现，而CoT则是通过让模型生成中间推理步骤来增强复杂问题的解决能力。",
-      "scenarios": "复杂问题解答、多步骤推理任务、需要高精度输出的场景",
-      "techKeywords": {
-        "Test time compute": "通过在推理阶段分配更多计算资源来提升模型表现，适用于需要更高准确率的任务。",
-        "Chain-of-thought (CoT)": "通过生成中间推理步骤来增强模型的逻辑推理能力，特别适合解决需要多步思考的复杂问题。"
-      },
-      "productDesign": "可以考虑开发支持动态计算资源分配的AI产品，以及集成CoT技术的智能助手来提升复杂任务的处理能力。"
-    },
-    {
-      "id": "20260312_q007",
-      "title": "Reward Hacking in Reinforcement Learning",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 28 Nov 2024 00:00:00 +0000",
-      "crawlDate": "2026-03-12",
-      "source": {
-        "name": "Lil Log",
-        "type": "专家",
-        "url": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/"
-      },
-      "tags": [
-        "专家",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Reward hacking（奖励攻击）是强化学习(RL)中的一种现象，指智能体通过利用奖励函数的漏洞或模糊性来获取高回报，而非真正完成任务。这种现象源于RL环境的不完美性，以及精确设计奖励函数的本质挑战。",
-      "scenarios": "游戏AI测试、自动化系统优化、金融交易策略验证",
-      "techKeywords": {
-        "Reward hacking": "当智能体发现奖励函数的漏洞时，会采取非预期行为来最大化回报，而非解决实际问题。这揭示了RL系统设计中的脆弱性。",
-        "Reinforcement Learning (RL)": "通过试错与环境交互来学习的机器学习范式，智能体根据奖励信号调整行为策略。广泛应用于机器人控制、游戏AI等领域。"
-      },
-      "productDesign": "需要设计更健壮的奖励函数验证机制，并开发实时监控工具来检测reward hacking行为。这为AI安全审计工具创造了产品机会。"
+      "coreInsight": "编程代理通过自动化代码生成重构EPD协作流程，其核心技术是AI理解需求并生成可直接运行的代码。这类工具将需求文档直接转化为功能实现，大幅缩短开发周期。",
+      "scenarios": "快速原型开发、遗留系统现代化改造、A/B测试功能快速迭代",
+      "techKeywords": "Coding Agents：基于LLM的自主编程系统，能理解自然语言需求并生成完整代码模块。EPD Collaboration：工程-产品-设计的三方协作范式，编程代理成为跨职能团队的粘合剂。",
+      "productDesign": "PM需重构需求文档撰写范式，采用机器可读的结构化描述。机会在于建立需求-代码的双向追溯系统，同时需要设计新的代码质量验证流程。"
     }
   ],
-  "total": 12,
+  "total": 8,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
