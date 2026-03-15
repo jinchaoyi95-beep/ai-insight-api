@@ -294,19 +294,27 @@ async function main() {
     };
   };
   
-  // 处理头条
-  const headlineData = [];
-  for (let i = 0; i < headlines.length; i++) {
-    const item = await processNews(headlines[i], i, true);
-    headlineData.push(item);
+// 并行处理函数（带并发限制）
+  async function processBatch(items, isHeadline, concurrency = 3) {
+    const results = [];
+    for (let i = 0; i < items.length; i += concurrency) {
+      const batch = items.slice(i, i + concurrency);
+      const batchPromises = batch.map((item, idx) => 
+        processNews(item, i + idx, isHeadline)
+      );
+      const batchResults = await Promise.all(batchPromises);
+      results.push(...batchResults);
+      console.log(`[处理进度] ${isHeadline ? '头条' : '速览'}: ${Math.min(i + concurrency, items.length)}/${items.length}`);
+    }
+    return results;
   }
   
-  // 处理速览
-  const quickData = [];
-  for (let i = 0; i < quickBrowse.length; i++) {
-    const item = await processNews(quickBrowse[i], i, false);
-    quickData.push(item);
-  }
+  // 并行处理头条和速览（同时开始，各自限制并发）
+  console.log('[开始] 并行处理新闻...');
+  const [headlineData, quickData] = await Promise.all([
+    processBatch(headlines, true, 3),
+    processBatch(quickBrowse, false, 3)
+  ]);
   
   // 6. 保存
   const output = {
