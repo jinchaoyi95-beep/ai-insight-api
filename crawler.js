@@ -58,6 +58,15 @@ async function fetchRSS(source) {
   }
 }
 
+// 检查新闻是否在最近 N 天内
+function isRecentNews(news, days = 3) {
+  const pubDate = new Date(news.pubDate);
+  const now = new Date();
+  const diffTime = now - pubDate;
+  const diffDays = diffTime / (1000 * 60 * 60 * 24);
+  return diffDays <= days;
+}
+
 function isValidNews(news) {
   const text = (news.title + news.summary).toLowerCase();
   for (const word of BAD_WORDS) {
