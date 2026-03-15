@@ -233,13 +233,19 @@ async function main() {
   
   console.log(`[获取] 共 ${allNews.length} 条`);
   
-  // 2. 过滤
+  // 2. 过滤低质量内容
   allNews = allNews.filter(isValidNews);
   console.log(`[过滤] 剩余 ${allNews.length} 条`);
   
-  if (allNews.length === 0) {
-    console.log('[错误] 没有有效新闻');
-    process.exit(1);
+  // 2.5 只保留最近 3 天的新闻
+  const recentNews = allNews.filter(n => isRecentNews(n, 3));
+  console.log(`[时间过滤] 最近3天: ${recentNews.length} 条`);
+  
+  // 如果最近3天没有足够新闻，使用所有新闻
+  if (recentNews.length >= 5) {
+    allNews = recentNews;
+  } else {
+    console.log('[提示] 最近3天新闻不足，使用全部新闻');
   }
   
   // 3. 去重
