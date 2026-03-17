@@ -1,356 +1,195 @@
 {
-  "date": "20260313",
-  "updateTime": "2026-03-13T02:38:30.432Z",
+  "date": "20260317",
+  "updateTime": "2026-03-17T01:15:57.511Z",
   "headlines": [
     {
-      "id": "20260313_001",
-      "title": "乐天借助Codex将问题修复速度提升一倍",
-      "originalTitle": "Rakuten fixes issues twice as fast with Codex",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Wed, 11 Mar 2026 13:00:00 GMT",
-      "crawlDate": "2026-03-13",
+      "id": "20260317_001",
+      "title": "为何Codex Security不包含SAST报告",
+      "originalTitle": "Why Codex Security Doesn’t Include a SAST Report",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Mon, 16 Mar 2026 00:00:00 GMT",
+      "crawlDate": "2026-03-17",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/rakuten"
+        "url": "https://openai.com/index/why-codex-security-doesnt-include-sast"
       },
       "tags": [
         "官方",
-        "Agent"
+        "开发工具"
       ],
       "isHeadline": true,
-      "coreInsight": "核心洞察：Rakuten利用OpenAI的Codex实现智能代码生成与审查，通过AI自动化提升CI/CD效率。该方案将平均修复时间(MTTR)缩短50%，并能快速交付全栈构建。",
-      "scenarios": "应用场景1：自动化代码审查和错误修复。应用场景2：加速持续集成/持续交付(CI/CD)流程。应用场景3：全栈应用的快速原型开发。",
-      "techKeywords": "Codex：基于GPT-3的AI编程助手，能理解自然语言并生成代码。MTTR(Mean Time To Repair)：衡量系统故障修复效率的关键指标，指平均修复时间。",
-      "productDesign": "产品启示：1) AI代码生成工具可深度集成到DevOps流程中 2) 重点关注指标驱动的效率提升(MTRR等) 3) 全栈开发自动化是重要机会点。"
+      "coreInsight": "Codex Security通过AI驱动的约束推理和验证技术替代传统SAST，能更精准识别真实漏洞同时大幅降低误报率。其核心技术突破在于用动态约束分析代替静态模式匹配。",
+      "scenarios": "云原生应用安全测试、DevOps流程中的自动化漏洞检测、第三方组件安全审计",
+      "techKeywords": "Constraint Reasoning：通过数学约束条件建模程序行为，AI自动推导可能违反安全规则的执行路径。SAST(Static Application Security Testing)：传统静态分析依赖规则库匹配代码模式，易产生大量误报。",
+      "productDesign": "AI安全产品应聚焦精准性而非检测覆盖率，可借鉴其约束验证思路重构检测引擎。建议探索交互式漏洞验证流程提升结果可信度。"
     },
     {
-      "id": "20260313_002",
-      "title": "设计能抵御提示注入攻击的AI智能体",
-      "originalTitle": "Designing AI agents to resist prompt injection",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Wed, 11 Mar 2026 11:30:00 GMT",
-      "crawlDate": "2026-03-13",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/designing-agents-to-resist-prompt-injection"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "OpenAI通过约束高风险操作和保护敏感数据的技术手段防御提示注入攻击。其核心是在AI智能体工作流中建立安全边界，限制对敏感信息的访问和危险指令的执行。",
-      "scenarios": "企业级AI客服防诱导场景、金融领域AI助手防欺诈场景、医疗AI系统防数据泄露场景",
-      "techKeywords": "Prompt injection：攻击者通过精心设计的输入诱导AI执行非预期行为，解决方案包括输入过滤和行为约束。Social engineering：利用人类心理弱点进行攻击，AI通过识别异常交互模式进行防护。",
-      "productDesign": "需在AI产品底层架构设计时就内置安全机制，建议开发可配置的安全策略模块。同时应建立持续对抗性测试流程以应对新型攻击手法。"
-    },
-    {
-      "id": "20260313_003",
-      "title": "Wayfair借助OpenAI提升目录准确性与支持速度",
-      "originalTitle": "Wayfair boosts catalog accuracy and support speed with OpenAI",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Wed, 11 Mar 2026 11:00:00 GMT",
-      "crawlDate": "2026-03-13",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/wayfair"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Wayfair利用OpenAI模型实现电商支持自动化和商品目录精准更新，通过AI自动分拣用户工单并批量优化数百万商品属性。该方案结合LLM的语义理解能力和自动化处理技术，在保证准确性的同时提升运营效率。",
-      "scenarios": "电商客服工单智能分拣、商品属性自动化校验与补全、多语言商品信息批量生成",
-      "techKeywords": "Ticket Triage：基于NLP理解用户咨询意图，自动路由到对应处理流程。Catalog Enrichment：通过知识图谱和生成式AI自动补全/修正商品属性字段。",
-      "productDesign": "启示1：AI+自动化可解决电商长尾数据治理痛点；机会2：构建支持动态更新的智能商品知识库，需关注数据闭环验证机制设计"
-    },
-    {
-      "id": "20260313_004",
-      "title": "提升前沿LLM中的指令层级结构",
-      "originalTitle": "Improving instruction hierarchy in frontier LLMs",
+      "id": "20260317_002",
+      "title": "315曝光的“AI投毒”原理：GEO这样操控大模型推荐",
+      "originalTitle": "315曝光的“AI投毒”原理：GEO这样操控大模型推荐",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Tue, 10 Mar 2026 11:00:00 GMT",
-      "crawlDate": "2026-03-13",
+      "publishDate": "Mon, 16 Mar 2026 11:48:07 +0000",
+      "crawlDate": "2026-03-17",
       "source": {
-        "name": "OpenAI Blog",
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/03/388387.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "GEO技术通过污染训练数据影响AI推荐结果，揭示了大模型的数据安全风险。攻击者通过注入虚假产品信息，可以操控推荐系统的输出。",
+      "scenarios": "电商推荐系统内容污染、社交媒体虚假信息传播、搜索引擎结果操控",
+      "techKeywords": "Data Poisoning：通过向训练数据注入恶意样本误导模型学习。GEO(Gradient Estimation Optimization)：利用梯度估计优化算法反向操控推荐结果。",
+      "productDesign": "需建立动态数据清洗机制防范投毒攻击，可开发实时反作弊系统作为增值服务。同时探索联邦学习等隐私计算技术保障数据安全。"
+    },
+    {
+      "id": "20260317_003",
+      "title": "LangChain推出基于NVIDIA的企业级Agentic AI平台",
+      "originalTitle": "LangChain Announces Enterprise Agentic AI Platform Built with NVIDIA",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 16 Mar 2026 21:31:28 GMT",
+      "crawlDate": "2026-03-17",
+      "source": {
+        "name": "LangChain",
+        "type": "Agent",
+        "url": "https://blog.langchain.com/nvidia-enterprise/"
+      },
+      "tags": [
+        "Agent",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "该平台通过整合LangChain的agent工程能力与NVIDIA的AI算力，提供企业级AI智能体全生命周期管理能力。其核心在于将AI agent的开发、部署、监控形成标准化pipeline，降低企业应用门槛。",
+      "scenarios": "1. 金融领域智能投顾agent部署 2. 电商客服agent规模化应用 3. 制造业自动化流程agent监控",
+      "techKeywords": "Agentic AI：指具备自主决策能力的AI系统，通过多步骤推理和工具调用完成复杂任务。LangChain：开源AI agent框架，提供chain式任务编排和记忆管理能力，支持超10亿次下载的生态体系。",
+      "productDesign": "启示1：企业级AI产品需强化监控和部署能力 2. 与硬件厂商深度整合可打造竞争壁垒 3. 开源生态+商业产品的双轮驱动模式值得借鉴"
+    },
+    {
+      "id": "20260317_004",
+      "title": "发布deploy cli工具",
+      "originalTitle": "Introducing deploy cli",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 16 Mar 2026 17:20:21 GMT",
+      "crawlDate": "2026-03-17",
+      "source": {
+        "name": "LangChain",
+        "type": "Agent",
+        "url": "https://blog.langchain.com/introducing-deploy-cli/"
+      },
+      "tags": [
+        "Agent",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "核心洞察：LangChain通过deploy cli工具简化了agent的部署流程，将复杂的云端部署封装为命令行操作。该工具集成在langgraph-cli包中，用户可通过langgraph deploy命令一键完成部署。",
+      "scenarios": "应用场景1：开发者在本地调试后快速部署agent到生产环境。应用场景2：DevOps团队通过命令行实现agent的自动化部署。应用场景3：技术教育中演示agent部署的最佳实践。",
+      "techKeywords": "langgraph-cli：LangChain提供的命令行工具包，封装了agent开发部署的常用功能。LangSmith Deployment：LangChain的agent托管平台，提供运行时环境和监控能力。",
+      "productDesign": "产品启示：CLI工具能显著降低AI产品使用门槛，应考虑将高频操作封装为简单命令。机会点：可围绕部署流程构建完整的开发者体验，如增加版本回滚、流量切换等功能。"
+    },
+    {
+      "id": "20260317_005",
+      "title": "首个医疗机器人数据集及Healthcare Robotics基础Physical AI模型",
+      "originalTitle": "The First Healthcare Robotics Dataset and Foundational Physical AI Models for Healthcare Robotics",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 16 Mar 2026 21:58:40 GMT",
+      "crawlDate": "2026-03-17",
+      "source": {
+        "name": "Hugging Face",
         "type": "官方",
-        "url": "https://openai.com/index/instruction-hierarchy-challenge"
+        "url": "https://huggingface.co/blog/nvidia/physical-ai-for-healthcare-robotics"
       },
       "tags": [
         "官方",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "IH-Challenge通过训练模型优先处理可信指令，优化了大型语言模型的指令层级结构。该技术既能提升安全性调控能力，又能增强对提示注入攻击的防御。",
-      "scenarios": "1、企业级AI客服系统的指令安全管控 2、多轮复杂对话的任务优先级管理 3、对抗恶意用户提示注入的安全场景",
-      "techKeywords": "instruction hierarchy：通过建立指令优先级体系，确保关键指令可靠执行。prompt injection attacks：恶意用户通过特殊构造的输入干扰模型正常输出的攻击方式。",
-      "productDesign": "需要建立指令可信度评估体系，可结合用户身份认证数据。可开发可视化指令流监控工具帮助管理员识别异常指令。"
-    },
-    {
-      "id": "20260313_005",
-      "title": "国内唯一入选的 AI 浏览器！QQ浏览器登上 a16z 全球 AI 应用榜单",
-      "originalTitle": "国内唯一入选的 AI 浏览器！QQ浏览器登上 a16z 全球 AI 应用榜单",
-      "category": "application",
-      "categoryName": "应用落地",
-      "publishDate": "Thu, 12 Mar 2026 13:13:50 +0000",
-      "crawlDate": "2026-03-13",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/03/387068.html"
-      },
-      "tags": [
-        "媒体",
-        "应用落地"
-      ],
-      "isHeadline": true,
-      "coreInsight": "QQ浏览器通过集成AI技术实现智能搜索和内容推荐，其核心技术包括NLP和个性化算法。用户可以通过自然语言交互获取精准信息，AI同时学习用户偏好优化推荐结果。",
-      "scenarios": "场景1：智能搜索（长尾问题解答）、场景2：个性化内容推荐（资讯/视频）、场景3：跨语言浏览（实时翻译辅助）",
-      "techKeywords": "NLP(Natural Language Processing)：通过神经网络理解用户查询意图，支持多轮对话和语义分析。Personalized Recommendation：基于用户行为数据构建特征向量，使用协同过滤实现千人千面。",
-      "productDesign": "启示1：浏览器作为AI落地高频场景具有入口价值，启示2：需平衡推荐精准度与用户隐私保护，启示3：可探索跨应用AI服务整合（如办公/社交场景）"
+      "coreInsight": "该技术通过建立首个医疗机器人专用数据集和Physical AI基础模型，实现了医疗场景下机器人动作的智能学习和优化。Physical AI模型将物理世界交互能力与AI结合，使机器人能更安全精准地执行医疗操作。",
+      "scenarios": "手术辅助机器人实时动作规划、康复训练机器人个性化辅助、医院物流机器人智能避障与物品搬运",
+      "techKeywords": "Healthcare Robotics Dataset：首个针对医疗机器人训练的高质量动作数据集，包含临床环境下的多模态传感器数据。Physical AI：将物理规律嵌入AI模型的新型范式，使机器人能理解和适应真实世界的力学约束。",
+      "productDesign": "医疗AI产品可借此建立垂直领域的数据壁垒，需重点设计临床环境下的数据采集方案。模型层面应探索物理约束与深度学习结合的轻量化部署方案，满足医疗场景的实时性要求。"
     }
   ],
   "quickBrowse": [
     {
-      "id": "20260313_q001",
-      "title": "从模型到智能体：为Responses API配备计算环境",
-      "originalTitle": "From model to agent: Equipping the Responses API with a computer environment ",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Wed, 11 Mar 2026 11:00:00 GMT",
-      "crawlDate": "2026-03-13",
+      "id": "20260317_q001",
+      "title": "OpenAI技术或将现身伊朗",
+      "originalTitle": "Where OpenAI’s technology could show up in Iran",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 16 Mar 2026 17:06:21 +0000",
+      "crawlDate": "2026-03-17",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/equip-responses-api-computer-environment"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "OpenAI通过Responses API结合shell工具和托管容器，构建了具备文件处理、工具调用和状态保持能力的智能体运行时环境。这种架构实现了安全可扩展的智能体服务，使AI模型能像代理(agent)一样执行复杂任务流程。",
-      "scenarios": "自动化数据处理流水线、持续学习的对话系统、多步骤问题求解工具",
-      "techKeywords": "Responses API：将AI模型输出转化为结构化响应的接口，支持工具调用和状态管理。Hosted containers：提供隔离的执行环境，确保安全性和资源可扩展性。Shell tool：允许智能体通过命令行与系统交互，扩展其操作能力。",
-      "productDesign": "启示在于将AI模型升级为可编程智能体，建议探索工具插件市场和执行环境标准化。机会存在于构建支持长期记忆和工具链编排的agent开发平台。"
-    },
-    {
-      "id": "20260313_q002",
-      "title": "对话VAST曹炎培：2秒才是3D生成本该有的速度",
-      "originalTitle": "对话VAST曹炎培：2秒才是3D生成本该有的速度",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 12 Mar 2026 12:09:09 +0000",
-      "crawlDate": "2026-03-13",
-      "source": {
-        "name": "量子位",
+        "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/03/386717.html"
+        "url": "https://www.technologyreview.com/2026/03/16/1134315/where-openais-technology-could-show-up-in-iran/"
       },
       "tags": [
         "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "VAST提出的2秒3D生成速度突破了传统3D建模的效率瓶颈，采用AI加速的神经渲染技术。这种即时生成能力将极大降低3D内容创作门槛，推动实时交互场景发展。",
-      "scenarios": "游戏资产实时生成、电商3D产品展示、AR/VR即时内容创作",
-      "techKeywords": "Neural Rendering：通过神经网络直接学习3D表征到2D图像的映射，跳过传统渲染管线。Instant 3D Generation：使用扩散模型等AI技术实现端到端的快速3D模型生成。",
-      "productDesign": "PM应重点关注3D生成工具与设计工作流的无缝集成，探索实时协作场景。同时需要优化生成质量与速度的平衡点，建立用户对AI生成内容的信任机制。"
-    },
-    {
-      "id": "20260313_q003",
-      "title": "自主上下文压缩",
-      "originalTitle": "Autonomous context compression",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Wed, 11 Mar 2026 18:24:27 GMT",
-      "crawlDate": "2026-03-13",
-      "source": {
-        "name": "LangChain",
-        "type": "Agent",
-        "url": "https://blog.langchain.com/autonomous-context-compression/"
-      },
-      "tags": [
-        "Agent",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "核心技术是通过Deep Agents SDK实现模型的自主上下文压缩功能，允许AI在适当时机自动精简工作记忆中的旧信息。该方法解决了长上下文场景下的内存效率问题。",
-      "scenarios": "长对话会话管理、多轮任务处理、持续学习系统",
-      "techKeywords": "Context compression：通过智能筛选保留关键上下文信息，用摘要或嵌入替换冗余历史记录。Autonomous compression：模型基于实时需求判断何时执行压缩，无需人工干预。",
-      "productDesign": "启示1：需要设计上下文压缩触发策略的配置接口。机会：可开发压缩效果可视化分析工具，辅助调试优化。"
-    },
-    {
-      "id": "20260313_q004",
-      "title": "剖析Agent Harness的内部构造",
-      "originalTitle": "The Anatomy of an Agent Harness",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Wed, 11 Mar 2026 02:41:22 GMT",
-      "crawlDate": "2026-03-13",
-      "source": {
-        "name": "LangChain",
-        "type": "Agent",
-        "url": "https://blog.langchain.com/the-anatomy-of-an-agent-harness/"
-      },
-      "tags": [
-        "Agent",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Agent架构由Model和Harness两部分组成，Model提供智能内核，Harness工程负责构建周边系统使其成为可工作的引擎。Harness的核心价值在于将模型智能转化为实际生产力，当前主要包含接口层、控制层和扩展层三大组件。",
-      "scenarios": "客服对话系统构建、自动化工作流引擎开发、多模态智能体搭建",
-      "techKeywords": "Agent Harness：通过封装模型能力并提供标准化接口，实现模型与业务系统的无缝集成。Model Serving：将训练好的模型部署为可调用的服务，重点解决性能优化和资源管理问题。",
-      "productDesign": "产品设计应关注模型与业务系统的中间件开发，重点打造可插拔的Harness组件库。可通过可视化编排工具降低Harness工程的使用门槛，形成AI工程化解决方案。"
-    },
-    {
-      "id": "20260313_q005",
-      "title": "编程Agent如何重塑工程、产品与设计",
-      "originalTitle": "How Coding Agents Are Reshaping Engineering, Product and Design",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Tue, 10 Mar 2026 22:34:07 GMT",
-      "crawlDate": "2026-03-13",
-      "source": {
-        "name": "LangChain",
-        "type": "Agent",
-        "url": "https://blog.langchain.com/how-coding-agents-are-reshaping-engineering-product-and-design/"
-      },
-      "tags": [
-        "Agent",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "编程Agent通过自动化编码任务重塑EPD协作流程，其核心技术是基于LLM的代码生成与迭代能力。这类工具能直接输出可运行代码，将需求快速转化为技术实现。",
-      "scenarios": "快速原型开发、遗留系统迁移、A/B测试实现",
-      "techKeywords": "Coding Agents：基于大语言模型的自主编程实体，能理解需求并生成完整代码。EPD Collaboration：通过统一代码输出打破工程、产品、设计间的传统协作壁垒。",
-      "productDesign": "产品经理应聚焦需求结构化表达，建立人机协作规范。机会在于通过Agent缩短从PRD到MVP的周期，但需强化需求验证环节。"
-    },
-    {
-      "id": "20260313_q006",
-      "title": "我们如何打造LangChain的GTM Agent",
-      "originalTitle": "How we built LangChain’s GTM Agent",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Mon, 09 Mar 2026 15:30:13 GMT",
-      "crawlDate": "2026-03-13",
-      "source": {
-        "name": "LangChain",
-        "type": "Agent",
-        "url": "https://blog.langchain.com/how-we-built-langchains-gtm-agent/"
-      },
-      "tags": [
-        "Agent",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "LangChain的GTM Agent通过自动化销售流程提升转化率250%，同时为每个销售代表每月节省40小时。该产品利用AI技术自动处理潜在客户跟进和转化任务。",
-      "scenarios": "销售自动化场景、客户线索跟进场景、销售团队效率提升场景",
-      "techKeywords": "GTM Agent(Go-To-Market Agent)：通过自动化销售流程中的关键任务来提升效率。LangChain：利用大语言模型技术构建的AI代理框架。",
-      "productDesign": "产品设计启示在于将AI技术深度整合到销售流程中，创造自动化工作流。机会在于开发更多垂直行业的销售自动化解决方案。"
-    },
-    {
-      "id": "20260313_q007",
-      "title": "AI如何助力改善澳大利亚农村地区的心脏健康",
-      "originalTitle": "How AI is helping improve heart health in rural Australia",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Thu, 12 Mar 2026 15:00:00 +0000",
-      "crawlDate": "2026-03-13",
-      "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/"
-      },
-      "tags": [
-        "官方",
         "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "Google AI利用深度学习算法分析偏远地区患者的医疗数据，通过远程诊断预测心脏疾病风险。该系统整合电子病历和可穿戴设备数据，实现早期干预。",
-      "scenarios": "农村诊所的远程心脏监测、移动医疗车的数据分析、社区医院的疾病预测",
-      "techKeywords": "Deep Learning：通过神经网络识别医疗数据中的复杂模式。Remote Diagnostics：利用云计算实现跨地域的医疗数据共享和分析。",
-      "productDesign": "应重点关注数据采集终端的轻量化设计，解决网络不稳定地区的离线计算需求。可结合联邦学习技术保障患者隐私同时提升模型效果。"
+      "coreInsight": "OpenAI的技术正扩展至国家安全领域，允许国防部在机密环境中使用其AI。这引发了对技术使用边界和安全影响的讨论。",
+      "scenarios": "军事决策支持、情报分析自动化、网络安全防护",
+      "techKeywords": "Classified Environments(English)：指涉密网络环境，要求数据隔离和特殊访问控制。Generative AI(English)：通过深度学习生成新内容，需考虑输出可信度和潜在滥用风险。",
+      "productDesign": "PM需建立严格的use case审核机制，重点关注技术dual-use特性。可开发具有审计功能的enterprise版本控制风险。"
     },
     {
-      "id": "20260313_q008",
-      "title": "开源AI模型SpeciesNet如何助力野生动物保护",
-      "originalTitle": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 06 Mar 2026 18:00:00 +0000",
-      "crawlDate": "2026-03-13",
-      "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/"
-      },
-      "tags": [
-        "官方",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "SpeciesNet是一个开源AI模型，通过计算机视觉技术自动识别野生动物物种。该模型可以被集成到相机陷阱等设备中，帮助研究人员快速分析野外观测数据。",
-      "scenarios": "1. 自然保护区动物种群监测 2. 非法偷猎活动识别预警 3. 濒危物种迁徙路线追踪",
-      "techKeywords": "Transfer Learning：通过预训练模型微调实现高效物种识别。Computer Vision：使用卷积神经网络处理图像数据，提取动物特征。",
-      "productDesign": "启示1：开源策略能加速生态保护技术普及 机会2：可开发配套的移动端数据采集工具 重点3：需要优化边缘计算能力以适应野外环境"
-    },
-    {
-      "id": "20260313_q009",
-      "title": "国防官员揭秘AI聊天机器人如何用于目标锁定决策",
-      "originalTitle": "A defense official reveals how AI chatbots could be used for targeting decisions",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 12 Mar 2026 22:23:34 +0000",
-      "crawlDate": "2026-03-13",
+      "id": "20260317_q002",
+      "title": "超越幼儿期：培育自主AI",
+      "originalTitle": "Nurturing agentic AI beyond the toddler stage",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 16 Mar 2026 13:00:00 +0000",
+      "crawlDate": "2026-03-17",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/"
+        "url": "https://www.technologyreview.com/2026/03/16/1133979/nurturing-agentic-ai-beyond-the-toddler-stage/"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "文章通过人类幼儿发展阶段的类比，揭示AI系统需要经历类似的成长过程。关键在于设计分阶段的评估体系和适应性学习机制，使AI能从简单任务逐步过渡到复杂决策。",
+      "scenarios": "教育领域AI助教的渐进式学习、医疗诊断AI的阶段性能力验证、家庭服务机器人的任务复杂度升级",
+      "techKeywords": "Agentic AI：指具有目标导向和自主行动能力的AI系统，其核心是通过强化学习框架实现环境交互决策。Developmental Benchmarking：用于评估AI系统成长阶段的指标体系，类似儿童发育里程碑的量化标准。",
+      "productDesign": "产品设计应建立清晰的AI能力演进路线图，设置可量化的阶段性目标。需要开发动态评估工具来监控AI系统的成长轨迹，同时设计模块化架构支持能力扩展。"
+    },
+    {
+      "id": "20260317_q003",
+      "title": "《今日下载》：玻璃芯片与“无AI”标识",
+      "originalTitle": "The Download: glass chips and “AI-free” logos",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 16 Mar 2026 12:35:00 +0000",
+      "crawlDate": "2026-03-17",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "美军尝试使用生成式AI系统进行目标优先级排序并提供打击建议，最终由人类审核决策。这展示了AI在军事决策支持系统中的辅助作用，而非完全自主决策。",
-      "scenarios": "军事目标优先级评估、战场态势分析辅助、打击效果预测",
-      "techKeywords": "Generative AI：通过深度学习模型生成新数据或建议，在军事领域可模拟多种打击方案。Targeting Decision Support System：结合AI算法的决策支持系统，用于快速处理多源情报并生成作战建议。",
-      "productDesign": "产品设计需强调人机协同机制，建立明确的决策责任边界。机会在于开发可解释AI模块，使军事人员能理解算法推荐逻辑。"
-    },
-    {
-      "id": "20260313_q010",
-      "title": "《资讯速递》：中国OpenClaw热潮催生早期获利者，美国电池产业遇冷",
-      "originalTitle": "The Download: Early adopters cash in on China’s OpenClaw craze, and US batteries slump",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Thu, 12 Mar 2026 13:02:48 +0000",
-      "crawlDate": "2026-03-13",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/03/12/1134207/the-download-china-openclaw-ai-craze-us-battery-industry-downturn/"
-      },
-      "tags": [
-        "媒体",
-        "开发工具"
-      ],
-      "isHeadline": false,
-      "coreInsight": "核心洞察：OpenClaw是一种新型AI工具，能够接管设备并自主完成任务，其核心技术在于自动化控制算法。该工具通过模仿人类操作行为实现任务自动化，大幅提升工作效率。",
-      "scenarios": "应用场景1：企业自动化流程处理。应用场景2：个人日常任务自动化。应用场景3：复杂系统测试自动化。",
-      "techKeywords": "OpenClaw：基于自动化控制算法的新型AI工具，通过模仿人类操作行为实现设备自主控制。Automated Task Completion：指AI系统在没有人工干预的情况下完成指定任务的技术，关键在于精确的动作序列规划。",
-      "productDesign": "产品启示：可考虑开发垂直领域的自动化AI助手，聚焦高频重复任务场景。机会点在于将OpenClaw技术与企业现有工作流深度融合，打造行业专属解决方案。"
+      "coreInsight": "玻璃基AI芯片通过玻璃材料的介电特性提升信号传输效率，相比硅基芯片具有更低延迟和更高带宽。'无AI'标识反映市场对AI技术滥用的担忧，需要建立技术伦理的可信认证体系。",
+      "scenarios": "高性能计算场景（如超算中心）、边缘AI设备（如自动驾驶）、数据安全敏感领域（如医疗诊断）",
+      "techKeywords": "glass chips：利用玻璃的超低介电损耗特性实现高速互连，通过光刻工艺在玻璃基板集成半导体元件。AI-free certification：针对AI内容泛滥推出的逆向标识，需结合区块链技术实现不可篡改的溯源验证。",
+      "productDesign": "可开发玻璃芯片的散热优化方案和3D堆叠封装技术，抓住材料革新窗口期。针对'无AI'需求构建认证即服务平台，整合检测算法和数字水印技术。"
     }
   ],
-  "total": 15,
+  "total": 8,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
