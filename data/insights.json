@@ -1,10 +1,10 @@
 {
   "date": "20260317",
-  "updateTime": "2026-03-17T01:15:57.511Z",
+  "updateTime": "2026-03-17T13:16:12.981Z",
   "headlines": [
     {
       "id": "20260317_001",
-      "title": "为何Codex Security不包含SAST报告",
+      "title": "为何Codex安全功能不包含SAST报告",
       "originalTitle": "Why Codex Security Doesn’t Include a SAST Report",
       "category": "devtool",
       "categoryName": "开发工具",
@@ -20,33 +20,33 @@
         "开发工具"
       ],
       "isHeadline": true,
-      "coreInsight": "Codex Security通过AI驱动的约束推理和验证技术替代传统SAST，能更精准识别真实漏洞同时大幅降低误报率。其核心技术突破在于用动态约束分析代替静态模式匹配。",
-      "scenarios": "云原生应用安全测试、DevOps流程中的自动化漏洞检测、第三方组件安全审计",
-      "techKeywords": "Constraint Reasoning：通过数学约束条件建模程序行为，AI自动推导可能违反安全规则的执行路径。SAST(Static Application Security Testing)：传统静态分析依赖规则库匹配代码模式，易产生大量误报。",
-      "productDesign": "AI安全产品应聚焦精准性而非检测覆盖率，可借鉴其约束验证思路重构检测引擎。建议探索交互式漏洞验证流程提升结果可信度。"
+      "coreInsight": "Codex Security采用AI驱动的约束推理和验证技术替代传统SAST，通过语义理解减少误报率。其核心原理是将安全规则转化为数学约束条件，通过AI模型动态验证代码漏洞。",
+      "scenarios": "应用场景1：企业级代码仓库的自动化安全扫描。应用场景2：DevOps流程中的实时漏洞检测。应用场景3：教育领域编程作业的安全评估。",
+      "techKeywords": "Constraint Reasoning：将安全规则建模为数学约束问题，通过逻辑推理识别违规模式。AI-driven Validation：使用机器学习模型理解代码语义，区分真实漏洞与语法噪音。",
+      "productDesign": "启示1：AI产品需平衡检测精度与易用性，避免专业术语造成的使用门槛。机会：将约束推理技术封装为可视化规则编辑器，降低安全专家参与成本。"
     },
     {
       "id": "20260317_002",
-      "title": "315曝光的“AI投毒”原理：GEO这样操控大模型推荐",
-      "originalTitle": "315曝光的“AI投毒”原理：GEO这样操控大模型推荐",
+      "title": "从“打到车”到“打到对的车”：AI小滴打开服务消费新空间",
+      "originalTitle": "从“打到车”到“打到对的车”：AI小滴打开服务消费新空间",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Mon, 16 Mar 2026 11:48:07 +0000",
+      "publishDate": "Tue, 17 Mar 2026 11:02:20 +0000",
       "crawlDate": "2026-03-17",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/03/388387.html"
+        "url": "https://www.qbitai.com/2026/03/388608.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "GEO技术通过污染训练数据影响AI推荐结果，揭示了大模型的数据安全风险。攻击者通过注入虚假产品信息，可以操控推荐系统的输出。",
-      "scenarios": "电商推荐系统内容污染、社交媒体虚假信息传播、搜索引擎结果操控",
-      "techKeywords": "Data Poisoning：通过向训练数据注入恶意样本误导模型学习。GEO(Gradient Estimation Optimization)：利用梯度估计优化算法反向操控推荐结果。",
-      "productDesign": "需建立动态数据清洗机制防范投毒攻击，可开发实时反作弊系统作为增值服务。同时探索联邦学习等隐私计算技术保障数据安全。"
+      "coreInsight": "AI小滴通过智能匹配算法优化打车服务体验，将用户需求与司机服务精准对接。该系统利用实时数据处理和个性化推荐技术，实现从单纯叫车到精准匹配的升级。",
+      "scenarios": "商务出行场景中的高端车辆匹配、夜间女性乘客安全匹配、特殊需求乘客（如轮椅）的车辆适配",
+      "techKeywords": "Recommendation Engine：通过用户历史数据和实时偏好分析生成个性化推荐。Matching Algorithm：基于多维度特征（位置、车型、评价等）实现供需双方最优配对。",
+      "productDesign": "产品设计应聚焦需求分层和精准匹配能力建设，可扩展至其他本地生活服务领域。需建立动态服务评价体系持续优化匹配效果，同时注重隐私保护设计。"
     },
     {
       "id": "20260317_003",
@@ -66,14 +66,14 @@
         "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "该平台通过整合LangChain的agent工程能力与NVIDIA的AI算力，提供企业级AI智能体全生命周期管理能力。其核心在于将AI agent的开发、部署、监控形成标准化pipeline，降低企业应用门槛。",
-      "scenarios": "1. 金融领域智能投顾agent部署 2. 电商客服agent规模化应用 3. 制造业自动化流程agent监控",
-      "techKeywords": "Agentic AI：指具备自主决策能力的AI系统，通过多步骤推理和工具调用完成复杂任务。LangChain：开源AI agent框架，提供chain式任务编排和记忆管理能力，支持超10亿次下载的生态体系。",
-      "productDesign": "启示1：企业级AI产品需强化监控和部署能力 2. 与硬件厂商深度整合可打造竞争壁垒 3. 开源生态+商业产品的双轮驱动模式值得借鉴"
+      "coreInsight": "该平台通过整合LangChain的agent工程框架与NVIDIA的AI算力，提供端到端的企业级Agent开发解决方案。核心价值在于将开源框架LangSmith的生产化能力与NVIDIA硬件加速结合，实现AI agents从开发到部署的全生命周期管理。",
+      "scenarios": "场景1：金融领域智能投顾Agent的规模化部署、场景2：电商客服Agent的多轮对话系统搭建、场景3：制造业设备预测性维护Agent的实时决策",
+      "techKeywords": "Agentic AI：通过模块化设计实现自主决策的AI系统，结合LLM与专用工具链完成复杂任务链。NVIDIA AI：利用GPU并行计算加速模型推理，特别适合实时性要求高的Agent应用场景。",
+      "productDesign": "启示1：企业级AI产品需强化部署监控能力，启示2：硬件厂商与AI框架的深度整合是趋势，启示3：开源生态+商业化服务组合拳能加速企业采用"
     },
     {
       "id": "20260317_004",
-      "title": "发布deploy cli工具",
+      "title": "发布deploy cli",
       "originalTitle": "Introducing deploy cli",
       "category": "agent",
       "categoryName": "Agent",
@@ -89,10 +89,10 @@
         "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "核心洞察：LangChain通过deploy cli工具简化了agent的部署流程，将复杂的云端部署封装为命令行操作。该工具集成在langgraph-cli包中，用户可通过langgraph deploy命令一键完成部署。",
-      "scenarios": "应用场景1：开发者在本地调试后快速部署agent到生产环境。应用场景2：DevOps团队通过命令行实现agent的自动化部署。应用场景3：技术教育中演示agent部署的最佳实践。",
-      "techKeywords": "langgraph-cli：LangChain提供的命令行工具包，封装了agent开发部署的常用功能。LangSmith Deployment：LangChain的agent托管平台，提供运行时环境和监控能力。",
-      "productDesign": "产品启示：CLI工具能显著降低AI产品使用门槛，应考虑将高频操作封装为简单命令。机会点：可围绕部署流程构建完整的开发者体验，如增加版本回滚、流量切换等功能。"
+      "coreInsight": "核心洞察：deploy cli通过命令行工具简化了AI agent的部署流程，主要原理是将部署功能集成到langgraph-cli工具包中。用户只需使用langgraph deploy命令即可将agent快速部署至LangSmith平台。",
+      "scenarios": "应用场景1：开发者在本地调试后快速部署agent。应用场景2：CI/CD流程中自动化部署AI服务。应用场景3：技术团队统一管理多agent的部署版本。",
+      "techKeywords": "deploy cli：基于命令行的部署工具，通过预设命令实现自动化部署流程。LangSmith Deployment：LangChain的agent托管平台，提供运行环境和监控能力。",
+      "productDesign": "产品启示：命令行工具能显著降低开发者使用门槛，建议增加更多环境配置和监控命令。机会点：可扩展为支持多云部署的通用AI部署工具。"
     },
     {
       "id": "20260317_005",
@@ -112,15 +112,61 @@
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "该技术通过建立首个医疗机器人专用数据集和Physical AI基础模型，实现了医疗场景下机器人动作的智能学习和优化。Physical AI模型将物理世界交互能力与AI结合，使机器人能更安全精准地执行医疗操作。",
-      "scenarios": "手术辅助机器人实时动作规划、康复训练机器人个性化辅助、医院物流机器人智能避障与物品搬运",
-      "techKeywords": "Healthcare Robotics Dataset：首个针对医疗机器人训练的高质量动作数据集，包含临床环境下的多模态传感器数据。Physical AI：将物理规律嵌入AI模型的新型范式，使机器人能理解和适应真实世界的力学约束。",
-      "productDesign": "医疗AI产品可借此建立垂直领域的数据壁垒，需重点设计临床环境下的数据采集方案。模型层面应探索物理约束与深度学习结合的轻量化部署方案，满足医疗场景的实时性要求。"
+      "coreInsight": "该技术通过构建首个医疗机器人数据集和Physical AI基础模型，实现了医疗场景下的物理交互智能。模型可处理手术辅助、康复训练等需要实体交互的任务，填补了医疗AI在物理世界感知决策的空白。",
+      "scenarios": "微创手术机器人辅助操作、老年康复训练智能陪护、医疗物资自动化运输管理",
+      "techKeywords": "Healthcare Robotics Dataset：首个涵盖医疗物理交互的多模态数据集，包含力觉、视觉和运动轨迹数据。Physical AI Models：通过物理仿真和强化学习构建的实体智能模型，能处理真实世界的力学反馈和运动控制。",
+      "productDesign": "产品设计需重点关注医疗场景下的安全容错机制，建议开发模块化能力组件以适应不同医疗场景。可探索与现有医疗设备的API对接，降低临床部署门槛。"
     }
   ],
   "quickBrowse": [
     {
       "id": "20260317_q001",
+      "title": "Holotron-12B - 高吞吐量计算机使用代理",
+      "originalTitle": "Holotron-12B - High Throughput Computer Use Agent",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Tue, 17 Mar 2026 12:33:39 GMT",
+      "crawlDate": "2026-03-17",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/Hcompany/holotron-12b"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Holotron-12B是一种高吞吐量计算机代理系统，通过分布式计算架构实现高效数据处理。该系统采用代理机制优化资源分配，适用于大规模并行计算任务。",
+      "scenarios": "高性能计算集群管理、分布式数据分析、实时大规模仿真",
+      "techKeywords": "High Throughput Computing：通过并行处理大量独立任务来最大化计算吞吐量。Agent-based System：使用自治代理程序动态分配计算资源，提升系统灵活性。",
+      "productDesign": "该技术展示了分布式计算资源管理的新范式，可借鉴其代理架构设计云计算调度系统。产品设计应关注任务分片算法和资源动态调配机制的优化。"
+    },
+    {
+      "id": "20260317_q002",
+      "title": "今日要闻：OpenAI美军合作案与Grok的CSAM诉讼",
+      "originalTitle": "The Download: OpenAI’s US military deal, and Grok’s CSAM lawsuit",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 17 Mar 2026 12:26:48 +0000",
+      "crawlDate": "2026-03-17",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/03/17/1134322/the-download-openi-us-military-deal-grok-xai-csam-lawsuit/"
+      },
+      "tags": [
+        "媒体",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "OpenAI与美军合作表明生成式AI正从民用领域向国防领域渗透，其核心技术Transformer架构可快速处理战场情报。Grok涉及的CSAM诉讼则凸显AI内容审核面临的法律风险。",
+      "scenarios": "军事决策辅助系统、战场情报实时分析、自动化内容审核平台",
+      "techKeywords": "Transformer：基于自注意力机制的深度学习架构，擅长处理序列数据。CSAM：儿童性虐待材料的法律术语，涉及AI内容检测的伦理边界。",
+      "productDesign": "需建立军事AI应用的伦理审查机制，同时开发内容审核专用模型。可探索联邦学习在敏感数据场景的应用。"
+    },
+    {
+      "id": "20260317_q003",
       "title": "OpenAI技术或将现身伊朗",
       "originalTitle": "Where OpenAI’s technology could show up in Iran",
       "category": "company",
@@ -137,14 +183,14 @@
         "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "OpenAI的技术正扩展至国家安全领域，允许国防部在机密环境中使用其AI。这引发了对技术使用边界和安全影响的讨论。",
-      "scenarios": "军事决策支持、情报分析自动化、网络安全防护",
-      "techKeywords": "Classified Environments(English)：指涉密网络环境，要求数据隔离和特殊访问控制。Generative AI(English)：通过深度学习生成新内容，需考虑输出可信度和潜在滥用风险。",
-      "productDesign": "PM需建立严格的use case审核机制，重点关注技术dual-use特性。可开发具有审计功能的enterprise版本控制风险。"
+      "coreInsight": "OpenAI的技术可能应用于伊朗，展示了AI在敏感国际环境中的潜在影响力。这涉及将AI系统部署于安全要求高的军事和情报场景，技术需适应保密需求。",
+      "scenarios": "军事战略分析、情报信息处理、跨境安全监控",
+      "techKeywords": "Classified AI deployment：指在保密环境中部署AI系统，需特殊数据隔离和加密措施。 GPT-4：OpenAI的生成式AI模型，通过大规模预训练实现复杂语境理解。",
+      "productDesign": "需强化AI系统的安全性和合规设计，开发地域敏感内容过滤机制。考虑建立地缘政治风险评估模块，为政府客户提供定制化解决方案。"
     },
     {
-      "id": "20260317_q002",
-      "title": "超越幼儿期：培育自主AI",
+      "id": "20260317_q004",
+      "title": "培育超越幼儿阶段的自主AI",
       "originalTitle": "Nurturing agentic AI beyond the toddler stage",
       "category": "agent",
       "categoryName": "Agent",
@@ -160,36 +206,13 @@
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "文章通过人类幼儿发展阶段的类比，揭示AI系统需要经历类似的成长过程。关键在于设计分阶段的评估体系和适应性学习机制，使AI能从简单任务逐步过渡到复杂决策。",
-      "scenarios": "教育领域AI助教的渐进式学习、医疗诊断AI的阶段性能力验证、家庭服务机器人的任务复杂度升级",
-      "techKeywords": "Agentic AI：指具有目标导向和自主行动能力的AI系统，其核心是通过强化学习框架实现环境交互决策。Developmental Benchmarking：用于评估AI系统成长阶段的指标体系，类似儿童发育里程碑的量化标准。",
-      "productDesign": "产品设计应建立清晰的AI能力演进路线图，设置可量化的阶段性目标。需要开发动态评估工具来监控AI系统的成长轨迹，同时设计模块化架构支持能力扩展。"
-    },
-    {
-      "id": "20260317_q003",
-      "title": "《今日下载》：玻璃芯片与“无AI”标识",
-      "originalTitle": "The Download: glass chips and “AI-free” logos",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Mon, 16 Mar 2026 12:35:00 +0000",
-      "crawlDate": "2026-03-17",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/03/16/1134301/the-download-glass-ai-chips-ai-free-logo/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "玻璃基AI芯片通过玻璃材料的介电特性提升信号传输效率，相比硅基芯片具有更低延迟和更高带宽。'无AI'标识反映市场对AI技术滥用的担忧，需要建立技术伦理的可信认证体系。",
-      "scenarios": "高性能计算场景（如超算中心）、边缘AI设备（如自动驾驶）、数据安全敏感领域（如医疗诊断）",
-      "techKeywords": "glass chips：利用玻璃的超低介电损耗特性实现高速互连，通过光刻工艺在玻璃基板集成半导体元件。AI-free certification：针对AI内容泛滥推出的逆向标识，需结合区块链技术实现不可篡改的溯源验证。",
-      "productDesign": "可开发玻璃芯片的散热优化方案和3D堆叠封装技术，抓住材料革新窗口期。针对'无AI'需求构建认证即服务平台，整合检测算法和数字水印技术。"
+      "coreInsight": "文章将AI发展类比幼儿成长阶段，强调需要超越基础能力的培育机制。这揭示了当前AI系统需要类似人类发育监测的评估框架，通过里程碑指标来诊断和优化AI成长路径。",
+      "scenarios": "教育科技中的自适应学习系统、医疗领域的早期发育障碍筛查、企业级AI系统的成熟度评估",
+      "techKeywords": "Agentic AI：指具有自主决策能力的AI系统，通过强化学习框架实现目标导向行为。Developmental Benchmarking：采用量化指标跟踪AI系统能力进化，类似婴幼儿成长曲线评估。",
+      "productDesign": "建议设计AI成长仪表盘产品，可视化关键能力发展曲线；建立类似儿科检查的AI系统定期评估服务，填补市场空白。"
     }
   ],
-  "total": 8,
+  "total": 9,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
