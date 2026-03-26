@@ -1,10 +1,10 @@
 {
   "date": "20260326",
-  "updateTime": "2026-03-26T01:24:10.742Z",
+  "updateTime": "2026-03-26T13:20:19.777Z",
   "headlines": [
     {
       "id": "20260326_001",
-      "title": "深入解读我们的Model Spec方法",
+      "title": "深入探讨我们的Model Spec方法",
       "originalTitle": "Inside our approach to the Model Spec",
       "category": "company",
       "categoryName": "企业动态",
@@ -20,10 +20,10 @@
         "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "OpenAI的Model Spec是一个公开的AI行为框架，通过规则化和标准化方法平衡安全性、用户自由和问责制。该框架为AI系统开发提供明确的行为准则，使模型输出更可控可预测。",
-      "scenarios": "企业级AI系统开发、政府监管合规场景、消费者AI产品行为审计",
-      "techKeywords": "Model Spec：通过预设规则集约束AI行为的技术框架，包含目标函数和边界条件设置。Behavior Alignment：将AI系统行为与人类价值观对齐的方法论，采用强化学习和规则引擎结合实现。",
-      "productDesign": "产品设计应建立可解释的行为规范体系，建议开发对应的合规性检测工具。可探索基于该框架的行业定制化解决方案，如金融/医疗等垂直领域。"
+      "coreInsight": "Model Spec是OpenAI提出的公开框架，旨在规范AI模型行为，平衡安全性、用户自由度和问责机制。该框架为模型开发提供标准化指导原则，确保AI系统发展符合伦理要求。",
+      "scenarios": "AI伦理审查场景、多利益相关方协作场景、模型行为审计场景",
+      "techKeywords": "Model Spec：定义AI系统行为的规范框架，包含目标、规则和默认行为设定。Accountability：通过透明化模型决策依据，建立可追溯的问责机制。",
+      "productDesign": "产品设计需内置伦理审查模块，建议开发行为可视化工具帮助追踪模型决策。可探索不同文化背景下的规范本地化方案。"
     },
     {
       "id": "20260326_002",
@@ -43,10 +43,10 @@
         "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "OpenAI通过众包安全测试提升AI系统安全性，该计划利用白帽黑客发现prompt injection等新型攻击方式。本质是借助外部力量完善防御机制的安全工程实践。",
-      "scenarios": "大模型部署前安全测试、生产环境持续监控、新型攻击模式发现",
-      "techKeywords": "prompt injection：通过精心构造的输入绕过AI系统安全限制的技术。data exfiltration：非法提取训练数据或对话记录的隐私泄露风险。",
-      "productDesign": "启示1：安全应作为AI产品的核心feature设计。启示2：可建立分层奖励机制激励白帽黑客。启示3：漏洞数据可反哺RLHF训练。"
+      "coreInsight": "OpenAI通过漏洞赏金计划利用众包模式发现AI系统潜在安全风险。该计划聚焦prompt injection等典型攻击手法，通过经济激励吸引安全研究人员参与。",
+      "scenarios": "AI系统安全测试、对抗攻击防御研究、企业级AI安全审计",
+      "techKeywords": "Prompt injection：通过特殊构造的输入绕过AI系统预设限制。Data exfiltration：攻击者诱导AI模型泄露训练数据中的敏感信息。",
+      "productDesign": "启示：1）安全应作为AI产品的基础设计维度 2）建立白帽黑客协作机制可提升防御能力 3）漏洞披露流程需标准化"
     },
     {
       "id": "20260326_003",
@@ -66,14 +66,14 @@
         "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "OpenAI通过gpt-oss-safeguard技术为开发者提供基于prompt的青少年安全策略，该技术能自动识别和过滤年龄敏感内容。原理是通过强化学习对特定年龄段的危险内容建立防护机制，开发者只需调用API即可实现安全防护。",
-      "scenarios": "教育类AI应用开发、社交媒体内容过滤、青少年心理咨询机器人",
-      "techKeywords": "gpt-oss-safeguard：基于OpenAI的防护框架，通过prompt工程实现内容安全分级。LangChain：用于构建AI应用的开源框架，可集成安全模块实现端到端防护。",
-      "productDesign": "产品设计需重点关注年龄分级防护的细粒度控制，可结合用户画像优化安全策略。这为儿童教育、青少年社交等垂直领域提供了新的合规解决方案。"
+      "coreInsight": "OpenAI通过gpt-oss-safeguard技术提供基于提示词的青少年安全策略，帮助开发者自动识别并过滤年龄敏感内容。该方案让开发者在调用API时能原生集成内容审核能力。",
+      "scenarios": "教育类AI应用开发、青少年社交平台内容过滤、适龄化智能助手构建",
+      "techKeywords": "prompt-based moderation：通过预置安全提示词模板自动触发内容审查机制，无需额外训练模型。gpt-oss-safeguard：OpenAI开源的AI安全中间件，实时分析API请求中的年龄风险因素。",
+      "productDesign": "PM应设计分层内容安全策略，将合规检查前置到Prompt层；可探索垂直领域的安全增强插件市场，如教育场景专用审核模块。"
     },
     {
       "id": "20260326_004",
-      "title": "ChatGPT产品探索功能升级",
+      "title": "ChatGPT产品发现功能上线",
       "originalTitle": "Powering product discovery in ChatGPT",
       "category": "agent",
       "categoryName": "Agent",
@@ -89,33 +89,33 @@
         "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "核心洞察：通过Agentic Commerce Protocol技术实现视觉化购物体验，增强商品发现和比较功能。该协议整合商家系统，使ChatGPT能主动推荐和对比商品。",
-      "scenarios": "应用场景1：电商平台商品智能推荐。应用场景2：跨平台商品参数对比。应用场景3：品牌商家无缝接入AI导购。",
-      "techKeywords": "Agentic Commerce Protocol：基于自主Agent的商务协议框架，实现AI系统与商户平台的自动化数据交互。Visual Immersive Shopping：通过多模态技术呈现3D商品展示和场景化购物体验。",
-      "productDesign": "产品启示：AI导购需强化视觉交互和决策辅助能力。机会点：构建开放式商务协议标准可快速扩充商品库，垂直领域对比工具是差异化方向。"
+      "coreInsight": "该功能通过Agentic Commerce Protocol实现视觉沉浸式购物，核心是让AI代理主动发现并推荐商品。用户可进行多商品对比并直接对接商家系统，本质是AI驱动的电商导流方案。",
+      "scenarios": "场景1：用户模糊需求时的智能商品推荐；场景2：跨平台商品参数横向对比；场景3：品牌商家精准获客渠道",
+      "techKeywords": "Agentic Commerce Protocol：通过AI代理自主决策的电商协议，实现动态商品发现与推荐。Visual Immersion：采用AR/VR技术提升购物体验，需配合3D商品建模与渲染。",
+      "productDesign": "启示1：AI产品需构建协议层实现生态整合；机会2：可视化比较功能可延伸至B2B采购场景；关键点在于平衡商业变现与用户体验。"
     },
     {
       "id": "20260326_005",
-      "title": "中国AI音乐，悄悄把全球第一拿走了",
-      "originalTitle": "中国AI音乐，悄悄把全球第一拿走了",
+      "title": "马斯克xAI联创11跑10！仅剩特斯拉嫡系独苗留守",
+      "originalTitle": "马斯克xAI联创11跑10！仅剩特斯拉嫡系独苗留守",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Wed, 25 Mar 2026 06:36:11 +0000",
+      "publishDate": "Thu, 26 Mar 2026 05:44:52 +0000",
       "crawlDate": "2026-03-26",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/03/391839.html"
+        "url": "https://www.qbitai.com/2026/03/392245.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "中国AI音乐通过深度神经网络技术实现人声与器乐的高保真合成，主要采用WaveNet架构进行音频波形生成。其优势在于通过海量本土音乐数据训练，使生成的音乐更符合东方审美。",
-      "scenarios": "短视频背景音乐定制、智能音乐创作助手、在线教育配乐自动生成",
-      "techKeywords": "WaveNet：使用扩张卷积神经网络直接建模原始音频波形，通过概率预测生成高保真声音。Diffusion Model：通过逐步去噪过程生成音乐，在创作自由度上具有优势。",
-      "productDesign": "需要建立垂直领域音乐数据库以强化特色风格生成能力，建议探索AI与音乐人的协同创作模式。产品层面可重点突破影视/游戏配乐等商用场景。"
+      "coreInsight": "xAI团队大规模流失反映创业公司技术愿景与执行力的失衡。核心成员离职可能导致技术路线变更，需关注人才保留与核心技术传承机制。",
+      "scenarios": "创业公司团队稳定性分析、AI人才市场竞争研究、技术领袖影响力评估",
+      "techKeywords": "Brain Drain：指高技术人才大规模流失现象，会直接影响研发连续性和技术积累。Talent Retention：通过股权激励和文化建设留住核心人才，是AI公司持续创新的关键。",
+      "productDesign": "应建立技术领袖-核心团队-执行层的三级人才架构，通过模块化设计降低人员流动风险。可开发AI人才流动预警系统，实时监控团队健康度。"
     }
   ],
   "quickBrowse": [
@@ -137,36 +137,59 @@
         "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "OpenAI基金会将AI技术与社会公益结合，通过大规模资金投入解决全球性问题。这标志着AI技术从商业应用向社会责任领域拓展的战略转变。",
-      "scenarios": "医疗健康领域的疾病治疗研究、经济不平等问题的AI解决方案、AI系统安全性与韧性建设项目",
-      "techKeywords": "AI resilience：指人工智能系统应对攻击和异常情况的能力。通过持续学习和冗余设计确保系统稳定性。Economic opportunity modeling：使用AI算法分析经济不平等问题，优化资源分配模型。",
-      "productDesign": "启示：AI产品需要拓展社会价值维度，建立技术+公益的商业模式。机会：可开发面向非营利组织的AI解决方案工具箱，同时构建影响力投资评估体系。"
+      "coreInsight": "OpenAI通过基金会拓展技术边界，将AI投资从纯技术研发转向社会影响力领域。1亿美元投入覆盖疾病治疗、经济机会等四个方向，体现AI技术泛化应用趋势。",
+      "scenarios": "AI辅助疾病诊断与药物研发、基于AI的经济不平等解决方案、AI系统安全防护机制开发",
+      "techKeywords": "AI resilience：指AI系统对抗攻击/错误输入时的稳定性，通过对抗训练和异常检测实现。Economic opportunity algorithms：通过机器学习分析就业市场数据，优化资源分配减少经济差距。",
+      "productDesign": "启示1：AI产品需强化社会价值属性；机会2：医疗+AI的交叉领域存在未被满足需求；建议3：建立技术-社会影响的双重评估体系"
     },
     {
       "id": "20260326_q002",
-      "title": "DeepSeek急招Agent方向！一口气放17个岗位，重度Vibe Coding优先",
-      "originalTitle": "DeepSeek急招Agent方向！一口气放17个岗位，重度Vibe Coding优先",
+      "title": "金融Agent再获近2亿加码！启明红杉高瓴集体押注，5个月内连获两轮融资",
+      "originalTitle": "金融Agent再获近2亿加码！启明红杉高瓴集体押注，5个月内连获两轮融资",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Wed, 25 Mar 2026 06:39:13 +0000",
+      "publishDate": "Thu, 26 Mar 2026 10:04:06 +0000",
       "crawlDate": "2026-03-26",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/03/392024.html"
+        "url": "https://www.qbitai.com/2026/03/392684.html"
       },
       "tags": [
         "媒体",
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "DeepSeek正从基础模型研究转向Agent产品化，招聘重心显示其对Agent技术落地的急迫需求。Vibe Coding可能是其Agent开发的核心编程范式，强调开发过程中的沉浸感和高效协作。",
-      "scenarios": "智能个人助理、自动化业务流程、多Agent协同系统",
-      "techKeywords": "Agent：具有自主决策能力的智能体，通过感知-规划-执行循环完成任务。Vibe Coding：强调开发者沉浸状态的编程方法论，通过环境营造提升开发效率。",
-      "productDesign": "PM应重点关注Agent的可组合性和领域适配能力，同时需要设计适合Vibe Coding的开发者体验工具链。快速构建可落地的Agent产品方案是当前竞争焦点。"
+      "coreInsight": "金融Agent采用LLM+领域知识增强技术，通过多轮对话理解用户金融需求。其核心价值在于将复杂金融决策流程自动化，实现7x24小时智能投顾服务。",
+      "scenarios": "私人银行客户资产配置、中小企业现金流智能管理、量化投资策略自动生成",
+      "techKeywords": "LLM（Large Language Model）：基于Transformer架构处理序列数据，通过预训练+微调掌握金融领域知识。RAG（Retrieval-Augmented Generation）：实时检索金融数据库作为上下文，确保输出符合最新市场数据和监管要求。",
+      "productDesign": "需构建金融知识图谱作为决策依据层，关键要解决黑盒模型的监管合规问题。产品形态建议采用对话+可视化看板混合交互，满足专业和普通用户需求。"
     },
     {
       "id": "20260326_q003",
+      "title": "1段话喊来13个“程序员”，阿里Qoder新模式让我躺着当CTO",
+      "originalTitle": "1段话喊来13个“程序员”，阿里Qoder新模式让我躺着当CTO",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Thu, 26 Mar 2026 07:48:45 +0000",
+      "crawlDate": "2026-03-26",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/03/392281.html"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "阿里Qoder通过多智能体协同技术实现自然语言转代码，用户只需描述需求即可自动生成前后端代码。这种AI编程代理模式大幅降低开发门槛，使非技术人员也能快速创建应用。",
+      "scenarios": "中小企业快速原型开发、教育领域编程教学辅助、个人开发者效率工具",
+      "techKeywords": "Multi-agent systems(多智能体系统)：多个AI代理分工协作处理复杂任务，通过角色分配实现端到端开发。Natural language programming(自然语言编程)：将人类语言指令转化为可执行代码，基于大语言模型的语义理解能力。",
+      "productDesign": "产品设计需重点关注自然语言交互的容错机制和需求澄清流程。可探索垂直领域定制化代码生成，如电商、金融等特定场景的模板化解决方案。"
+    },
+    {
+      "id": "20260326_q004",
       "title": "LangSmith Fleet技能",
       "originalTitle": "Skills in LangSmith Fleet",
       "category": "agent",
@@ -183,14 +206,14 @@
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "LangSmith Fleet通过共享技能(shareable skills)实现团队级知识复用，允许将特定任务的专业知识封装为可复用的技能模块。这种设计大幅降低了多智能体协作场景下的知识传递成本。",
-      "scenarios": "1、跨部门AI客服知识同步 2、金融风控模型快速部署 3、医疗诊断AI的专家经验共享",
-      "techKeywords": "LangSmith：LangChain推出的AI智能体编排平台，提供可视化流程构建能力。Shareable Skills：可共享的技能封装单元，包含预训练参数和推理逻辑的完整包。",
-      "productDesign": "启示1：需设计技能版本管理机制确保一致性；机会2：可构建技能市场实现跨组织知识变现；重点3：需要建立技能效果评估体系"
+      "coreInsight": "LangSmith Fleet通过共享技能(Skills)功能实现团队知识复用，本质是基于LLM的模块化能力封装。技术原理是将专业任务处理逻辑封装为可共享的agent技能，支持跨团队部署。",
+      "scenarios": "跨部门AI客服知识同步、金融风控模型快速迭代、医疗诊断多专家知识整合",
+      "techKeywords": "LangSmith：LangChain的企业级AI开发平台，提供agent编排和监控能力。Skills：可复用的任务处理模块，包含prompt模板、工具调用和记忆机制。",
+      "productDesign": "启示1：建立企业技能库降低AI应用门槛。机会2：通过技能市场实现跨组织能力交易。关键要设计技能版本管理和权限控制。"
     },
     {
-      "id": "20260326_q004",
-      "title": "Moda如何利用Deep Agents打造生产级AI设计代理",
+      "id": "20260326_q005",
+      "title": "Moda如何利用Deep Agents打造生产级AI设计助手",
       "originalTitle": "How Moda Builds Production-Grade AI Design Agents with Deep Agents",
       "category": "agent",
       "categoryName": "Agent",
@@ -206,14 +229,14 @@
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "Moda通过基于Deep Agents的多智能体系统，结合LangSmith实现设计流程追踪，使非专业人士也能快速生成专业级视觉设计。该系统实现了AI设计代理的工业化落地，降低了设计门槛。",
-      "scenarios": "电商快速生成产品主图、社交媒体内容自动化设计、中小企品牌视觉系统搭建",
-      "techKeywords": "Deep Agents：基于多智能体协作框架，通过分工协作完成复杂设计任务。LangSmith：提供AI工作流可视化追踪工具，实现设计过程的可解释性和迭代优化。",
-      "productDesign": "启示1：AI产品需构建端到端工作流而非单点工具；机会：垂直领域智能体+低代码平台是下一代企业服务趋势"
+      "coreInsight": "Moda通过基于Deep Agents的多智能体系统，结合LangSmith的追踪功能，使非设计师也能快速生成专业级视觉设计。该系统实现了设计流程的自动化和迭代优化。",
+      "scenarios": "1)电商产品主图快速生成 2)社交媒体广告素材批量制作 3)UI设计原型自动迭代",
+      "techKeywords": "Deep Agents：基于多个专业领域AI智能体协同工作的框架，每个Agent负责特定设计子任务。LangSmith：提供AI工作流可视化追踪的工具，帮助调试和优化多智能体系统的协作过程。",
+      "productDesign": "该案例验证了垂直领域AI助手的商业价值，启示我们可以将复杂专业流程拆解为标准化AI子任务。建议关注设计领域外的其他专业场景的AI赋能机会。"
     },
     {
-      "id": "20260326_q005",
-      "title": "LangChain亮相Google Cloud Next 2026",
+      "id": "20260326_q006",
+      "title": "LangChain亮相Google Cloud Next 2026大会",
       "originalTitle": "Join LangChain at Google Cloud Next 2026",
       "category": "agent",
       "categoryName": "Agent",
@@ -229,13 +252,13 @@
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "LangChain作为AI代理开发框架，通过链式调用语言模型实现复杂任务。本次参展Google Cloud Next将展示其与云服务的深度集成能力。",
-      "scenarios": "1. 企业级AI工作流自动化 2. 云端LLM应用开发 3. 多模型协作的智能代理系统",
-      "techKeywords": "LangChain：通过模块化chains连接LLMs和工具，支持记忆和状态管理。Agent Development：自主决策的AI系统，可调用API和工具完成多步骤任务。",
-      "productDesign": "重点观察LangChain与云平台API的整合方式，探索降低AI开发门槛的机会。多模型编排能力值得在B端场景中借鉴。"
+      "coreInsight": "LangChain作为AI代理开发框架亮相云技术盛会，其核心价值在于提供模块化组件来构建基于大语言模型的智能代理。通过标准化接口设计，开发者可以快速搭建具备记忆、工具调用等能力的AI工作流。",
+      "scenarios": "企业级AI助手开发、自动化工作流编排、多步骤决策支持系统",
+      "techKeywords": "Agent development：基于LLM的智能代理通过工具调用和记忆机制完成复杂任务。LangChain framework：提供标准化模块连接LLM、记忆存储和外部工具的编排框架。",
+      "productDesign": "建议关注LangChain与云服务的深度集成机会，特别是企业级AI解决方案的快速部署能力。可探索可视化编排工具降低开发门槛，同时需要强化Agent的安全审计功能设计。"
     },
     {
-      "id": "20260326_q006",
+      "id": "20260326_q007",
       "title": "两种不同的agent授权方式",
       "originalTitle": "Two different types of agent authorization",
       "category": "agent",
@@ -252,13 +275,13 @@
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "LangSmith Fleet通过Assistants和Claws两种agent授权模式实现了灵活的身份验证：Assistants采用终端用户凭证保障个性化权限，Claws使用固定凭证确保操作一致性。这种架构同时解决了安全性和标准化需求。",
-      "scenarios": "1.需要个性化权限管理的客服系统、2.要求固定操作权限的自动化流程、3.混合型AI协作平台",
-      "techKeywords": "Assistants：基于终端用户凭证的动态授权机制，适用于需要精细权限控制的场景。Claws：采用预配置凭证的静态授权方案，适合标准化流程执行。",
-      "productDesign": "启示1：分层授权设计可同时满足灵活性和安全性需求；机会：可扩展为多租户SaaS平台的权限管理模块"
+      "coreInsight": "LangSmith Fleet通过Assistants和Claws两种agent授权方式实现差异化访问控制。Assistants采用终端用户个人凭证实现个性化权限，Claws通过固定凭证组提供标准化服务接入。",
+      "scenarios": "多租户SaaS平台的权限隔离、企业级API网关的访问控制、个人助手与系统服务的安全交互",
+      "techKeywords": "Assistants：基于OAuth2.0协议实现用户凭证代理，确保权限与终端用户实时绑定。Claws：采用预置API密钥机制，通过凭证池管理实现服务间固定权限交互。",
+      "productDesign": "产品设计需区分个人代理与系统代理的安全边界，可探索混合授权模式。建议建立凭证生命周期管理模块，结合审计日志完善安全体系。"
     },
     {
-      "id": "20260326_q007",
+      "id": "20260326_q008",
       "title": "评估语音代理的新框架EVA发布",
       "originalTitle": "A New Framework for Evaluating Voice Agents (EVA)",
       "category": "agent",
@@ -275,14 +298,14 @@
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "EVA是一个专门评估语音代理性能的开源框架，采用模块化设计支持自定义评估指标。它通过标准化测试流程解决现有评估方法碎片化的问题。",
-      "scenarios": "智能客服质量评估、语音助手交互优化、多模态对话系统测试",
-      "techKeywords": "Voice Agent：基于语音交互的AI系统，通过ASR和NLU技术理解用户意图。Evaluation Framework：提供标准化测试套件，支持客观指标和主观体验的双重评估。",
-      "productDesign": "启示1：需要建立垂直领域的评估基准；启示2：可扩展框架设计能加速迭代；启示3：开源策略有助于建立行业标准。"
+      "coreInsight": "EVA是一个新型语音代理评估框架，采用模块化设计支持自定义测试场景。该框架通过标准化指标和数据集，解决了语音交互系统评估缺乏统一标准的问题。",
+      "scenarios": "智能客服语音质量评估、车载语音系统性能测试、智能家居多轮对话评测",
+      "techKeywords": "Voice Agent(English): 通过语音接口实现人机交互的AI系统，依赖ASR和NLU技术。Evaluation Framework(English): 系统性评估工具，包含测试用例、基准数据集和量化指标模块。",
+      "productDesign": "启示1：可借鉴其模块化设计思路构建垂直领域评估工具。机会：结合领域知识（如医疗术语）开发专用语音测试集将形成差异化优势。"
     },
     {
-      "id": "20260326_q008",
-      "title": "使用我们最新的音乐生成模型Lyria 3进行创作",
+      "id": "20260326_q009",
+      "title": "用最新音乐生成模型Lyria 3进行创作",
       "originalTitle": "Build with Lyria 3, our newest music generation model",
       "category": "company",
       "categoryName": "企业动态",
@@ -298,56 +321,33 @@
         "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "Lyria 3是Google最新音乐生成模型，通过Gemini API提供付费预览版。该模型采用深度神经网络技术，用户可通过API调用或AI Studio直接测试生成音乐内容。",
-      "scenarios": "游戏背景音乐自动生成、短视频平台智能配乐、音乐创作辅助工具",
-      "techKeywords": "Lyria 3：基于transformer架构的生成模型，通过海量音乐数据训练实现多风格音乐合成。Gemini API：Google的统一AI服务平台，提供标准化接口调用各类AI模型能力。",
-      "productDesign": "音乐生成API商业化释放明确信号，建议优先探索B端内容生产场景。需建立版权检测机制规避法律风险，同时考虑与数字音频工作站(DAW)生态整合。"
-    },
-    {
-      "id": "20260326_q009",
-      "title": "圆桌会议：太空探索的新纪元",
-      "originalTitle": "Roundtables: The Next Era of Space Exploration",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 25 Mar 2026 17:26:26 +0000",
-      "crawlDate": "2026-03-26",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/03/25/1134664/roundtables-the-next-era-of-space-exploration/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "太空探索正在从单次任务转向可持续的星际存在，这需要突破性的生命支持系统和轨道计算技术。AI驱动的自主导航和资源就地利用(ISRU)将成为关键技术。",
-      "scenarios": "火星殖民地的闭环生态系统构建、近地天体防御系统的实时轨道计算、月球基地的3D打印建筑建造",
-      "techKeywords": "ISRU(In-Situ Resource Utilization)：利用外星环境中的原材料生产燃料和建筑材料，减少地球补给依赖。Planetary Defense：通过近地天体监测和偏转技术保护地球免受小行星撞击。",
-      "productDesign": "应开发模块化的太空居住单元设计工具，整合环境参数和材料数据库。AI驱动的轨道预测系统可作为SaaS服务提供给航天机构。"
+      "coreInsight": "Lyria 3是Google最新的音乐生成模型，通过Gemini API提供付费预览。该模型利用深度学习技术，用户可以通过输入文本描述自动生成高质量音乐作品。",
+      "scenarios": "影视配乐创作、广告音乐制作、个人音乐创作",
+      "techKeywords": "Lyria 3：基于transformer架构的生成式AI模型，通过大规模音乐数据训练实现音乐创作。Gemini API：Google的AI服务平台，提供多模态模型接入能力。",
+      "productDesign": "产品机会在于降低音乐创作门槛，可探索与数字音频工作站(DAW)的深度集成。需关注版权归属和创作者分成机制设计。"
     },
     {
       "id": "20260326_q010",
-      "title": "为何这家电池公司转向AI",
-      "originalTitle": "Why this battery company is pivoting to AI",
+      "title": "《The Download》：电池转向AI，数学重写",
+      "originalTitle": "The Download: a battery pivot to AI, and rewriting math",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Wed, 25 Mar 2026 15:02:50 +0000",
+      "publishDate": "Thu, 26 Mar 2026 12:42:53 +0000",
       "crawlDate": "2026-03-26",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/03/25/1134657/battery-company-ai-pivot-ses/"
+        "url": "https://www.technologyreview.com/2026/03/26/1134697/the-download-battery-ai-pivot-new-ai-tool-math/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "传统电池行业面临生存危机，企业正通过AI技术突破性能瓶颈。AI可用于优化电池材料设计和充放电算法，提升能量密度与安全性。",
-      "scenarios": "电动汽车电池性能优化、储能系统寿命预测、消费电子产品快充方案",
-      "techKeywords": "Material Informatics：通过机器学习算法加速新型电极材料的发现过程，替代传统试错实验。Digital Twin：建立电池全生命周期的虚拟仿真模型，实时预测退化行为。",
-      "productDesign": "应重点关注AI+电池的垂直领域解决方案，构建材料数据库与仿真平台。需建立跨学科团队整合电化学专家与AI工程师的能力。"
+      "coreInsight": "电池行业面临生存危机，企业正通过技术转型寻求突破。将电池技术与AI结合可优化能源管理算法，数学重构则可能带来储能效率的突破性进展。",
+      "scenarios": "智能电网的负载预测、电动汽车的续航优化、可再生能源存储系统的效率提升",
+      "techKeywords": "AI optimization：利用机器学习算法实时调整电池充放电策略，可提升20%以上循环寿命。Math rewriting：通过新型数学建模重构储能方程式，突破传统电化学理论限制。",
+      "productDesign": "应开发具备自学习能力的BMS系统，结合数学建模工具包形成差异化方案。可探索电池即服务(BaaS)与AI算力绑定的新模式。"
     }
   ],
   "total": 15,
