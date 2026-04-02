@@ -1,15 +1,38 @@
 {
-  "date": "20260401",
-  "updateTime": "2026-04-01T01:45:17.522Z",
+  "date": "20260402",
+  "updateTime": "2026-04-02T01:21:48.716Z",
   "headlines": [
     {
-      "id": "20260401_001",
+      "id": "20260402_001",
+      "title": "Gradient Labs为每位银行客户配备AI账户经理",
+      "originalTitle": "Gradient Labs gives every bank customer an AI account manager",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Wed, 01 Apr 2026 02:00:00 GMT",
+      "crawlDate": "2026-04-02",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/gradient-labs"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "该方案通过部署GPT-4.1和GPT-5.4 mini/nano模型实现低延迟AI银行服务，采用模型蒸馏技术将大模型能力下沉到轻量化版本，使每个客户都能获得实时响应的专属账户管理服务。",
+      "scenarios": "1.实时交易异常监测、2.个性化理财建议生成、3.7×24小时多轮次客服对话",
+      "techKeywords": "GPT-5.4 nano：通过神经元剪枝和知识蒸馏生成的超轻量模型，在保持70%核心能力的同时推理速度提升5倍。Model distillation：将大模型能力迁移到小模型的关键技术，通过师生架构和损失函数优化实现知识压缩。",
+      "productDesign": "启示1：金融级AI需平衡模型能力与响应速度，启示2：应建立客户数据与AI行为的闭环反馈系统，机会点：可拓展到保险/证券领域的个人数字助理服务。"
+    },
+    {
+      "id": "20260402_002",
       "title": "加速AI下一阶段发展",
       "originalTitle": "Accelerating the next phase of AI",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Tue, 31 Mar 2026 13:00:00 GMT",
-      "crawlDate": "2026-04-01",
+      "crawlDate": "2026-04-02",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -20,88 +43,90 @@
         "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "OpenAI通过122亿美元融资加速前沿AI技术研发，重点投入下一代算力基础设施。这表明大规模预训练模型(ChatGPT/Codex)的商业化落地已进入高速发展阶段。",
-      "scenarios": "企业级AI解决方案、开发者工具平台、全球化AI服务部署",
-      "techKeywords": "Frontier AI：指处于技术前沿的AI系统，通过持续扩大模型规模和数据量突破现有能力边界。Next-generation compute：新型计算架构如专用AI芯片，解决大模型训练中的算力瓶颈问题。",
-      "productDesign": "产品需关注企业级AI需求的定制化方案，同时构建开发者生态。算力优化将成为AI产品的核心竞争维度，需要建立垂直场景的效能评估体系。"
+      "coreInsight": "OpenAI获得1220亿美元新融资，重点用于全球前沿AI技术扩展和下一代算力投资，反映出市场对ChatGPT、Codex等大模型产品的强劲需求。这标志着AI发展进入规模化商业化阶段，基础设施投入成为竞争关键。",
+      "scenarios": "企业级AI解决方案部署、开发者生态工具链构建、全球云计算资源整合",
+      "techKeywords": "frontier AI：指最前沿的生成式AI技术，通过大规模预训练实现多模态能力。next-generation compute：新一代分布式计算架构，支撑千亿参数模型的训练推理。",
+      "productDesign": "产品需关注企业级场景的定制化需求，同时构建开发者友好的API生态。算力基础设施建设将成为差异化竞争点，建议布局模型蒸馏等轻量化技术。"
     },
     {
-      "id": "20260401_002",
-      "title": "助力亚洲灾害响应团队将AI转化为行动",
-      "originalTitle": "Helping disaster response teams turn AI into action across Asia",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Sun, 29 Mar 2026 22:15:00 GMT",
-      "crawlDate": "2026-04-01",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/helping-disaster-response-teams-asia"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "核心洞察：OpenAI与盖茨基金会合作，通过AI技术提升亚洲灾害响应能力。该方案利用机器学习模型快速处理灾害数据，为救援决策提供实时支持。",
-      "scenarios": "应用场景1：灾害预警系统、应用场景2：救援资源调度优化、应用场景3：受灾区域影像分析",
-      "techKeywords": "Machine Learning：通过算法训练模型从灾害数据中学习规律，实现预测和分类。Computer Vision：利用深度学习解析卫星/无人机影像，自动识别受灾区域和损毁程度。",
-      "productDesign": "产品启示：灾害响应场景需要高鲁棒性的边缘计算方案；机会点在于构建低代码AI工具链，降低救灾团队的技术使用门槛。"
-    },
-    {
-      "id": "20260401_003",
-      "title": "智谱上市后首份财报：超7.24亿元！国内收入最高大模型公司，MaaS发力了",
-      "originalTitle": "智谱上市后首份财报：超7.24亿元！国内收入最高大模型公司，MaaS发力了",
+      "id": "20260402_003",
+      "title": "跟美图RoboNeo说句话，AI帮你复刻爆款",
+      "originalTitle": "跟美图RoboNeo说句话，AI帮你复刻爆款",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Tue, 31 Mar 2026 12:08:40 +0000",
-      "crawlDate": "2026-04-01",
+      "publishDate": "Wed, 01 Apr 2026 09:47:50 +0000",
+      "crawlDate": "2026-04-02",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/03/394135.html"
+        "url": "https://www.qbitai.com/2026/04/394547.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "智谱通过MaaS模式实现规模化变现，验证了国内大模型商业化可行性。Token架构力可能是其优化推理成本的关键技术，通过动态分配计算资源提升效率。",
-      "scenarios": "企业智能化升级、开发者平台服务、垂直行业解决方案",
-      "techKeywords": "MaaS(Model as a Service)：将大模型能力通过API形式提供，降低企业AI使用门槛。Token架构力：通过动态Token分配机制优化计算资源利用率，可能涉及注意力机制改进。",
-      "productDesign": "PM应关注MaaS的标准化接口设计，同时探索Token优化带来的成本优势。可考虑构建行业专属的微调服务层，形成差异化竞争力。"
+      "coreInsight": "RoboNeo通过自然语言处理(NLP)技术解析用户输入的爆款描述，结合GAN生成对抗网络快速生成相似风格的视觉内容。产品降低了跨境电商用户的创意门槛，实现一句话生成爆款设计。",
+      "scenarios": "跨境电商商品主图设计、社交媒体爆款内容复刻、快速生成多版本创意素材",
+      "techKeywords": "NLP(Natural Language Processing)：通过BERT等模型理解用户语义需求，转化为设计参数。GAN(Generative Adversarial Network)：利用生成器和判别器对抗训练，输出高保真视觉内容。",
+      "productDesign": "启示在于将专业设计能力封装为自然语言交互接口，机会在于拓展到短视频模板生成等场景。需注意版权风险的规避机制设计。"
     },
     {
-      "id": "20260401_004",
-      "title": "ClawTip来了！ 京东科技首发推出AI智能体的“专属自主零钱包”",
-      "originalTitle": "ClawTip来了！ 京东科技首发推出AI智能体的“专属自主零钱包”",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Tue, 31 Mar 2026 09:12:58 +0000",
-      "crawlDate": "2026-04-01",
+      "id": "20260402_004",
+      "title": "Sora走了，PixVerse V6来了！AI视频空间时间处理能力大增，延时拍摄、慢动作都能搞",
+      "originalTitle": "Sora走了，PixVerse V6来了！AI视频空间时间处理能力大增，延时拍摄、慢动作都能搞",
+      "category": "image-video",
+      "categoryName": "AI绘画/视频",
+      "publishDate": "Wed, 01 Apr 2026 06:42:16 +0000",
+      "crawlDate": "2026-04-02",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/03/394011.html"
+        "url": "https://www.qbitai.com/2026/04/394373.html"
       },
       "tags": [
         "媒体",
+        "AI绘画/视频"
+      ],
+      "isHeadline": true,
+      "coreInsight": "PixVerse V6通过改进空间时间处理算法，显著提升AI视频的流畅度和真实感。其延时拍摄和慢动作功能基于帧插值和动态预测技术实现。",
+      "scenarios": "影视特效制作、短视频平台创意内容、运动赛事慢动作回放",
+      "techKeywords": "Temporal Interpolation：通过在视频帧之间生成中间帧来提升流畅度，实现自然的慢动作效果。Dynamic Prediction：利用AI预测物体运动轨迹，确保插值帧的物理合理性。",
+      "productDesign": "应重点关注垂直领域（如体育/影视）的专业级需求，同时可开发简化版SDK赋能UGC平台。时间轴编辑功能是需要强化的差异化点。"
+    },
+    {
+      "id": "20260402_005",
+      "title": "2026年3月：LangChain通讯",
+      "originalTitle": "March 2026: LangChain Newsletter",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Wed, 01 Apr 2026 21:24:29 GMT",
+      "crawlDate": "2026-04-02",
+      "source": {
+        "name": "LangChain",
+        "type": "Agent",
+        "url": "https://blog.langchain.com/march-2026-langchain-newsletter/"
+      },
+      "tags": [
+        "Agent",
         "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "该产品通过区块链技术实现AI智能体间的去中心化自主支付，采用智能合约自动执行交易流程。本质是为AI生态打造的金融基础设施，使AI在无人干预下完成价值交换。",
-      "scenarios": "AI服务自动结算场景、物联网设备间资源交易场景、元宇宙虚拟经济体系场景",
-      "techKeywords": "Smart Contract：基于预设条件自动执行的数字化协议，保障AI交易不可篡改。DID(Decentralized Identity)：为每个AI智能体分配去中心化身份标识，解决支付主体认证问题。",
-      "productDesign": "启示在于AI原生金融产品的设计需突破人类支付框架，机会点在于构建AI经济体系的清算层。需重点考虑多智能体博弈时的激励机制设计。"
-    },
+      "coreInsight": "核心洞察：LangChain通过NVIDIA集成强化AI模型性能，LangSmith Fleet（原Agent Builder）提供更灵活的智能体构建能力。这展示了AI开发平台向异构计算和模块化架构发展的趋势。",
+      "scenarios": "应用场景1：企业级AI助手开发、应用场景2：分布式AI任务编排、应用场景3：跨平台模型部署",
+      "techKeywords": "NVIDIA integration：利用GPU加速提升LangChain模型推理效率，基于CUDA架构优化计算流程。LangSmith Fleet：模块化智能体构建系统，支持动态组合不同功能模块实现复杂AI工作流。",
+      "productDesign": "产品启示：1）需要关注硬件生态集成能力 2）模块化设计可提升平台扩展性 3）开发者工具链的完整性将成为竞争关键"
+    }
+  ],
+  "quickBrowse": [
     {
-      "id": "20260401_005",
-      "title": "LangChain与MongoDB达成合作：基于可信数据库的AI Agent技术栈",
+      "id": "20260402_q001",
+      "title": "宣布LangChain与MongoDB合作：基于您信赖数据库的AI Agent技术栈",
       "originalTitle": "Announcing the LangChain + MongoDB Partnership: The AI Agent Stack That Runs On The Database You Already Trust",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Tue, 31 Mar 2026 17:00:21 GMT",
-      "crawlDate": "2026-04-01",
+      "crawlDate": "2026-04-02",
       "source": {
         "name": "LangChain",
         "type": "Agent",
@@ -111,45 +136,43 @@
         "Agent",
         "Agent"
       ],
-      "isHeadline": true,
-      "coreInsight": "LangChain与MongoDB整合实现了AI Agent技术栈在数据库层的原生支持，通过Atlas的向量搜索和持久化内存能力，开发者可直接基于可信数据库构建具备自然语言查询和全链路观测的AI应用。这种架构减少了数据迁移成本，使AI能力更贴近业务数据源。",
-      "scenarios": "1. 企业知识库智能问答系统 2. 实时数据分析与自然语言交互仪表盘 3. 需要记忆能力的多轮对话Agent",
-      "techKeywords": "Vector Search：将数据转化为向量进行相似度检索，支持语义查询而非精确匹配。Persistent Memory：使AI Agent能长期保持对话记忆和上下文，突破单次会话限制。",
-      "productDesign": "启示1：数据库原生AI能力将成基础设施标配，需提前布局技术集成方案。机会2：可结合行业数据特性开发垂直领域Agent模板，降低企业AI应用门槛。"
-    }
-  ],
-  "quickBrowse": [
+      "isHeadline": false,
+      "coreInsight": "LangChain与MongoDB合作将AI Agent技术栈直接集成到数据库层，通过MongoDB Atlas提供向量搜索、持久化记忆和自然语言查询能力。这种深度整合允许开发者在已有数据库基础上构建生产级AI代理，并内置端到端可观测性。",
+      "scenarios": "企业知识库智能问答、电商个性化推荐系统、金融领域实时欺诈检测",
+      "techKeywords": "Vector Search：通过将数据转换为向量形式实现语义搜索，支持相似度匹配和高维数据处理。Persistent Memory：使AI Agent能长期保持对话状态和上下文记忆，提升连续交互体验。",
+      "productDesign": "这种数据库原生AI方案降低了技术栈复杂度，启示我们可以将AI能力下沉到基础设施层。产品机会在于开发面向垂直行业的预置AI Agent模板，同时需要加强向量索引的性能监控工具设计。"
+    },
     {
-      "id": "20260401_q001",
-      "title": "TRL v1.0：专为前沿训练优化的Post-Training库",
-      "originalTitle": "TRL v1.0: Post-Training Library Built to Move with the Field",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 31 Mar 2026 00:00:00 GMT",
-      "crawlDate": "2026-04-01",
+      "id": "20260402_q002",
+      "title": "2026年3月最新AI新闻发布",
+      "originalTitle": "The latest AI news we announced in March 2026",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 01 Apr 2026 13:00:00 +0000",
+      "crawlDate": "2026-04-02",
       "source": {
-        "name": "Hugging Face",
+        "name": "Google AI",
         "type": "官方",
-        "url": "https://huggingface.co/blog/trl-v1"
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/"
       },
       "tags": [
         "官方",
-        "大语言模型"
+        "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "TRL v1.0是Hugging Face推出的专为前沿AI训练优化的后训练库，通过模块化设计简化了RLHF等复杂训练流程。其核心价值在于提供标准化接口实现训练流程可复现，同时保持对新研究方向的快速适配能力。",
-      "scenarios": "大语言模型RLHF微调、多模态模型对齐优化、小规模研究团队快速实验",
-      "techKeywords": "RLHF(Reinforcement Learning from Human Feedback)：通过人类反馈数据训练奖励模型，再用强化学习优化生成模型。Post-Training：在预训练模型基础上进行的二次优化阶段，通常包括微调和对齐等关键步骤。",
-      "productDesign": "启示1：开源训练工具链需要平衡灵活性和易用性，模块化设计是关键。机会点：可结合AutoML技术进一步降低复杂训练流程的使用门槛。"
+      "coreInsight": "Google在2026年3月发布的AI更新可能涉及大模型参数突破或新型架构，采用分布式训练提升推理效率。新特性可能通过API开放给开发者，支持多模态输入输出处理。",
+      "scenarios": "企业级自动化文档处理、实时跨语言视频会议转录、工业质检视觉识别",
+      "techKeywords": "Federated Learning：通过分散式设备训练共享模型，保护数据隐私的同时提升模型泛化能力。Neural Architecture Search：自动化搜索最优网络结构，显著降低人工设计模型的试错成本。",
+      "productDesign": "应重点关注API化服务能力，降低企业AI部署门槛；多模态处理能力为C端产品创新提供新可能，如实时AR翻译场景。"
     },
     {
-      "id": "20260401_q002",
-      "title": "使用Veo 3.1 Lite构建，我们最具性价比的视频生成模型",
+      "id": "20260402_q003",
+      "title": "用Veo 3.1 Lite构建，我们最具性价比的视频生成模型",
       "originalTitle": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
       "category": "image-video",
       "categoryName": "AI绘画/视频",
       "publishDate": "Tue, 31 Mar 2026 16:00:00 +0000",
-      "crawlDate": "2026-04-01",
+      "crawlDate": "2026-04-02",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -160,19 +183,65 @@
         "AI绘画/视频"
       ],
       "isHeadline": false,
-      "coreInsight": "Veo 3.1 Lite采用轻量化视频生成架构，通过Gemini API提供高性价比的视频生成服务。该模型优化了计算资源消耗，使得视频生成成本显著降低。",
-      "scenarios": "短视频内容创作、电商产品动态展示、教育行业微课视频生成",
-      "techKeywords": "Video Diffusion Models：通过扩散过程逐步降噪生成视频帧，保持时序连贯性。Lite Architecture：采用模型剪枝和量化技术，在保持质量的前提下减少参数量和计算开销。",
-      "productDesign": "该产品启示我们应注重轻量化技术路线，在API服务中提供差异化成本方案。可探索与垂直行业工具链的深度集成机会。"
+      "coreInsight": "Veo 3.1 Lite采用轻量化视频生成架构，通过Gemini API提供高性价比的短视频生成能力。其核心原理是通过蒸馏压缩技术保持生成质量的同时降低计算成本。",
+      "scenarios": "短视频内容创作、电商广告自动生成、教育课件视频制作",
+      "techKeywords": "Veo 3.1 Lite：基于参数蒸馏的轻量级视频生成模型，在保持1080p画质下减少40%计算开销。Gemini API：Google的多模态AI接口平台，整合了视频生成/编辑/分析的全流程能力。",
+      "productDesign": "启示1：通过模型轻量化可显著降低AI视频生成门槛。机会：可探索与短视频平台的API深度集成，构建垂类内容生成解决方案。"
     },
     {
-      "id": "20260401_q003",
+      "id": "20260402_q004",
+      "title": "《今日要闻：零工训练人形机器人，更优AI基准测试》",
+      "originalTitle": "The Download: gig workers training humanoids, and better AI benchmarks",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 01 Apr 2026 12:10:00 +0000",
+      "crawlDate": "2026-04-02",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "通过零工经济模式训练人形机器人，可降低AI训练成本并提高数据多样性。新型AI基准测试方法能更准确评估机器人学习效果，推动技术迭代。",
+      "scenarios": "医疗辅助机器人训练、家庭服务机器人开发、工业场景适应性测试",
+      "techKeywords": "Humanoid robots：通过仿生结构模拟人类动作，需海量真实环境数据进行行为学习。AI benchmarking：建立多维评估体系，测试机器人在复杂场景中的决策能力和适应性。",
+      "productDesign": "可设计分布式训练平台整合全球零工资源，建立模块化基准测试工具包。重点关注医疗和家庭场景的迁移学习能力开发。"
+    },
+    {
+      "id": "20260402_q005",
+      "title": "在家训练人形机器人的零工",
+      "originalTitle": "The gig workers who are training humanoid robots at home",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 01 Apr 2026 11:00:00 +0000",
+      "crawlDate": "2026-04-02",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/04/01/1134863/humanoid-data-training-gig-economy-2026-breakthrough-technology/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "该新闻展示了利用分布式人力进行机器人动作数据采集的创新模式。通过普通人使用手机录制日常动作，为humanoid robots提供训练数据，降低了AI训练成本。",
+      "scenarios": "1. 远程医疗机器人动作训练 2. 家庭服务机器人行为学习 3. 工业机器人柔性操作模仿",
+      "techKeywords": "Humanoid robots：通过模仿人类动作实现拟人化操作，依赖大量动作捕捉数据训练。Distributed data collection：利用全球分布式网络采集多样化行为数据，提升模型泛化能力。",
+      "productDesign": "可设计众包式数据采集平台，建立动作数据交易市场。需考虑数据标准化和质量控制机制，同时开发轻量化手机端动作捕捉工具。"
+    },
+    {
+      "id": "20260402_q006",
       "title": "转向AI模型定制是架构的必然选择",
       "originalTitle": "Shifting to AI model customization is an architectural imperative",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 31 Mar 2026 14:12:50 +0000",
-      "crawlDate": "2026-04-01",
+      "crawlDate": "2026-04-02",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -183,59 +252,13 @@
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "大模型早期每次迭代性能提升显著，但当前通用能力增长已趋平缓，领域专业化定制成为突破关键。通过将模型与企业专有数据/流程深度融合，可实现真正的阶跃式进步。",
-      "scenarios": "金融领域合规文档解析、医疗影像诊断辅助系统、制造业设备故障预测维护",
-      "techKeywords": "Domain-specialized intelligence：通过垂直领域数据微调和架构优化，突破通用模型天花板。Model fusion：将组织内部知识图谱/工作流与基础模型深度融合，形成领域壁垒。",
-      "productDesign": "需构建企业级模型调优平台，支持私有数据安全训练；重点设计领域适配器模块，降低定制化门槛；探索模型即服务（MaaS）的垂直行业解决方案。"
-    },
-    {
-      "id": "20260401_q004",
-      "title": "《每日下载》：AI健康工具与五角大楼的Anthropic文化战",
-      "originalTitle": "The Download: AI health tools and the Pentagon’s Anthropic culture war",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 31 Mar 2026 12:10:00 +0000",
-      "crawlDate": "2026-04-01",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/03/31/1134934/the-download-testing-ai-health-tools-pentagon-anthropic-culture-war-backfires/"
-      },
-      "tags": [
-        "媒体",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "大型科技公司纷纷布局医疗AI领域，推出医疗聊天机器人。这类工具基于大语言模型技术，通过自然语言处理提供医疗咨询建议，但实际临床效果仍需验证。",
-      "scenarios": "1. 患者初步症状咨询 2. 常见病用药指导 3. 医疗知识科普教育",
-      "techKeywords": "Medical Chatbot：基于NLP技术的对话系统，专门处理医疗领域的问答需求。Large Language Model：通过海量医疗文本训练的大模型，能生成类人的医疗建议回答。",
-      "productDesign": "医疗AI产品需重点关注数据合规性，建议采用医生+AI协同模式。可优先切入慢性病管理等高频场景，需建立严格的临床验证机制。"
-    },
-    {
-      "id": "20260401_q005",
-      "title": "AI基准测试已失效，我们该用什么替代",
-      "originalTitle": "AI benchmarks are broken. Here’s what we need instead.",
-      "category": "application",
-      "categoryName": "应用落地",
-      "publishDate": "Tue, 31 Mar 2026 12:01:08 +0000",
-      "crawlDate": "2026-04-01",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/"
-      },
-      "tags": [
-        "媒体",
-        "应用落地"
-      ],
-      "isHeadline": false,
-      "coreInsight": "当前AI评估体系过于依赖与人类单任务对比的benchmark框架，这种孤立测试无法反映AI在复杂现实场景中的综合能力。需要建立多维度、动态化的新型评估体系，关注AI系统在持续学习、协作能力和情境理解等方面的表现。",
-      "scenarios": "自动驾驶系统综合决策评估、医疗AI的持续学习能力验证、企业服务AI的跨部门协作测试",
-      "techKeywords": "Benchmarking(English)：传统评估方法通过标准化任务量化性能，但无法捕捉真实场景中的动态交互。Human-in-the-loop(English)：将人类专家纳入评估循环，通过协同工作质量来衡量AI系统实用价值。",
-      "productDesign": "产品设计应突破单任务优化思维，构建包含适应性测试、压力测试和长期表现追踪的评估模块。可开发结合领域专家反馈的持续评估SaaS工具，作为差异化竞争点。"
+      "coreInsight": "大模型早期迭代能带来10倍能力跃升，但当前通用模型进步趋于平缓。突破点转向领域专业化定制，通过模型与企业数据/流程深度融合实现阶跃式提升。",
+      "scenarios": "医疗诊断模型训练、金融风控系统优化、制造业质检流程自动化",
+      "techKeywords": "Domain-specialized intelligence：通过垂直领域数据微调和架构改造，使LLMs具备专业领域推理能力。Model customization：在基础模型上叠加企业特有数据层和业务规则，形成差异化能力。",
+      "productDesign": "应构建模组化定制平台，支持企业快速注入领域知识。需开发评估工具量化定制模型的ROI，重点解决数据隔离和迁移学习效率问题。"
     }
   ],
-  "total": 10,
+  "total": 11,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
