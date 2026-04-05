@@ -1,155 +1,84 @@
 {
-  "date": "20260404",
-  "updateTime": "2026-04-04T12:59:38.055Z",
+  "date": "20260405",
+  "updateTime": "2026-04-05T13:01:34.148Z",
   "headlines": [
     {
-      "id": "20260404_001",
-      "title": "OpenAI收购TBPN",
-      "originalTitle": "OpenAI acquires TBPN",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Thu, 02 Apr 2026 10:30:00 GMT",
-      "crawlDate": "2026-04-04",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/openai-acquires-tbpn"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "OpenAI通过收购TBPN加速AI领域的全球对话，这展现了AI公司与媒体平台整合的趋势。该收购将利用TBPN的媒体网络扩大AI技术讨论的覆盖面，促进技术社区间交流。",
-      "scenarios": "AI技术社区建设、独立媒体内容分发、企业级AI解决方案推广",
-      "techKeywords": "Media Network：媒体网络通过聚合内容创作者和分发渠道实现信息高效传播。Acquisition Strategy：收购战略通过整合互补资源快速扩展市场份额和技术影响力。",
-      "productDesign": "PM应关注媒体渠道对技术推广的价值，探索内容与技术产品的结合点。同时可借鉴这种生态整合策略，寻找垂直领域的合作机会。"
-    },
-    {
-      "id": "20260404_002",
-      "title": "Codex现为团队提供更灵活的定价方案",
-      "originalTitle": "Codex now offers more flexible pricing for teams",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Thu, 02 Apr 2026 10:00:00 GMT",
-      "crawlDate": "2026-04-04",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/codex-flexible-pricing-for-teams"
-      },
-      "tags": [
-        "官方",
-        "开发工具"
-      ],
-      "isHeadline": true,
-      "coreInsight": "OpenAI通过推出按量付费的ChatGPT Business和Enterprise方案，降低了企业团队的使用门槛。这种弹性定价模式能让企业根据实际需求灵活扩展AI能力。",
-      "scenarios": "企业客服自动化、内部知识库问答系统、多轮对话场景开发",
-      "techKeywords": "Pay-as-you-go：按实际使用量计费，适合需求波动较大的企业团队。ChatGPT Business：企业级AI对话解决方案，提供更稳定的服务保障和定制化能力。",
-      "productDesign": "产品启示在于企业市场需要更灵活的定价策略。机会点在于可以针对不同规模的团队设计阶梯式功能包，同时提供用量监控工具帮助客户优化成本。"
-    },
-    {
-      "id": "20260404_003",
-      "title": "19岁，常青藤辍学，这群中国年轻人重构了AI记忆",
-      "originalTitle": "19岁，常青藤辍学，这群中国年轻人重构了AI记忆",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sat, 04 Apr 2026 08:24:39 +0000",
-      "crawlDate": "2026-04-04",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/04/396069.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "该团队通过指代消解技术显著提升AI的记忆能力，使AI能更好地理解上下文中的实体关系。Benchmark测试显示其性能远超现有方案，表明在对话连贯性方面取得突破。",
-      "scenarios": "智能客服的多轮对话场景、教育领域的个性化辅导系统、虚拟助手的长上下文记忆优化",
-      "techKeywords": "Coreference Resolution(指代消解)：通过识别文本中指向同一实体的不同表达，建立实体关联关系。Benchmark(基准测试)：采用标准数据集和评估指标量化比较AI系统的记忆能力表现。",
-      "productDesign": "启示1：应重点优化对话系统对长上下文的理解能力；启示2：教育类产品可通过该技术实现更自然的师生互动；启示3：需要建立专有评测体系验证记忆增强效果。"
-    },
-    {
-      "id": "20260404_004",
-      "title": "价值归零！Django创始人警告：30岁程序员受AI冲击最大",
-      "originalTitle": "价值归零！Django创始人警告：30岁程序员受AI冲击最大",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sat, 04 Apr 2026 05:18:34 +0000",
-      "crawlDate": "2026-04-04",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/04/395995.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "AI降低了技术门槛，使原型开发能力普及化。30岁程序员需从基础编码转向更高阶的系统设计和业务理解。",
-      "scenarios": "快速原型开发、自动化编码辅助、低代码平台增强",
-      "techKeywords": "Rapid Prototyping：通过AI工具快速验证产品概念，减少开发周期。Low-code Platform：可视化编程环境，显著降低开发技术要求。",
-      "productDesign": "应重点开发AI辅助设计工具，增强人机协作。同时需要构建面向经验开发者的系统架构设计工具，创造差异化价值。"
-    },
-    {
-      "id": "20260404_005",
-      "title": "浪潮信息直播发布业界企业级OpenClaw方案“企千虾”",
-      "originalTitle": "浪潮信息直播发布业界企业级OpenClaw方案“企千虾”",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Fri, 03 Apr 2026 12:57:21 +0000",
-      "crawlDate": "2026-04-04",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/04/395916.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "OpenClaw方案通过模块化Agent架构实现企业级AI的集中管控，主要采用分布式调度和权限隔离技术。该方案支持通过可视化界面批量部署和管理上千个AI Agent实例。",
-      "scenarios": "应用场景1：跨部门智能客服系统统一管控。应用场景2：制造业产线多AI质检Agent集群管理。应用场景3：金融风控模型的多版本灰度发布。",
-      "techKeywords": "Agent Orchestration：通过中央控制器实现Agent任务分配和状态监控，底层采用消息队列进行通信隔离。Permission Isolation：基于RBAC模型的细粒度权限控制，支持企业级组织架构映射。",
-      "productDesign": "启示1：企业AI管理平台需强化多租户和审计功能设计。机会点：可结合K8s生态开发Agent资源调度插件，提升混合云部署体验。"
-    }
-  ],
-  "quickBrowse": [
-    {
-      "id": "20260404_q001",
-      "title": "Sora向左，阿里向右：全能演技派模型登场千问APP",
-      "originalTitle": "Sora向左，阿里向右：全能演技派模型登场千问APP",
+      "id": "20260405_001",
+      "title": "OpenAI新模型不是GPTX！全新预训练“土豆”曝光，Sora成弃子的原因找到了",
+      "originalTitle": "OpenAI新模型不是GPTX！全新预训练“土豆”曝光，Sora成弃子的原因找到了",
       "category": "image-video",
       "categoryName": "AI绘画/视频",
-      "publishDate": "Fri, 03 Apr 2026 12:54:24 +0000",
-      "crawlDate": "2026-04-04",
+      "publishDate": "Sun, 05 Apr 2026 09:06:59 +0000",
+      "crawlDate": "2026-04-05",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/04/395477.html"
+        "url": "https://www.qbitai.com/2026/04/396535.html"
       },
       "tags": [
         "媒体",
         "AI绘画/视频"
       ],
-      "isHeadline": false,
-      "coreInsight": "阿里千问APP通过集成全能演技派模型，实现了AI内容创作能力的重大突破。该技术采用多模态学习框架，可同时处理文本、图像和视频的生成与交互。",
-      "scenarios": "短视频脚本生成、多模态营销内容创作、交互式教育内容开发",
-      "techKeywords": "Multimodal Learning：通过统一框架处理多种数据模态，实现跨模态内容生成。Actor-Critic Model：结合策略优化和值函数评估，提升生成内容的连贯性和质量。",
-      "productDesign": "产品设计应注重多模态交互的自然性，建议开发场景化创作模板降低用户门槛。同时需要建立内容质量评估体系，确保生成内容符合商业用途标准。"
+      "isHeadline": true,
+      "coreInsight": "OpenAI正在探索非传统路径的预训练模型架构，'土豆'模型可能采用新型神经网络设计。该技术突破可能解释为何暂停Sora项目开发，将资源转向更前沿方向。",
+      "scenarios": "多模态内容生成、复杂决策支持系统、超大规模并行计算",
+      "techKeywords": "Pre-training：通过海量数据预先训练模型基础能力，是当前大模型的核心范式。Neural Architecture Search：自动化搜索最优神经网络结构的技术，可提升模型效率。",
+      "productDesign": "PM应关注非连续技术创新带来的弯道超车机会，同时建立技术雷达机制跟踪竞品动态。需要平衡前沿探索与商业落地的时间窗口。"
     },
     {
-      "id": "20260404_q002",
-      "title": "我的Agent如何在生产中自我修复",
+      "id": "20260405_002",
+      "title": "太初元碁向员工发放百亿算力token并将共建高校AI科教融合学院",
+      "originalTitle": "太初元碁向员工发放百亿算力token并将共建高校AI科教融合学院",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Sun, 05 Apr 2026 08:53:12 +0000",
+      "crawlDate": "2026-04-05",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/04/396533.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "算力token化是创新激励机制，将算力资源转化为可流通的数字资产。高校合作模式推动AI产学研结合，促进人才培养与技术落地。",
+      "scenarios": "企业员工激励、高校AI人才培养、产学研合作项目",
+      "techKeywords": "Computing Token：将算力资源通证化，实现去中心化的资源分配和价值流通。AI Education Integration：通过高校合作建立教学-研发-应用闭环生态，加速AI技术转化。",
+      "productDesign": "可探索算力token的交易平台设计，建立算力资源市场化机制。教育产品需设计校企联动的课程体系和实践项目，提升产学结合度。"
+    },
+    {
+      "id": "20260405_003",
+      "title": "GPT-6，曝光了",
+      "originalTitle": "GPT-6，曝光了",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Sun, 05 Apr 2026 04:49:33 +0000",
+      "crawlDate": "2026-04-05",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/04/396366.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "GPT-6采用跨模态统一架构实现AGI突破，通过超大规模参数和自适应学习机制解决复杂推理任务。其核心在于将语言、视觉、决策等能力整合进单一模型框架。",
+      "scenarios": "工业数字孪生实时决策、全自动科研论文生成、个性化医疗诊断系统",
+      "techKeywords": "Mixture of Experts(MoE)：通过动态激活子模型实现高效计算，专家网络并行处理不同模态任务。Self-improving Architecture：模型通过强化学习实时优化自身参数，形成持续进化能力。",
+      "productDesign": "需构建多模态交互的端到端解决方案框架，重点设计模型可解释性模块。产品需预留API层以支持第三方工具链生态集成。"
+    },
+    {
+      "id": "20260405_004",
+      "title": "我的AI代理如何在生产环境中自我修复",
       "originalTitle": "How My Agents Self-Heal in Production",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Fri, 03 Apr 2026 17:01:03 GMT",
-      "crawlDate": "2026-04-04",
+      "crawlDate": "2026-04-05",
       "source": {
         "name": "LangChain",
         "type": "Agent",
@@ -159,20 +88,20 @@
         "Agent",
         "Agent"
       ],
-      "isHeadline": false,
-      "coreInsight": "核心技术在于构建了一个自动化测试修复闭环系统，通过部署后自动检测回归问题，智能判断变更影响，并自动生成修复方案。该系统实现了从问题发现到修复PR提交的全流程自动化，只需人工审核即可完成生产环境自愈。",
-      "scenarios": "AI客服系统异常自修复、持续集成/持续部署(CI/CD)流程优化、SaaS产品功能异常自动修复",
-      "techKeywords": "Self-Healing：系统通过监控-诊断-修复的闭环机制自动处理运行异常。Agent：在此指能自主执行诊断和修复任务的AI代理程序。GTM：Go-To-Market流程的自动化部署和监控。",
-      "productDesign": "产品设计启示在于将运维自动化提升到智能自治阶段，可延伸开发智能运维SaaS产品。机会点在于将此类自愈能力标准化为可配置模块，降低企业AI系统运维门槛。"
+      "isHeadline": true,
+      "coreInsight": "该方案构建了AI代理的自动化修复系统，通过部署后自动检测回归问题，智能定位变更原因并生成修复PR。实现了从问题发现到修复建议的全流程无人值守，核心在于闭环反馈机制与自动化工作流的结合。",
+      "scenarios": "1.持续部署环境中的AI服务监控 2.自动化回归测试与修复 3.无人值守的DevOps工作流",
+      "techKeywords": "Self-Healing(自我修复)：通过实时监控和自动修复机制保持系统健康。PR(Pull Request)：自动化生成的代码合并请求，包含AI识别的修复方案。",
+      "productDesign": "启示1：AI产品需内置自动化运维能力降低运维成本。机会：可拓展为标准化SRE产品模块，结合可观测性数据训练修复Agent。"
     },
     {
-      "id": "20260404_q003",
-      "title": "开源模型已突破临界点",
+      "id": "20260405_005",
+      "title": "开源模型已跨越关键门槛",
       "originalTitle": "Open Models have crossed a threshold",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Thu, 02 Apr 2026 17:51:54 GMT",
-      "crawlDate": "2026-04-04",
+      "crawlDate": "2026-04-05",
       "source": {
         "name": "LangChain",
         "type": "Agent",
@@ -182,43 +111,45 @@
         "Agent",
         "Agent"
       ],
-      "isHeadline": false,
-      "coreInsight": "开源模型如GLM-5和MiniMax M2.7已在文件操作、工具使用和指令跟随等核心代理任务上媲美闭源前沿模型，其成本和延迟大幅降低。这些突破使企业能以更高效的方式部署AI能力。",
-      "scenarios": "应用场景1：自动化办公流程（如文件分类/归档）。应用场景2：智能客服（多步骤工具调用）。应用场景3：低代码平台中的AI指令执行。",
-      "techKeywords": "Open models：采用透明架构和社区协作开发，通过参数优化实现闭源模型的SOTA性能。Tool use：模型通过API调用外部工具链，结合强化学习优化多步骤任务执行效率。",
-      "productDesign": "应优先在成本敏感但需求明确的B端场景落地，同时构建工具调用中间层降低集成门槛。可设计模块化能力组合方案满足差异化需求。"
-    },
+      "isHeadline": true,
+      "coreInsight": "开源模型GLM-5和MiniMax M2.7在文件操作、工具使用和指令跟随等核心代理任务上已媲美闭源前沿模型，同时具备显著成本和延迟优势。这些突破意味着企业可以用更低的成本部署高性能AI解决方案。",
+      "scenarios": "1.企业自动化流程搭建；2.开发者快速集成AI能力；3.低成本AI助手部署",
+      "techKeywords": "GLM-5：基于Transformer架构的开源大模型，通过参数优化实现与闭源模型相当的性能。MiniMax M2.7：轻量化设计模型，在保持准确率的同时显著降低计算资源消耗和响应延迟。",
+      "productDesign": "1.应优先考虑在成本敏感场景推广开源模型方案；2.需要构建配套的工具链降低开发者使用门槛；3.可探索开源模型与闭源模型的混合部署策略。"
+    }
+  ],
+  "quickBrowse": [
     {
-      "id": "20260404_q004",
-      "title": "2026年3月：LangChain通讯",
-      "originalTitle": "March 2026: LangChain Newsletter",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Wed, 01 Apr 2026 21:24:29 GMT",
-      "crawlDate": "2026-04-04",
+      "id": "20260405_q001",
+      "title": "Linux内核维护者崩溃了！AI每天狂塞10份漏洞报告，想摸会鱼都难",
+      "originalTitle": "Linux内核维护者崩溃了！AI每天狂塞10份漏洞报告，想摸会鱼都难",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Sun, 05 Apr 2026 02:24:23 +0000",
+      "crawlDate": "2026-04-05",
       "source": {
-        "name": "LangChain",
-        "type": "Agent",
-        "url": "https://blog.langchain.com/march-2026-langchain-newsletter/"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/04/396358.html"
       },
       "tags": [
-        "Agent",
-        "Agent"
+        "媒体",
+        "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "LangChain通过集成NVIDIA技术提升AI代理性能，LangSmith Fleet（原Agent Builder）的推出标志着AI代理开发进入工业化阶段。该技术通过模块化组件和可视化工具降低开发门槛。",
-      "scenarios": "企业级AI客服系统开发、自动化数据标注流程、跨平台智能工作流编排",
-      "techKeywords": "NVIDIA integration：利用NVIDIA GPU加速LangChain的推理性能，特别适合大规模语言模型部署。LangSmith Fleet：提供可视化AI代理开发环境，支持分布式训练和版本管理。",
-      "productDesign": "应重点关注异构计算资源的整合优化，同时开发面向非技术用户的可视化编排工具。产品设计需要考虑从单点Agent到分布式Fleet的平滑升级路径。"
+      "coreInsight": "AI自动化漏洞检测技术正在重塑开源维护流程，通过静态代码分析(Static Code Analysis)持续扫描代码库。这种自动化审计大幅提升了漏洞发现效率，但也给维护者带来处理压力。",
+      "scenarios": "企业级代码安全审计、开源社区自动化贡献、研发效能监控平台",
+      "techKeywords": "Static Code Analysis：通过解析源代码而不执行程序来检测漏洞。Fuzz Testing：通过自动生成异常输入来发现程序边界问题。",
+      "productDesign": "需要设计AI报告分级过滤机制，建立漏洞严重度评估模型。可开发维护者工作台集成自动化修复建议功能。"
     },
     {
-      "id": "20260404_q005",
+      "id": "20260405_q002",
       "title": "免费在Google Vids中创建、编辑和分享视频",
       "originalTitle": "Create, edit and share videos at no cost in Google Vids",
       "category": "image-video",
       "categoryName": "AI绘画/视频",
       "publishDate": "Thu, 02 Apr 2026 16:00:00 +0000",
-      "crawlDate": "2026-04-04",
+      "crawlDate": "2026-04-05",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -229,19 +160,19 @@
         "AI绘画/视频"
       ],
       "isHeadline": false,
-      "coreInsight": "Google Vids通过Lyria 3和Veo 3.1实现免费高质量视频生成，降低创作门槛。AI驱动自动编辑功能简化视频制作流程，用户只需输入需求即可快速产出内容。",
-      "scenarios": "1.社交媒体短视频创作 2.企业宣传视频制作 3.教育课程视频生成",
-      "techKeywords": "Lyria 3：Google开发的生成式AI模型，通过扩散模型技术实现高清视频合成。Veo 3.1：视频增强算法，能智能修复画质并优化动态效果。",
-      "productDesign": "启示1：AI视频工具需平衡生成质量与操作简易度。机会点：可探索模板化AI创作+专业级参数调节的混合交互模式。"
+      "coreInsight": "Google Vids通过整合Lyria 3和Veo 3.1的AI能力实现免费高质量视频生成，用户可简易完成创作-编辑-分享全流程。该技术降低了视频制作门槛，将AI生成能力直接集成到生产力工具中。",
+      "scenarios": "自媒体内容快速生产、中小企业营销视频制作、教育机构课件视频生成",
+      "techKeywords": "Lyria 3：Google新一代视频生成模型，基于扩散模型实现高保真度视频合成。Veo 3.1：多模态视频编辑系统，通过语义理解实现智能剪辑和特效添加。",
+      "productDesign": "验证了'AI+生产力工具'的产品范式可行性，建议关注垂直场景的模板化设计。需平衡生成质量与计算成本，可探索分层订阅模式。"
     },
     {
-      "id": "20260404_q006",
+      "id": "20260405_q003",
       "title": "编码代理的组件",
       "originalTitle": "Components of A Coding Agent",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Sat, 04 Apr 2026 11:45:37 GMT",
-      "crawlDate": "2026-04-04",
+      "crawlDate": "2026-04-05",
       "source": {
         "name": "Sebastian Raschka",
         "type": "专家",
@@ -252,19 +183,19 @@
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "编码代理通过整合Tools（工具调用）、Memory（记忆机制）和Repo Context（代码库上下文）三大组件，显著提升LLMs在编程任务中的实用性。这种架构使AI能动态调用开发工具、积累项目知识并理解代码库结构，实现更精准的代码生成和问题解决。",
-      "scenarios": "1)自动化代码补全和错误修复、2)跨文件级代码重构、3)新开发者快速熟悉大型代码库",
-      "techKeywords": "Tools(English)：允许AI动态调用编译器、调试器等开发工具，突破纯文本生成的限制。Memory(English)：通过向量数据库存储历史交互和项目知识，实现持续学习。Repo Context(English)：解析整个代码库的拓扑关系，使AI具备全局视角。",
-      "productDesign": "需要设计可插拔的工具集成框架，支持企业私有代码库的快速接入。记忆模块应考虑权限隔离机制，不同项目间的知识存储需严格分离。"
+      "coreInsight": "编码代理通过整合工具链、记忆系统和代码库上下文，显著提升LLMs在实际编程任务中的表现。这种架构使LLMs能持续学习并适应具体项目环境，超越单次对话的局限。",
+      "scenarios": "自动化代码补全、遗留系统文档生成、跨项目代码迁移",
+      "techKeywords": "Tool Use(工具使用)：编码代理通过API调用外部工具执行编译/测试等操作，扩展LLMs能力边界。Memory(记忆系统)：长期记忆机制存储项目历史信息，实现上下文感知的持续改进。Repo Context(代码库上下文)：通过embedding和检索技术将整个代码库作为参考，提升代码生成相关性。",
+      "productDesign": "产品设计应构建可扩展的工具集成框架，支持用户自定义工作流。重点优化记忆系统的信息检索效率，同时开发细粒度的代码库上下文感知能力。"
     },
     {
-      "id": "20260404_q007",
-      "title": "将数据中心送入太空所需的四大要素",
+      "id": "20260405_q004",
+      "title": "太空数据中心所需的四大要素",
       "originalTitle": "Four things we’d need to put data centers in space",
       "category": "application",
       "categoryName": "应用落地",
       "publishDate": "Fri, 03 Apr 2026 17:03:19 +0000",
-      "crawlDate": "2026-04-04",
+      "crawlDate": "2026-04-05",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -275,59 +206,13 @@
         "应用落地"
       ],
       "isHeadline": false,
-      "coreInsight": "将数据中心送入太空的核心是解决能源供应、散热、轨道稳定性和数据传输四大技术挑战。SpaceX方案利用轨道太阳能供电和真空环境自然散热，通过星间激光通信实现高速数据传输。",
-      "scenarios": "边缘计算服务全球覆盖、高安全性政府数据存储、太空探索任务实时数据处理",
-      "techKeywords": "Orbital solar power：利用太空无遮挡的太阳能照射，通过高效光伏板为数据中心提供持续能源。Laser communication：通过星间激光链路建立高速数据传输网络，避免大气层信号衰减问题。",
-      "productDesign": "可设计模块化太空数据中心单元，结合地面混合云架构形成天地一体的计算网络。重点需要开发自主轨道维持系统和抗辐射硬件解决方案。"
-    },
-    {
-      "id": "20260404_q008",
-      "title": "今日要闻：塑料行业面临燃料价格压力，SpaceX启动重磅IPO",
-      "originalTitle": "The Download: plastic’s problem with fuel prices, and SpaceX’s blockbuster IPO",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 02 Apr 2026 12:10:00 +0000",
-      "crawlDate": "2026-04-04",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/04/02/1135049/the-download-plastic-problem-fuel-prices-spacex-ipo/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "燃料价格上涨对塑料产业产生连锁反应，揭示了传统能源依赖型产业的脆弱性。SpaceX的IPO显示了资本市场对航天科技商业化前景的持续看好。",
-      "scenarios": "新能源材料研发替代传统塑料、航天科技商业化融资、全球供应链风险预警系统",
-      "techKeywords": "Fossil-fuel dependency：指产业对化石燃料的深度依赖，价格上涨会引发产业链成本危机。Blockchain IPO：指SpaceX可能采用区块链技术实现的新型IPO模式，提高融资效率和透明度。",
-      "productDesign": "应开发能源价格波动预警系统帮助塑料企业规避风险。航天领域可探索tokenization融资模式，降低投资门槛。重点关注生物可降解材料的商业化机会。"
-    },
-    {
-      "id": "20260404_q009",
-      "title": "燃料价格飙升，塑料或成下一个OpenAI/LangChain",
-      "originalTitle": "Fuel prices are soaring. Plastic could be next.",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 02 Apr 2026 10:00:00 +0000",
-      "crawlDate": "2026-04-04",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/04/02/1135045/plastic-economic-effects/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "地缘政治冲突导致化石燃料价格飙升，可能引发塑料等石油衍生品产业链的连锁反应。这揭示了全球供应链对关键原材料的脆弱依赖，类似AI领域对算力/数据的依赖关系。",
-      "scenarios": "1、替代材料研发场景 2、供应链数字化监控场景 3、能源敏感型AI算力优化场景",
-      "techKeywords": "Supply Chain Resilience：通过数字孪生和实时数据分析提升供应链韧性。Bio-based Polymers：利用生物合成技术开发不依赖石油的替代性高分子材料。",
-      "productDesign": "可构建能源价格波动预警系统，结合大宗商品期货数据训练预测模型。在工业设计领域推动模块化材料方案，类似AI领域的模型微调机制。"
+      "coreInsight": "太空数据中心利用轨道微重力环境解决地面数据中心散热难题，通过太空太阳能供电实现能源自给。该技术将计算节点分布到近地轨道，形成分布式计算网络。",
+      "scenarios": "全球低延迟计算服务、太空云计算平台、灾难备份数据中心",
+      "techKeywords": "Orbital Computing：通过近地轨道卫星群构建分布式计算网络，利用空间真空环境天然散热。Space-based Solar Power：在轨太阳能发电直接供给数据中心，避免地面-太空能源传输损耗。",
+      "productDesign": "需开发新型太空服务器硬件架构，重点优化抗辐射和热管理设计。可探索天地协同计算模式，将高延迟业务部署在太空。"
     }
   ],
-  "total": 14,
+  "total": 9,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
