@@ -1,178 +1,132 @@
 {
-  "date": "20260405",
-  "updateTime": "2026-04-05T13:01:34.148Z",
+  "date": "20260407",
+  "updateTime": "2026-04-07T01:25:15.089Z",
   "headlines": [
     {
-      "id": "20260405_001",
-      "title": "OpenAI新模型不是GPTX！全新预训练“土豆”曝光，Sora成弃子的原因找到了",
-      "originalTitle": "OpenAI新模型不是GPTX！全新预训练“土豆”曝光，Sora成弃子的原因找到了",
-      "category": "image-video",
-      "categoryName": "AI绘画/视频",
-      "publishDate": "Sun, 05 Apr 2026 09:06:59 +0000",
-      "crawlDate": "2026-04-05",
+      "id": "20260407_001",
+      "title": "OpenAI宣布启动安全研究员计划",
+      "originalTitle": "Announcing the OpenAI Safety Fellowship",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Mon, 06 Apr 2026 10:00:00 GMT",
+      "crawlDate": "2026-04-07",
       "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/04/396535.html"
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/introducing-openai-safety-fellowship"
       },
       "tags": [
-        "媒体",
-        "AI绘画/视频"
+        "官方",
+        "科研突破"
       ],
       "isHeadline": true,
-      "coreInsight": "OpenAI正在探索非传统路径的预训练模型架构，'土豆'模型可能采用新型神经网络设计。该技术突破可能解释为何暂停Sora项目开发，将资源转向更前沿方向。",
-      "scenarios": "多模态内容生成、复杂决策支持系统、超大规模并行计算",
-      "techKeywords": "Pre-training：通过海量数据预先训练模型基础能力，是当前大模型的核心范式。Neural Architecture Search：自动化搜索最优神经网络结构的技术，可提升模型效率。",
-      "productDesign": "PM应关注非连续技术创新带来的弯道超车机会，同时建立技术雷达机制跟踪竞品动态。需要平衡前沿探索与商业落地的时间窗口。"
+      "coreInsight": "OpenAI启动独立安全研究员培养计划，旨在通过资助机制培养AI安全与对齐领域的下一代人才。该计划通过支持独立研究者来探索前沿的AI安全解决方案。",
+      "scenarios": "AI安全研究人才培养、独立AI安全方案孵化、AI伦理与对齐研究社区建设",
+      "techKeywords": "Safety Research(English)：研究AI系统在复杂环境中的安全边界和失效模式。Alignment(English)：确保AI系统目标与人类价值观长期一致的技术研究方向。",
+      "productDesign": "企业可借鉴这种开放生态模式构建专业人才池，同时建议建立配套的成果转化机制，将理论研究快速落地为产品安全特性。"
     },
     {
-      "id": "20260405_002",
-      "title": "太初元碁向员工发放百亿算力token并将共建高校AI科教融合学院",
-      "originalTitle": "太初元碁向员工发放百亿算力token并将共建高校AI科教融合学院",
+      "id": "20260407_002",
+      "title": "智能时代的产业政策",
+      "originalTitle": "Industrial policy for the Intelligence Age",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Sun, 05 Apr 2026 08:53:12 +0000",
-      "crawlDate": "2026-04-05",
+      "publishDate": "Mon, 06 Apr 2026 02:30:00 GMT",
+      "crawlDate": "2026-04-07",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "OpenAI提出了以人为本的AI产业政策框架，强调在人工智能发展过程中需要平衡技术发展与社会效益。该政策聚焦三大支柱：机会平等、繁荣共享和机构韧性。",
+      "scenarios": "政府AI产业政策制定、企业AI伦理框架建设、教育机构AI人才培养",
+      "techKeywords": "Industrial policy：产业政策指政府为引导特定产业发展而制定的系统性政策组合。Resilient institutions：韧性机构指能适应技术变革并保持核心功能的组织体系。",
+      "productDesign": "产品设计需考虑政策合规性，建议开发AI影响评估工具。可探索构建政府-企业协作平台，实现政策与技术的良性互动。"
+    },
+    {
+      "id": "20260407_003",
+      "title": "让大模型多模态检索全面超越SOTA！ReCALL框架化解生成式与判别式的范式冲突｜CVPR’26",
+      "originalTitle": "让大模型多模态检索全面超越SOTA！ReCALL框架化解生成式与判别式的范式冲突｜CVPR’26",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 06 Apr 2026 15:30:59 +0000",
+      "crawlDate": "2026-04-07",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/04/396533.html"
+        "url": "https://www.qbitai.com/2026/04/396863.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "算力token化是创新激励机制，将算力资源转化为可流通的数字资产。高校合作模式推动AI产学研结合，促进人才培养与技术落地。",
-      "scenarios": "企业员工激励、高校AI人才培养、产学研合作项目",
-      "techKeywords": "Computing Token：将算力资源通证化，实现去中心化的资源分配和价值流通。AI Education Integration：通过高校合作建立教学-研发-应用闭环生态，加速AI技术转化。",
-      "productDesign": "可探索算力token的交易平台设计，建立算力资源市场化机制。教育产品需设计校企联动的课程体系和实践项目，提升产学结合度。"
+      "coreInsight": "ReCALL框架通过'诊断-生成-校准'闭环体系，创新性融合生成式与判别式方法，显著提升多模态检索性能。其核心在于动态诊断模型弱点并针对性生成增强数据，最后通过校准机制优化结果。",
+      "scenarios": "跨模态内容检索、智能客服多轮对话、教育领域课件精准推荐",
+      "techKeywords": "ReCALL：通过诊断模块识别模型不足，生成模块创造增强数据，校准模块优化最终输出。Generative-Discriminative Paradigm：突破传统单一范式限制，通过协同优化实现1+1>2的效果。",
+      "productDesign": "启示1：闭环优化机制可迁移至其他AI产品迭代流程。机会：在医疗影像诊断等专业领域，可结合领域知识构建垂直增强模块。"
     },
     {
-      "id": "20260405_003",
-      "title": "GPT-6，曝光了",
-      "originalTitle": "GPT-6，曝光了",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sun, 05 Apr 2026 04:49:33 +0000",
-      "crawlDate": "2026-04-05",
+      "id": "20260407_004",
+      "title": "OpenAI又曝出内讧了！IPO前夜高层大换血",
+      "originalTitle": "OpenAI又曝出内讧了！IPO前夜高层大换血",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 06 Apr 2026 05:23:28 +0000",
+      "crawlDate": "2026-04-07",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/04/396366.html"
+        "url": "https://www.qbitai.com/2026/04/396704.html"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "GPT-6采用跨模态统一架构实现AGI突破，通过超大规模参数和自适应学习机制解决复杂推理任务。其核心在于将语言、视觉、决策等能力整合进单一模型框架。",
-      "scenarios": "工业数字孪生实时决策、全自动科研论文生成、个性化医疗诊断系统",
-      "techKeywords": "Mixture of Experts(MoE)：通过动态激活子模型实现高效计算，专家网络并行处理不同模态任务。Self-improving Architecture：模型通过强化学习实时优化自身参数，形成持续进化能力。",
-      "productDesign": "需构建多模态交互的端到端解决方案框架，重点设计模型可解释性模块。产品需预留API层以支持第三方工具链生态集成。"
+      "coreInsight": "OpenAI高层变动反映AI公司在商业化与技术路线上存在分歧。核心问题可能是如何平衡技术研发与IPO压力，这会影响模型迭代节奏和产品化路径。",
+      "scenarios": "技术团队管理、企业战略转型、初创公司融资",
+      "techKeywords": "IPO(Initial Public Offering)：企业首次公开募股过程，涉及财务透明化与商业战略调整。Governance(治理)：组织决策机制，影响技术路线与商业化的平衡。",
+      "productDesign": "需要建立技术决策与商业目标的协同机制。产品路线图应预留技术红利的兑现周期，同时保持足够的研发投入弹性。"
     },
     {
-      "id": "20260405_004",
-      "title": "我的AI代理如何在生产环境中自我修复",
-      "originalTitle": "How My Agents Self-Heal in Production",
+      "id": "20260407_005",
+      "title": "AI智能体的持续学习",
+      "originalTitle": "Continual learning for AI agents",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Fri, 03 Apr 2026 17:01:03 GMT",
-      "crawlDate": "2026-04-05",
+      "publishDate": "Sun, 05 Apr 2026 21:46:30 GMT",
+      "crawlDate": "2026-04-07",
       "source": {
         "name": "LangChain",
         "type": "Agent",
-        "url": "https://blog.langchain.com/production-agents-self-heal/"
+        "url": "https://blog.langchain.com/continual-learning-for-ai-agents/"
       },
       "tags": [
         "Agent",
         "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "该方案构建了AI代理的自动化修复系统，通过部署后自动检测回归问题，智能定位变更原因并生成修复PR。实现了从问题发现到修复建议的全流程无人值守，核心在于闭环反馈机制与自动化工作流的结合。",
-      "scenarios": "1.持续部署环境中的AI服务监控 2.自动化回归测试与修复 3.无人值守的DevOps工作流",
-      "techKeywords": "Self-Healing(自我修复)：通过实时监控和自动修复机制保持系统健康。PR(Pull Request)：自动化生成的代码合并请求，包含AI识别的修复方案。",
-      "productDesign": "启示1：AI产品需内置自动化运维能力降低运维成本。机会：可拓展为标准化SRE产品模块，结合可观测性数据训练修复Agent。"
-    },
-    {
-      "id": "20260405_005",
-      "title": "开源模型已跨越关键门槛",
-      "originalTitle": "Open Models have crossed a threshold",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 02 Apr 2026 17:51:54 GMT",
-      "crawlDate": "2026-04-05",
-      "source": {
-        "name": "LangChain",
-        "type": "Agent",
-        "url": "https://blog.langchain.com/open-models-have-crossed-a-threshold/"
-      },
-      "tags": [
-        "Agent",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "开源模型GLM-5和MiniMax M2.7在文件操作、工具使用和指令跟随等核心代理任务上已媲美闭源前沿模型，同时具备显著成本和延迟优势。这些突破意味着企业可以用更低的成本部署高性能AI解决方案。",
-      "scenarios": "1.企业自动化流程搭建；2.开发者快速集成AI能力；3.低成本AI助手部署",
-      "techKeywords": "GLM-5：基于Transformer架构的开源大模型，通过参数优化实现与闭源模型相当的性能。MiniMax M2.7：轻量化设计模型，在保持准确率的同时显著降低计算资源消耗和响应延迟。",
-      "productDesign": "1.应优先考虑在成本敏感场景推广开源模型方案；2.需要构建配套的工具链降低开发者使用门槛；3.可探索开源模型与闭源模型的混合部署策略。"
+      "coreInsight": "AI智能体的持续学习可分为模型层(model)、约束层(harness)和上下文层(context)三个层面。这种分层框架突破了传统仅关注模型权重更新的局限，为构建长期进化的AI系统提供了新思路。",
+      "scenarios": "1. 自动驾驶系统在运行中持续优化决策逻辑 2. 客服机器人通过交互历史调整应答策略 3. 医疗诊断AI结合新病例迭代知识库",
+      "techKeywords": "Continual Learning：通过增量训练使AI模型在不遗忘旧知识的前提下吸收新知识。Model Harness：控制模型行为的规则层，可独立于模型进行策略调整。",
+      "productDesign": "产品设计需建立分层学习机制，特别关注harness层的可配置性。通过解耦不同层级的学习节奏，可实现更灵活的系统迭代。"
     }
   ],
   "quickBrowse": [
     {
-      "id": "20260405_q001",
-      "title": "Linux内核维护者崩溃了！AI每天狂塞10份漏洞报告，想摸会鱼都难",
-      "originalTitle": "Linux内核维护者崩溃了！AI每天狂塞10份漏洞报告，想摸会鱼都难",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sun, 05 Apr 2026 02:24:23 +0000",
-      "crawlDate": "2026-04-05",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/04/396358.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "AI自动化漏洞检测技术正在重塑开源维护流程，通过静态代码分析(Static Code Analysis)持续扫描代码库。这种自动化审计大幅提升了漏洞发现效率，但也给维护者带来处理压力。",
-      "scenarios": "企业级代码安全审计、开源社区自动化贡献、研发效能监控平台",
-      "techKeywords": "Static Code Analysis：通过解析源代码而不执行程序来检测漏洞。Fuzz Testing：通过自动生成异常输入来发现程序边界问题。",
-      "productDesign": "需要设计AI报告分级过滤机制，建立漏洞严重度评估模型。可开发维护者工作台集成自动化修复建议功能。"
-    },
-    {
-      "id": "20260405_q002",
-      "title": "免费在Google Vids中创建、编辑和分享视频",
-      "originalTitle": "Create, edit and share videos at no cost in Google Vids",
-      "category": "image-video",
-      "categoryName": "AI绘画/视频",
-      "publishDate": "Thu, 02 Apr 2026 16:00:00 +0000",
-      "crawlDate": "2026-04-05",
-      "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/"
-      },
-      "tags": [
-        "官方",
-        "AI绘画/视频"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Google Vids通过整合Lyria 3和Veo 3.1的AI能力实现免费高质量视频生成，用户可简易完成创作-编辑-分享全流程。该技术降低了视频制作门槛，将AI生成能力直接集成到生产力工具中。",
-      "scenarios": "自媒体内容快速生产、中小企业营销视频制作、教育机构课件视频生成",
-      "techKeywords": "Lyria 3：Google新一代视频生成模型，基于扩散模型实现高保真度视频合成。Veo 3.1：多模态视频编辑系统，通过语义理解实现智能剪辑和特效添加。",
-      "productDesign": "验证了'AI+生产力工具'的产品范式可行性，建议关注垂直场景的模板化设计。需平衡生成质量与计算成本，可探索分层订阅模式。"
-    },
-    {
-      "id": "20260405_q003",
-      "title": "编码代理的组件",
+      "id": "20260407_q001",
+      "title": "编码代理的Components",
       "originalTitle": "Components of A Coding Agent",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Sat, 04 Apr 2026 11:45:37 GMT",
-      "crawlDate": "2026-04-05",
+      "crawlDate": "2026-04-07",
       "source": {
         "name": "Sebastian Raschka",
         "type": "专家",
@@ -183,36 +137,59 @@
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "编码代理通过整合工具链、记忆系统和代码库上下文，显著提升LLMs在实际编程任务中的表现。这种架构使LLMs能持续学习并适应具体项目环境，超越单次对话的局限。",
-      "scenarios": "自动化代码补全、遗留系统文档生成、跨项目代码迁移",
-      "techKeywords": "Tool Use(工具使用)：编码代理通过API调用外部工具执行编译/测试等操作，扩展LLMs能力边界。Memory(记忆系统)：长期记忆机制存储项目历史信息，实现上下文感知的持续改进。Repo Context(代码库上下文)：通过embedding和检索技术将整个代码库作为参考，提升代码生成相关性。",
-      "productDesign": "产品设计应构建可扩展的工具集成框架，支持用户自定义工作流。重点优化记忆系统的信息检索效率，同时开发细粒度的代码库上下文感知能力。"
+      "coreInsight": "该文章揭示了coding agent如何通过集成tools工具链、memory记忆系统和repo context代码库上下文来增强LLM的实际编码能力。其核心是将静态语言模型动态化，使其具备持续学习和环境适应能力。",
+      "scenarios": "1)自动化代码补全与优化 2)遗留系统代码维护 3)跨代码库的智能搜索与重构",
+      "techKeywords": "Tools：通过API接入编译器、调试器等开发工具，扩展LLM的代码执行能力。Memory：采用向量数据库存储历史交互记录，实现长期上下文保持。Repo Context：通过代码embedding建立项目知识图谱，增强局部代码理解。",
+      "productDesign": "启示1：需设计模块化工具接入框架，平衡灵活性与安全性。机会点：可开发面向垂直领域的coding agent解决方案，如金融/医疗特定代码生成。"
     },
     {
-      "id": "20260405_q004",
-      "title": "太空数据中心所需的四大要素",
-      "originalTitle": "Four things we’d need to put data centers in space",
-      "category": "application",
-      "categoryName": "应用落地",
-      "publishDate": "Fri, 03 Apr 2026 17:03:19 +0000",
-      "crawlDate": "2026-04-05",
+      "id": "20260407_q002",
+      "title": "唯一能揭示你工作与AI关系的数据",
+      "originalTitle": "The one piece of data that could actually shed light on your job and AI",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Mon, 06 Apr 2026 16:33:35 +0000",
+      "crawlDate": "2026-04-07",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/"
+        "url": "https://www.technologyreview.com/2026/04/06/1135187/the-one-piece-of-data-that-could-actually-shed-light-on-your-job-and-ai/"
+      },
+      "tags": [
+        "媒体",
+        "科研突破"
+      ],
+      "isHeadline": false,
+      "coreInsight": "该新闻揭示了AI对就业市场的潜在冲击，特别是硅谷普遍担忧的AI取代人类工作场景。通过Anthropic研究人员的案例，反映了业界对AI社会影响的焦虑情绪。",
+      "scenarios": "1. 企业人力资源的AI替代风险评估 2. 政策制定者衡量AI对劳动力市场影响 3. 职业培训机构的技能重塑课程开发",
+      "techKeywords": "AI-fueled jobs apocalypse：指由AI技术驱动的大规模失业危机预测，基于自动化对重复性工作的替代效应。Societal impacts researcher：专门研究技术对社会结构影响的职位，采用定量与定性结合的方法论。",
+      "productDesign": "可开发AI就业影响评估工具，帮助企业量化岗位自动化风险。同时需要设计人机协作解决方案，突出人类在创造力、情感交互等领域的不可替代性。"
+    },
+    {
+      "id": "20260407_q003",
+      "title": "AI正改变小型电商卖家选品决策方式",
+      "originalTitle": "AI is changing how small online sellers decide what to make",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Mon, 06 Apr 2026 11:00:00 +0000",
+      "crawlDate": "2026-04-07",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/04/06/1135118/ai-online-seller-alibaba-accio/"
       },
       "tags": [
         "媒体",
         "应用落地"
       ],
       "isHeadline": false,
-      "coreInsight": "太空数据中心利用轨道微重力环境解决地面数据中心散热难题，通过太空太阳能供电实现能源自给。该技术将计算节点分布到近地轨道，形成分布式计算网络。",
-      "scenarios": "全球低延迟计算服务、太空云计算平台、灾难备份数据中心",
-      "techKeywords": "Orbital Computing：通过近地轨道卫星群构建分布式计算网络，利用空间真空环境天然散热。Space-based Solar Power：在轨太阳能发电直接供给数据中心，避免地面-太空能源传输损耗。",
-      "productDesign": "需开发新型太空服务器硬件架构，重点优化抗辐射和热管理设计。可探索天地协同计算模式，将高延迟业务部署在太空。"
+      "coreInsight": "AI通过预测分析和需求挖掘技术，帮助小型电商卖家识别潜在爆品。典型应用是通过历史销售数据+用户行为数据训练预测模型，推荐高潜力商品组合。",
+      "scenarios": "长尾商品选品决策、停产商品需求预测、季节性商品备货优化",
+      "techKeywords": "Predictive Analytics：通过机器学习模型分析历史数据，预测未来商品需求趋势。Demand Sensing：利用实时用户行为数据捕捉潜在需求信号，比传统调研更敏捷。",
+      "productDesign": "可构建SaaS化AI选品工具，集成电商平台API获取实时数据。重点解决冷启动问题，提供基于行业基准数据的初始模型。"
     }
   ],
-  "total": 9,
+  "total": 8,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
