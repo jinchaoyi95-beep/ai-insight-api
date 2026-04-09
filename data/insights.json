@@ -1,10 +1,33 @@
 {
   "date": "20260409",
-  "updateTime": "2026-04-09T01:17:19.278Z",
+  "updateTime": "2026-04-09T13:44:06.598Z",
   "headlines": [
     {
       "id": "20260409_001",
-      "title": "企业AI的下一个阶段",
+      "title": "OpenAI全速模式大赛：条款与细则",
+      "originalTitle": "OpenAI Full Fan Mode Contest: Terms & Conditions",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Thu, 09 Apr 2026 00:00:00 GMT",
+      "crawlDate": "2026-04-09",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/full-fan-mode-contest-terms-conditions"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "OpenAI通过Instagram社交平台举办竞赛活动，结合AI技术热度与体育赛事IP进行品牌营销。技术原理上利用社交媒体的病毒传播特性，通过用户生成内容(UGC)扩大品牌影响力。",
+      "scenarios": "科技品牌社交媒体营销、AI技术社区互动、体育赛事跨界合作",
+      "techKeywords": "UGC(User Generated Content)：用户自发创建内容并通过社交平台传播的营销模式。Viral Marketing：利用社交网络快速扩散的营销策略，依赖内容传染性和平台算法推荐。",
+      "productDesign": "启示在于AI产品需突破技术圈层，通过跨界活动触达大众用户。机会在于将AI技术植入娱乐场景，打造更具参与感的营销链路。"
+    },
+    {
+      "id": "20260409_002",
+      "title": "企业AI的下一阶段",
       "originalTitle": "The next phase of enterprise AI",
       "category": "agent",
       "categoryName": "Agent",
@@ -20,13 +43,13 @@
         "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "企业AI正在从单点工具向全公司级AI代理演进，OpenAI通过Frontier模型、ChatGPT Enterprise和Codex等产品构建完整的企业AI解决方案。这种转变使AI能深度整合到企业工作流中，实现跨部门协同。",
-      "scenarios": "1、企业级智能客服系统 2、跨部门文档自动生成与分析 3、全公司范围的编程辅助与代码审核",
-      "techKeywords": "Frontier：OpenAI最新基础模型，通过大规模预训练实现多任务统一处理能力。 ChatGPT Enterprise：企业级对话AI解决方案，提供数据隔离和定制化功能满足企业需求。 Codex：专注于代码生成的AI模型，能将自然语言指令转化为可执行代码。",
-      "productDesign": "产品设计应注重企业级安全与合规要求，同时提供API对接现有系统。机会在于构建垂直行业专属AI代理，将通用能力与领域知识结合。"
+      "coreInsight": "OpenAI揭示了企业AI的演进方向，重点是通过Frontier模型、ChatGPT Enterprise和Codex等产品实现全公司范围的AI代理部署。这标志着AI应用从单点工具转向系统性赋能的企业级解决方案。",
+      "scenarios": "跨部门知识协同场景、自动化代码生成场景、企业级智能客服场景",
+      "techKeywords": "Frontier：OpenAI最先进的AI模型架构，通过混合专家系统(MoE)实现高效推理。 ChatGPT Enterprise：企业级对话系统，支持128k上下文并具备数据隔离保障。",
+      "productDesign": "产品设计应聚焦企业工作流深度整合，开发可配置的AI代理模板。需要平衡通用能力与垂直场景的定制需求，建立企业AI采用的生命周期管理体系。"
     },
     {
-      "id": "20260409_002",
+      "id": "20260409_003",
       "title": "推出Child Safety Blueprint",
       "originalTitle": "Introducing the Child Safety Blueprint",
       "category": "company",
@@ -43,85 +66,62 @@
         "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "OpenAI推出Child Safety Blueprint，通过技术保障措施和适龄设计保护青少年在线安全。该框架强调AI开发需内置安全防护机制，同时促进多方协作构建安全网络环境。",
-      "scenarios": "在线教育平台的内容过滤、社交媒体未成年用户保护、儿童智能设备的交互安全设计",
-      "techKeywords": "Age-appropriate design：通过动态调整内容和功能复杂度匹配用户年龄发展阶段。Safety by design：将安全防护机制内嵌至AI系统底层架构而非事后补救。",
-      "productDesign": "启示1：需要在产品初期规划阶段就集成安全模块。机会点：可开发面向教育机构的AI安全评估工具，形成新业务线。"
-    },
-    {
-      "id": "20260409_003",
-      "title": "OpenAI宣布安全研究员奖学金计划",
-      "originalTitle": "Announcing the OpenAI Safety Fellowship",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Mon, 06 Apr 2026 10:00:00 GMT",
-      "crawlDate": "2026-04-09",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/introducing-openai-safety-fellowship"
-      },
-      "tags": [
-        "官方",
-        "科研突破"
-      ],
-      "isHeadline": true,
-      "coreInsight": "OpenAI通过设立安全研究员奖学金计划，旨在培养AI安全和价值对齐领域的新生代人才。该计划采用试点形式支持独立研究，体现了头部AI公司对技术安全性的前瞻布局。",
-      "scenarios": "AI安全研究人才培养、独立安全研究项目孵化、企业社会责任实践",
-      "techKeywords": "AI Safety：研究如何确保AI系统行为符合人类价值观和意图的技术领域。Alignment：使AI系统目标与人类预期保持一致的机器学习研究方向。",
-      "productDesign": "启示1：科技公司应建立人才梯队培养机制；机会2：可将安全研究模块化融入产品开发生命周期；建议3：设立专项基金支持产学研结合的安全研究。"
+      "coreInsight": "Child Safety Blueprint是OpenAI推出的AI儿童安全框架，通过内置内容过滤、年龄分级设计等技术保护未成年人。该方案强调多方协作，为开发者提供标准化安全开发指南。",
+      "scenarios": "教育类AI应用开发、儿童社交平台内容审核、家庭智能设备交互设计",
+      "techKeywords": "Age-appropriate design：根据儿童认知发展阶段设计交互界面和内容层级。Content filtering：通过多模态识别技术实时阻断不适宜内容。",
+      "productDesign": "启示1：需建立用户年龄验证的基础设施；机会：可开发家长控制面板功能模块。垂直领域的安全标准将成产品差异化竞争点。"
     },
     {
       "id": "20260409_004",
-      "title": "智能时代的产业政策",
-      "originalTitle": "Industrial policy for the Intelligence Age",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Mon, 06 Apr 2026 02:30:00 GMT",
-      "crawlDate": "2026-04-09",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age"
-      },
-      "tags": [
-        "官方",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "该政策强调在AI时代构建以人为本的产业框架，通过技术普惠和制度韧性来应对智能演进。核心是通过政策引导确保AI发展红利能够广泛共享，而非集中于少数科技巨头。",
-      "scenarios": "AI普惠教育、区域经济智能化转型、政府治理能力提升",
-      "techKeywords": "Inclusive AI：通过算法公平性和数据民主化确保技术普惠。Resilient Institutions：采用自适应学习系统构建抗风险的社会治理基础设施。",
-      "productDesign": "PM应关注政策导向型AI产品的合规设计，重点开发降低技术使用门槛的工具。建议构建政策沙盒环境来测试产品的社会适应性。"
-    },
-    {
-      "id": "20260409_005",
-      "title": "武大文科教授硬核跨界AI：半年项目量猛涨4000%，重构AI图表生产力",
-      "originalTitle": "武大文科教授硬核跨界AI：半年项目量猛涨4000%，重构AI图表生产力",
+      "title": "Anthropic发布Managed Agents，才发现这支硅谷华人团队早就押对了赌注",
+      "originalTitle": "Anthropic发布Managed Agents，才发现这支硅谷华人团队早就押对了赌注",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Wed, 08 Apr 2026 14:26:19 +0000",
+      "publishDate": "Thu, 09 Apr 2026 07:08:02 +0000",
       "crawlDate": "2026-04-09",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/04/398001.html"
+        "url": "https://www.qbitai.com/2026/04/398140.html"
       },
       "tags": [
         "媒体",
         "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "该案例展示了Transformer架构在图表生成领域的创新应用，通过fine-tuning技术使AI能理解复杂制图指令。产品采用prompt engineering实现自然语言到可视化图表的端到端转换。",
-      "scenarios": "学术论文图表自动生成、商业数据分析可视化、教学课件智能配图",
-      "techKeywords": "Transformer：基于自注意力机制的深度学习架构，擅长处理序列数据。Fine-tuning：在预训练模型基础上进行领域适配训练，提升特定任务表现。",
-      "productDesign": "启示在于降低专业工具使用门槛，建议开发'提示词模板市场'功能。机会点在于结合domain knowledge构建垂直领域图表库，如医学影像标注场景。"
+      "coreInsight": "Anthropic的Managed Agents代表了AI代理技术的商业化突破，通过预设任务流程降低用户使用门槛。该技术采用分层决策架构，上层规划目标，下层执行具体操作。",
+      "scenarios": "智能客服自动化、个性化购物助手、跨平台数据整理",
+      "techKeywords": "Managed Agents：基于预设策略的AI代理系统，通过模块化设计实现复杂任务分解。Hierarchical RL：分层强化学习框架，上层制定宏观策略，下层处理微观动作。",
+      "productDesign": "PM应关注任务流可视化设计，降低AI代理配置复杂度。机会点在于构建垂直场景的预制Agent模板库，实现开箱即用。"
+    },
+    {
+      "id": "20260409_005",
+      "title": "爆火GitHub！《生化危机》女主打造免费“AI记忆系统”",
+      "originalTitle": "爆火GitHub！《生化危机》女主打造免费“AI记忆系统”",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Thu, 09 Apr 2026 05:11:19 +0000",
+      "crawlDate": "2026-04-09",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/04/398090.html"
+      },
+      "tags": [
+        "媒体",
+        "开发工具"
+      ],
+      "isHeadline": true,
+      "coreInsight": "该项目运用记忆宫殿(Memory Palace)认知技术提升AI信息检索效率34%，通过将信息关联到虚拟空间的位置节点实现快速索引。系统开源免费降低了使用门槛。",
+      "scenarios": "个人知识管理、企业文档检索、教育领域知识图谱构建",
+      "techKeywords": "Memory Palace：基于人类空间记忆能力的认知技术，将抽象信息映射到虚拟空间位置实现高效检索。Cognitive Architecture：模仿人脑信息处理机制的系统设计，整合感知、记忆和推理模块。",
+      "productDesign": "启示在于将认知科学原理融入AI系统设计可显著提升用户体验，机会在于开发垂直领域的记忆增强工具包，如医疗/法律专用记忆系统。"
     }
   ],
   "quickBrowse": [
     {
       "id": "20260409_q001",
-      "title": "《Better Harness：结合Evals优化Harness Hill-Climbing的秘诀》",
+      "title": "Better Harness：借助Evals优化Harness Hill-Climbing的秘诀",
       "originalTitle": "Better Harness: A Recipe for Harness Hill-Climbing with Evals",
       "category": "agent",
       "categoryName": "Agent",
@@ -137,10 +137,10 @@
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "核心原理是通过Evals评估指标为Harness优化提供明确的学习信号，使Hill-Climbing算法能定向改进Agent性能。用法是建立评估-优化闭环，用Evals得分作为反馈信号指导Harness参数调优。",
-      "scenarios": "场景1：对话系统迭代优化、场景2：自动化流程效率提升、场景3：强化学习模型训练",
-      "techKeywords": "Evals：通过标准化测试集量化Agent性能的评估框架，为优化提供可测量的基准信号。Hill-Climbing：局部搜索优化算法，通过持续微调参数向性能更高方向迭代。",
-      "productDesign": "启示1：需构建可量化的评估体系作为优化基础。机会：开发自动化评估-调优工作流工具，降低AI工程化门槛。"
+      "coreInsight": "通过改进harness（控制框架）可以构建更优的AI agent，关键在于使用evals（评估体系）作为hill-climbing（梯度优化）的学习信号。这实现了对harness的自动化迭代优化。",
+      "scenarios": "复杂决策AI系统优化、自动化流程控制框架改进、持续学习型agent开发",
+      "techKeywords": "Harness：用于控制和管理AI agent行为的框架。Evals：通过量化评估指标为系统优化提供反馈信号。Hill-climbing：通过局部最优解逐步逼近全局最优的优化算法。",
+      "productDesign": "产品设计中应建立闭环评估体系驱动自动优化，同时需平衡评估指标的全面性与计算成本。这为打造自进化AI系统提供了新范式。"
     },
     {
       "id": "20260409_q002",
@@ -160,14 +160,14 @@
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "Deep Agents v0.5的核心创新在于支持异步（非阻塞）subagents机制，允许主代理将任务分发给远程代理并行处理。同时增强了多模态文件系统支持，使代理能更灵活处理不同类型的数据。",
-      "scenarios": "1. 需要并行处理多个子任务的复杂工作流 2. 涉及大文件或多模态数据的AI处理场景 3. 需要长期运行的后台任务管理",
-      "techKeywords": "Async subagents：通过消息队列实现任务解耦，主代理可以继续工作而不被远程任务阻塞。Multi-modal filesystem：统一接口处理文本/图像/视频等不同模态数据，底层采用适应性存储策略。",
-      "productDesign": "产品设计应关注任务编排可视化工具的开发，帮助用户监控异步任务状态。同时可探索基于多模态能力的复合型agent工作流，创造新的自动化场景。"
+      "coreInsight": "Deep Agents v0.5通过async subagents实现了非阻塞任务处理，允许主代理将任务委托给后台运行的远程代理。新增的多模态文件系统支持增强了处理不同数据类型的能力。",
+      "scenarios": "场景1：需要长时间运行的后台任务处理。场景2：多模态数据（如图片+文本）的协同分析。场景3：分布式AI代理系统的任务调度。",
+      "techKeywords": "async subagents：通过后台异步执行机制实现任务并行处理，避免主线程阻塞。multi-modal filesystem：支持同时处理文本、图像等不同模态数据的存储和检索系统。",
+      "productDesign": "建议关注异步任务管理界面设计，优化用户对后台任务状态的感知。可探索多模态数据处理在内容生成领域的应用场景创新。"
     },
     {
       "id": "20260409_q003",
-      "title": "Arcade.dev工具现已加入LangSmith Fleet",
+      "title": "Arcade.dev工具现已登陆LangSmith Fleet",
       "originalTitle": "Arcade.dev tools now in LangSmith Fleet",
       "category": "agent",
       "categoryName": "Agent",
@@ -183,14 +183,14 @@
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "核心洞察：Arcade.dev作为MCP运行时为生产环境中的智能体提供安全授权和工具管理。通过集成到LangSmith Fleet，开发者可通过统一安全网关访问7500+优化工具，显著提升智能体开发效率。",
-      "scenarios": "应用场景1：企业级智能体开发中的工具安全管理。应用场景2：需要快速集成多工具的大规模AI系统。应用场景3：需要严格治理和授权机制的AI生产环境。",
-      "techKeywords": "MCP runtime：专为生产环境设计的智能体运行架构，确保安全性和可靠性。LangSmith Fleet：工具集成管理平台，提供统一接口和治理能力。",
-      "productDesign": "产品启示：构建工具市场+安全网关的组合模式可形成技术壁垒。机会点：可延伸开发工具性能监控和自动化测试等增值服务。"
+      "coreInsight": "该集成通过LangSmith Fleet平台为AI agent提供统一的工具调用网关，使agent可安全访问7500+优化工具。关键价值在于将Arcade.dev的MCP运行时与LangChain生态结合，实现生产级agent的授权与治理。",
+      "scenarios": "金融领域自动化合规检查、电商客服机器人工具扩展、企业级业务流程自动化",
+      "techKeywords": "MCP runtime：Arcade的核心运行时环境，为生产环境agent提供安全沙箱和资源隔离。LangSmith Fleet：LangChain的agent托管平台，支持工具链的集中管理和部署。",
+      "productDesign": "启示在于构建工具市场时需要标准化接口和安全网关，机会在于垂直领域可预装行业专用工具链。值得探索agent工具的性能监控和自动编排能力。"
     },
     {
       "id": "20260409_q004",
-      "title": "ALTK-Evolve：AI代理的职场学习能力",
+      "title": "ALTK-Evolve：AI Agent的边干边学",
       "originalTitle": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
       "category": "agent",
       "categoryName": "Agent",
@@ -206,82 +206,36 @@
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "ALTK-Evolve展示了AI代理通过持续学习适应职场任务的能力，采用强化学习算法在工作环境中实时优化决策。该系统通过模仿人类学习模式，使AI能在执行任务过程中不断自我改进。",
-      "scenarios": "1.客服对话系统实时优化响应策略 2.自动化流程中的异常处理能力提升 3.个性化推荐系统的持续学习演进",
-      "techKeywords": "On-the-Job Learning：通过实时反馈循环实现持续性能提升，结合人类监督和自主探索。 Reinforcement Learning：基于奖励机制的决策优化框架，通过试错学习最大化长期收益。",
-      "productDesign": "产品设计应考虑构建可进化的AI工作流，重点开发持续学习的反馈机制。建议将实时学习能力模块化，方便不同业务场景快速接入。"
+      "coreInsight": "ALTK-Evolve通过On-the-Job Learning让AI Agent在执行任务过程中持续学习优化。这种边干边学的机制通过实时反馈循环提升AI的适应能力和表现。",
+      "scenarios": "客服场景中AI在对话中学习用户偏好、自动驾驶系统实时适应道路状况、医疗诊断AI通过病例反馈提升准确率",
+      "techKeywords": "On-the-Job Learning：AI在任务执行过程中收集数据并即时调整模型参数。Reinforcement Learning from Human Feedback：通过人类反馈信号实现AI行为的持续优化。",
+      "productDesign": "产品设计应注重构建实时学习反馈闭环，减少人工干预成本。可优先在需要持续优化的场景落地，如智能客服和内容推荐。"
     },
     {
       "id": "20260409_q005",
-      "title": "Mustafa Suleyman：AI发展短期内不会遇阻，原因如下",
-      "originalTitle": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Wed, 08 Apr 2026 14:00:00 +0000",
-      "crawlDate": "2026-04-09",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/"
-      },
-      "tags": [
-        "媒体",
-        "开发工具"
-      ],
-      "isHeadline": false,
-      "coreInsight": "核心洞察：AI发展遵循指数增长而非线性思维，短期不会遇到瓶颈。技术原理在于计算能力的持续提升和算法效率的改进，用法说明是各行业应建立指数增长思维来规划AI应用。",
-      "scenarios": "应用场景1：金融行业的自动化投资决策。应用场景2：医疗领域的个性化治疗方案生成。应用场景3：制造业的智能预测性维护。",
-      "techKeywords": "Exponential Growth：指数增长指AI能力随时间呈现加速提升，而非简单的线性累加。Computational Power：计算能力提升是AI发展的基础支撑，包括芯片算力和分布式计算的突破。",
-      "productDesign": "产品启示：需要设计可弹性扩展的架构应对AI能力跃升。机会点：开发指数增长分析工具帮助用户理解AI发展曲线，消除线性思维误区。"
-    },
-    {
-      "id": "20260409_q006",
-      "title": "今日下载：伊朗的水资源威胁与AI对创业者产品的影响",
-      "originalTitle": "The Download: water threats in Iran and AI’s impact on what entrepreneurs make",
+      "title": "《今日要闻：AstroTurf之争与AI的指数级增长》",
+      "originalTitle": "The Download: AstroTurf wars and exponential AI growth",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Wed, 08 Apr 2026 12:10:00 +0000",
+      "publishDate": "Thu, 09 Apr 2026 12:25:10 +0000",
       "crawlDate": "2026-04-09",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/04/08/1135405/the-download-water-threats-iran-ais-impact-on-entrepreneurs-make/"
+        "url": "https://www.technologyreview.com/2026/04/09/1135514/the-download-astroturf-wars-exponential-ai-growth-desalination-numbers/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "海水淡化技术(Desalination)正成为中东地区关键基础设施，但地缘冲突使其面临安全风险。AI可帮助创业者优化产品设计流程，通过生成式技术快速原型开发。",
-      "scenarios": "地缘冲突地区的应急供水系统、AI驱动的产品设计工具包、气候适应型水资源管理平台",
-      "techKeywords": "Desalination：通过反渗透或蒸馏技术去除海水盐分，需要大量能源和精密设备维护。Generative AI：基于深度学习模型自动生成产品设计方案，可加速从概念到原型的迭代过程。",
-      "productDesign": "应开发具备抗干扰能力的模块化水处理解决方案，同时将AI产品设计工具与供应链数据打通，帮助创业者应对资源不稳定性。可探索AI+卫星遥感的实时基础设施监控系统。"
-    },
-    {
-      "id": "20260409_q007",
-      "title": "中东海水淡化厂日益脆弱",
-      "originalTitle": "Desalination plants in the Middle East are increasingly vulnerable",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 07 Apr 2026 14:54:06 +0000",
-      "crawlDate": "2026-04-09",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/04/07/1135235/desalination-technology-water/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "海水淡化技术通过反渗透(Reverse Osmosis)或蒸馏方式将海水转化为淡水，成为干旱地区重要水源。当前地缘冲突暴露了集中式海水淡化设施在安全性和稳定性方面的脆弱性。",
-      "scenarios": "沿海城市居民供水、农业灌溉用水补给、工业用水解决方案",
-      "techKeywords": "Reverse Osmosis：通过半透膜在压力作用下分离盐分和水分子。Thermal Desalination：通过加热蒸发海水再冷凝获取淡水，能耗较高但适合高盐度水域。",
-      "productDesign": "应开发分布式小型淡化装置提升系统韧性，结合AI优化能耗管理。探索模块化设计便于快速部署维护，同时集成水质监测功能。"
+      "coreInsight": "人工草坪AstroTurf的快速普及反映了环保需求与技术创新的矛盾。AI的指数级增长展示了技术解决复杂问题的潜力，但需平衡可持续性发展。",
+      "scenarios": "应用场景1：城市绿化工程替代方案。应用场景2：体育场馆地面改造。应用场景3：AI驱动的环保材料研发。",
+      "techKeywords": "AstroTurf：通过合成纤维模拟天然草坪，解决维护成本高和节水问题。Exponential growth：AI算力遵循摩尔定律增长，但需考虑能源消耗和碳足迹问题。",
+      "productDesign": "PM应关注技术落地时的真实环境成本，构建可持续性评估模型。可探索AI+新材料组合方案，突破环保与性能的trade-off。"
     }
   ],
-  "total": 12,
+  "total": 10,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
