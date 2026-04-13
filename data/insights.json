@@ -1,356 +1,149 @@
 {
-  "date": "20260411",
-  "updateTime": "2026-04-11T01:22:46.631Z",
+  "date": "20260413",
+  "updateTime": "2026-04-13T13:42:29.024Z",
   "headlines": [
     {
-      "id": "20260411_001",
-      "title": "ChatGPT研究",
-      "originalTitle": "Research with ChatGPT",
+      "id": "20260413_001",
+      "title": "企业在Cloudflare Agent Cloud中利用OpenAI驱动智能工作流",
+      "originalTitle": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 13 Apr 2026 06:00:00 GMT",
+      "crawlDate": "2026-04-13",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/cloudflare-openai-agent-cloud"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Cloudflare将OpenAI的GPT-5.4和Codex集成到Agent Cloud平台，通过API化服务让企业能快速构建安全可靠的AI工作流。该方案结合了Cloudflare的边缘计算网络优势和OpenAI的大模型能力，实现低延迟、高并发的智能代理部署。",
+      "scenarios": "1、客户服务自动化机器人部署 2、企业级代码生成与审查 3、实时多语言内容生成与本地化",
+      "techKeywords": "Agentic workflows：通过预设规则和AI决策能力自动执行复杂任务序列的工作流范式。GPT-5.4：OpenAI新一代多模态大模型，在理解长上下文和复杂指令方面有显著提升。Codex：专为代码生成和补全优化的AI模型，支持多种编程语言。",
+      "productDesign": "启示1：企业级AI产品需重点考虑安全部署和横向扩展能力。机会点：可探索将LLM能力与特定行业工作流深度结合的场景化解决方案。"
+    },
+    {
+      "id": "20260413_002",
+      "title": "Claude强到不敢发的Mythos，被质疑用了字节Seed技术",
+      "originalTitle": "Claude强到不敢发的Mythos，被质疑用了字节Seed技术",
       "category": "research",
       "categoryName": "科研突破",
-      "publishDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "crawlDate": "2026-04-11",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/academy/search-and-deep-research"
-      },
-      "tags": [
-        "官方",
-        "科研突破"
-      ],
-      "isHeadline": true,
-      "coreInsight": "ChatGPT通过搜索和深度研究能力获取最新信息，结合自然语言处理技术分析多源数据并生成结构化见解。该技术将传统搜索引擎与AI生成能力结合，显著提升研究效率。",
-      "scenarios": "学术文献综述、竞品市场分析、行业趋势研究",
-      "techKeywords": "Deep Research：基于大语言模型的深度语义理解能力，可跨多源数据建立知识关联。Structured Insights：通过信息抽取和文本生成技术，将非结构化数据转化为可视化报告。",
-      "productDesign": "需强化事实核查机制确保信息准确性，可开发专用研究模式整合知识图谱能力。建议增加多模态数据支持以覆盖更复杂的研究场景。"
-    },
-    {
-      "id": "20260411_002",
-      "title": "在ChatGPT中使用文件",
-      "originalTitle": "Working with files in ChatGPT",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "crawlDate": "2026-04-11",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/academy/working-with-files"
-      },
-      "tags": [
-        "官方",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "ChatGPT通过多模态技术实现了文件处理能力，支持PDF、电子表格等格式。该功能结合NLP技术实现文档分析、数据提取和内容生成，降低了非技术用户的数据处理门槛。",
-      "scenarios": "金融数据分析报告自动生成、学术论文快速摘要、企业文档内容智能检索",
-      "techKeywords": "Multimodal Learning：通过联合训练视觉和语言模型实现跨模态理解。Document Parsing：采用OCR和NLP技术从非结构化文档中提取结构化信息。",
-      "productDesign": "该功能验证了AI作为生产力工具的定位，建议扩展行业特定模板功能。注意数据隐私保护机制的设计是商业化关键。"
-    },
-    {
-      "id": "20260411_003",
-      "title": "使用自定义GPT",
-      "originalTitle": "Using custom GPTs",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "crawlDate": "2026-04-11",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/academy/custom-gpts"
-      },
-      "tags": [
-        "官方",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "核心技术原理是通过GPT模型微调实现个性化输出，用户可训练专属AI助手。用法说明：提供指令示例和知识文件进行定制，系统会自动优化响应风格和专长领域。",
-      "scenarios": "应用场景1：企业客服流程自动化，应用场景2：专业领域知识咨询，应用场景3：个性化内容创作",
-      "techKeywords": "Fine-tuning(微调)：通过额外训练数据调整预训练模型参数。Prompt Engineering(提示工程)：优化输入指令结构以引导模型输出。",
-      "productDesign": "产品需强化定制化流程引导降低使用门槛，同时建立效果评估体系。可探索垂直行业解决方案作为商业化突破口。"
-    },
-    {
-      "id": "20260411_004",
-      "title": "阿里视频生成大模型Wan2.7登顶DesignArena榜单",
-      "originalTitle": "阿里视频生成大模型Wan2.7登顶DesignArena榜单",
-      "category": "image-video",
-      "categoryName": "AI绘画/视频",
-      "publishDate": "Fri, 10 Apr 2026 12:07:15 +0000",
-      "crawlDate": "2026-04-11",
+      "publishDate": "Mon, 13 Apr 2026 05:41:15 +0000",
+      "crawlDate": "2026-04-13",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/04/399370.html"
+        "url": "https://www.qbitai.com/2026/04/400500.html"
       },
       "tags": [
         "媒体",
-        "AI绘画/视频"
+        "科研突破"
       ],
       "isHeadline": true,
-      "coreInsight": "Wan2.7采用扩散模型技术实现高质量视频生成，支持通过文本/图片输入自动生成连贯视频内容。其1334Elo评分表明在视频质量、流畅度和语义理解方面达到业界领先水平。",
-      "scenarios": "短视频内容自动化生产、电商广告视频生成、影视行业预可视化分镜制作",
-      "techKeywords": "Diffusion Models：通过逐步去噪过程生成高质量视频帧，结合时间维度建模实现时序连贯性。Elo Rating System：量化评估AI模型生成效果的竞技排名体系，通过胜负关系动态调整分数。",
-      "productDesign": "该技术可降低视频创作门槛，建议探索与UGC平台结合的模板化视频生成功能。同时需关注生成内容版权归属的合规性设计。"
+      "coreInsight": "该新闻揭示了Claude模型可能借鉴了字节Seed团队的先进技术，特别是与Yoshua Bengio等专家合作的论文成果。这种技术融合可能涉及生成模型架构或训练方法的创新，值得技术社区关注验证。",
+      "scenarios": "应用场景1：智能对话系统的性能提升。应用场景2：跨模态内容生成。应用场景3：科研领域的知识发现与推理。",
+      "techKeywords": "Mythos：Claude团队开发的未公开模型架构，据称因性能过强而暂缓发布。Seed：字节跳动研发的生成式AI框架，采用新型神经网络结构和训练范式。",
+      "productDesign": "产品经理应关注技术融合带来的性能突破窗口期，同时建立技术来源的合规审查机制。可以考虑在保持核心优势的基础上，开发差异化的企业级AI解决方案。"
     },
     {
-      "id": "20260411_005",
-      "title": "预览Interrupt 2026：企业级Agent规模化应用",
-      "originalTitle": "Previewing Interrupt 2026: Agents at Enterprise Scale",
+      "id": "20260413_003",
+      "title": "你的缰绳，你的记忆",
+      "originalTitle": "Your harness, your memory",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Thu, 09 Apr 2026 17:00:06 GMT",
-      "crawlDate": "2026-04-11",
+      "publishDate": "Sat, 11 Apr 2026 14:52:02 GMT",
+      "crawlDate": "2026-04-13",
       "source": {
         "name": "LangChain",
         "type": "Agent",
-        "url": "https://blog.langchain.com/previewing-interrupt-2026-agents-at-enterprise-scale/"
+        "url": "https://blog.langchain.com/your-harness-your-memory/"
       },
       "tags": [
         "Agent",
         "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "Interrupt 2026聚焦企业级Agent技术的规模化应用，通过LangChain框架实现工作流自动化。核心技术在于利用LLM构建可组合的智能体系统，支持复杂业务场景的模块化部署。",
-      "scenarios": "金融行业自动化风控流程、电商客服多轮对话系统、制造业供应链智能调度",
-      "techKeywords": "Agent Orchestration：通过编排多个专用Agent形成工作流，每个Agent专注特定子任务。LangChain Framework：提供标准化组件库和内存管理，支持快速构建基于LLM的链式应用。",
-      "productDesign": "需设计可视化Agent编排工具降低使用门槛，重点关注企业级SLA保障机制。机会在于垂直行业预置Agent模板库的商业化变现。"
+      "coreInsight": "Agent harnesses作为构建AI代理的主流框架，其核心优势在于与agent memory的深度绑定。使用闭源harness意味着将代理控制权让渡给供应商，这凸显了开源技术栈对自主可控的重要性。",
+      "scenarios": "1. 企业级AI工作流编排 2. 个性化数字助理开发 3. 跨平台数据聚合代理",
+      "techKeywords": "Agent harnesses：标准化框架封装了代理的决策逻辑和工具调用，降低开发门槛。Agent memory：通过向量存储和检索增强实现长期上下文保持，是代理持续学习的基础。",
+      "productDesign": "应优先设计开放架构的harness解决方案，重点解决memory模块的迁移兼容性问题。可考虑开发可视化harness配置工具降低技术门槛。"
+    },
+    {
+      "id": "20260413_004",
+      "title": "想了解AI现状？看这些图表就够了",
+      "originalTitle": "Want to understand the current state of AI? Check out these charts.",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 13 Apr 2026 13:00:00 +0000",
+      "crawlDate": "2026-04-13",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/04/13/1135675/want-to-understand-the-current-state-of-ai-check-out-these-charts/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "斯坦福大学发布的AI Index报告通过数据图表客观呈现AI发展现状，帮助消除行业噪音。该报告采用量化指标追踪技术演进、投资趋势和伦理问题，为行业提供基准参考。",
+      "scenarios": "行业趋势分析、投资决策支持、技术发展评估",
+      "techKeywords": "AI Index：斯坦福建立的量化指标体系，从研发/投资/政策等维度追踪AI进展。Human-Centered AI：以人为本的AI设计理念，强调技术发展需考虑社会影响和伦理约束。",
+      "productDesign": "可开发AI行业数据可视化工具，整合多源指标实现动态监测。产品设计应注重数据权威性和交互友好性，满足投资者、研究者的决策需求。"
+    },
+    {
+      "id": "20260413_005",
+      "title": "今日精选：人类决策机制解析，以及Moderna的“疫苗”文字游戏",
+      "originalTitle": "The Download: how humans make decisions, and Moderna’s “vaccine” word games",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 13 Apr 2026 12:10:00 +0000",
+      "crawlDate": "2026-04-13",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/04/13/1135707/the-download-how-humans-make-decisions-and-modernas-vaccine-word-games/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "文章探讨了人类决策机制与疫苗术语的关联性，揭示了认知科学在医疗健康领域的应用潜力。通过分析Moderna的术语策略，展现了技术传播中语言设计的重要性。",
+      "scenarios": "医疗健康领域的用户决策引导、AI辅助的疫苗科普内容生成、认知科学驱动的医患沟通优化",
+      "techKeywords": "Decision Neuroscience：研究大脑如何产生决策的神经机制，结合fMRI等技术解析选择行为。Vaccine Hesitancy：指对疫苗接种持犹豫态度的心理现象，涉及信任构建和风险沟通策略。",
+      "productDesign": "可开发基于认知科学的决策辅助工具，优化医疗信息呈现方式。疫苗科普产品需要注重术语的准确性和传播友好性设计。"
     }
   ],
   "quickBrowse": [
     {
-      "id": "20260411_q001",
-      "title": "用ChatGPT分析数据",
-      "originalTitle": "Analyzing data with ChatGPT",
+      "id": "20260413_q001",
+      "title": "未来职业：野生动物急救员",
+      "originalTitle": "Job titles of the future: Wildlife first responder",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "crawlDate": "2026-04-11",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/academy/data-analysis"
-      },
-      "tags": [
-        "官方",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "ChatGPT通过自然语言处理技术实现数据交互式分析，用户可用自然语言提问直接获取数据洞见。该功能降低了数据分析门槛，将传统需要SQL/Python的操作转化为对话式交互。",
-      "scenarios": "商业智能快速分析、学术研究数据探索、运营报表自动化生成",
-      "techKeywords": "NLG(Natural Language Generation)：通过深度学习模型将结构化数据转化为自然语言描述。Prompt Engineering：通过优化输入指令控制输出格式，如要求生成特定类型的数据可视化。",
-      "productDesign": "需加强领域定制能力，针对金融/医疗等垂直领域优化分析逻辑。可结合AutoML技术实现从分析到建模的闭环，提升产品价值。"
-    },
-    {
-      "id": "20260411_q002",
-      "title": "提示工程基础",
-      "originalTitle": "Prompting fundamentals",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 10 Apr 2026 00:00:00 GMT",
-      "crawlDate": "2026-04-11",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/academy/prompting"
-      },
-      "tags": [
-        "官方",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "核心洞察：提示工程是通过优化输入指令来引导AI模型输出的关键技术。掌握清晰的prompt编写方法能显著提升ChatGPT回答的质量和实用性。",
-      "scenarios": "应用场景1：客服机器人应答优化，应用场景2：内容创作辅助，应用场景3：代码生成与解释",
-      "techKeywords": "Prompt Engineering：通过结构化输入指令控制模型输出行为的技术。Few-shot Learning：在prompt中提供示例引导模型学习特定模式的方法。",
-      "productDesign": "产品启示：需要开发prompt模板库降低用户使用门槛。机会点：可构建prompt优化工具实现AI交互效果的实时可视化调试。"
-    },
-    {
-      "id": "20260411_q003",
-      "title": "紫荆智康发布“紫荆AI医院”线上虚拟诊室",
-      "originalTitle": "紫荆智康发布“紫荆AI医院”线上虚拟诊室",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 10 Apr 2026 11:42:34 +0000",
-      "crawlDate": "2026-04-11",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/04/399366.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "该产品采用虚拟现实技术搭建线上医疗教学环境，通过AI模拟真实问诊场景。医生和医学生可在沉浸式环境中进行诊疗训练和病例研讨。",
-      "scenarios": "医学院虚拟临床教学、远程病例会诊演练、医生AI辅助诊断培训",
-      "techKeywords": "Virtual Reality(VR)：通过头显设备创建三维虚拟医疗环境，实现空间定位和实时交互。Natural Language Processing(NLP)：驱动AI医生理解并回应医学对话，基于知识图谱生成诊断建议。",
-      "productDesign": "启示在于医疗教育+AI的垂直场景创新，建议增加多模态生理数据模拟功能。未来可拓展为分级诊疗的标准化培训平台。"
-    },
-    {
-      "id": "20260411_q004",
-      "title": "实测刘翔pick的国产AI汽车，BBA老车主的豪华滤镜碎了",
-      "originalTitle": "实测刘翔pick的国产AI汽车，BBA老车主的豪华滤镜碎了",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 10 Apr 2026 09:31:57 +0000",
-      "crawlDate": "2026-04-11",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/04/398869.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "国产AI汽车通过智能驾驶系统优化城市拥堵场景体验，证明中国品牌在AI技术应用层面已具备挑战传统豪华车的能力。关键在于融合多传感器数据实现精准环境感知，并通过深度学习算法优化驾驶决策。",
-      "scenarios": "城市拥堵路段自动驾驶、智能路线规划、个性化舒适度调节",
-      "techKeywords": "Sensor Fusion：整合摄像头/雷达/激光雷达数据构建环境3D模型，提升感知精度。Deep Reinforcement Learning：通过持续的环境交互优化驾驶策略，实现类人类驾驶的决策能力。",
-      "productDesign": "启示1：豪华车定义需从机械性能转向智能体验；机会2：建立用户驾驶行为数据库可迭代优化算法；建议3：重点攻克中国特有交通场景的AI适配问题。"
-    },
-    {
-      "id": "20260411_q005",
-      "title": "Deep Agents Deploy：Claude Managed Agents的开源替代方案",
-      "originalTitle": "Deep Agents Deploy: an open alternative to Claude Managed Agents",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 09 Apr 2026 15:40:49 GMT",
-      "crawlDate": "2026-04-11",
-      "source": {
-        "name": "LangChain",
-        "type": "Agent",
-        "url": "https://blog.langchain.com/deep-agents-deploy-an-open-alternative-to-claude-managed-agents/"
-      },
-      "tags": [
-        "Agent",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Deep Agents Deploy是一个开源的生产级Agent部署框架，其核心特点是模型无关性，可以快速部署各种AI Agent。该方案作为Claude Managed Agents的开源替代品，强调开放性和生产就绪特性。",
-      "scenarios": "企业级AI助手快速部署、多模型Agent系统集成、开源AI解决方案开发",
-      "techKeywords": "Model Agnostic：该架构不依赖特定AI模型，支持灵活接入不同基础模型。Agent Harness：提供标准化的Agent运行环境和管理接口，简化部署流程。",
-      "productDesign": "产品设计应重点关注开源生态兼容性和企业级部署需求，同时需要平衡灵活性与易用性。这为构建标准化Agent市场提供了基础设施层面的解决方案。"
-    },
-    {
-      "id": "20260411_q006",
-      "title": "人类判断在Agent改进循环中的作用",
-      "originalTitle": "Human judgment in the agent improvement loop",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 09 Apr 2026 15:00:12 GMT",
-      "crawlDate": "2026-04-11",
-      "source": {
-        "name": "LangChain",
-        "type": "Agent",
-        "url": "https://blog.langchain.com/human-judgment-in-the-agent-improvement-loop/"
-      },
-      "tags": [
-        "Agent",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "该新闻核心指出AI Agent的表现取决于其对团队显性知识和隐性知识的吸收能力。显性知识可直接结构化使用，而隐性知识需要人类参与进行转化和验证。",
-      "scenarios": "应用场景1：企业知识库构建与传承、应用场景2：客户服务流程优化、应用场景3：新员工培训与知识转移",
-      "techKeywords": "Agent improvement loop：通过人类反馈持续优化AI决策的闭环系统，关键是将人工判断转化为可执行的规则。Tacit knowledge：存在于员工经验中的隐性知识，需要通过特定机制转化为AI可理解的结构化数据。",
-      "productDesign": "需设计双轨知识输入机制：显性知识直接对接文档系统，隐性知识通过人机协作界面捕获。建议开发知识验证工作流，让专家参与AI决策修正。"
-    },
-    {
-      "id": "20260411_q007",
-      "title": "《Better Harness：结合Evals优化Harness Hill-Climbing的配方》",
-      "originalTitle": "Better Harness: A Recipe for Harness Hill-Climbing with Evals",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Wed, 08 Apr 2026 19:30:20 GMT",
-      "crawlDate": "2026-04-11",
-      "source": {
-        "name": "LangChain",
-        "type": "Agent",
-        "url": "https://blog.langchain.com/better-harness-a-recipe-for-harness-hill-climbing-with-evals/"
-      },
-      "tags": [
-        "Agent",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "通过构建更好的harness框架可以提升AI agent性能。关键在于利用evals评估结果作为学习信号，指导harness的自动化优化过程。",
-      "scenarios": "1、AI agent持续优化场景 2、自动化机器学习流程 3、强化学习系统改进",
-      "techKeywords": "Harness：框架技术，用于约束和管理AI agent的行为模式。Evals：评估体系，为系统优化提供可量化的改进指标。Hill-Climbing：优化算法，通过局部最优解逐步逼近全局最优。",
-      "productDesign": "产品设计应考虑建立闭环的自动优化机制。重点在于设计可量化的评估指标，并将其反馈到训练流程中形成持续改进。"
-    },
-    {
-      "id": "20260411_q008",
-      "title": "ALTK-Evolve：AI智能体的在职学习",
-      "originalTitle": "ALTK‑Evolve: On‑the‑Job Learning for AI Agents",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Wed, 08 Apr 2026 14:27:42 GMT",
-      "crawlDate": "2026-04-11",
-      "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/ibm-research/altk-evolve"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "ALTK-Evolve通过持续学习机制使AI智能体能够在实际工作中自我进化。该方法突破了传统离线训练的局限，允许AI在执行任务时动态调整模型参数。",
-      "scenarios": "客服对话系统实时优化、自动驾驶车辆持续适应路况、工业机器人动态调整操作流程",
-      "techKeywords": "On-the-Job Learning：通过实时数据流持续更新模型权重，不中断服务实现性能提升。Continual Learning：解决神经网络在学习新知识时遗忘旧知识的挑战，保持模型稳定性。",
-      "productDesign": "需要设计实时监控和版本回滚机制确保学习过程安全。产品界面应可视化学习进度和性能变化曲线，便于人工干预。"
-    },
-    {
-      "id": "20260411_q009",
-      "title": "名号之争：Moderna的\"疫苗\"与\"疗法\"困局",
-      "originalTitle": "What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 10 Apr 2026 14:04:20 +0000",
-      "crawlDate": "2026-04-11",
+      "publishDate": "Mon, 13 Apr 2026 10:00:00 +0000",
+      "crawlDate": "2026-04-13",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/04/10/1135631/whats-in-a-name-modernas-vaccine-vs-therapy-dilemma/"
+        "url": "https://www.technologyreview.com/2026/04/13/1135156/job-titles-wildlife-first-responder-wesley-sarmento/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "核心洞察：Moderna面临疫苗命名困境，其mRNA技术既可开发传统疫苗(preventive vaccine)也可开发个体化治疗(individualized therapy)。这种技术跨界导致监管分类和市场定位的双重挑战。",
-      "scenarios": "应用场景1：传染病预防疫苗开发。应用场景2：癌症个体化免疫治疗。应用场景3：新兴病原体快速应对平台。",
-      "techKeywords": "mRNA vaccine：通过合成mRNA指导人体细胞产生靶标蛋白，引发免疫反应。Neoantigen therapy：针对患者肿瘤特异性突变抗原设计的个性化治疗方案。",
-      "productDesign": "产品启示：1）需要建立差异化的技术叙事框架，区分预防性和治疗性产品线。2）可开发模块化平台满足不同监管路径需求。3）教育市场需要新的用户心智模型。"
-    },
-    {
-      "id": "20260411_q010",
-      "title": "《独家发布》：Jeff VanderMeer新作与OpenAI不敢发布的危险AI模型",
-      "originalTitle": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 10 Apr 2026 12:10:00 +0000",
-      "crawlDate": "2026-04-11",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "文章揭示了尖端AI模型潜在的危险性，说明技术发展需要安全边界。Jeff VanderMeer的科幻故事隐喻了失控技术可能带来的灾难性后果。",
-      "scenarios": "AI伦理审查、高风险AI模型管控、科幻文学与科技警示",
-      "techKeywords": "AI Safety(Artificial Intelligence Safety)：研究如何确保AI系统行为符合人类价值观的关键领域。Hostile Environment AI：指在极端或敌对环境中运行的AI系统，需要特殊的安全设计。",
-      "productDesign": "产品需内置AI伦理审查模块，高风险功能应设置分级发布机制。可开发AI安全沙盒工具，帮助研究人员测试模型边界。"
+      "coreInsight": "核心洞察：野生动物保护与人类活动扩张的平衡需求催生了新型职业Wildlife first responder，需要结合生态监测技术(GPS tracking)和社区协调机制。该职业采用主动预防策略而非被动应对，通过科技手段实现人兽共存。",
+      "scenarios": "应用场景1：国家公园及保护区周边的人兽冲突管理。应用场景2：城市化进程中野生动物栖息地保护。应用场景3：濒危物种恢复期的区域性生态平衡维护。",
+      "techKeywords": "GPS tracking：通过卫星定位实时监测动物活动轨迹，数据用于预测冲突热点。Community-based conservation：整合原住民知识与现代科技，建立多方参与的生态保护网络。",
+      "productDesign": "PM应关注生物监测硬件与GIS系统的轻量化集成，开发面向基层保护员的低门槛管理工具。可探索AR技术用于野生动物踪迹识别培训，提升一线响应效率。"
     }
   ],
-  "total": 15,
+  "total": 6,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
