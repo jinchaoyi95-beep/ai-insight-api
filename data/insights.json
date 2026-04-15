@@ -1,15 +1,38 @@
 {
-  "date": "20260414",
-  "updateTime": "2026-04-14T13:44:29.338Z",
+  "date": "20260415",
+  "updateTime": "2026-04-15T13:29:30.533Z",
   "headlines": [
     {
-      "id": "20260414_001",
+      "id": "20260415_001",
+      "title": "可信访问：网络安全防御新时代",
+      "originalTitle": "Trusted access for the next era of cyber defense",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 14 Apr 2026 00:00:00 GMT",
+      "crawlDate": "2026-04-15",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "OpenAI通过Trusted Access计划向认证的网络安全专家提供GPT-5.4-Cyber专用模型，该模型针对网络安全防御场景进行了优化。通过受控访问机制确保AI能力不会被滥用，同时提升网络防御的智能化水平。",
+      "scenarios": "高级持续性威胁(APT)检测、自动化漏洞修复、网络攻击行为分析",
+      "techKeywords": "Trusted Access：采用白名单机制控制AI访问权限，确保技术仅被授权人员使用。GPT-5.4-Cyber：基于Transformer架构的专用安全模型，通过对抗训练提升对恶意代码和攻击模式的识别能力。",
+      "productDesign": "企业级安全产品可借鉴这种受控访问模式，建立AI能力分级授权体系。安全领域专用大模型存在明确的商业化路径，可考虑垂直场景的模型微调服务。"
+    },
+    {
+      "id": "20260415_002",
       "title": "企业利用OpenAI在Cloudflare Agent Cloud中驱动智能工作流",
       "originalTitle": "Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Mon, 13 Apr 2026 06:00:00 GMT",
-      "crawlDate": "2026-04-14",
+      "crawlDate": "2026-04-15",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -20,88 +43,136 @@
         "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "Cloudflare集成OpenAI的GPT-5.4和Codex到Agent Cloud平台，通过预置AI能力帮助企业快速构建安全可靠的智能工作流。该方案将大语言模型的生成能力与Cloudflare的分布式网络基础设施结合，实现AI代理的快速部署和弹性扩展。",
-      "scenarios": "1. 自动化客户服务代理部署、2. 实时数据分析和决策流程、3. 跨系统业务流程自动化",
-      "techKeywords": "GPT-5.4：OpenAI最新多模态大模型，支持复杂上下文理解和任务规划。Agentic workflows：指能自主决策、执行多步任务的AI代理工作流，具有目标驱动和自适应性特点。",
-      "productDesign": "产品启示在于AI能力与云原生架构的深度整合，可关注模型即服务(MaaS)与工作流引擎的结合机会。建议探索低代码AI代理构建工具链，降低企业采用门槛。"
+      "coreInsight": "Cloudflare将OpenAI的GPT-5.4和Codex集成到Agent Cloud平台，让企业能快速构建和部署AI智能体。通过结合Cloudflare的安全架构和OpenAI的生成能力，实现了安全可靠的智能工作流自动化。",
+      "scenarios": "应用场景1：自动化客户服务机器人部署、应用场景2：代码生成与安全审查流水线、应用场景3：跨平台数据智能处理工作流",
+      "techKeywords": "Agentic workflows：基于目标分解的智能体协作框架，通过动态任务编排实现复杂流程自动化。GPT-5.4：OpenAI最新多模态大模型，在保持对话能力的同时显著提升代码生成准确性。",
+      "productDesign": "启示1：AI基础设施+专业领域能力的组合将成为主流；机会2：构建面向企业的端到端智能体管理平台，降低AI实施门槛。"
     },
     {
-      "id": "20260414_002",
-      "title": "教育部等五部门关于印发《“人工智能+教育”行动计划》的通知",
-      "originalTitle": "教育部等五部门关于印发《“人工智能+教育”行动计划》的通知",
-      "category": "application",
-      "categoryName": "应用落地",
-      "publishDate": "Tue, 14 Apr 2026 10:19:19 +0000",
-      "crawlDate": "2026-04-14",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/04/401190.html"
-      },
-      "tags": [
-        "媒体",
-        "应用落地"
-      ],
-      "isHeadline": true,
-      "coreInsight": "政策推动AI与教育深度融合，重点在于构建人才培养体系和技术应用生态。通过智能技术重塑教学流程，实现个性化学习和教育管理智能化。",
-      "scenarios": "智能教学助手、学习行为分析系统、教育管理决策平台",
-      "techKeywords": "Adaptive Learning：基于学习者数据动态调整教学内容和路径。NLP：通过自然语言处理实现智能问答和作文批改。",
-      "productDesign": "需开发教育专属AI中台，整合教学数据和算法能力。重点关注教师-学生-家长的三方协同场景，打造闭环服务。"
-    },
-    {
-      "id": "20260414_003",
-      "title": "斯坦福年度结论：中美大模型已没差距",
-      "originalTitle": "斯坦福年度结论：中美大模型已没差距",
+      "id": "20260415_003",
+      "title": "百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕",
+      "originalTitle": "百度Create大会官宣三大核心看点，国内最大AI开发者嘉年华5月北京揭幕",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Tue, 14 Apr 2026 05:58:59 +0000",
-      "crawlDate": "2026-04-14",
+      "publishDate": "Wed, 15 Apr 2026 08:56:43 +0000",
+      "crawlDate": "2026-04-15",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/04/401094.html"
+        "url": "https://www.qbitai.com/2026/04/401507.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "中美大模型技术差距已消除，表明全球AI发展进入同步竞争阶段。Transformer架构的普及和计算资源平权是关键因素，使模型能力趋于同质化。",
-      "scenarios": "多语言即时翻译、跨文化创意生成、全球知识库构建",
-      "techKeywords": "Transformer：基于自注意力机制的神经网络架构，通过并行处理实现长程依赖建模。Compute Parity：云计算和芯片技术民主化，使算力不再成为训练大模型的瓶颈。",
-      "productDesign": "应聚焦差异化数据资产和垂直场景优化，避免同质化竞争。跨文化产品本地化和多模态融合是突破方向，需建立基于用户反馈的持续迭代机制。"
+      "coreInsight": "百度Create大会将展示智能云全栈技术能力，为开发者提供一站式AI解决方案。三大看点聚焦底层技术突破与产业落地，体现百度AI生态布局。",
+      "scenarios": "企业级AI模型训练、智能客服系统开发、城市智慧交通管理",
+      "techKeywords": "AI-Native：基于原生AI架构设计的云服务，支持端到端模型开发部署。MaaS(Model-as-a-Service)：提供预训练模型API服务，降低企业AI应用门槛。",
+      "productDesign": "PM应关注全栈技术方案的场景适配性，重点设计开发者体验提升路径。可探索垂直领域模板化解决方案，加速行业应用落地。"
     },
     {
-      "id": "20260414_004",
-      "title": "李开复陆奇重仓同一家Harness智能体公司，李笛带队，4个月2轮融资3-5年粮草",
-      "originalTitle": "李开复陆奇重仓同一家Harness智能体公司，李笛带队，4个月2轮融资3-5年粮草",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Tue, 14 Apr 2026 05:39:06 +0000",
-      "crawlDate": "2026-04-14",
+      "id": "20260415_004",
+      "title": "北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛",
+      "originalTitle": "北电数智发布星火·AI云2.0，以AI系统工程重塑产城发展范式 | 酒仙桥论坛",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 15 Apr 2026 07:59:47 +0000",
+      "crawlDate": "2026-04-15",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/04/401065.html"
+        "url": "https://www.qbitai.com/2026/04/401484.html"
       },
       "tags": [
         "媒体",
-        "Agent"
+        "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "核心洞察：Harness智能体公司获得李开复和陆奇重仓投资，表明其在AI智能体领域具有突破性技术。4个月内完成两轮融资，资金储备可支撑3-5年发展，说明其商业化路径清晰。",
-      "scenarios": "应用场景1：企业级AI自动化流程。应用场景2：智能客服与对话系统。应用场景3：跨平台任务自动化执行。",
-      "techKeywords": "Agent(English)：AI智能体通过强化学习和自然语言处理实现自主决策。LLM(English)：大语言模型作为智能体的核心引擎，提供语义理解和生成能力。",
-      "productDesign": "产品启示：需要构建可解释的智能体决策机制，降低企业使用门槛。机会点在于垂直领域智能体的快速部署和持续学习能力。"
+      "coreInsight": "该产品采用AI系统工程方法整合云计算与智能算法，实现产城数字化升级。通过'星火·AI云2.0'平台将分散的AI能力封装为标准化服务模块，降低技术使用门槛。",
+      "scenarios": "智慧园区能源管理、城市交通流量预测、产业招商智能匹配",
+      "techKeywords": "AI系统工程(AI System Engineering)：通过模块化设计整合计算机视觉、NLP等技术栈，形成端到端解决方案。国芯AI(Domestic AI Chip)：采用自主可控的算力芯片架构，确保数据处理安全性和实时性。",
+      "productDesign": "启示1：需构建标准化AI能力中间件，2B场景特别关注模块化输出；机会点：结合地方政府新基建政策，打造'AI+产城'解决方案包。"
     },
     {
-      "id": "20260414_005",
-      "title": "AI for the Economy论坛：汇聚行业精英",
+      "id": "20260415_005",
+      "title": "Turn your best AI prompts into one-click tools in Chrome",
+      "originalTitle": "Turn your best AI prompts into one-click tools in Chrome",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Tue, 14 Apr 2026 17:00:00 +0000",
+      "crawlDate": "2026-04-15",
+      "source": {
+        "name": "Google AI",
+        "type": "官方",
+        "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/"
+      },
+      "tags": [
+        "官方",
+        "开发工具"
+      ],
+      "isHeadline": true,
+      "coreInsight": "通过Chrome插件将复杂AI提示词转化为一键式工具，实现AI工作流的快速复用。该技术本质是将自然语言指令封装成可执行模块，通过浏览器扩展实现即时调用。",
+      "scenarios": "内容创作者快速生成文案模板、数据分析师复用复杂查询流程、电商运营批量生成产品描述",
+      "techKeywords": "AI Prompt Engineering：通过结构化提示词设计实现可复用的AI交互模式。Browser Extension：利用浏览器扩展API实现网页环境与AI服务的无缝集成。",
+      "productDesign": "启示在于降低AI使用门槛，将专业级prompt工程产品化。机会在于构建Prompt模板市场，形成AI工作流生态。"
+    }
+  ],
+  "quickBrowse": [
+    {
+      "id": "20260415_q001",
+      "title": "CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划",
+      "originalTitle": "CAAI携手中国人民大学高瓴人工智能学院、英博数科启动高校学院算力支持计划",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 15 Apr 2026 07:42:12 +0000",
+      "crawlDate": "2026-04-15",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/04/401479.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "该计划通过提供算力支持实现校企资源互补，AI算力(Computing Power)是训练复杂模型的基础设施。高校提供学术研究场景，企业提供硬件资源，形成协作闭环。",
+      "scenarios": "高校AI课程实验环境搭建、学术研究项目算力支持、产学研联合项目开发",
+      "techKeywords": "HPC(High Performance Computing)：通过并行计算架构处理海量数据，是AI训练的基础设施。Distributed Training：将计算任务拆分到多个GPU节点，显著提升模型训练效率。",
+      "productDesign": "可设计算力资源共享平台实现动态分配，建立产学研积分兑换机制。需关注不同院校的算力需求分级和资源调度算法优化。"
+    },
+    {
+      "id": "20260415_q002",
+      "title": "HCompany推出HoloTab：你的AI浏览器助手",
+      "originalTitle": "Meet HoloTab by HCompany. Your AI browser companion. ",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 15 Apr 2026 09:25:20 GMT",
+      "crawlDate": "2026-04-15",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/Hcompany/holotab"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "HoloTab通过AI技术整合浏览器功能，提供智能搜索和个性化推荐。其核心是使用NLP理解用户意图，并结合浏览器行为数据进行实时辅助。",
+      "scenarios": "1、学术研究时的智能文献推荐 2、电商购物时的比价和优惠提醒 3、日常浏览时的自动化信息整理",
+      "techKeywords": "NLP(Natural Language Processing)：使用深度学习模型理解用户查询语义。Browser Automation：通过API集成自动执行浏览器操作任务。",
+      "productDesign": "启示在于将AI能力无缝融入基础工具，机会是打造跨网站的个性化工作流。需要注意平衡智能推荐和用户隐私保护。"
+    },
+    {
+      "id": "20260415_q003",
+      "title": "AI for the Economy Forum：汇聚行业力量",
       "originalTitle": "Bringing people together at AI for the Economy Forum",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Tue, 14 Apr 2026 09:00:00 +0000",
-      "crawlDate": "2026-04-14",
+      "crawlDate": "2026-04-15",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -111,108 +182,60 @@
         "官方",
         "企业动态"
       ],
-      "isHeadline": true,
-      "coreInsight": "Google通过AI for the Economy Forum推动经济领域AI应用，论坛聚集行业专家探讨AI技术如何赋能经济发展。这体现了AI从实验室到产业落地的趋势，需要产学研结合推动技术实用化。",
-      "scenarios": "宏观经济预测、产业数字化转型、智能就业市场匹配",
-      "techKeywords": "Economic AI：利用机器学习分析经济数据，预测市场趋势和政策影响。Workforce Analytics：通过AI分析劳动力市场供需，优化人力资源配置。",
-      "productDesign": "PM应关注AI+经济垂直领域的机会，设计B2G/B2B解决方案。需要构建包含数据管道、模型服务和可视化组件的端到端平台，重点解决数据隐私和解释性问题。"
+      "isHeadline": false,
+      "coreInsight": "Google通过AI for the Economy Forum活动建立行业协作平台，展示AI技术如何促进经济发展。该活动聚焦技术落地方案，推动跨领域资源整合。",
+      "scenarios": "政策制定者与科技企业对话场景、区域经济数字化转型场景、AI产业链资源对接场景",
+      "techKeywords": "AI Ecosystem：指由算法、数据、算力构成的完整技术体系，强调各要素协同运作。Public-Private Partnership：政府与企业合作模式，通过资源互补加速AI技术商业化进程。",
+      "productDesign": "PM应关注政企协同的AI解决方案设计机会，重点开发可量化的经济影响评估工具。同时需要构建标准化API接口促进跨机构数据流通。"
+    },
+    {
+      "id": "20260415_q004",
+      "title": "今日要闻：NASA核动力飞船与AI十大创新揭晓",
+      "originalTitle": "The Download: NASA’s nuclear spacecraft and unveiling our AI 10",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 15 Apr 2026 12:10:00 +0000",
+      "crawlDate": "2026-04-15",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/04/15/1135904/the-download-nasa-nuclear-powered-spacecraft-10-things-that-matter-in-ai-right-now/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "NASA研发的核动力飞船将突破传统化学燃料限制，利用核裂变反应堆提供持久稳定动力。该技术通过小型化核反应堆与热电转换系统实现深空探测的能源供给。",
+      "scenarios": "深空探测任务、长期驻留月球/火星基地、超远距离星际旅行",
+      "techKeywords": "Nuclear Fission Reactor：通过铀235裂变链式反应产生热能，经斯特林发动机或热电偶转换为电能。Radioisotope Thermoelectric Generator(RTG)：利用钚238衰变热差直接发电，适合小型探测器长期供电。",
+      "productDesign": "需重点关注核安全系统的故障容错设计，建议开发模块化反应堆单元。商业航天公司可探索核动力与AI导航结合的自主深空货运解决方案。"
+    },
+    {
+      "id": "20260415_q005",
+      "title": "无人确定合成镜像生命是否会毁灭人类",
+      "originalTitle": "No one’s sure if synthetic mirror life will kill us all",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 15 Apr 2026 09:00:00 +0000",
+      "crawlDate": "2026-04-15",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/04/15/1135197/synthetic-mirror-life-microbes-kill-us-all/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "合成生物学家正在探索创建'mirror'细菌，其分子结构与传统生命镜像对称。这种技术可能颠覆现有生物系统，但存在未知风险需要伦理评估。",
+      "scenarios": "医疗领域开发抗药性药物、生物制造新型材料、太空探索中构建适应性生命系统。",
+      "techKeywords": "mirror bacteria：通过反转生物分子手性构建镜像对称的微生物。synthetic biology：人工设计改造生物系统，实现自然界不存在的生物功能。",
+      "productDesign": "需要构建生物安全评估框架产品，同时开发镜像生物实验平台。关注生物黑客防护与生命伦理审查工具的市场需求。"
     }
   ],
-  "quickBrowse": [
-    {
-      "id": "20260414_q001",
-      "title": "你的AI助手，你的记忆库",
-      "originalTitle": "Your harness, your memory",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Sat, 11 Apr 2026 14:52:02 GMT",
-      "crawlDate": "2026-04-14",
-      "source": {
-        "name": "LangChain",
-        "type": "Agent",
-        "url": "https://blog.langchain.com/your-harness-your-memory/"
-      },
-      "tags": [
-        "Agent",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "核心洞察：AI代理框架(Agent harness)正在成为构建AI代理的主流方式，其核心特点是深度整合记忆功能。这种框架通过将记忆系统与代理行为绑定，形成持续学习的能力闭环。",
-      "scenarios": "应用场景1：个性化数字助理。应用场景2：自动化工作流代理。应用场景3：持续学习的客户服务机器人",
-      "techKeywords": "Agent harness：通过标准化接口封装代理核心功能，实现记忆与行为的深度集成。Memory-Augmented Agents：通过持久化记忆模块使AI具备上下文持续学习能力，突破单次对话限制。",
-      "productDesign": "产品启示：1) 需要设计开放的记忆系统架构避免厂商锁定。2) 记忆模块应支持分层存储策略，平衡实时性与成本。3) 提供记忆可视化工具增强用户掌控感。"
-    },
-    {
-      "id": "20260414_q002",
-      "title": "今日要闻：AI发展现状与无人机护熊行动",
-      "originalTitle": "The Download: the state of AI, and protecting bears with drones",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 14 Apr 2026 12:10:00 +0000",
-      "crawlDate": "2026-04-14",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/04/14/1135847/the-download-state-of-ai-drones-protecting-bears/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "通过图表可视化呈现AI发展现状，揭示技术快速迭代带来的认知冲击。无人机护熊案例展示AI+IoT技术在野生动物保护中的创新应用。",
-      "scenarios": "1. 数据可视化分析AI行业趋势 2. 无人机巡护野生动物栖息地 3. AI就业影响评估系统",
-      "techKeywords": "Computer Vision(计算机视觉)：通过深度学习算法解析图像数据，使无人机能自动识别野生动物。Edge Computing(边缘计算)：将AI模型部署在无人机端设备，实现实时数据处理而不依赖云端。",
-      "productDesign": "应开发行业状态仪表盘产品，帮助用户理解快速变化的AI领域。考虑构建垂直领域的AI+IoT解决方案模板，如环保监测场景。"
-    },
-    {
-      "id": "20260414_q003",
-      "title": "NASA打造首艘核动力星际飞船，如何运作？",
-      "originalTitle": "NASA is building the first nuclear reactor-powered interplanetary spacecraft. How will it work?",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 14 Apr 2026 12:04:47 +0000",
-      "crawlDate": "2026-04-14",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/04/14/1135848/nasa-nuclear-powered-spacecraft/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "核心洞察：NASA正在开发首个基于核反应堆动力的星际飞船，这将大幅提升深空探测任务的续航能力。核动力系统通过持续裂变反应产生稳定能量，克服了太阳能电池在远离太阳时的效率限制。",
-      "scenarios": "应用场景1：长距离深空探测任务；应用场景2：火星基地能源供应；应用场景3：外行星轨道站持续供电",
-      "techKeywords": "Nuclear Reactor：利用铀235裂变反应产生热能，通过热电转换系统转化为电能。Thermoelectric Conversion：通过半导体材料直接将热能转化为电能，无需运动部件，适合太空环境。",
-      "productDesign": "产品启示：该技术为AI太空设备提供了持续稳定的能源解决方案。机会点在于开发配套的智能能量管理系统，实现核动力与AI设备的协同优化。"
-    },
-    {
-      "id": "20260414_q004",
-      "title": "即将发布：AI领域当前最重要的10件事",
-      "originalTitle": "Coming soon: 10 Things That Matter in AI Right Now",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 14 Apr 2026 11:00:00 +0000",
-      "crawlDate": "2026-04-14",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "MIT Technology Review每年评选的10大突破性技术清单聚焦能改变生活和工作方式的关键技术。2026年清单特别关注AI、能源和生物技术领域，体现这些技术在当前发展阶段的重要性。",
-      "scenarios": "AI在医疗诊断中的应用、能源领域的智能电网优化、生物技术的基因编辑治疗",
-      "techKeywords": "AI(Artificial Intelligence)：通过算法模拟人类智能，实现自主学习和决策。Biotech：利用生物体或细胞开发新技术和产品，推动医疗和农业进步。",
-      "productDesign": "作为PM应重点关注AI与其他前沿技术的交叉应用场景。可探索AI+Biotech在精准医疗中的产品机会，以及AI在能源管理中的优化潜力。"
-    }
-  ],
-  "total": 9,
+  "total": 10,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
