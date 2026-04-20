@@ -1,15 +1,107 @@
 {
-  "date": "20260419",
-  "updateTime": "2026-04-19T13:05:35.068Z",
+  "date": "20260420",
+  "updateTime": "2026-04-20T01:50:00.534Z",
   "headlines": [
     {
-      "id": "20260419_001",
+      "id": "20260420_001",
+      "title": "GPT-Rosalind发布，助力生命科学研究",
+      "originalTitle": "Introducing GPT-Rosalind for life sciences research",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Thu, 16 Apr 2026 01:00:00 GMT",
+      "crawlDate": "2026-04-20",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/introducing-gpt-rosalind"
+      },
+      "tags": [
+        "官方",
+        "科研突破"
+      ],
+      "isHeadline": true,
+      "coreInsight": "GPT-Rosalind是基于GPT架构优化的前沿推理模型，专门针对生命科学领域进行微调。该模型通过理解生物医学文献和实验数据，加速药物发现和基因组分析等科研流程。",
+      "scenarios": "新药靶点发现、基因组序列分析、蛋白质结构预测",
+      "techKeywords": "GPT architecture：采用Transformer架构的生成式预训练模型，通过自注意力机制处理序列数据。Drug discovery pipeline：利用AI模型筛选潜在化合物，大幅缩短传统药物研发周期。",
+      "productDesign": "启示1：垂直领域大模型需要特殊的数据清洗和领域知识注入。机会：可拓展至其他科研领域如材料科学，构建学科专用AI助手。"
+    },
+    {
+      "id": "20260420_002",
+      "title": "加速保护我们的网络安全防御生态系统",
+      "originalTitle": "Accelerating the cyber defense ecosystem that protects us all",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Thu, 16 Apr 2026 00:00:00 GMT",
+      "crawlDate": "2026-04-20",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/accelerating-cyber-defense-ecosystem"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "OpenAI通过GPT-5.4-Cyber模型和API资助计划，构建基于AI的网络安全防御联盟。该方案利用大语言模型实时分析威胁情报，并通过企业协作形成联合防御体系。",
+      "scenarios": "1、企业级网络安全威胁检测 2、自动化安全事件响应 3、跨组织威胁情报共享",
+      "techKeywords": "GPT-5.4-Cyber：基于GPT-5架构优化的垂直领域模型，通过预训练学习网络攻防模式。Trusted Access for Cyber：安全联盟框架，实现成员间的模型共享和协同防御。",
+      "productDesign": "1、垂直领域大模型需强化领域知识蒸馏能力 2、安全类产品要建立可信数据交换机制 3、API生态可加速技术普惠形成商业闭环"
+    },
+    {
+      "id": "20260420_003",
+      "title": "Agents SDK的下一代进化",
+      "originalTitle": "The next evolution of the Agents SDK",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Wed, 15 Apr 2026 10:00:00 GMT",
+      "crawlDate": "2026-04-20",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/the-next-evolution-of-the-agents-sdk"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "OpenAI通过为Agents SDK增加原生沙箱执行环境和模型原生框架，使开发者能够构建更安全、持久的智能体应用。这项升级解决了跨文件和工具长期运行的稳定性问题。",
+      "scenarios": "自动化工作流处理、跨平台数据整合工具、持续监控与告警系统",
+      "techKeywords": "native sandbox execution：通过隔离执行环境保障安全性，避免agent操作影响宿主系统。model-native harness：为特定模型优化的控制框架，提升长期运行的稳定性和性能表现。",
+      "productDesign": "产品设计应考虑安全执行环境的标准化接入，同时需要优化长时间运行场景下的资源管理策略。这为构建企业级自动化解决方案提供了新的技术基础。"
+    },
+    {
+      "id": "20260420_004",
+      "title": "可信访问：下一代网络防御新时代",
+      "originalTitle": "Trusted access for the next era of cyber defense",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 14 Apr 2026 00:00:00 GMT",
+      "crawlDate": "2026-04-20",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "OpenAI通过GPT-5.4-Cyber版本为安全专家提供AI增强的网络安全防御能力，采用可信访问机制确保技术不被滥用。该技术利用大语言模型的威胁检测和响应生成能力，实现自动化安全运维。",
+      "scenarios": "企业级网络威胁检测、自动化安全事件响应、红蓝对抗演练",
+      "techKeywords": "Trusted Access：采用白名单机制控制AI系统访问权限，确保只有经过审查的安全专家可使用高危能力。GPT-5.4-Cyber：专为网络安全优化的LLM版本，具备漏洞分析、攻击模式识别等垂直领域能力。",
+      "productDesign": "启示1：垂直领域LLM需建立严格的使用准入机制。机会：可开发基于可信AI的企业安全运维SaaS平台，整合自动化响应工作流。"
+    },
+    {
+      "id": "20260420_005",
       "title": "大模型架构的下半场",
       "originalTitle": "大模型架构的下半场",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Sun, 19 Apr 2026 10:12:10 +0000",
-      "crawlDate": "2026-04-19",
+      "crawlDate": "2026-04-20",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -20,19 +112,44 @@
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "Flash Depth Attention通过优化注意力机制的深度计算层来提升大模型训练效率，混合深度注意力则结合了不同粒度的注意力计算。两项技术共同解决了大模型深度扩展时的计算效率和精度平衡问题。",
-      "scenarios": "大规模预训练模型参数优化、长文本/视频序列处理、多模态融合计算场景",
-      "techKeywords": "Flash Depth Attention：通过分层计算注意力权重减少内存占用，保留深层特征交互能力。Hybrid Depth Attention：组合局部和全局注意力机制，在计算成本和模型性能间取得平衡。",
-      "productDesign": "可探索构建自适应深度调节的模型架构产品，针对不同计算资源场景自动优化注意力机制组合。建议优先在计算密集型AIaaS场景验证技术价值。"
+      "coreInsight": "Flash Depth Attention通过优化注意力机制的计算深度来提升大模型效率，混合深度注意力则结合了不同层次的注意力计算。这两种技术可有效降低计算复杂度，同时保持模型性能。",
+      "scenarios": "大规模语言模型训练、实时对话系统优化、边缘设备轻量化部署",
+      "techKeywords": "Flash Depth Attention：通过分层注意力计算减少冗余运算，使模型在保持精度的同时提升计算效率。Hybrid Depth Attention：结合浅层和深层注意力机制，平衡计算成本和模型表现。",
+      "productDesign": "产品设计应关注计算效率与模型性能的平衡，可探索在边缘计算场景的应用。建议优先优化高频交互场景的响应速度，同时保持核心语义理解能力。"
+    }
+  ],
+  "quickBrowse": [
+    {
+      "id": "20260420_q001",
+      "title": "Ecom-RLVE：电商对话代理的自适应可验证环境",
+      "originalTitle": "Ecom-RLVE: Adaptive Verifiable Environments for E-Commerce Conversational Agents",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Thu, 16 Apr 2026 00:00:00 GMT",
+      "crawlDate": "2026-04-20",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/ecom-rlve"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Ecom-RLVE通过强化学习创建自适应可验证环境，专门优化电商对话代理。该系统能动态调整训练环境以验证对话代理在复杂电商场景中的表现。",
+      "scenarios": "电商客服自动化、个性化商品推荐、多轮购物对话系统",
+      "techKeywords": "Reinforcement Learning(RL)：通过奖励机制让AI系统在交互中自主学习最优策略。Verifiable Environments：提供可量化评估的测试环境，确保AI行为符合预期标准。",
+      "productDesign": "建议电商平台集成此类环境验证系统，可显著提升对话代理的可靠性和转化率。同时可考虑开放环境API，构建开发者生态。"
     },
     {
-      "id": "20260419_002",
-      "title": "Chrome AI Mode带来网页浏览新方式",
+      "id": "20260420_q002",
+      "title": "Chrome推出AI Mode，探索网页新方式",
       "originalTitle": "A new way to explore the web with AI Mode in Chrome",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Thu, 16 Apr 2026 17:00:00 +0000",
-      "crawlDate": "2026-04-19",
+      "crawlDate": "2026-04-20",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -42,22 +159,20 @@
         "官方",
         "大语言模型"
       ],
-      "isHeadline": true,
-      "coreInsight": "Chrome AI Mode利用大语言模型技术实时理解网页内容，通过自然语言交互帮助用户快速获取信息。该功能将传统搜索升级为对话式浏览体验，直接回答用户问题而不需手动筛选结果。",
-      "scenarios": "学术研究时快速提取论文要点、购物比价时自动汇总产品参数、阅读新闻时生成事件时间线",
-      "techKeywords": "LLM(Large Language Model)：基于Transformer架构的预训练模型，通过自注意力机制理解文本语义。AI Mode：浏览器内置的智能交互层，整合LLM能力实现网页内容实时解析。",
-      "productDesign": "启示在于将AI能力无缝嵌入用户现有工作流，而非创造独立功能。机会点包括开发基于浏览器的微调模型，以及建立网页内容结构化标注标准。"
-    }
-  ],
-  "quickBrowse": [
+      "isHeadline": false,
+      "coreInsight": "Chrome的AI Mode通过大语言模型实时理解网页内容，提供智能交互功能。用户可通过自然语言指令快速获取信息或完成操作，改变传统浏览方式。",
+      "scenarios": "学术研究时快速提取论文要点、电商购物时智能比价推荐、日常浏览时自动生成内容摘要",
+      "techKeywords": "LLM(Large Language Model)：基于Transformer架构的海量参数模型，能理解和生成自然语言文本。On-device AI：在本地设备运行AI算法，兼顾响应速度与隐私保护。",
+      "productDesign": "启示1：浏览器可升级为AI+信息中枢。机会点：结合用户画像打造个性化网页重构能力，注意平衡计算资源消耗。"
+    },
     {
-      "id": "20260419_q001",
-      "title": "理解LLM架构的工作流程",
+      "id": "20260420_q003",
+      "title": "我的LLM架构理解工作流",
       "originalTitle": "My Workflow for Understanding LLM Architectures",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Sat, 18 Apr 2026 11:24:36 GMT",
-      "crawlDate": "2026-04-19",
+      "crawlDate": "2026-04-20",
       "source": {
         "name": "Sebastian Raschka",
         "type": "专家",
@@ -68,19 +183,134 @@
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "文章提出了一个系统化学习LLM架构的工作流程，通过剖析模型权重和架构设计来理解开源模型。该方法强调从模型实现细节反向推导设计思想，比单纯阅读论文更有效。",
-      "scenarios": "AI研究员快速掌握新模型、工程师进行模型调优、教育者设计AI课程内容",
-      "techKeywords": "LLM Architectures：大型语言模型的结构设计，包括Transformer层和注意力机制。Open-weight Models：开源模型权重，允许研究者深入分析模型内部工作机制。",
-      "productDesign": "可开发模型分析工具链产品，集成权重可视化和架构比对功能。同时可以构建学习平台，将这种工作流程产品化为教育解决方案。"
+      "coreInsight": "文章介绍了一个系统化理解开源LLM模型架构的工作流，结合了论文阅读、代码分析和实践验证三个环节。该流程能帮助开发者快速掌握新发布模型的技术细节和适用场景。",
+      "scenarios": "AI研究员快速跟进最新模型、工程师评估模型技术方案、开发者进行模型微调优化",
+      "techKeywords": "LLM Architectures：基于Transformer的大语言模型架构，通过自注意力机制处理长序列依赖。Open-weight Model：公开权重参数的模型，允许用户自由使用和修改模型参数。",
+      "productDesign": "可以开发辅助理解模型架构的IDE插件，集成论文解析和代码可视化功能。同时可构建模型知识图谱工具，帮助用户建立不同LLM架构的关联认知。"
     },
     {
-      "id": "20260419_q002",
-      "title": "《今日摘要》：尼安德特人的坏消息，AI战争的人类幻觉",
+      "id": "20260420_q004",
+      "title": "编码代理的组件",
+      "originalTitle": "Components of A Coding Agent",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Sat, 04 Apr 2026 11:45:37 GMT",
+      "crawlDate": "2026-04-20",
+      "source": {
+        "name": "Sebastian Raschka",
+        "type": "专家",
+        "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent"
+      },
+      "tags": [
+        "专家",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "编码代理通过集成Tools、Memory和Repo Context三大组件，显著提升LLM在编程任务中的表现。Tools提供代码执行环境，Memory存储历史信息，Repo Context则让模型理解项目整体架构。",
+      "scenarios": "1.自动化代码补全 2.复杂bug修复 3.跨文件代码重构",
+      "techKeywords": "Tools：提供沙盒环境执行代码片段，使LLM能验证输出结果。Memory：通过向量数据库存储对话历史，实现上下文持续学习。Repo Context：解析整个代码库结构，帮助模型做出符合项目规范的决定。",
+      "productDesign": "1.需设计模块化组件架构方便功能扩展 2.应建立代码质量验证机制 3.可开发项目知识图谱功能增强上下文理解"
+    },
+    {
+      "id": "20260420_q005",
+      "title": "现代LLM中的Attention变体可视化指南",
+      "originalTitle": "A Visual Guide to Attention Variants in Modern LLMs",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Sun, 22 Mar 2026 11:55:40 GMT",
+      "crawlDate": "2026-04-20",
+      "source": {
+        "name": "Sebastian Raschka",
+        "type": "专家",
+        "url": "https://magazine.sebastianraschka.com/p/visual-attention-variants"
+      },
+      "tags": [
+        "专家",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "文章可视化呈现了现代LLM中多种Attention机制的变体，包括MHA、GQA等架构。这些变体通过不同方式分配计算资源，在保持模型性能的同时提升效率。",
+      "scenarios": "大规模语言模型训练、实时对话系统、长文本理解任务",
+      "techKeywords": "MHA(Multi-Head Attention)：通过并行多个注意力头捕捉不同子空间特征。GQA(Grouped-Query Attention)：将查询头分组共享键值对，平衡效果与计算成本。",
+      "productDesign": "应针对不同场景选用Attention变体，如实时系统优先GQA。可开发可视化工具帮助开发者理解模型内部机制。探索混合架构在不同硬件上的部署方案。"
+    },
+    {
+      "id": "20260420_q006",
+      "title": "我们认为",
+      "originalTitle": "Why We Think",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Thu, 01 May 2025 00:00:00 +0000",
+      "crawlDate": "2026-04-20",
+      "source": {
+        "name": "Lil Log",
+        "type": "专家",
+        "url": "https://lilianweng.github.io/posts/2025-05-01-thinking/"
+      },
+      "tags": [
+        "专家",
+        "科研突破"
+      ],
+      "isHeadline": false,
+      "coreInsight": "文章指出Test time compute和Chain-of-thought(CoT)技术显著提升了模型性能。这些方法通过优化推理时的计算分配和分步思考机制，为模型性能提升提供了新思路。",
+      "scenarios": "复杂问题求解、多步骤推理任务、需要解释性的AI应用",
+      "techKeywords": "Test time compute：动态调整推理阶段的计算资源分配，提升模型效率。Chain-of-thought(CoT)：通过显式生成推理步骤，提升模型复杂任务的解决能力。",
+      "productDesign": "应关注推理优化技术在产品中的落地，可以设计支持分步思考的交互界面。同时需要平衡计算成本和性能提升，找到最佳实践方案。"
+    },
+    {
+      "id": "20260420_q007",
+      "title": "强化学习中的Reward Hacking问题",
+      "originalTitle": "Reward Hacking in Reinforcement Learning",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Thu, 28 Nov 2024 00:00:00 +0000",
+      "crawlDate": "2026-04-20",
+      "source": {
+        "name": "Lil Log",
+        "type": "专家",
+        "url": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/"
+      },
+      "tags": [
+        "专家",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Reward hacking是强化学习中的常见问题，指智能体通过利用奖励函数的漏洞获得高回报，而非真正完成目标任务。这源于环境建模和奖励函数设计的不完善，需要更精细的reward shaping和环境约束来规避。",
+      "scenarios": "游戏AI训练可能产生作弊策略、自动驾驶系统可能钻规则空子、推荐系统可能过度优化点击率指标",
+      "techKeywords": "Reward Hacking：智能体发现奖励函数漏洞而投机取巧，反映reward shaping的工程挑战。Reward Shaping：通过辅助奖励项引导学习方向，但设计不当会引入新漏洞。",
+      "productDesign": "需建立reward function的测试验证机制，设计多维度评估体系。机会在于开发自动检测reward hacking的工具链，成为RL训练平台标配功能。"
+    },
+    {
+      "id": "20260420_q008",
+      "title": "LLM中的外部幻觉",
+      "originalTitle": "Extrinsic Hallucinations in LLMs",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Sun, 07 Jul 2024 00:00:00 +0000",
+      "crawlDate": "2026-04-20",
+      "source": {
+        "name": "Lil Log",
+        "type": "专家",
+        "url": "https://lilianweng.github.io/posts/2024-07-07-hallucination/"
+      },
+      "tags": [
+        "专家",
+        "应用落地"
+      ],
+      "isHeadline": false,
+      "coreInsight": "大语言模型(LLM)的外部幻觉特指模型脱离上下文或现实世界基础而虚构内容的现象。这不同于广义的模型错误，需要针对性设计上下文约束机制和事实核查功能。",
+      "scenarios": "1.金融报告生成时虚构数据 2.医疗咨询输出未经验证的建议 3.法律文件生成存在逻辑漏洞",
+      "techKeywords": "Extrinsic Hallucinations：指LLM输出与输入上下文无关的虚构内容。核心是模型过度依赖参数记忆而非即时推理。Context Grounding：通过实时检索增强等技术将输出锚定在可信数据源，减少幻觉。",
+      "productDesign": "1.需建立动态事实核查模块嵌入生成流程 2.设计用户可验证的引用溯源功能 3.关键领域应强制启用置信度阈值控制"
+    },
+    {
+      "id": "20260420_q009",
+      "title": "《今日要闻》：尼安德特人基因的坏消息，以及AI战争的人类幻觉",
       "originalTitle": "The Download: bad news for inner Neanderthals, and AI warfare’s human illusion",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 17 Apr 2026 12:10:00 +0000",
-      "crawlDate": "2026-04-19",
+      "crawlDate": "2026-04-20",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -91,19 +321,19 @@
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "该新闻揭示了人类基因研究中Neanderthal DNA的认知误区，同时指出AI军事应用中人类决策的幻觉问题。技术原理涉及基因测序技术和AI决策系统的透明度机制。",
-      "scenarios": "1) 基因检测产品的用户教育场景 2) 军事AI系统的风险评估场景 3) 人类进化研究的科普传播场景",
-      "techKeywords": "Neanderthal DNA：通过古人类基因组比对技术检测现代人类基因中的远古片段。AI warfare：指采用机器学习算法自主决策的军事系统，需解决可解释性问题。",
-      "productDesign": "1) 基因检测产品需强化数据可视化解读 2) 军事AI系统应设计决策追溯功能 3) 科普类产品可结合AR技术展示人类进化路径"
+      "coreInsight": "该新闻揭示了人类基因与AI战争的两个关键维度：1) 尼安德特人基因研究显示人类进化具有复杂性，2) AI战争本质是人类的认知投射而非技术本身。这提醒我们技术发展必须考虑生物伦理和人类认知局限。",
+      "scenarios": "基因检测技术伦理审查、军事AI的人机协同系统设计、公众科学素养教育",
+      "techKeywords": "Neanderthal DNA：通过对比现代人类与古人类基因序列，揭示物种间基因流动的进化生物学技术。AI warfare：指将人工智能应用于军事领域时，人类将自身认知偏见投射到机器决策中的现象。",
+      "productDesign": "1) 基因产品需设计用户认知矫正机制，避免过度解读结果 2) 军事AI系统必须内置人类价值观校准层 3) 可开发基因-AI交叉领域的科普教育产品"
     },
     {
-      "id": "20260419_q003",
-      "title": "The case for fixing everything",
+      "id": "20260420_q010",
+      "title": "修复一切的案例",
       "originalTitle": "The case for fixing everything",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 17 Apr 2026 10:00:00 +0000",
-      "crawlDate": "2026-04-19",
+      "crawlDate": "2026-04-20",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -114,13 +344,13 @@
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "Stewart Brand的新书强调维护(Maintenance)在文明发展中的重要性，将维护视为技术持续创新的基础。这揭示了技术产品生命周期中维护阶段的关键价值，需要通过系统化方法延长技术产品的有效生命周期。",
-      "scenarios": "1、大型基础设施的长期运维 2、软件系统的版本维护和技术债务管理 3、硬件产品的售后服务和零部件供应链",
-      "techKeywords": "Maintenance：指通过定期检查、更新和修复确保系统持续运行的实践。Cyberculture：探讨数字技术如何影响社会文化的学科，强调技术与人文的交叉影响。",
-      "productDesign": "产品设计应考虑可维护性架构，降低后期运维成本。建立预测性维护机制可成为产品差异化优势。应将维护成本纳入产品全生命周期ROI计算模型。"
+      "coreInsight": "Brand的新书《Maintenance》强调了维护在技术发展中的基础性作用。通过系统性维护可以延长技术生命周期并确保稳定性，这比单纯创新更重要。",
+      "scenarios": "应用场景1：工业设备预防性维护。应用场景2：软件系统版本迭代支持。应用场景3：城市基础设施持续运维。",
+      "techKeywords": "Maintenance：通过定期检查与更新保持系统功能完整，需建立标准化流程。Cyberculture：数字技术与社会文化的融合形态，强调技术应用的可持续性。",
+      "productDesign": "应设计内置健康监测系统的智能硬件，并建立维护知识库。可开发预测性维护SaaS平台，将维护价值转化为商业模型。"
     }
   ],
-  "total": 5,
+  "total": 15,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
