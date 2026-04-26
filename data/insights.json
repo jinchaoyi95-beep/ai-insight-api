@@ -1,15 +1,15 @@
 {
-  "date": "20260425",
-  "updateTime": "2026-04-25T13:08:17.687Z",
+  "date": "20260426",
+  "updateTime": "2026-04-26T01:49:25.607Z",
   "headlines": [
     {
-      "id": "20260425_001",
+      "id": "20260426_001",
       "title": "GPT-5.5正式发布",
       "originalTitle": "Introducing GPT-5.5",
       "category": "research",
       "categoryName": "科研突破",
       "publishDate": "Thu, 23 Apr 2026 11:00:00 GMT",
-      "crawlDate": "2026-04-25",
+      "crawlDate": "2026-04-26",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -20,19 +20,19 @@
         "科研突破"
       ],
       "isHeadline": true,
-      "coreInsight": "GPT-5.5基于Transformer架构升级，通过更大的训练数据和计算优化实现更快响应。其多工具协同能力突破单模态限制，支持代码生成与研究分析的端到端处理。",
-      "scenarios": "1.开发者实时代码补全与调试 2.科研人员跨文献数据交叉分析 3.数据分析师自动化报表生成与洞察提取",
-      "techKeywords": "Mixture of Experts(MoE)：通过动态激活子模型网络提升计算效率，不同专家模块处理特定任务类型。Toolformer架构：模型自主调用外部API工具链，将语言理解与具体工具操作相结合。",
-      "productDesign": "需构建工具调用中间件降低集成成本，关注复杂任务的分步验证机制设计。可探索垂直领域工作流引擎与AI的深度耦合。"
+      "coreInsight": "GPT-5.5采用多模态混合专家架构(MoE)，推理速度提升40%。支持跨工具复杂任务处理，通过动态任务分解技术自动拆分代码/研究等工作流。",
+      "scenarios": "自动化代码生成与调试、跨平台科研数据分析、企业级文档智能处理",
+      "techKeywords": "Mixture of Experts(MoE)：通过路由机制激活特定专家模块，实现计算资源动态分配。Dynamic Task Decomposition：将复杂任务拆解为可并行子任务，通过工作流引擎智能调度。",
+      "productDesign": "应重点设计跨工具链的AI Agent框架，利用动态任务分解能力封装垂直场景解决方案。建议开发面向企业的API计费模块，按任务复杂度差异化定价。"
     },
     {
-      "id": "20260425_002",
+      "id": "20260426_002",
       "title": "GPT-5.5系统卡",
       "originalTitle": "GPT-5.5 System Card",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Thu, 23 Apr 2026 11:00:00 GMT",
-      "crawlDate": "2026-04-25",
+      "crawlDate": "2026-04-26",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -43,19 +43,19 @@
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "GPT-5.5系统卡展示了新一代语言模型的架构优化方案，通过改进的transformer结构和训练方法显著提升推理效率。该技术特别强调在多轮对话场景下的响应一致性和知识实时性控制机制。",
-      "scenarios": "企业级客服自动化、多模态内容创作辅助、复杂决策支持系统",
-      "techKeywords": "Mixture-of-Experts(MoE)：采用专家网络动态路由机制，在保持模型规模的同时显著降低计算成本。Chain-of-Thought(CoT)：通过显式推理步骤分解，提升模型在复杂逻辑问题中的表现可靠性。",
-      "productDesign": "提示工程需要适配新的模型特性，建议开发专用的prompt模板库。应重点关注模型在垂直领域的微调接口设计，这将成为商业化落地的关键差异化能力。"
+      "coreInsight": "GPT-5.5是OpenAI推出的新一代语言模型系统卡，通过改进的transformer架构实现更精准的上下文理解。该系统卡详细说明了模型的安全边界和优化后的多轮对话能力。",
+      "scenarios": "智能客服系统、教育领域个性化辅导、专业领域知识问答",
+      "techKeywords": "Transformer架构：通过自注意力机制处理序列数据，实现长距离依赖建模。RLHF(Reinforcement Learning from Human Feedback)：利用人类反馈数据微调模型输出，提升对话安全性和实用性。",
+      "productDesign": "产品设计需重点关注模型透明度和可控性，通过系统卡形式建立用户信任。建议开发基于该模型的垂直领域解决方案，特别是在需要高可靠性对话的场景。"
     },
     {
-      "id": "20260425_003",
+      "id": "20260426_003",
       "title": "自动驾驶赛道DeepSeek，轻舟智航率先进军物理AI",
       "originalTitle": "自动驾驶赛道DeepSeek，轻舟智航率先进军物理AI",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Sat, 25 Apr 2026 07:22:22 +0000",
-      "crawlDate": "2026-04-25",
+      "crawlDate": "2026-04-26",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -66,19 +66,19 @@
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "轻舟智航通过500TOPS算力实现世界模型上车，标志着自动驾驶向物理AI领域迈进。该技术通过高算力实时处理环境数据，使车辆具备更精准的决策能力。",
-      "scenarios": "城市复杂路况自动驾驶、高速公路无人货运、特种车辆自主作业",
-      "techKeywords": "500TOPS：代表500万亿次运算/秒的算力水平，是处理自动驾驶海量数据的基础。World Model：通过AI构建的虚拟环境模型，能预测物理世界变化以实现更安全的决策。",
-      "productDesign": "PM应关注算力与算法协同优化的产品方案，探索高精度环境建模的商业化路径。同时需构建支持持续学习的车端AI系统，实现技术迭代与用户体验的平衡。"
+      "coreInsight": "DeepSeek和轻舟智航通过500TOPS算力的世界模型推动自动驾驶技术发展。物理AI将强化车辆对复杂环境的理解能力，实现更安全的决策规划。",
+      "scenarios": "城市复杂路况自动驾驶、高速公路长途货运、封闭园区物流配送",
+      "techKeywords": "World Model(世界模型)：通过构建虚拟环境模拟器来预训练自动驾驶系统。Physical AI(物理AI)：将物理规律融入AI决策系统，提升对真实世界的理解能力。",
+      "productDesign": "需重点关注算力与算法协同优化的车载系统设计。产品应构建持续进化的环境认知框架，同时确保安全冗余机制。"
     },
     {
-      "id": "20260425_004",
+      "id": "20260426_004",
       "title": "硬刚GPT-Image-2！国产AI生图“天花板”又被捅破了？",
       "originalTitle": "硬刚GPT-Image-2！国产AI生图“天花板”又被捅破了？",
       "category": "image-video",
       "categoryName": "AI绘画/视频",
       "publishDate": "Sat, 25 Apr 2026 06:58:48 +0000",
-      "crawlDate": "2026-04-25",
+      "crawlDate": "2026-04-26",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -89,19 +89,19 @@
         "AI绘画/视频"
       ],
       "isHeadline": true,
-      "coreInsight": "国产AI图像生成模型技术取得突破，直接对标国际领先的GPT-Image-2。新模型可能采用了更高效的神经网络架构和训练方法，在图像质量和生成速度上有所提升。",
-      "scenarios": "创意设计行业快速原型生成、电商平台自动商品图生成、社交媒体个性化内容创作",
-      "techKeywords": "Diffusion Model：通过逐步去噪过程生成高质量图像，相比GANs具有更好的稳定性和细节表现。Transformer Architecture：利用注意力机制处理图像生成任务，可捕捉长距离像素依赖关系。",
-      "productDesign": "建议关注垂直领域定制化图像生成需求，如专业设计工具插件开发。可探索'模型即服务'商业模式，通过API开放核心能力。"
+      "coreInsight": "国产AI图像生成技术正挑战国际领先水平，核心技术突破在于多模态融合和计算效率优化。该技术可实现文字到图像的精准转换，支持高分辨率输出。",
+      "scenarios": "电商产品可视化、游戏素材快速生成、广告创意自动化设计",
+      "techKeywords": "Diffusion Model：通过迭代去噪过程生成高质量图像，在保持细节的同时提升生成效率。Transformer Architecture：利用自注意力机制处理图像patch，实现全局上下文理解。",
+      "productDesign": "产品设计需聚焦垂直领域痛点，如电商的快速换装需求。同时要考虑计算成本优化，降低用户使用门槛。差异化竞争点可放在本土化风格支持上。"
     },
     {
-      "id": "20260425_005",
+      "id": "20260426_005",
       "title": "AI自主监测宠物健康，陪狗都不用自己来了！涂鸦Hey Tuya打造全屋智能“超级入口”",
       "originalTitle": "AI自主监测宠物健康，陪狗都不用自己来了！涂鸦Hey Tuya打造全屋智能“超级入口”",
       "category": "application",
       "categoryName": "应用落地",
       "publishDate": "Sat, 25 Apr 2026 05:41:18 +0000",
-      "crawlDate": "2026-04-25",
+      "crawlDate": "2026-04-26",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -112,44 +112,21 @@
         "应用落地"
       ],
       "isHeadline": true,
-      "coreInsight": "该产品利用AI技术实现宠物健康自主监测，通过传感器和算法分析宠物行为数据。同时作为全屋智能入口，整合多设备控制与AI交互功能。",
-      "scenarios": "宠物健康实时监测、智能家居统一控制、AI陪伴互动",
-      "techKeywords": "Behavior Analysis(行为分析)：通过机器学习算法识别宠物动作模式建立健康基准。Edge Computing(边缘计算)：在本地设备处理数据降低延迟保护隐私。",
-      "productDesign": "启示在于通过高频宠物场景切入智能家居市场，建议加强多模态交互设计。机会点在于建立宠物健康数据库拓展医疗服务变现。"
+      "coreInsight": "通过AIoT技术实现宠物健康监测自动化，结合全屋智能入口打造综合性解决方案。核心是传感器数据采集+AI行为分析算法，实现非接触式健康监测。",
+      "scenarios": "智能宠物健康监测、AI宠物陪伴互动、全屋智能生态整合",
+      "techKeywords": "Computer Vision：通过摄像头捕捉宠物行为特征，结合深度学习识别异常状态。Edge Computing：在本地设备端完成数据处理，保障实时性和隐私安全。",
+      "productDesign": "启示在于将垂直领域AI应用与智能家居平台深度整合，机会点在于建立宠物健康数据标准库和订阅式服务。需平衡硬件成本与AI算法精度。"
     }
   ],
   "quickBrowse": [
     {
-      "id": "20260425_q001",
-      "title": "0博士组合拿下ICLR时间检验奖！两个GPT天才本科生+二本逆袭LeCun弟子，十年论文终封神",
-      "originalTitle": "0博士组合拿下ICLR时间检验奖！两个GPT天才本科生+二本逆袭LeCun弟子，十年论文终封神",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Sat, 25 Apr 2026 03:35:53 +0000",
-      "crawlDate": "2026-04-25",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/04/406892.html"
-      },
-      "tags": [
-        "媒体",
-        "科研突破"
-      ],
-      "isHeadline": false,
-      "coreInsight": "这项研究通过结合生成式预训练模型(GPT)的创新应用和深度学习技术，证明了非传统学术路径也能产生突破性成果。其核心在于使用自注意力机制和迁移学习来提升模型在复杂任务上的表现。",
-      "scenarios": "自然语言处理系统优化、自动化学术研究辅助、跨领域知识迁移应用",
-      "techKeywords": "GPT(Generative Pre-trained Transformer)：基于Transformer架构的生成模型，通过大规模预训练和微调适应多种任务。ICLR(International Conference on Learning Representations)：机器学习领域顶会，时间检验奖表彰长期影响力研究。",
-      "productDesign": "启示1：关注跨背景团队组合的创新潜力；机会点：可开发面向本科生研究者的AI协作工具。需设计更灵活的研究成果验证机制来捕捉非传统突破。"
-    },
-    {
-      "id": "20260425_q002",
-      "title": "DeepSeek-V4：支持百万级token上下文的实际应用",
+      "id": "20260426_q001",
+      "title": "DeepSeek-V4：百万级token上下文，智能体真正可用",
       "originalTitle": "DeepSeek-V4: a million-token context that agents can actually use",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Fri, 24 Apr 2026 00:00:00 GMT",
-      "crawlDate": "2026-04-25",
+      "crawlDate": "2026-04-26",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -160,19 +137,19 @@
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "DeepSeek-V4突破性地支持百万级token上下文窗口，使AI能处理超长文本并保持连贯性。该技术通过优化内存管理和注意力机制实现，适用于需要长期记忆的复杂任务。",
-      "scenarios": "1、法律/金融领域超长合同分析；2、跨章节学术论文理解与生成；3、持续多轮复杂对话系统",
-      "techKeywords": "Long-context modeling：通过稀疏注意力和内存压缩技术，突破传统Transformer的二次方计算限制。Memory management：采用分层存储和动态加载机制，高效处理超长序列数据。",
-      "productDesign": "需要设计新的交互范式处理超长文本浏览，重点攻克工业级部署的显存优化。可探索与专业领域工具链的深度集成，如代码编辑器/法律文书系统。"
+      "coreInsight": "DeepSeek-V4通过扩展上下文窗口至百万级token，使AI智能体能够处理更长的对话和文档。这一突破显著提升了智能体在实际应用中的连续理解和记忆能力。",
+      "scenarios": "1. 超长文档分析与摘要生成 2. 持续多轮复杂对话系统 3. 代码库级程序理解和生成",
+      "techKeywords": "million-token context：通过优化的注意力机制和内存管理，实现超长上下文的高效处理。LLM Agents：具备长期记忆和任务分解能力的AI系统，可自主完成复杂工作流。",
+      "productDesign": "产品设计应关注如何利用超长上下文开发新交互范式，如文档级AI辅助。同时需要优化交互设计以帮助用户有效利用超大上下文窗口。"
     },
     {
-      "id": "20260425_q003",
+      "id": "20260426_q002",
       "title": "8个用Gemini整理空间（和生活）的小技巧",
       "originalTitle": "8 Gemini tips for organizing your space (and life)",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 24 Apr 2026 19:00:00 +0000",
-      "crawlDate": "2026-04-25",
+      "crawlDate": "2026-04-26",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -183,19 +160,19 @@
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "核心洞察：Gemini利用多模态AI理解物理空间和数字环境，通过任务分解和优先级算法提供个性化整理建议。系统可以分析照片、邮件等数据源，生成可执行的行动计划。",
-      "scenarios": "家庭物品收纳优化、电子邮件智能归类、季节性家务规划",
-      "techKeywords": "Multimodal AI：通过同时处理图像、文本等多维数据，实现环境理解。Task Decomposition：将复杂目标拆解为可执行步骤，运用强化学习优化顺序。",
-      "productDesign": "应强化跨场景连续性，如家庭整理与数字办公的联动。可探索基于AR的空间映射技术，提升物理空间识别精度。"
+      "coreInsight": "Gemini利用AI技术提供个性化整理建议，通过自然语言处理理解用户需求。它结合时间管理和物品分类算法，智能生成生活空间优化方案。",
+      "scenarios": "家庭物理空间整理、电子邮件收件箱管理、季节性家务规划",
+      "techKeywords": "Natural Language Processing(NLP)：通过算法解析用户输入的自然语言指令。Task Prioritization Algorithm：根据紧急程度和重要性自动排序待办事项。",
+      "productDesign": "可扩展为智能家居中枢系统，整合IoT设备控制功能。建议增加跨平台数据同步能力，提升多场景使用连贯性。"
     },
     {
-      "id": "20260425_q004",
-      "title": "我们的TPU如何支撑日益繁重的AI工作负载",
+      "id": "20260426_q003",
+      "title": "我们的TPU如何为日益繁重的AI工作负载提供动力",
       "originalTitle": "Here’s how our TPUs power increasingly demanding AI workloads.",
       "category": "image-video",
       "categoryName": "AI绘画/视频",
       "publishDate": "Thu, 23 Apr 2026 12:00:00 +0000",
-      "crawlDate": "2026-04-25",
+      "crawlDate": "2026-04-26",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -206,19 +183,19 @@
         "AI绘画/视频"
       ],
       "isHeadline": false,
-      "coreInsight": "Google的TPU通过专用硬件加速器设计，大幅提升AI计算效率。其张量处理架构针对神经网络运算优化，比通用GPU更适合大规模AI训练推理任务。",
-      "scenarios": "大规模神经网络训练、实时AI推理服务、高密度AI计算任务",
-      "techKeywords": "TPU(Tensor Processing Unit)：Google专为机器学习设计的ASIC芯片，采用脉动阵列架构高效处理矩阵运算。Systolic Array：数据流经处理单元时同步计算，减少内存访问开销的并行计算架构。",
-      "productDesign": "专用AI芯片是提升计算效率的关键基础设施，产品设计需考虑硬件-算法协同优化。构建垂直整合的AI技术栈（芯片+框架+云服务）将形成竞争壁垒。"
+      "coreInsight": "Google的TPU通过专用硬件加速矩阵运算来提升AI计算效率，其架构针对TensorFlow等框架优化。视频展示了TPU如何通过并行计算和高效内存带宽处理大规模神经网络训练。",
+      "scenarios": "大规模神经网络训练、实时AI推理服务、云端机器学习平台",
+      "techKeywords": "TPU(Tensor Processing Unit)：专用ASIC芯片，通过优化矩阵乘法和低精度计算加速深度学习。TensorFlow：使用数据流图进行分布式计算的框架，TPU专门优化其计算图执行。",
+      "productDesign": "启示1：专用硬件+框架深度协同是AI基础设施趋势。机会点：可探索垂直领域定制化AI芯片与框架的联合优化方案。"
     },
     {
-      "id": "20260425_q005",
+      "id": "20260426_q004",
       "title": "深度求索新模型至关重要的三大原因",
       "originalTitle": "Three reasons why DeepSeek’s new model matters",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 24 Apr 2026 21:40:58 +0000",
-      "crawlDate": "2026-04-25",
+      "crawlDate": "2026-04-26",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -229,19 +206,19 @@
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "DeepSeek V4模型通过创新的架构设计实现了超长文本处理能力，其核心突破在于优化了token处理效率。作为开源模型，它降低了企业使用前沿AI技术的门槛。",
-      "scenarios": "法律文书分析、科研论文摘要生成、跨章节代码理解",
-      "techKeywords": "Long-context processing：通过改进注意力机制和内存管理，实现10倍于前代的上下文窗口。Open-source model：采用Apache 2.0协议，允许商业使用和二次开发，推动生态发展。",
-      "productDesign": "应关注垂直领域的长文本处理需求设计专用工作流，同时利用开源特性构建开发者生态。需评估长上下文场景下的新交互范式设计。"
+      "coreInsight": "DeepSeek V4通过新型架构设计显著提升了长文本处理能力，支持超长prompt输入。开源策略降低企业使用门槛，延续了团队技术普惠的一贯定位。",
+      "scenarios": "长文档摘要生成、多轮复杂对话系统、开源模型二次开发",
+      "techKeywords": "Context Window扩展：通过改进注意力机制和内存管理，使模型能处理更长的上下文序列。Open Source Model：采用Apache 2.0等宽松协议，允许商业使用和修改，促进生态发展。",
+      "productDesign": "应重点关注长文本场景的产品化包装，探索开源模式下的商业化路径。可考虑构建面向开发者的模型微调工具链，形成技术生态壁垒。"
     },
     {
-      "id": "20260425_q006",
-      "title": "《今日精选：AI诈骗升级与医疗AI研究》",
+      "id": "20260426_q005",
+      "title": "今日要闻：AI诈骗升级与OpenAI医疗研究",
       "originalTitle": "The Download: supercharged scams and studying AI healthcare",
       "category": "research",
       "categoryName": "科研突破",
       "publishDate": "Fri, 24 Apr 2026 12:10:00 +0000",
-      "crawlDate": "2026-04-25",
+      "crawlDate": "2026-04-26",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -252,19 +229,19 @@
         "科研突破"
       ],
       "isHeadline": false,
-      "coreInsight": "生成式AI技术降低了伪造人类文本的门槛，诈骗者开始利用AI生成逼真内容进行欺诈。同时AI在医疗领域的应用研究正在深入，展现出诊断辅助和个性化治疗的潜力。",
-      "scenarios": "AI生成钓鱼邮件/诈骗信息、医疗影像AI辅助诊断、AI驱动的个性化治疗方案生成",
-      "techKeywords": "Generative AI：通过深度学习模型学习数据分布，能够生成高质量文本/图像等内容。Healthcare AI：结合医学知识和机器学习，处理临床数据并提供决策支持。",
-      "productDesign": "需要加强AI内容识别和验证机制，同时医疗AI产品需重视临床验证和数据隐私保护。可探索反诈骗AI工具和医疗诊断辅助系统的结合点。"
+      "coreInsight": "生成式AI的文本生成能力被滥用导致诈骗升级，OpenAI同时积极布局医疗AI领域。AI技术正在同时引发安全风险和创新机遇。",
+      "scenarios": "AI驱动的精准诈骗、医疗诊断辅助、自动化患者教育",
+      "techKeywords": "Generative AI：通过深度学习模型模仿人类创作文本内容，核心是Transformer架构。ChatGPT：基于大规模预训练的语言模型，通过prompt工程实现多轮对话。",
+      "productDesign": "需要建立AI内容检测机制防范诈骗，医疗场景需重点关注数据隐私和模型可解释性。可探索医疗+AI的垂直领域产品机会。"
     },
     {
-      "id": "20260425_q007",
-      "title": "医疗AI已来，但能否真正帮助患者仍是未知",
+      "id": "20260426_q006",
+      "title": "医疗AI已至，尚不明确能否真正帮助患者",
       "originalTitle": "Health-care AI is here. We don’t know if it actually helps patients.",
       "category": "devtool",
       "categoryName": "开发工具",
       "publishDate": "Fri, 24 Apr 2026 09:00:00 +0000",
-      "crawlDate": "2026-04-25",
+      "crawlDate": "2026-04-26",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -275,13 +252,13 @@
         "开发工具"
       ],
       "isHeadline": false,
-      "coreInsight": "医疗AI通过自然语言处理(NLP)辅助医生记录病历，并利用计算机视觉(CV)分析医学影像。这些技术能提升诊断效率，但临床效果仍需验证。",
-      "scenarios": "AI辅助医生记录病历、AI筛查高风险患者、AI解读医学影像结果",
-      "techKeywords": "NLP(Natural Language Processing)：通过深度学习模型理解医疗文本，自动生成结构化病历。Computer Vision：使用卷积神经网络分析X光等影像，识别异常特征。",
-      "productDesign": "需要建立临床有效性验证体系，同时设计人机协作流程。重点关注放射科和急诊科等高压场景的产品落地。"
+      "coreInsight": "医疗AI通过自然语言处理和计算机视觉技术协助医生处理文书工作和影像分析。当前应用主要集中在辅助决策层面，但实际临床效益尚缺乏系统验证。",
+      "scenarios": "临床文书自动化处理、高风险患者筛查预警、医学影像辅助诊断",
+      "techKeywords": "NLP(Natural Language Processing)：通过深度学习模型理解医学文本，实现自动化病历记录。Computer Vision：使用卷积神经网络分析医学影像，定位异常区域。",
+      "productDesign": "需建立临床效果验证体系，重点开发可解释性AI功能。应探索人机协同工作流设计，将AI定位于增强而非替代医生决策。"
     }
   ],
-  "total": 12,
+  "total": 11,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
