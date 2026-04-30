@@ -1,15 +1,38 @@
 {
-  "date": "20260429",
-  "updateTime": "2026-04-29T14:02:05.169Z",
+  "date": "20260430",
+  "updateTime": "2026-04-30T02:02:30.801Z",
   "headlines": [
     {
-      "id": "20260429_001",
+      "id": "20260430_001",
+      "title": "为智能时代构建计算基础设施",
+      "originalTitle": "Building the compute infrastructure for the Intelligence Age",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 29 Apr 2026 15:00:00 GMT",
+      "crawlDate": "2026-04-30",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "OpenAI通过扩展Stargate项目构建支持AGI的计算基础设施，反映了AI发展对算力的指数级需求。这种集中式算力集群将成为未来AI发展的核心资源。",
+      "scenarios": "大规模AI模型训练、实时智能决策系统、多模态AI服务部署",
+      "techKeywords": "Stargate：OpenAI设计的超大规模计算集群，采用定制化硬件架构支持分布式训练。AGI：通用人工智能需要持续稳定的算力供给，对数据中心提出极高可靠性要求。",
+      "productDesign": "建议关注AI基础设施的弹性扩展能力设计，同时探索专用硬件加速方案。边缘计算与中心化算力的协同架构是重要机会点。"
+    },
+    {
+      "id": "20260430_002",
       "title": "智能时代的网络安全",
       "originalTitle": "Cybersecurity in the Intelligence Age",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Wed, 29 Apr 2026 04:00:00 GMT",
-      "crawlDate": "2026-04-29",
+      "crawlDate": "2026-04-30",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -20,42 +43,19 @@
         "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "OpenAI提出五步行动计划，通过AI技术民主化来加强网络安全防御。其核心是利用AI的实时分析和模式识别能力来检测和预防网络威胁。",
-      "scenarios": "金融系统实时威胁检测、关键基础设施保护、企业网络安全监控",
-      "techKeywords": "AI-powered cyber defense：利用机器学习算法分析网络行为模式，自动识别异常活动。Critical systems protection：通过AI持续监控关键系统的漏洞和攻击迹象，实现主动防御。",
-      "productDesign": "可开发面向企业的AI安全助手产品，集成自动化威胁检测和响应功能。重点关注降低AI安全工具的使用门槛，使其适用于不同规模的组织。"
+      "coreInsight": "OpenAI提出的五步行动计划强调利用AI技术民主化网络安全防御，通过AI模型实时监测和响应威胁。关键是通过自动化降低网络安全门槛，使各类组织都能获得高级防护能力。",
+      "scenarios": "关键基础设施防护、企业级网络安全防御、政府机构数据安全保障",
+      "techKeywords": "AI-powered cyber defense：利用机器学习算法持续分析网络流量模式，实现实时异常检测和自动响应。Democratizing cybersecurity：通过云端SaaS模式降低安全产品使用门槛，使中小企业也能获得企业级防护。",
+      "productDesign": "可开发基于生成式AI的威胁检测SaaS平台，重点解决中小企业安全资源不足问题。产品设计需注重自动化程度和易用性，采用订阅制降低用户初始投入成本。"
     },
     {
-      "id": "20260429_002",
-      "title": "我们致力于社区安全的承诺",
-      "originalTitle": "Our commitment to community safety",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 28 Apr 2026 00:00:00 GMT",
-      "crawlDate": "2026-04-29",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/our-commitment-to-community-safety"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "OpenAI通过多维度防护体系保障AI安全：1)在模型层内置安全护栏(Safeguards)主动过滤有害内容，2)结合实时监测系统(Misuse Detection)识别异常使用模式，3)通过专家协作机制持续优化安全策略。",
-      "scenarios": "高风险内容过滤、异常行为监控系统、人机协同审核流程",
-      "techKeywords": "Model Safeguards：通过RLHF训练使模型拒绝生成有害内容，结合规则引擎进行多层级内容过滤。Misuse Detection：采用异常检测算法分析用户交互模式，通过特征工程识别恶意使用行为。",
-      "productDesign": "启示1：需构建贯穿模型训练-部署-运营的全链路安全体系。机会：可开发面向企业的AI安全审计工具，将安全能力产品化。"
-    },
-    {
-      "id": "20260429_003",
+      "id": "20260430_003",
       "title": "OpenAI模型、Codex及Managed Agents登陆AWS",
       "originalTitle": "OpenAI models, Codex, and Managed Agents come to AWS",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Tue, 28 Apr 2026 00:00:00 GMT",
-      "crawlDate": "2026-04-29",
+      "crawlDate": "2026-04-30",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -66,19 +66,42 @@
         "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "OpenAI将GPT模型、Codex和Managed Agents整合到AWS平台，实现企业级AI服务的安全部署。这使企业可以直接在AWS环境中使用这些AI能力，无需自行搭建复杂的基础设施。",
-      "scenarios": "企业级AI应用开发、自动化代码生成、云端AI服务管理",
-      "techKeywords": "GPT models：基于Transformer架构的大规模预训练语言模型，通过海量数据学习通用语言表示。Managed Agents：托管式AI代理服务，可自动化处理特定任务并保持稳定运行。",
-      "productDesign": "产品设计应关注云原生AI服务的易用性和安全性集成。这为构建企业级AI解决方案提供了新的基础设施选择，同时需要考虑多云环境下的模型部署策略。"
+      "coreInsight": "OpenAI将GPT、Codex和Managed Agents部署到AWS，使企业能在自己的AWS环境中安全构建AI应用。这结合了OpenAI的先进模型能力和AWS的云基础设施优势。",
+      "scenarios": "应用场景1：企业级AI助手开发、应用场景2：自动化代码生成、应用场景3：云原生AI工作流部署",
+      "techKeywords": "GPT(Generative Pre-trained Transformer)：基于海量数据预训练的大型语言模型，通过Transformer架构实现文本生成。Codex：专门用于代码生成和理解的AI模型，基于GPT-3微调训练而成。Managed Agents：托管式AI服务，提供开箱即用的模型部署和管理能力。",
+      "productDesign": "产品启示：云厂商合作是AI商业化的关键路径。机会点：企业客户需要端到端的AI解决方案，而不仅是裸模型。"
     },
     {
-      "id": "20260429_004",
-      "title": "火速吃瓜：Kimi K2.6设计能力超越Claude Design",
+      "id": "20260430_004",
+      "title": "生数科技认领神秘登顶模型：AI视频公司拿出工业级Demo，跨本体跑通复杂长程任务",
+      "originalTitle": "生数科技认领神秘登顶模型：AI视频公司拿出工业级Demo，跨本体跑通复杂长程任务",
+      "category": "image-video",
+      "categoryName": "AI绘画/视频",
+      "publishDate": "Thu, 30 Apr 2026 00:35:15 +0000",
+      "crawlDate": "2026-04-30",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/04/411336.html"
+      },
+      "tags": [
+        "媒体",
+        "AI绘画/视频"
+      ],
+      "isHeadline": true,
+      "coreInsight": "生数科技通过跨本体技术整合视频生成与具身智能能力，实现工业级复杂任务自动化。该技术突破传统单任务AI局限，在视频场景中完成多模态长程任务编排。",
+      "scenarios": "影视工业自动化流程、机器人远程操作训练、智能监控系统行为预测",
+      "techKeywords": "Embodied AI：通过视频数据训练AI理解物理世界交互逻辑，将视觉输入映射为动作序列。Long-horizon Task Planning：采用分层强化学习框架，将复杂任务分解为可执行的子任务链。",
+      "productDesign": "启示在于多模态技术的融合能创造新交互范式，建议探索工业场景下的虚实结合应用。机会点在于构建跨领域任务中间件平台，降低复杂AI系统开发门槛。"
+    },
+    {
+      "id": "20260430_005",
+      "title": "速看：Kimi K2.6设计能力碾压Claude Design",
       "originalTitle": "火速吃瓜：Kimi K2.6设计能力超越Claude Design",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Wed, 29 Apr 2026 06:56:15 +0000",
-      "crawlDate": "2026-04-29",
+      "crawlDate": "2026-04-30",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -89,44 +112,44 @@
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "Kimi K2.6通过改进的Transformer架构和RLHF训练，在创意设计任务上实现质量突破。其开源特性降低了企业使用门槛，支持快速部署定制化设计解决方案。",
-      "scenarios": "UI界面设计、营销素材生成、产品原型设计",
-      "techKeywords": "Transformer：基于自注意力机制的神经网络架构，擅长处理长序列数据。RLHF(Reinforcement Learning from Human Feedback)：通过人类反馈数据微调模型，提升输出质量符合人类偏好。",
-      "productDesign": "产品可构建'设计助手'垂直场景，整合开源模型降低用户使用成本。建议加强设计成果的可编辑性，与Figma等工具深度集成。"
-    },
-    {
-      "id": "20260429_005",
-      "title": "NVIDIA发布Nemotron 3 Nano Omni：面向文档、音频和视频代理的长上下文多模态AI",
-      "originalTitle": "Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Tue, 28 Apr 2026 15:58:57 GMT",
-      "crawlDate": "2026-04-29",
-      "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "NVIDIA Nemotron 3 Nano Omni通过长上下文处理能力实现文档/音频/视频的多模态理解，采用轻量化设计适合边缘部署。其核心技术在于统一处理不同模态数据的token化表示，使AI代理能跨媒介分析内容关联。",
-      "scenarios": "视频会议智能摘要生成、跨媒体版权内容监测、医疗影像与报告自动关联分析",
-      "techKeywords": "Long-context modeling：通过稀疏注意力机制扩展上下文窗口至百万token级，保持计算效率的同时处理长序列数据。Multimodal tokenizer：将不同模态数据统一映射到共享语义空间，实现跨模态的联合表征学习。",
-      "productDesign": "启示1：轻量化多模态模型打开边缘AI新场景；机会2：需构建跨模态数据标注工具链降低训练成本。重点优化长上下文场景下的内存管理策略。"
+      "coreInsight": "Kimi K2.6通过改进的Transformer架构和强化学习技术显著提升设计能力，其多模态处理支持文本到设计稿的端到端生成。相比Claude Design在创意发散和风格一致性上展现出优势。",
+      "scenarios": "UI/UX设计原型快速生成、电商广告素材自动化制作、社交媒体内容视觉设计",
+      "techKeywords": "Transformer：基于自注意力机制的深度神经网络架构，通过并行处理提升长序列建模能力。RLHF(Reinforcement Learning from Human Feedback)：通过人类反馈数据训练奖励模型，使AI输出更符合设计审美需求。",
+      "productDesign": "需关注设计类工具从辅助向半自动化演进的机会，建议集成Figma/PS插件生态。差异化方向可聚焦设计风格迁移和品牌元素自动匹配功能。"
     }
   ],
   "quickBrowse": [
     {
-      "id": "20260429_q001",
+      "id": "20260430_q001",
+      "title": "我们对社区安全的承诺",
+      "originalTitle": "Our commitment to community safety",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 28 Apr 2026 00:00:00 GMT",
+      "crawlDate": "2026-04-30",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/our-commitment-to-community-safety"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "OpenAI通过多维度防护体系保障AI安全性：1) 模型内置安全机制预防有害输出 2) 实时滥用检测系统监控异常行为 3) 严格的内容政策执行框架。这些技术层和管理层措施共同构成防御矩阵。",
+      "scenarios": "金融客服场景的敏感信息过滤、教育领域的合规内容生成、社交平台的仇恨言论拦截",
+      "techKeywords": "Model Safeguards：通过RLHF训练和内容分类器在模型层面植入安全规则。Misuse Detection：采用异常模式识别和用户行为分析实时捕捉滥用行为。",
+      "productDesign": "启示1：需建立分级安全机制适应不同场景风险等级 机会：开发可配置的safety API供企业定制化部署 关键：安全功能应作为产品基础架构而非附加组件"
+    },
+    {
+      "id": "20260430_q002",
       "title": "OpenAI获FedRAMP Moderate认证",
       "originalTitle": "OpenAI available at FedRAMP Moderate",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Mon, 27 Apr 2026 14:00:00 GMT",
-      "crawlDate": "2026-04-29",
+      "crawlDate": "2026-04-30",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -137,65 +160,65 @@
         "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "OpenAI获得FedRAMP Moderate认证，标志着其企业级产品满足美国政府中等级别安全标准。该认证使联邦机构能够安全地使用ChatGPT Enterprise和OpenAI API进行AI部署，解决了政府客户的数据安全合规需求。",
-      "scenarios": "联邦机构内部知识管理自动化、政府公共服务对话式AI支持、涉密数据分析与报告生成",
-      "techKeywords": "FedRAMP(联邦风险与授权管理计划)：美国政府云服务安全评估框架，包含超300个安全控制要求。ChatGPT Enterprise：专为企业设计的AI助手版本，提供数据隔离、SSO和管理控制台等企业级功能。",
-      "productDesign": "产品启示：企业级AI产品必须构建完善的安全合规体系，尤其是政府/金融等强监管领域。机会点：可开发针对FedRAMPHigh认证的增强版产品，并设计政府场景专属的prompt模板库。"
+      "coreInsight": "OpenAI获得FedRAMP Moderate认证意味着其企业级AI服务已达到美国政府的安全合规标准。该认证使联邦机构能安全使用ChatGPT Enterprise和OpenAI API，在保证数据隐私的前提下部署AI解决方案。",
+      "scenarios": "1、联邦机构内部知识管理自动化 2、政府服务智能问答系统 3、涉密数据的安全分析与处理",
+      "techKeywords": "FedRAMP(美国联邦风险与授权管理计划)：美国政府云服务安全合规框架，包含超300项安全控制要求。ChatGPT Enterprise：企业级AI助手，提供数据隔离、SLA保证和高级管理功能。",
+      "productDesign": "B2G市场存在巨大机会，需构建专用政府AI解决方案栈。产品设计应优先考虑审计追踪、多级权限管理等政务场景刚需功能。"
     },
     {
-      "id": "20260429_q002",
-      "title": "微软与OpenAI合作进入新阶段",
-      "originalTitle": "The next phase of the Microsoft OpenAI partnership",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Mon, 27 Apr 2026 06:00:00 GMT",
-      "crawlDate": "2026-04-29",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/next-phase-of-microsoft-partnership"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "微软与OpenAI简化合作框架，强化长期战略协同。通过基础架构整合降低AI研发门槛，加速大规模AI创新部署。",
-      "scenarios": "企业级AI解决方案部署、云计算AI服务整合、开发者生态赋能",
-      "techKeywords": "Large-scale AI deployment：利用分布式计算架构实现模型训练和推理的规模化。Partnership simplification：通过清晰的权责划分和资源协同提升合作效率。",
-      "productDesign": "关注B端市场的基础设施级产品机会，重点设计API标准化和计算资源调度方案。建立开发者工具链降低AI应用开发门槛。"
-    },
-    {
-      "id": "20260429_q003",
-      "title": "如何用OpenAI Privacy Filter构建可扩展的Web应用",
-      "originalTitle": "How to build scalable web apps with OpenAI's Privacy Filter",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Mon, 27 Apr 2026 00:00:00 GMT",
-      "crawlDate": "2026-04-29",
+      "id": "20260430_q003",
+      "title": "AI评估正成为新的算力瓶颈",
+      "originalTitle": "AI evals are becoming the new compute bottleneck",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 29 Apr 2026 16:45:09 GMT",
+      "crawlDate": "2026-04-30",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
-        "url": "https://huggingface.co/blog/openai-privacy-filter-web-apps"
+        "url": "https://huggingface.co/blog/evaleval/eval-costs-bottleneck"
       },
       "tags": [
         "官方",
-        "企业动态"
+        "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "OpenAI Privacy Filter通过AI模型过滤敏感数据，实现隐私保护与合规性。该技术可用于预处理用户输入，确保API调用不泄露个人信息。",
-      "scenarios": "医疗健康数据处理的Web应用、金融服务的客户身份验证系统、教育平台的用户数据保护",
-      "techKeywords": "Privacy Filter：使用AI模型识别并过滤PII(个人身份信息)，确保数据合规。Scalable Web Apps：通过模块化设计和云计算资源，实现应用弹性扩展。",
-      "productDesign": "产品设计需平衡隐私保护与用户体验，可考虑分层过滤策略。此技术为SaaS产品提供差异化竞争优势，特别是在GDPR等严格合规领域。"
+      "coreInsight": "随着AI模型规模扩大，模型评估(Evaluation)所需的计算资源正超越训练阶段成为新瓶颈。评估需要多维度测试模型性能，包括准确性、偏差、鲁棒性等指标，耗费大量算力资源。",
+      "scenarios": "大模型效果评测、AI系统安全审计、金融风控模型验证",
+      "techKeywords": "Evals：通过设计标准化测试集和自动化流程系统化评估AI模型性能。Compute bottleneck：指系统性能受限于计算资源供给，当前评估任务所需的GPU资源已超过训练阶段需求。",
+      "productDesign": "应开发轻量化评估工具链降低算力消耗，同时构建评估即服务(EaaS)平台。需要设计模块化评估框架，支持用户按需选择测试维度。"
     },
     {
-      "id": "20260429_q004",
+      "id": "20260430_q004",
+      "title": "Granite 4.1大语言模型：构建之道",
+      "originalTitle": "Granite 4.1 LLMs: How They’re Built",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 29 Apr 2026 15:01:48 GMT",
+      "crawlDate": "2026-04-30",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/ibm-granite/granite-4-1"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Granite 4.1基于transformer架构进行优化，通过改进训练数据集质量和规模提升模型性能。该模型支持多轮对话和复杂指令理解，适用于企业级AI应用部署。",
+      "scenarios": "企业智能客服系统、金融领域文档自动化处理、医疗科研文献智能分析",
+      "techKeywords": "Transformer architecture：采用自注意力机制处理序列数据，通过并行计算提升训练效率。Few-shot learning：模型通过少量示例快速适应新任务，显著降低领域适配成本。",
+      "productDesign": "应关注垂直领域的数据增强方案设计，同时需优化模型压缩技术降低部署成本。可探索与企业现有工作流的深度集成作为差异化卖点。"
+    },
+    {
+      "id": "20260430_q005",
       "title": "庆祝Google Translate 20周年：趣闻、技巧及新功能体验",
       "originalTitle": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Tue, 28 Apr 2026 16:00:00 +0000",
-      "crawlDate": "2026-04-29",
+      "crawlDate": "2026-04-30",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -206,19 +229,19 @@
         "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "Google Translate采用神经网络机器翻译(NMT)技术，通过深度学习模型实现跨语言语义理解。产品演进从短语翻译发展为整句语境翻译，支持250种语言展示AI规模化应用能力。",
-      "scenarios": "跨国商务实时沟通、国际旅行即时翻译、学术研究文献跨语言阅读",
-      "techKeywords": "Neural Machine Translation(NMT)：通过编码器-解码器架构处理输入序列，利用注意力机制捕捉上下文关系。Zero-shot Translation：通过共享参数的多语言模型，实现未直接训练过的语言对之间的翻译。",
-      "productDesign": "启示1：持续降低技术使用门槛（如相机即时翻译）；机会：整合生成式AI实现翻译+内容创作。垂直领域专业翻译（如医疗/法律）是差异化方向。"
+      "coreInsight": "Google Translate从2006年的AI实验发展成为支持近250种语言的全球翻译工具，其核心在于持续迭代的神经网络机器翻译(NMT)技术。该产品通过深度学习模型实现跨语言语义理解，用户界面保持极简设计以降低使用门槛。",
+      "scenarios": "国际商务邮件实时翻译、旅行中的菜单/路牌识别翻译、多语言文档快速本地化",
+      "techKeywords": "Neural Machine Translation(NMT)：使用深度神经网络捕捉语言上下文关系，相比传统统计翻译显著提升流畅度。Zero-shot Translation：通过单一模型处理未直接训练过的语言对，利用共享隐层空间实现跨语言迁移。",
+      "productDesign": "启示1：技术突破需配套场景化功能设计（如相机即时翻译）。机会点：结合AR实现沉浸式翻译体验，探索企业级API的垂直场景定制方案。"
     },
     {
-      "id": "20260429_q005",
-      "title": "加入Google与Kaggle的全新AI Agents Vibe编程课程",
+      "id": "20260430_q006",
+      "title": "加入Google与Kaggle联合推出的AI Agents Vibe编程新课程",
       "originalTitle": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Mon, 27 Apr 2026 13:00:00 +0000",
-      "crawlDate": "2026-04-29",
+      "crawlDate": "2026-04-30",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -229,19 +252,19 @@
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "核心洞察：Google与Kaggle合作推出AI Agents编程课程，重点教授智能代理开发技术。课程采用5天密集培训模式，帮助开发者快速掌握AI代理构建与部署的核心技能。",
-      "scenarios": "1、电商推荐系统优化 2、智能客服对话引擎开发 3、工业流程自动化控制",
-      "techKeywords": "AI Agents：通过机器学习模型实现自主决策的软件实体，能感知环境并通过强化学习持续优化行为。Kaggle：Google旗下数据科学竞赛平台，提供真实数据集和评估框架加速AI模型迭代。",
-      "productDesign": "建议开发模块化AI代理教学组件，降低学习曲线；可结合房产管理场景设计专项案例，如智能工单分配系统。平台化运营模式可复制到垂直行业培训。"
+      "coreInsight": "该课程聚焦AI Agents技术原理，通过5天强化训练帮助开发者掌握构建智能代理的核心方法。与Kaggle合作意味着课程将包含实战编程环节，强调动手实践能力。",
+      "scenarios": "应用场景1：自动化客服机器人开发、应用场景2：智能数据分析助手构建、应用场景3：个性化推荐系统实现",
+      "techKeywords": "AI Agents：基于LLM的自主决策系统，能通过API与环境交互完成任务。Vibe Coding：强调开发过程中的直觉流状态，结合AI实现高效原型设计。",
+      "productDesign": "启示1：科技巨头正通过教育产品建立开发者生态；机会2：可设计阶梯式课程体系，从基础概念到企业级应用全覆盖。应注重社区共建机制设计以增强用户粘性。"
     },
     {
-      "id": "20260429_q006",
-      "title": "《今日精选》：核废料储存与Agent编排",
+      "id": "20260430_q007",
+      "title": "《今日摘要：核废料储存与智能体编排》",
       "originalTitle": "The Download: storing nuclear waste and orchestrating agents",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Wed, 29 Apr 2026 12:10:00 +0000",
-      "crawlDate": "2026-04-29",
+      "crawlDate": "2026-04-30",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -252,19 +275,19 @@
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "核废料储存技术需要长期稳定的解决方案，Agent编排技术能够优化分布式系统的任务调度。核废料储存涉及地质封存等物理方法，而Agent编排通过智能体协同完成复杂工作流。",
-      "scenarios": "核能发电厂的放射性废物处理、分布式AI系统任务管理、跨部门自动化流程协调",
-      "techKeywords": "Nuclear waste storage：将放射性废物封装在特殊容器中，并储存在地质稳定的深层地下设施。Agent orchestration：通过中央调度系统协调多个智能体的行为，实现复杂任务的分布式执行。",
-      "productDesign": "可开发核废料监测SaaS平台结合物联网传感器，同时Agent编排引擎可作为企业级中间件产品。需要关注政策合规性和系统容错设计。"
+      "coreInsight": "核废料安全储存需要结合智能系统编排技术，通过AI建模预测废料衰变周期并优化存储方案。智能体编排技术可协调多个子系统实现自动化监控。",
+      "scenarios": "核电设施废料智能监控系统、跨区域核废料运输调度平台、核废料储存环境动态优化系统",
+      "techKeywords": "Nuclear waste vitrification(核废料玻璃固化技术)：将放射性物质熔入玻璃基质的稳定化处理。Agent orchestration(智能体编排)：通过中央调度系统协调多个AI代理完成复杂任务流程。",
+      "productDesign": "可设计核废料生命周期管理SaaS平台，整合物联网传感器与强化学习算法。需要建立跨学科团队解决核工程与AI的融合问题。"
     },
     {
-      "id": "20260429_q007",
-      "title": "下载：Musk与Altman的法律对决，以及AI的盈利难题",
+      "id": "20260430_q008",
+      "title": "《今日头条》：Musk与Altman的法律对决，以及AI的盈利困境",
       "originalTitle": "The Download: Musk and Altman’s legal showdown, and AI’s profit problem",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Tue, 28 Apr 2026 12:10:00 +0000",
-      "crawlDate": "2026-04-29",
+      "crawlDate": "2026-04-30",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -275,13 +298,13 @@
         "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "核心洞察：Elon Musk与Sam Altman的法律纠纷凸显了AI公司治理结构的关键矛盾。这反映了AI盈利模式与开源理念的冲突，需要建立新型企业架构来平衡商业利益与社会价值。",
-      "scenarios": "应用场景1：AI公司股权结构设计。应用场景2：开源项目的商业化路径。应用场景3：科技巨头与创业公司的法律纠纷处置。",
-      "techKeywords": "Governance Structure：公司治理结构决定了AI研发方向的控制权分配，涉及董事会席位和决策权配置。Profit Model：AI盈利模式需要平衡研发投入与商业化回报，常见方式包括API收费和企业定制方案。",
-      "productDesign": "产品启示：需要设计可审计的决策机制来平衡股东利益与社会责任。机会点：开发面向AI公司的特殊治理工具，如股权计算器和利益分配模拟系统。"
+      "coreInsight": "核心洞察：法律纠纷暴露AI公司治理结构问题，OpenAI的非营利与商业化转型冲突是关键。技术原理上，大型语言模型(LLM)训练需要巨额资金，导致盈利模式成为行业痛点。",
+      "scenarios": "应用场景1：科技公司治理结构设计。应用场景2：AI研发资金筹措模式。应用场景3：开源与商业化平衡策略。",
+      "techKeywords": "LLM(Large Language Model)：通过海量数据训练生成类人文本的神经网络。Transformer架构：使用自注意力机制处理序列数据的深度学习模型。",
+      "productDesign": "产品启示：1) 需设计清晰的商业化路径与伦理框架 2) 探索分层会员制等可持续盈利模式 3) 建立技术开源与商业化的防火墙机制"
     }
   ],
-  "total": 12,
+  "total": 13,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
