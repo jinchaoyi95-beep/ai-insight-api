@@ -1,132 +1,270 @@
 {
-  "date": "20260505",
-  "updateTime": "2026-05-05T13:57:57.797Z",
+  "date": "20260507",
+  "updateTime": "2026-05-07T02:01:17.692Z",
   "headlines": [
     {
-      "id": "20260505_001",
-      "title": "OpenAI与PwC合作重塑CFO办公室",
-      "originalTitle": "OpenAI and PwC collaborate to reimagine the office of the CFO",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Mon, 04 May 2026 21:00:00 GMT",
-      "crawlDate": "2026-05-05",
+      "id": "20260507_001",
+      "title": "推出ChatGPT Futures：2026届",
+      "originalTitle": "Introducing ChatGPT Futures: Class of 2026",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Wed, 06 May 2026 00:00:00 GMT",
+      "crawlDate": "2026-05-07",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/openai-pwc-finance-collaboration"
+        "url": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026"
+      },
+      "tags": [
+        "官方",
+        "科研突破"
+      ],
+      "isHeadline": true,
+      "coreInsight": "OpenAI通过ChatGPT Futures项目培养青年创新者，展示AI在教育领域的赋能作用。该项目验证了生成式AI作为学习伙伴和研究工具的潜力。",
+      "scenarios": "高等教育中的AI辅助研究、跨学科创新项目孵化、青少年STEM教育赋能",
+      "techKeywords": "Generative AI：通过大语言模型生成人类可理解的内容，实现自然语言交互。Fine-tuning：基于特定领域数据调整预训练模型参数，提升任务专项性能。",
+      "productDesign": "教育赛道需要设计AI导师的渐进式学习路径，建议开发项目制学习模板功能。可探索校园场景下的AI协作白板等协同工具。"
+    },
+    {
+      "id": "20260507_002",
+      "title": "Singular Bank借助ChatGPT和Codex助力银行高效运营",
+      "originalTitle": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Wed, 06 May 2026 00:00:00 GMT",
+      "crawlDate": "2026-05-07",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/singular-bank"
+      },
+      "tags": [
+        "官方",
+        "开发工具"
+      ],
+      "isHeadline": true,
+      "coreInsight": "核心洞察：Singular Bank通过集成ChatGPT和Codex构建内部助手Singularity，利用AI的文本生成和代码补全能力，将银行员工在会议准备、组合分析和后续跟进等重复性工作上的时间缩短60-90分钟。",
+      "scenarios": "应用场景1：会议准备自动化。应用场景2：投资组合分析报告生成。应用场景3：客户跟进邮件草拟。",
+      "techKeywords": "ChatGPT：基于GPT模型的大规模语言模型，通过深度学习生成自然语言文本。Codex：OpenAI的代码生成模型，能够根据自然语言描述自动生成可执行代码。",
+      "productDesign": "产品启示：1）金融行业大量重复性文档工作适合AI自动化改造；2）可构建垂直领域的内部助手作为切入点；3）需要重点解决数据安全和合规性问题。"
+    },
+    {
+      "id": "20260507_003",
+      "title": "Uber利用OpenAI助力用户更智能赚钱和快速预订",
+      "originalTitle": "Uber uses OpenAI to help people earn smarter and book faster",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 06 May 2026 00:00:00 GMT",
+      "crawlDate": "2026-05-07",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/uber"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Uber通过集成OpenAI的AI助手和语音技术，优化了实时供需匹配。AI分析司机收入模式和乘客预订习惯，实现双赢的智能调度。",
+      "scenarios": "场景1：AI助手为司机推荐高收益路线。场景2：语音交互简化乘客预订流程。场景3：动态定价模型平衡供需关系。",
+      "techKeywords": "AI assistant(English)：基于NLP和用户行为数据构建的对话系统，实现自然语言交互。Real-time marketplace(English)：通过算法即时匹配供需双方，优化资源分配效率。",
+      "productDesign": "启示1：AI+语音可提升O2O平台用户体验。机会：结合用户画像的个性化推荐能创造增值服务。"
+    },
+    {
+      "id": "20260507_004",
+      "title": "前沿企业如何构建AI优势",
+      "originalTitle": "How frontier enterprises are building an AI advantage",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Wed, 06 May 2026 00:00:00 GMT",
+      "crawlDate": "2026-05-07",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/introducing-b2b-signals"
       },
       "tags": [
         "官方",
         "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "通过AI Agent技术实现财务流程自动化，结合大语言模型的预测分析能力重塑CFO决策流程。OpenAI的GPT模型与PwC领域知识结合，提供端到端财务智能化解决方案。",
-      "scenarios": "财务报表自动化生成、现金流AI预测模型、合规审计智能监控",
-      "techKeywords": "AI Agent：自主执行财务任务的智能体，通过API集成企业系统实现工作流自动化。Generative AI：生成式AI可解析非结构化财务数据，自动生成分析报告和预测建议。",
-      "productDesign": "需构建财务领域专属微调模型，重点解决数据安全与审计留痕需求。产品设计应聚焦可解释性，帮助财务人员理解AI决策逻辑。"
+      "coreInsight": "前沿企业通过深度整合AI技术（如Codex）构建自动化工作流，形成持久竞争优势。OpenAI研究表明，企业级AI应用正从单点工具转向端到端流程自动化。",
+      "scenarios": "智能编程辅助、自动化客户支持、数据驱动的决策流程",
+      "techKeywords": "Codex：基于GPT-3的AI系统，能将自然语言指令转化为可执行代码。Agentic workflows：具备自主决策能力的AI工作流，可闭环完成复杂任务链。",
+      "productDesign": "PM应聚焦企业场景设计闭环解决方案，将大模型能力封装为可组合的workflow模块。需要平衡自动化程度与人工监管的灵活介入点。"
     },
     {
-      "id": "20260505_002",
-      "title": "OpenAI如何实现大规模低延迟语音AI",
-      "originalTitle": "How OpenAI delivers low-latency voice AI at scale",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Mon, 04 May 2026 00:00:00 GMT",
-      "crawlDate": "2026-05-05",
+      "id": "20260507_005",
+      "title": "GPT-5.5 Instant：更智能、更清晰、更个性化",
+      "originalTitle": "GPT-5.5 Instant: smarter, clearer, and more personalized",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 05 May 2026 10:00:00 GMT",
+      "crawlDate": "2026-05-07",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale"
+        "url": "https://openai.com/index/gpt-5-5-instant"
       },
       "tags": [
         "官方",
-        "企业动态"
+        "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "OpenAI通过重构WebRTC技术栈实现低延迟语音交互，关键技术包括优化网络传输和实时音频处理。该方案支持全球规模部署并实现自然对话轮转，为实时语音AI提供基础设施保障。",
-      "scenarios": "实时语音客服、跨国视频会议、无障碍语音交互",
-      "techKeywords": "WebRTC：基于浏览器的实时通信协议，通过P2P连接和自适应码率降低延迟。Conversational Turn-taking：通过语音端点检测和语义理解预测对话间隙，实现人类级交互节奏。",
-      "productDesign": "启示1：基础设施性能优化能解锁新场景如实时翻译。机会2：结合大模型语义理解可打造更自然的语音交互产品。建议3：低延迟架构可作为技术壁垒构建竞争护城河。"
-    },
+      "coreInsight": "GPT-5.5 Instant通过升级底层模型架构实现更精准答案生成，采用实时推理技术减少幻觉现象。新增个性化控制模块允许用户调整回答风格和详细程度。",
+      "scenarios": "客户服务自动化、个性化教育辅导、专业领域咨询",
+      "techKeywords": "Hallucination reduction(幻觉抑制)：通过强化事实核查模块和置信度阈值控制，降低AI生成虚假信息的概率。Personalization controls(个性化控制)：利用用户反馈数据建立偏好向量，动态调整生成内容的风格和深度。",
+      "productDesign": "应重点关注降低幻觉率带来的可信度提升，可开发企业级事实核查插件。个性化控制功能为订阅制服务提供差异化定价机会。"
+    }
+  ],
+  "quickBrowse": [
     {
-      "id": "20260505_003",
-      "title": "DeepSeek版Claude Code，GitHub斩获2.3k星",
-      "originalTitle": "“DeepSeek版Claude Code”，Github 2.3k星",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Mon, 04 May 2026 06:09:16 +0000",
-      "crawlDate": "2026-05-05",
+      "id": "20260507_q001",
+      "title": "马斯克22万张GPU全卖给Claude用：5小时限额翻倍，双方合作建太空算力",
+      "originalTitle": "马斯克22万张GPU全卖给Claude用：5小时限额翻倍，双方合作建太空算力",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Thu, 07 May 2026 01:13:33 +0000",
+      "crawlDate": "2026-05-07",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/412914.html"
+        "url": "https://www.qbitai.com/2026/05/413569.html"
+      },
+      "tags": [
+        "媒体",
+        "应用落地"
+      ],
+      "isHeadline": false,
+      "coreInsight": "大规模GPU集群部署显著提升AI服务性能：22万张GPU的算力整合使Claude的响应速度提升50%并实现限额翻倍。太空算力合作开创分布式计算新范式：利用近地轨道卫星降低网络延迟。",
+      "scenarios": "1、企业级AI模型训练与推理 2、实时性要求高的自然语言处理应用 3、太空与地面协同的边缘计算场景",
+      "techKeywords": "GPU Cluster：通过并行计算架构实现大规模矩阵运算加速，单节点可同时处理数千计算线程。Orbital Computing：将计算节点部署在近地轨道卫星上，利用低轨道特性实现全球低延迟覆盖。",
+      "productDesign": "启示1：硬件资源整合可成为AI产品的核心壁垒。机会2：天地协同架构为全球化服务提供新基建方案，建议探索星载AI推理芯片定制开发。"
+    },
+    {
+      "id": "20260507_q002",
+      "title": "AI PPT，这次是真不用返工了",
+      "originalTitle": "AI PPT，这次是真不用返工了",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Wed, 06 May 2026 10:28:10 +0000",
+      "crawlDate": "2026-05-07",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/05/413296.html"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "讯飞智文Vision Agent通过多模态AI技术实现PPT智能生成与优化，支持文本、图片、图表自动排版。用户只需输入主题或大纲，系统即可生成符合商务规范的完整演示文稿。",
+      "scenarios": "企业报告自动化生成、学术汇报快速制作、营销方案视觉优化",
+      "techKeywords": "Vision Agent：基于计算机视觉和自然语言处理的AI代理系统，能理解文档结构和视觉呈现规则。Multimodal Learning：融合文本、图像、布局的多模态学习框架，确保内容与设计的协调性。",
+      "productDesign": "产品设计需关注AI生成内容的可控性与定制化程度，建议增加行业模板库和品牌元素植入功能。交互设计要平衡自动化与人工干预的节点，保留关键决策权给用户。"
+    },
+    {
+      "id": "20260507_q003",
+      "title": "香蕉和GPT Image之外的第3条路：华人15人团队造出AI生图黑马",
+      "originalTitle": "香蕉和GPT Image之外的第3条路：华人15人团队造出AI生图黑马",
+      "category": "image-video",
+      "categoryName": "AI绘画/视频",
+      "publishDate": "Wed, 06 May 2026 09:24:27 +0000",
+      "crawlDate": "2026-05-07",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/05/413264.html"
+      },
+      "tags": [
+        "媒体",
+        "AI绘画/视频"
+      ],
+      "isHeadline": false,
+      "coreInsight": "该团队开发的新型AI生图技术，通过结合GAN和Diffusion模型优势实现高效图像生成。其特色在于能用40小时完成传统广告公司一年的设计工作量，大幅提升生产效率。",
+      "scenarios": "广告行业快速原型制作、电商平台个性化商品海报生成、社交媒体内容批量生产",
+      "techKeywords": "GAN(Generative Adversarial Network)：通过生成器和判别器的对抗训练实现图像合成。Diffusion Model：通过逐步去噪过程生成高质量图像，稳定性优于传统方法。",
+      "productDesign": "产品设计应关注垂直行业的工作流整合，将AI作为生产力工具而非替代品。机会点在于构建'设计-反馈-优化'的闭环系统，同时需要解决版权归属等合规问题。"
+    },
+    {
+      "id": "20260507_q004",
+      "title": "陶哲轩在线安利Claude Code：审稿意见全给它，15分钟欧了",
+      "originalTitle": "陶哲轩在线安利Claude Code：审稿意见全给它，15分钟欧了",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Wed, 06 May 2026 08:11:51 +0000",
+      "crawlDate": "2026-05-07",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/05/413265.html"
       },
       "tags": [
         "媒体",
         "开发工具"
       ],
-      "isHeadline": true,
-      "coreInsight": "DeepSeek版Claude Code通过专门优化提升了代码生成与理解能力。该工具结合了DeepSeek的领域知识和Claude的通用AI能力，可高效处理复杂编程任务。",
-      "scenarios": "1、自动化代码生成 2、遗留代码迁移优化 3、编程教学辅助",
-      "techKeywords": "Fine-tuning(微调)：通过领域数据优化预训练模型性能。Knowledge Distillation(知识蒸馏)：将大模型能力迁移到更小更高效的模型中。",
-      "productDesign": "验证了垂直领域优化的重要性，建议探索更多行业专属优化方案。同时展示了开源策略对生态建设的价值，可考虑建立开发者社区。"
+      "isHeadline": false,
+      "coreInsight": "Claude Code通过AI自动处理学术审稿意见，显著提升效率。该系统能快速分析论文并生成反馈，甚至能反向识别审稿人的逻辑漏洞。",
+      "scenarios": "学术论文评审自动化、科研写作辅助、期刊编辑流程优化",
+      "techKeywords": "Claude Code：基于大型语言模型的代码辅助系统，可理解复杂技术文档并生成专业反馈。Auto-review：自动审稿技术，通过模式识别和语义分析提取论文关键点。",
+      "productDesign": "AI学术辅助工具存在巨大市场机会，需注重领域专业知识库建设。产品设计应平衡自动化与专家人工审核的协作流程。"
     },
     {
-      "id": "20260505_004",
-      "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
-      "originalTitle": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Sun, 03 May 2026 09:43:20 +0000",
-      "crawlDate": "2026-05-05",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/412080.html"
-      },
-      "tags": [
-        "媒体",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "本案揭示了AI公司治理中的利益冲突问题，涉及OpenAI从非营利转向营利的关键转折。马斯克诉讼本质是对AI控制权的争夺，反映了AGI发展路径的分歧。",
-      "scenarios": "AI公司治理架构设计、科技巨头合作纠纷处理、开源与商业化平衡策略",
-      "techKeywords": "AGI(Artificial General Intelligence)：指具备人类水平通用智能的AI系统，当前主要技术路径包括大规模预训练和脑机接口。Governance Model：指AI组织的决策机制，包含股权结构、伦理委员会等要素，关键是要平衡商业与公共利益。",
-      "productDesign": "需设计透明的AI治理框架应对多方利益诉求，可探索新型的股权-投票权分离机制。建议建立独立的AI技术伦理审查委员会，作为产品开发必经流程。"
-    },
-    {
-      "id": "20260505_005",
-      "title": "不好！1930年的AI都来抢程序员饭碗了",
-      "originalTitle": "不好！1930年的AI都来抢程序员饭碗了",
+      "id": "20260507_q005",
+      "title": "vLLM V0到V1：RL中正确性优先于修正",
+      "originalTitle": "vLLM V0 to V1: Correctness Before Corrections in RL",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Sun, 03 May 2026 09:42:55 +0000",
-      "crawlDate": "2026-05-05",
+      "publishDate": "Wed, 06 May 2026 19:06:55 GMT",
+      "crawlDate": "2026-05-07",
       "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/412896.html"
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections"
       },
       "tags": [
-        "媒体",
+        "官方",
         "大语言模型"
       ],
-      "isHeadline": true,
-      "coreInsight": "该新闻揭示了AI技术发展已突破传统互联网数据依赖，能够独立进行编程任务。1930年AI的提法可能是隐喻某些基础算法原理的复兴应用。",
-      "scenarios": "1、传统代码生成场景 2、无网络环境下的编程辅助 3、底层算法研究领域",
-      "techKeywords": "Offline Learning：无需实时网络连接，通过预训练模型完成编程任务。Symbolic AI：基于规则和符号操作的早期AI范式，适合确定性编程场景。",
-      "productDesign": "可探索开发面向极端环境的离线编程工具，重点优化本地化AI能力。同时应考虑将经典算法与现代AI结合的混合开发模式。"
-    }
-  ],
-  "quickBrowse": [
+      "isHeadline": false,
+      "coreInsight": "vLLM V1版本在强化学习(RL)领域强调正确性优先于修正，通过改进底层算法确保输出结果的准确性。该版本优化了模型推理的稳定性和可靠性，适合对精确度要求高的AI应用场景。",
+      "scenarios": "1. 金融领域的自动化交易决策系统 2. 医疗诊断中的治疗方案推荐 3. 工业流程的智能优化控制",
+      "techKeywords": "vLLM(Versioned Large Language Model)：通过版本控制确保模型迭代的稳定性，每个版本都经过严格验证。RL(Reinforcement Learning)：通过奖励机制让AI系统自主优化决策策略，vLLM V1增强了策略执行的可靠性。",
+      "productDesign": "产品设计应优先保证核心功能的正确性，再逐步添加优化特性。这提示我们可以建立更严格的版本验证流程，同时为高精度需求场景提供专项解决方案。"
+    },
     {
-      "id": "20260505_q001",
-      "title": "2026年4月最新AI新闻发布",
+      "id": "20260507_q006",
+      "title": "5个可直接在Search中尝试的园艺技巧",
+      "originalTitle": "5 gardening tips you can try right in Search",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 06 May 2026 16:00:00 +0000",
+      "crawlDate": "2026-05-07",
+      "source": {
+        "name": "Google AI",
+        "type": "官方",
+        "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Google通过AI Mode、Search Live和Shopping功能，将园艺知识直接整合到搜索体验中。用户无需离开搜索页面即可获取实用园艺技巧，展示了AI在垂直场景的即时服务能力。",
+      "scenarios": "阳台园艺新手快速获取养护知识、家庭花园实时问题解决、园艺用品智能推荐购买",
+      "techKeywords": "AI Mode：通过生成式AI理解用户自然语言查询，直接返回结构化建议。Search Live：结合实时数据流和知识图谱，提供动态更新的场景化解决方案。",
+      "productDesign": "验证了搜索即服务(Search-as-Service)的可行性，建议拓展更多生活场景的即时AI服务。需平衡功能嵌入深度与搜索体验简洁性。"
+    },
+    {
+      "id": "20260507_q007",
+      "title": "2026年4月最新AI动态",
       "originalTitle": "The latest AI news we announced in April 2026",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Mon, 04 May 2026 17:00:00 +0000",
-      "crawlDate": "2026-05-05",
+      "crawlDate": "2026-05-07",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -137,19 +275,42 @@
         "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "Google在2026年4月发布的AI更新可能涉及多模态大模型的技术突破，通过统一架构实现文本、图像和视频的跨模态理解。这类技术通常采用Transformer架构和自监督学习，能够自动提取跨模态特征表示。",
-      "scenarios": "智能内容创作、跨媒体搜索引擎、实时多模态翻译",
-      "techKeywords": "Multimodal Fusion：通过注意力机制整合不同模态的特征表示，保留各模态独特性的同时建立语义关联。Self-supervised Pretraining：利用海量无标注数据自动生成监督信号，显著降低对人工标注数据的依赖。",
-      "productDesign": "建议探索跨模态交互的新形态，如语音+手势的混合控制界面。同时关注模型轻量化以适配边缘设备，这将开启消费级AI硬件的创新机会。"
+      "coreInsight": "2026年4月Google AI更新展示了多模态模型能力的突破性进展，通过跨模态表征学习实现文本/图像/视频的统一理解。新版本采用动态稀疏激活技术，在保持模型性能的同时显著降低计算成本。",
+      "scenarios": "智能内容创作平台、工业质检视觉系统、跨语言实时会议翻译",
+      "techKeywords": "Dynamic Sparsity(动态稀疏)：仅激活相关神经元子集，通过门控机制实现95%参数休眠。Cross-modal Attention(跨模态注意力)：建立文本-视觉共享表征空间，通过可学习对齐矩阵实现模态间信息流动。",
+      "productDesign": "应重点关注多模态交互场景的标准化组件开发，利用稀疏化技术优化边缘端AI产品的能效比。建议构建跨模态预训练模型的行业垂直领域适配方案。"
     },
     {
-      "id": "20260505_q002",
-      "title": "《今日要闻：马斯克诉Altman案内幕，以及AI助力民主》",
+      "id": "20260507_q008",
+      "title": "《今日下载》：海底科学与军事Chatbot",
+      "originalTitle": "The Download: seafloor science and military chatbots",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 06 May 2026 12:10:00 +0000",
+      "crawlDate": "2026-05-07",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/05/06/1136917/the-download-seafloor-science-military-ai-chatbots/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "低成本海底漫游潜水器通过模块化设计实现6000米深海探测，军事Chatbot采用对话式交互提升作战信息处理效率。两项技术分别通过硬件轻量化和软件自然语言处理突破传统限制。",
+      "scenarios": "深海资源勘探、海洋科学研究、海底电缆维护；战场实时情报分析、军事训练模拟、装备故障诊断。",
+      "techKeywords": "submersibles：采用中性浮力设计和分布式推进系统，实现能源高效利用与精准悬停。Chatbot：基于Transformer架构的对话系统，通过多轮上下文理解完成复杂任务。",
+      "productDesign": "可开发军民两用型智能潜水器控制系统，结合Chatbot实现自然语言操控。建议探索模块化传感器+AI对话的标准化深海探测解决方案。"
+    },
+    {
+      "id": "20260507_q009",
+      "title": "《今日摘要》：马斯克诉Altman案内幕，以及AI如何助力民主",
       "originalTitle": "The Download: inside the Musk v. Altman trial, and AI for democracy",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 05 May 2026 12:10:00 +0000",
-      "crawlDate": "2026-05-05",
+      "crawlDate": "2026-05-07",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -160,19 +321,19 @@
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "这则新闻揭示了AI领域顶级人物的法律纠纷与AI技术民主化应用的双重主题。法律纠纷反映了AI行业竞争激烈，而AI for democracy展示了技术如何赋能社会治理。",
-      "scenarios": "AI法律纠纷案例研究、AI在民主决策中的应用、科技领袖影响力分析",
-      "techKeywords": "AI Governance：指通过法律和伦理框架规范AI发展的过程。Democracy Tech：指利用AI技术增强公民参与和决策透明度的解决方案。",
-      "productDesign": "产品应建立更透明的AI治理机制以避免法律风险；同时可探索AI+政务方向，开发公民参与工具。需平衡技术创新与合规要求。"
+      "coreInsight": "该新闻揭示了AI领域两大领军人物马斯克与Altman的法律纠纷，同时探讨了AI技术对民主进程的潜在影响。核心技术在于大型语言模型(LLM)的应用与治理争议，以及AI在政治决策中的透明化应用。",
+      "scenarios": "AI技术监管争议的司法解决场景、AI辅助民主决策的公民参与场景、科技巨头商业纠纷的公开审理场景",
+      "techKeywords": "LLM Governance：大型语言模型治理涉及模型训练数据的合规性审查和使用边界的法律界定。AI Transparency：AI透明度指算法决策过程的可解释性，确保公众能理解AI系统的运作逻辑。",
+      "productDesign": "产品设计应关注建立AI系统的司法合规框架，同时开发面向公众的政策解释功能。可探索AI民主化工具，如政策模拟器等公民参与产品。"
     },
     {
-      "id": "20260505_q003",
-      "title": "利用AI强化民主的蓝图",
+      "id": "20260507_q010",
+      "title": "利用AI强化民主的OpenAI/LangChain蓝图",
       "originalTitle": "A blueprint for using AI to strengthen democracy",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 05 May 2026 09:00:00 +0000",
-      "crawlDate": "2026-05-05",
+      "crawlDate": "2026-05-07",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -183,36 +344,13 @@
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "AI技术可通过分析海量公共数据识别民主决策盲点，基于NLP的民意分析能实时反馈社会议题倾向。联邦学习技术可在保护隐私前提下实现跨机构数据协作。",
-      "scenarios": "立法过程实时民意分析、选举舞弊模式检测、公民提案智能分类与优先级排序",
-      "techKeywords": "NLP(Natural Language Processing)：通过深度学习模型理解非结构化文本，提取议题情感倾向和关键论点。Federated Learning：分布式机器学习框架，各节点数据不出本地即可联合建模。",
-      "productDesign": "应开发政府版AI决策辅助系统，集成多模态数据分析仪表盘。需要设计可解释性模块提升公信力，同时建立动态反馈机制确保算法公平性。"
-    },
-    {
-      "id": "20260505_q004",
-      "title": "马斯克诉Altman庭审首周：法庭现场直击",
-      "originalTitle": "Week one of the Musk v. Altman trial: What it was like in the room",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Mon, 04 May 2026 15:51:27 +0000",
-      "crawlDate": "2026-05-05",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/05/04/1136826/week-one-of-the-musk-v-altman-trial-what-it-was-like-in-the-room/"
-      },
-      "tags": [
-        "媒体",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "本案揭示了AI领域知识产权与商业伦理的关键冲突，核心争议点在于OpenAI是否违背了最初的非营利承诺。技术原理上涉及Foundation Model的开源与商业化平衡问题，以及AI研发中资金投入与权益分配的复杂性。",
-      "scenarios": "1.AI公司治理结构设计 2.技术开源与商业化的法律边界 3.科技巨头间的知识产权博弈",
-      "techKeywords": "Foundation Model：基础模型作为AI系统的核心架构，其所有权争议将直接影响行业创新格局。Non-profit Pledge：非营利承诺在技术快速商业化过程中面临法律效力的现实挑战。",
-      "productDesign": "产品设计需提前规划清晰的IP路线图，建议采用双轨制架构分离开源核心与商业组件。可探索新型的贡献者权益分配机制，如区块链确权等技术创新来解决类似纠纷。"
+      "coreInsight": "文章指出信息传播技术变革会重塑社会治理模式，AI可能成为新一轮变革的关键驱动力。OpenAI/LangChain等技术通过自然语言处理能力，可以帮助优化民主决策流程和公民参与机制。",
+      "scenarios": "1.AI辅助政策制定分析 2.公民意见的智能聚合 3.政府服务的自动化应答",
+      "techKeywords": "Natural Language Processing(NLP)：通过算法理解和生成人类语言，是AI民主应用的基础技术。Large Language Models(LLM)：基于海量数据训练，能够处理复杂语义任务，如政策文件分析。",
+      "productDesign": "应重点关注AI在政府-公民交互界面的应用，开发轻量级决策辅助工具。需平衡自动化与透明度，设计可解释的AI系统以建立公众信任。"
     }
   ],
-  "total": 9,
+  "total": 15,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
