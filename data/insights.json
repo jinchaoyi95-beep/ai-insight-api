@@ -1,15 +1,38 @@
 {
-  "date": "20260508",
-  "updateTime": "2026-05-08T02:06:10.911Z",
+  "date": "20260509",
+  "updateTime": "2026-05-09T02:00:28.140Z",
   "headlines": [
     {
-      "id": "20260508_001",
-      "title": "GPT-5.5与GPT-5.5-Cyber扩展网络安全可信访问",
+      "id": "20260509_001",
+      "title": "在OpenAI安全运行Codex",
+      "originalTitle": "Running Codex safely at OpenAI",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Fri, 08 May 2026 12:30:00 GMT",
+      "crawlDate": "2026-05-09",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/running-codex-safely"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "OpenAI通过沙盒隔离(sandboxing)、多层审批流程和网络策略，在安全环境中运行Codex代码生成模型。该方案通过agent-native telemetry实现实时监控，确保AI编码助手的安全合规部署。",
+      "scenarios": "企业级代码自动生成、开发者辅助编程教学、合规敏感场景的代码审查",
+      "techKeywords": "Sandboxing：通过隔离执行环境限制潜在危险操作，核心是资源访问控制和系统权限隔离。Agent-native telemetry：嵌入式监控系统，实时采集AI代理行为数据用于安全分析和异常检测。",
+      "productDesign": "企业级AI产品需内置安全防护机制，可借鉴分层审批流程设计权限管理体系。实时监控能力应作为智能编码工具的基础设施标准配置。"
+    },
+    {
+      "id": "20260509_002",
+      "title": "用GPT-5.5和GPT-5.5-Cyber扩展网络安全可信访问",
       "originalTitle": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
       "category": "research",
       "categoryName": "科研突破",
       "publishDate": "Thu, 07 May 2026 13:00:00 GMT",
-      "crawlDate": "2026-05-08",
+      "crawlDate": "2026-05-09",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -20,19 +43,19 @@
         "科研突破"
       ],
       "isHeadline": true,
-      "coreInsight": "GPT-5.5系列通过可信访问框架强化AI在网络安全领域的应用，GPT-5.5-Cyber专门优化漏洞挖掘能力。采用动态权限隔离技术，使安全研究员能安全调用高危操作API。",
-      "scenarios": "关键基础设施漏洞扫描、红蓝对抗演练自动化、恶意代码行为分析",
-      "techKeywords": "Trusted Access：基于硬件级安全飞地的执行环境隔离，实现高危操作的可审计沙箱。Vulnerability Research：通过AI自动生成变异测试用例，结合符号执行提升漏洞发现效率。",
-      "productDesign": "需建立安全能力分层开放机制，高危API需配合可信执行环境使用。可探索与Siem/SOAR系统的深度工作流集成，形成闭环防御。"
+      "coreInsight": "GPT-5.5系列通过可信访问机制赋能网络安全研究，GPT-5.5-Cyber专精漏洞检测与关键基础设施保护。技术原理基于对抗性训练增强的生成模型，为验证用户提供特定领域的安全分析能力。",
+      "scenarios": "应用场景1：关键系统漏洞的自动化挖掘与验证；应用场景2：攻击链路的智能威胁狩猎；应用场景3：安全团队的知识沉淀与决策辅助",
+      "techKeywords": "Trusted Access：通过身份验证和权限控制实现安全能力定向开放，防止技术滥用。Adversarial Training：在训练中注入对抗样本提升模型鲁棒性，特别针对网络攻防场景优化。",
+      "productDesign": "启示1：垂类大模型需构建领域专属的准入机制；机会2：安全能力可封装为API服务嵌入企业现有SOC系统；建议3：需设计反哺机制持续优化模型攻防认知。"
     },
     {
-      "id": "20260508_002",
-      "title": "Parloa打造客户愿意交谈的AI服务助手",
+      "id": "20260509_003",
+      "title": "Parloa打造用户愿意对话的AI客服代理",
       "originalTitle": "Parloa builds service agents customers want to talk to",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Thu, 07 May 2026 11:00:00 GMT",
-      "crawlDate": "2026-05-08",
+      "crawlDate": "2026-05-09",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -43,19 +66,19 @@
         "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "Parloa通过OpenAI模型构建可扩展的语音驱动AI客服助手，其核心技术在于利用大语言模型的对话能力实现实时交互。企业可通过该平台进行服务流程设计、模拟测试和快速部署。",
-      "scenarios": "银行电话客服自动化、电商售后咨询处理、公共服务热线智能化",
-      "techKeywords": "Voice-driven AI：通过语音识别和生成技术实现自然语言交互。Real-time interaction：基于流式处理架构确保对话响应延迟低于500ms。",
-      "productDesign": "启示1：需重点关注语音交互场景下的误识别补偿机制；机会点：垂直行业可结合知识图谱构建领域专用对话引擎。"
+      "coreInsight": "Parloa利用OpenAI模型构建可扩展的语音驱动AI客服系统，通过实时交互设计和仿真功能，帮助企业部署可靠的客户服务解决方案。核心技术在于结合自然语言处理与语音识别技术，实现拟人化对话体验。",
+      "scenarios": "应用场景1：电商平台智能客服、应用场景2：银行语音服务系统、应用场景3：电信运营商自助问题解决",
+      "techKeywords": "Conversational AI：基于大语言模型的对话系统，通过上下文理解实现多轮自然对话。Voice User Interface(VUI)：将语音信号转化为可处理文本，再通过TTS技术输出自然语音响应。",
+      "productDesign": "产品设计应关注对话流仿真测试工具开发，降低企业AI客服部署门槛；同时需要优化语音交互中的情感识别能力，提升用户体验。"
     },
     {
-      "id": "20260508_003",
+      "id": "20260509_004",
       "title": "API新模型推动语音智能发展",
       "originalTitle": "Advancing voice intelligence with new models in the API",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Thu, 07 May 2026 10:00:00 GMT",
-      "crawlDate": "2026-05-08",
+      "crawlDate": "2026-05-09",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -66,42 +89,19 @@
         "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "OpenAI API推出的实时语音模型整合了推理、翻译和转录能力，采用端到端神经网络架构实现语音智能处理。该技术突破使得开发者能快速创建更自然的人机语音交互体验。",
-      "scenarios": "跨国会议实时翻译、智能客服语音对话、视频内容自动字幕生成",
-      "techKeywords": "Realtime Voice API：基于流式处理的低延迟语音处理框架，支持连续语音输入输出。End-to-End ASR：端到端自动语音识别模型，直接映射语音到文本减少中间误差。",
-      "productDesign": "应重点关注高并发场景下的语音处理稳定性，建议开发语音质量自适应调节功能。可探索与IoT设备深度集成创造语音交互新范式。"
+      "coreInsight": "该API通过集成实时语音推理、翻译和转录能力，将传统语音处理提升到智能化交互层级。技术原理基于端到端神经网络模型，开发者只需简单API调用即可实现复杂语音功能。",
+      "scenarios": "跨国会议实时翻译、无障碍智能客服语音交互、播客内容智能转写与摘要",
+      "techKeywords": "Realtime voice models：采用流式处理架构，在语音输入同时完成特征提取和语义理解。Speech translation：通过联合训练编码器-解码器模型，实现语音到语音的跨语言直接转换。",
+      "productDesign": "应优先关注低延迟场景设计，如直播字幕场景需优化200ms内的端到端延迟。可探索语音交互中的多模态反馈机制，比如实时可视化语音处理状态。"
     },
     {
-      "id": "20260508_004",
-      "title": "ChatGPT推出\"可信联系人\"功能",
-      "originalTitle": "Introducing Trusted Contact in ChatGPT",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 07 May 2026 00:00:00 GMT",
-      "crawlDate": "2026-05-08",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/introducing-trusted-contact-in-chatgpt"
-      },
-      "tags": [
-        "官方",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "基于内容风险检测技术，当AI发现用户存在严重自残倾向时，会触发Trusted Contact通知机制。该功能整合了情绪识别算法和紧急联系人系统，属于主动干预型安全方案。",
-      "scenarios": "高危心理状态预警、特殊群体监护场景、危机干预前哨系统",
-      "techKeywords": "Sentiment Analysis：通过NLP模型识别文本中的极端情绪表达。Self-harm Detection：使用分类算法标记具有伤害倾向的语义模式。",
-      "productDesign": "启示在于将安全功能模块化设计，既保障用户隐私又实现必要干预。可延伸开发分级响应机制，并与专业心理服务平台打通。"
-    },
-    {
-      "id": "20260508_005",
+      "id": "20260509_005",
       "title": "ChatGPT测试广告功能",
       "originalTitle": "Testing ads in ChatGPT",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Thu, 07 May 2026 00:00:00 GMT",
-      "crawlDate": "2026-05-08",
+      "crawlDate": "2026-05-09",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -112,90 +112,113 @@
         "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "OpenAI通过广告变现支持免费服务，采用独立于回答的展示方式。技术关键在于保持回答质量的同时实现非侵入式广告投放，这体现了LLM商业化的新路径。",
-      "scenarios": "1、广告主精准投放场景 2、用户免费使用AI助手场景 3、平台商业化探索场景",
-      "techKeywords": "Ad placement(广告投放)：通过上下文理解实现相关广告展示，不影响AI回答的独立性。Privacy protection(隐私保护)：采用差分隐私等技术确保用户数据安全，广告系统不获取对话内容。",
-      "productDesign": "启示：需平衡商业化与用户体验，广告需与AI回答明显区隔。机会：可发展基于对话上下文的智能广告系统，同时建立用户信任机制。"
+      "coreInsight": "OpenAI通过在ChatGPT中测试广告功能来维持免费服务，同时强调广告与回答独立性、隐私保护和用户控制。这种模式结合了大型语言模型的对话能力与商业变现需求。",
+      "scenarios": "1、免费AI助手场景下的商业化探索 2、广告主获取精准用户互动场景 3、用户与品牌智能对话场景",
+      "techKeywords": "Conversational AI：基于自然语言处理的对话系统，能理解上下文并生成人类可读的响应。Ad targeting：通过用户交互数据优化广告投放，同时保持隐私保护机制。",
+      "productDesign": "启示1：AI产品的商业化需要平衡用户体验与变现需求；机会：可探索非侵入式广告形式如场景化产品推荐。"
     }
   ],
   "quickBrowse": [
     {
-      "id": "20260508_q001",
-      "title": "原生Agent杀入画布！一站式搞定专业创作，全程可控、不抽卡",
-      "originalTitle": "原生Agent杀入画布！一站式搞定专业创作，全程可控、不抽卡",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 07 May 2026 15:54:00 +0000",
-      "crawlDate": "2026-05-08",
+      "id": "20260509_q001",
+      "title": "Anthropic出手！AI的内心独白，曝光了",
+      "originalTitle": "Anthropic出手！AI的内心独白，曝光了",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Fri, 08 May 2026 06:34:22 +0000",
+      "crawlDate": "2026-05-09",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/413912.html"
+        "url": "https://www.qbitai.com/2026/05/414213.html"
       },
       "tags": [
         "媒体",
-        "Agent"
+        "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "该产品将原生Agent技术整合到创作画布中，通过AI代理实现一站式专业内容生成，重点突破在于全程可控性和稳定性（不抽卡）。其核心技术依托ComfyUI生态，实现了工作流可视化编排与确定性输出。",
-      "scenarios": "1.设计师快速原型制作 2.自媒体高效内容生产 3.教育行业课件自动化生成",
-      "techKeywords": "ComfyUI：基于节点的可视化AI工作流工具，支持模块化组合深度学习模型。Native Agent：直接在应用环境运行的AI代理，相比API调用具有更低延迟和更高可控性。",
-      "productDesign": "启示在于将专业级AI能力下沉到可视化界面，降低用户使用门槛。机会点在于构建以Agent为核心的创作生态，通过可控性作为差异化卖点突破现有AI工具随机性痛点。"
+      "coreInsight": "Anthropic通过Claude AI揭示了AI系统对用户意图的理解能力，展示了AI不仅能处理指令还能识别背后的人类行为模式。这种技术突破意味着AI可以更自然地与人类互动。",
+      "scenarios": "智能客服场景中识别用户真实需求、内容审核场景中检测隐藏恶意意图、个性化推荐场景中理解用户潜在偏好",
+      "techKeywords": "Intention Recognition(意图识别)：通过分析用户输入模式和上下文来推断真实目的。Behavior Pattern Analysis(行为模式分析)：利用机器学习识别人类交互中的典型行为特征。",
+      "productDesign": "产品设计应更注重AI的context理解能力开发，创造更自然的交互体验。同时需要建立透明的AI决策机制，避免'黑箱'问题。"
     },
     {
-      "id": "20260508_q002",
-      "title": "00后下场整顿Agent：啥都不学就能用好AI，这才是正确打开方式",
-      "originalTitle": "00后下场整顿Agent：啥都不学就能用好AI，这才是正确打开方式",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 07 May 2026 07:14:28 +0000",
-      "crawlDate": "2026-05-08",
+      "id": "20260509_q002",
+      "title": "GPT-5级推理能力塞进语音模型，OpenAI把同传翻译成本砍穿地板价",
+      "originalTitle": "GPT-5级推理能力塞进语音模型，OpenAI把同传翻译成本砍穿地板价",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Fri, 08 May 2026 04:35:32 +0000",
+      "crawlDate": "2026-05-09",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/413612.html"
+        "url": "https://www.qbitai.com/2026/05/414194.html"
       },
       "tags": [
         "媒体",
-        "Agent"
+        "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "00后用户倾向零学习成本的自然交互方式，反映出AI产品需要降低使用门槛。这挑战了传统需要复杂prompt工程的主流AI交互模式，推动Agent技术向更智能的意图理解方向发展。",
-      "scenarios": "智能客服场景的自动话术生成、游戏NPC的自然对话交互、办公场景的智能文档助手",
-      "techKeywords": "Agent(English)：自主感知环境并通过学习采取行动的智能体。Prompt Engineering(English)：通过精心设计的输入指令来引导AI输出的技术。",
-      "productDesign": "产品设计需转向更自然的对话式交互，减少用户学习成本。可探索基于用户行为数据的自适应Agent，自动学习用户意图。"
+      "coreInsight": "OpenAI将GPT-5级别的推理能力集成到语音模型中，显著提升了实时语音处理的准确性和效率。这项技术突破使同声传译成本大幅降低，为语音交互领域带来革新。",
+      "scenarios": "国际会议实时翻译、跨国商务洽谈语音转写、无障碍跨语言社交沟通",
+      "techKeywords": "GPT-5：基于Transformer架构的大规模语言模型，通过增大模型参数和优化训练数据实现接近人类的推理能力。Real-time Voice Processing：结合声学模型和语言模型的端到端系统，实现毫秒级延迟的语音识别与生成。",
+      "productDesign": "产品应重点优化低延迟场景下的多模态交互体验，同时探索企业级语音SaaS服务的商业化路径。可考虑开发支持小众语言的垂直领域解决方案以建立差异化优势。"
     },
     {
-      "id": "20260508_q003",
-      "title": "云知声山海知医慧保大模型重磅发布：以高密智能深耕高价值场景，重构医疗保险数智新生态",
-      "originalTitle": "云知声山海知医慧保大模型重磅发布：以高密智能深耕高价值场景，重构医疗保险数智新生态",
+      "id": "20260509_q003",
+      "title": "特斯拉百万年薪招数据标注员，朝九晚五，无需AI经验",
+      "originalTitle": "特斯拉百万年薪招数据标注员，朝九晚五，无需AI经验",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Thu, 07 May 2026 06:35:28 +0000",
-      "crawlDate": "2026-05-08",
+      "publishDate": "Fri, 08 May 2026 04:25:39 +0000",
+      "crawlDate": "2026-05-09",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/413782.html"
+        "url": "https://www.qbitai.com/2026/05/414156.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "云知声山海知医慧保大模型通过高密智能技术优化医疗保险流程，其核心技术在于整合医疗数据与保险风控模型。该产品可实现智能核保、理赔自动化等核心功能，推动医保服务效率提升。",
-      "scenarios": "医疗保险智能核保场景、自动化理赔处理场景、个性化保险方案推荐场景",
-      "techKeywords": "High-density Intelligence(高密智能)：通过多模态数据融合与深度学习实现高精度决策。Risk Control Modeling(风控建模)：基于海量医疗数据构建动态风险评估算法。",
-      "productDesign": "产品设计应重点关注医疗数据合规治理与模型可解释性。机会在于构建医疗+保险的垂直领域知识图谱，并通过API开放能力拓展合作伙伴生态。"
+      "coreInsight": "特斯拉高薪招聘数据标注员反映AI训练数据质量的重要性。标注数据是监督学习的基础，直接影响FSD和Optimus的模型性能。",
+      "scenarios": "自动驾驶算法训练、人形机器人动作学习、计算机视觉模型优化",
+      "techKeywords": "Data Labeling：人工标记原始数据以创建训练数据集，是监督学习的关键前置步骤。Supervised Learning：通过标记数据训练模型，使其能够对新数据进行预测或分类。",
+      "productDesign": "重视数据生产流水线的建设，可考虑数据质量监控工具开发。AI产品需要平衡自动化程度与人工干预的投入产出比。"
     },
     {
-      "id": "20260508_q004",
-      "title": "vLLM V0到V1：RL中正确性优先于修正",
+      "id": "20260509_q004",
+      "title": "EMO：专家混合预训练实现涌现模块化",
+      "originalTitle": "EMO: Pretraining mixture of experts for emergent modularity",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 08 May 2026 16:03:50 GMT",
+      "crawlDate": "2026-05-09",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/allenai/emo"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "EMO采用专家混合(MoE)预训练框架，通过动态激活不同专家模块实现模型涌现模块化特性。该方法在保持模型规模的同时提升计算效率，特别适合处理多样化任务。",
+      "scenarios": "大语言模型的分布式训练、多任务学习系统、需要高效推理的AI应用场景",
+      "techKeywords": "Mixture of Experts(MoE)：动态路由机制选择特定专家处理输入，各专家专注不同子任务。Emergent Modularity：模型通过预训练自发形成功能模块化分工，类似人脑功能分区。",
+      "productDesign": "启示1：可设计动态计算分配策略优化资源使用。机会：模块化架构便于功能扩展，适合开发可插拔AI功能市场。"
+    },
+    {
+      "id": "20260509_q005",
+      "title": "vLLM V0到V1版本：RL中正确性优先于修正",
       "originalTitle": "vLLM V0 to V1: Correctness Before Corrections in RL",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Wed, 06 May 2026 19:06:55 GMT",
-      "crawlDate": "2026-05-08",
+      "crawlDate": "2026-05-09",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -206,19 +229,42 @@
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "vLLM从V0到V1的迭代体现了RL领域优先保证算法正确性的设计哲学。该框架通过优化推理过程提升大语言模型的部署效率，特别注重在保证结果准确的前提下进行性能调优。",
-      "scenarios": "大规模语言模型推理加速、强化学习实验平台部署、AI应用服务后端优化",
-      "techKeywords": "vLLM(versatile Large Language Model inference engine)：专注高效推理的开放框架，通过分块注意力等技术创新提升吞吐量。RL(Reinforcement Learning)：强调在算法迭代中优先保证策略正确性，再逐步优化性能指标的设计方法论。",
-      "productDesign": "启示1：技术产品应先确保核心功能可靠性再追求性能指标。机会点：可基于该框架开发面向企业的模型推理优化服务，解决实际部署中的效率瓶颈问题。"
+      "coreInsight": "vLLM从V0到V1版本在强化学习(RL)领域做出了重要改进，将系统正确性作为首要目标。这一转变意味着在优化前先确保基础架构的稳定性和可靠性，为后续性能提升打下坚实基础。",
+      "scenarios": "1. 大规模语言模型推理部署、2. 强化学习训练环境搭建、3. AI即服务(AIaaS)平台后端优化",
+      "techKeywords": "vLLM(Versioned Large Language Model)：一个专注于高效推理的LLM服务框架，通过版本控制确保系统稳定性。RL(Reinforcement Learning)：在该系统中，强化学习的正确性优先于效率优化，确保训练过程的可信度。",
+      "productDesign": "产品设计应优先保证核心功能的正确性和鲁棒性，再考虑性能优化。这为AI基础设施产品提供了版本迭代的参考范式，特别是在可靠性要求高的企业级场景中。"
     },
     {
-      "id": "20260508_q005",
-      "title": "5个可在Search中立即尝试的园艺技巧",
+      "id": "20260509_q006",
+      "title": "创意大师用AI为小企业打造广告，看OpenAI/LangChain如何颠覆营销",
+      "originalTitle": "See what happens when creative legends use AI to make ads for small businesses.",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Fri, 08 May 2026 15:00:00 +0000",
+      "crawlDate": "2026-05-09",
+      "source": {
+        "name": "Google AI",
+        "type": "官方",
+        "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/"
+      },
+      "tags": [
+        "官方",
+        "应用落地"
+      ],
+      "isHeadline": false,
+      "coreInsight": "OpenAI/LangChain通过生成式AI技术为小企业快速生成个性化广告内容，降低创意门槛。该方案结合行业专家经验，实现AI辅助创意生产的工作流优化。",
+      "scenarios": "1、本地小微企业低成本广告制作 2、广告公司创意生产效率提升 3、AI+人类专家协作的营销案例",
+      "techKeywords": "OpenAI：基于GPT模型实现自然语言生成，可自动生成营销文案和创意概念。LangChain：通过连接不同AI模块构建工作流，实现多步骤广告创意生成。",
+      "productDesign": "PM应关注AI工具与行业专家协同的混合工作模式设计，同时需要优化prompt工程以适配垂直领域需求。建议开发面向小企业的轻量化SaaS广告生成工具。"
+    },
+    {
+      "id": "20260509_q007",
+      "title": "5个园艺技巧，现在就能在Search中尝试",
       "originalTitle": "5 gardening tips you can try right in Search",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Wed, 06 May 2026 16:00:00 +0000",
-      "crawlDate": "2026-05-08",
+      "crawlDate": "2026-05-09",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -229,36 +275,82 @@
         "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "核心洞察：Google通过整合AI Mode和Search Live等智能技术，将园艺知识直接嵌入搜索场景。用户无需跳转即可获取实时、个性化的植物养护建议，体现了搜索场景的即时性和AI的实用化落地。",
-      "scenarios": "应用场景1：新手园丁通过语音搜索获取分步骤指导、应用场景2：智能识别植物病虫害并提供治疗方案、应用场景3：根据地理位置推荐当季种植方案",
-      "techKeywords": "AI Mode：通过自然语言处理理解用户园艺问题，结合知识图谱返回结构化解决方案。Search Live：利用实时数据流和计算机视觉技术，动态更新植物养护建议。",
-      "productDesign": "产品启示：垂直场景的搜索体验需强化即时交互能力，建议开发AR植物诊断功能。机会点：可建立用户种植日志数据闭环，优化个性化推荐算法。"
+      "coreInsight": "Google通过将AI Mode、Search Live和Shopping功能整合，为用户提供即时园艺建议。这种技术组合能理解用户查询意图并实时返回个性化种植方案。",
+      "scenarios": "场景1：新手园丁快速获取植物养护建议；场景2：园艺爱好者发现新品种植物；场景3：购物时识别植物病虫害并推荐解决方案",
+      "techKeywords": "AI Mode：通过自然语言处理理解园艺问题，结合知识图谱返回结构化答案。Search Live：实时抓取最新园艺数据和用户评价，提供动态建议。Shopping：图像识别匹配植物商品，关联养护知识图谱。",
+      "productDesign": "启示1：垂直领域搜索需整合动态数据和静态知识库；机会：可开发AR植物识别+养护提醒的闭环服务；关键：需建立园艺领域的专用意图识别模型"
     },
     {
-      "id": "20260508_q006",
-      "title": "《今日要闻：重塑IVF的科技与阳台太阳能崛起》",
-      "originalTitle": "The Download: the tech reshaping IVF and the rise of balcony solar",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 07 May 2026 12:10:00 +0000",
-      "crawlDate": "2026-05-08",
+      "id": "20260509_q008",
+      "title": "马斯克诉阿尔特曼第二周：OpenAI反击，希冯·齐利斯爆料马斯克曾挖角山姆·阿尔特曼",
+      "originalTitle": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Fri, 08 May 2026 23:59:19 +0000",
+      "crawlDate": "2026-05-09",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/05/07/1136956/the-download-ivf-tech-balcony-solar/"
+        "url": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/"
+      },
+      "tags": [
+        "媒体",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "诉讼揭示了AI企业治理中的信任机制缺陷，捐赠资金的使用透明度成为关键争议点。本案涉及AI公司早期融资时承诺与实际运营的合规性问题。",
+      "scenarios": "科技公司治理结构设计、初创企业融资协议规范、AI伦理委员会监督机制",
+      "techKeywords": "Donor Intent(捐赠意向)：法律概念，指资金捐赠者对资金使用方式的明确要求。Poaching(挖角)：商业行为，通过高薪或股权等手段吸引竞争对手核心成员。",
+      "productDesign": "需建立区块链化的捐赠资金溯源系统，智能合约自动执行捐赠条款。设计创始人离职竞业条款的数字化管理系统，预防核心团队动荡风险。"
+    },
+    {
+      "id": "20260509_q009",
+      "title": "关于游轮汉坦病毒疫情你需要知道的事",
+      "originalTitle": "Here’s what you need to know about the cruise ship hantavirus outbreak",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 08 May 2026 16:19:40 +0000",
+      "crawlDate": "2026-05-09",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/05/08/1136988/heres-what-you-need-to-know-about-the-cruise-ship-hantavirus-outbreak/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "IVF技术正在通过自动化实验室设备和AI胚胎筛选提升成功率，阳台太阳能系统通过模块化设计降低清洁能源门槛。两项技术都在通过技术手段解决传统行业痛点。",
-      "scenarios": "生育诊所的IVF流程优化、家庭分布式能源解决方案、城市建筑光伏一体化",
-      "techKeywords": "Automated Incubators：通过精确控制温度/气体浓度模拟子宫环境，提高胚胎存活率。Balcony PV Systems：采用轻量化光伏组件与即插即用设计，实现公寓阳台便捷安装。",
-      "productDesign": "医疗科技产品需关注全流程自动化与数据追踪，能源产品要突破空间限制做微型化创新。跨领域技术融合（如AI+IVF）是重要突破口。"
+      "coreInsight": "汉坦病毒通过啮齿动物传播的机制凸显了生物传感技术在早期预警系统中的重要性。游轮封闭环境加速病毒传播的特性为物联网环境监测设备提供了典型应用场景。",
+      "scenarios": "1.智能游轮疫情监测系统 2.港口生物安全快速筛查 3.跨境旅行健康证明区块链平台",
+      "techKeywords": "hantavirus：通过啮齿动物排泄物传播的病原体，主要攻击人类呼吸系统和肾脏。IoT biosensor：实时监测环境生物指标的可联网设备，能检测空气/表面的病原体存在。",
+      "productDesign": "应开发集成环境监测与乘客健康数据的智能预警系统。结合区块链的旅行健康护照可成为后疫情时代跨境产品新方向。"
+    },
+    {
+      "id": "20260509_q010",
+      "title": "今日要闻：AI行业低迷与babymaking科技",
+      "originalTitle": "The Download: AI malaise and babymaking tech",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 08 May 2026 12:10:00 +0000",
+      "crawlDate": "2026-05-09",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/05/08/1136985/the-download-ai-malaise-babymaking-ivf-tech/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "AI技术正进入普及期但面临社会影响的不确定性。babymaking科技指利用AI辅助生殖的技术创新，正在改变传统生育方式。",
+      "scenarios": "AI情绪识别在心理健康监测中的应用、AI辅助生殖技术在生育诊所的应用、AI预测模型在人口政策制定中的运用",
+      "techKeywords": "AI malaise：指AI技术普及后产生的社会适应性问题，表现为对技术影响的集体焦虑。babymaking tech：通过AI算法优化生殖细胞筛选和胚胎评估，提高人工受孕成功率。",
+      "productDesign": "需要设计AI系统的透明化解释功能以缓解社会焦虑。生殖健康领域存在AI+基因筛查的创新产品机会，但需严格伦理审查。"
     }
   ],
-  "total": 11,
+  "total": 15,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
