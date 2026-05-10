@@ -1,10 +1,10 @@
 {
   "date": "20260510",
-  "updateTime": "2026-05-10T01:59:29.052Z",
+  "updateTime": "2026-05-10T13:21:19.499Z",
   "headlines": [
     {
       "id": "20260510_001",
-      "title": "OpenAI安全运行Codex",
+      "title": "在OpenAI安全运行Codex",
       "originalTitle": "Running Codex safely at OpenAI",
       "category": "agent",
       "categoryName": "Agent",
@@ -20,82 +20,36 @@
         "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "OpenAI通过sandboxing隔离环境、多层审批流程和网络策略确保Codex安全运行，同时采用agent-native telemetry实时监控代码行为。该机制既保障了AI编码代理的功能性，又满足了企业级安全合规需求。",
-      "scenarios": "企业级代码自动生成、开发者辅助编程工具、教育领域的编程教学辅助",
-      "techKeywords": "sandboxing：通过虚拟化隔离执行环境防止系统级破坏。agent-native telemetry：内置于代理的遥测技术，实时采集行为数据用于安全分析。",
-      "productDesign": "启示1：AI产品的企业级落地必须构建完整安全体系。机会：可扩展开发IDE插件，在隔离环境中提供实时安全警告。"
+      "coreInsight": "OpenAI通过沙盒隔离（sandboxing）、审批流程和多层网络策略确保Codex安全运行。这种架构设计既保障了AI编码助手的合规性，又维持了开发效率。",
+      "scenarios": "企业级代码生成、教育领域编程教学、开发者工具集成",
+      "techKeywords": "Sandboxing：通过隔离执行环境限制代码访问权限，防止恶意操作。Agent-native telemetry：原生植入监控模块实时采集代理行为数据，用于安全审计。",
+      "productDesign": "启示1：企业级AI产品必须内置安全合规框架。机会点：可开发针对金融/医疗等敏感行业的专用代码生成解决方案。"
     },
     {
       "id": "20260510_002",
-      "title": "用GPT-5.5和GPT-5.5-Cyber扩展网络安全可信访问",
-      "originalTitle": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Thu, 07 May 2026 13:00:00 GMT",
+      "title": "浙大校友用AI突破32年拉姆齐数下界",
+      "originalTitle": "浙大校友用AI突破32年拉姆齐数下界",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Sun, 10 May 2026 04:01:40 +0000",
       "crawlDate": "2026-05-10",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/05/415031.html"
       },
       "tags": [
-        "官方",
-        "科研突破"
+        "媒体",
+        "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "GPT-5.5系列通过可信访问机制强化网络安全场景，GPT-5.5-Cyber专为漏洞研究优化。该技术允许经过验证的防御者快速分析系统弱点并生成防护方案。",
-      "scenarios": "关键基础设施威胁检测、自动化漏洞挖掘报告、实时攻击模式分析",
-      "techKeywords": "Trusted Access：通过白名单机制控制高危AI能力的调用权限。GPT-5.5-Cyber：基于对抗训练生成的网络安全专用模型，能理解漏洞代码模式。",
-      "productDesign": "应建立垂直领域专用模型+可信调用框架的产品矩阵。可探索在金融、医疗等监管严格领域的可信AI方案。"
+      "coreInsight": "通过AI算法突破数学领域经典难题，展示了AI在组合数学中的应用潜力。该研究使用强化学习优化图的构造方法，将R(3,17)下界提升1个单位。",
+      "scenarios": "数学理论研究、算法优化领域、AI辅助科研",
+      "techKeywords": "Ramsey Theory：研究在足够大的结构中必然出现的规律性。R(3,17)表示任意3人和17人的群体中存在特定子结构的最小规模。Reinforcement Learning：通过奖励机制训练AI系统自主寻找最优解。在此研究中用于优化图构造策略。",
+      "productDesign": "可开发AI+科研协作平台，将算法模型封装为数学研究工具。探索建立跨学科AI解决方案库，降低技术应用门槛。"
     },
     {
       "id": "20260510_003",
-      "title": "Parloa打造用户愿意对话的AI客服助手",
-      "originalTitle": "Parloa builds service agents customers want to talk to",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 07 May 2026 11:00:00 GMT",
-      "crawlDate": "2026-05-10",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/parloa"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Parloa通过OpenAI模型构建可扩展的语音驱动AI客服，支持企业设计、模拟和部署实时互动。其核心技术在于结合大语言模型的对话能力与语音接口，实现拟人化服务体验。",
-      "scenarios": "银行智能语音客服、电商售后自动化处理、公共事业24/7咨询热线",
-      "techKeywords": "Voice-driven AI：通过语音识别(STT)和语音合成(TTS)技术实现自然语言交互。Real-time interaction：基于流式响应架构确保对话延迟低于500ms。",
-      "productDesign": "启示1：需重点关注语音交互场景下的对话中断恢复机制设计；机会点：垂直行业知识库与通用大模型的结合将成差异点"
-    },
-    {
-      "id": "20260510_004",
-      "title": "API新模型推动语音智能发展",
-      "originalTitle": "Advancing voice intelligence with new models in the API",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Thu, 07 May 2026 10:00:00 GMT",
-      "crawlDate": "2026-05-10",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "OpenAI推出的实时语音API模型结合了推理、翻译和转写功能，通过端到端神经网络实现语音信号到语义理解的直接转换。该技术突破使语音交互更自然智能，开发者可直接调用API快速集成高级语音功能。",
-      "scenarios": "跨国会议实时翻译、智能客服语音对话、无障碍语音转文字服务",
-      "techKeywords": "Realtime Voice Models：采用流式处理架构实现低延迟语音交互，结合ASR和NLU技术完成语音到意图的端到端理解。Speech-to-Intent：通过联合训练将语音识别与语义理解统一建模，直接输出结构化意图而非单纯文字转录。",
-      "productDesign": "重点应设计语音交互的上下文保持能力，同时需要优化多语种混合场景的识别鲁棒性。可探索垂直领域（如医疗问诊）的专业术语增强模型，创造差异化优势。"
-    },
-    {
-      "id": "20260510_005",
       "title": "两项AI政策发布，范式智能战略布局与产业方向高度契合",
       "originalTitle": "两项AI政策发布，范式智能战略布局与产业方向高度契合",
       "category": "application",
@@ -112,39 +66,14 @@
         "应用落地"
       ],
       "isHeadline": true,
-      "coreInsight": "政策导向明确AI在能源领域的产业化路径，范式智能通过电力交易和能源调度场景实现技术落地。关键技术聚焦预测算法和决策优化，符合产业智能化升级需求。",
-      "scenarios": "电力交易价格预测、跨区域能源调度优化、可再生能源发电量智能预测",
-      "techKeywords": "Predictive Analytics：基于历史数据和机器学习模型预测未来趋势，在电力交易中可实现价格波动预警。Decision Intelligence：结合规则引擎和强化学习实现动态决策，适用于多目标优化的能源调度场景。",
-      "productDesign": "应开发模块化AI组件库适配不同能源场景，重点构建行业专属特征工程管道。需建立联邦学习框架解决数据孤岛问题，同时设计可视化决策解释界面提升可信度。"
-    }
-  ],
-  "quickBrowse": [
-    {
-      "id": "20260510_q001",
-      "title": "美图RoboNeo全新升级：首创影像创作Agent Teams",
-      "originalTitle": "美图RoboNeo全新升级：首创影像创作Agent Teams",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Sat, 09 May 2026 09:22:38 +0000",
-      "crawlDate": "2026-05-10",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/415010.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "美图RoboNeo通过首创影像创作Agent Teams技术，将多个AI代理协同工作实现更复杂的影像创作。该技术可自动分配创作任务并整合结果，提升影像生产效率和质量。",
-      "scenarios": "商业广告批量图片生成、社交媒体内容自动化创作、个性化艺术风格影像制作",
-      "techKeywords": "Agent Teams：通过多个AI代理分工协作，每个代理负责特定子任务，最后整合输出完整作品。Multi-Agent System：系统协调多个智能体共同完成复杂任务，通过任务分解和结果融合提升整体效果。",
-      "productDesign": "产品设计应考虑多代理协同的调度机制和结果融合算法。可探索不同领域的创作团队模板，如电商、艺术等垂直场景的专用Agent Teams组合。"
+      "coreInsight": "政策导向与AI企业战略的契合点在于垂直场景的技术落地，特别是能源领域需要AI解决预测和决策优化问题。这需要结合时序预测算法和运筹优化技术来实现智能化调度。",
+      "scenarios": "电力交易价格预测、区域能源动态调度、用电负荷智能预测",
+      "techKeywords": "Time Series Forecasting：通过LSTM等模型学习历史数据的时间依赖关系，预测未来能源供需变化。Operations Research：运用线性规划和整数规划等方法，在约束条件下找到最优资源分配方案。",
+      "productDesign": "应重点构建能源领域的AI中台，封装预测和优化算法为可复用模块。产品设计需强调与SCADA等工业系统的对接能力，同时提供可视化决策看板。"
     },
     {
-      "id": "20260510_q002",
-      "title": "《OncoAgent：面向隐私保护肿瘤临床决策支持的双层多智能体框架》",
+      "id": "20260510_004",
+      "title": "《OncoAgent：用于隐私保护肿瘤临床决策支持的双层多Agent框架》",
       "originalTitle": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
       "category": "agent",
       "categoryName": "Agent",
@@ -159,14 +88,14 @@
         "官方",
         "Agent"
       ],
-      "isHeadline": false,
-      "coreInsight": "OncoAgent采用双层多智能体架构实现隐私保护的肿瘤临床决策支持，上层处理全局知识集成，下层执行本地数据处理。通过分布式学习确保患者数据不出本地，同时实现跨机构知识共享。",
-      "scenarios": "1. 多医院联合肿瘤诊疗方案制定 2. 患者隐私数据敏感的临床研究 3. 医疗资源不足地区的远程辅助诊断",
-      "techKeywords": "Multi-Agent System：分布式智能体协同工作，通过消息传递实现知识共享。Federated Learning：本地训练模型参数，中央服务器聚合更新，原始数据不离开数据源。",
-      "productDesign": "启示1：医疗AI产品需构建隐私保护机制，采用边缘计算架构。机会点：可扩展至其他敏感医疗领域如精神健康诊疗，开发模块化智能体组件库。"
+      "isHeadline": true,
+      "coreInsight": "OncoAgent采用双层多Agent框架实现肿瘤临床决策支持，上层处理整体诊疗流程，下层专注具体医学任务。通过分布式架构实现患者数据隐私保护，同时支持跨机构医疗协作。",
+      "scenarios": "1. 跨医院肿瘤诊疗方案制定 2. 患者隐私数据保护的远程会诊 3. 个性化抗癌药物推荐系统",
+      "techKeywords": "Multi-Agent System：通过多个智能Agent分工协作处理复杂医疗任务，每个Agent专注特定子任务。Federated Learning：在数据不出本地的情况下进行模型训练，保护患者隐私同时实现知识共享。",
+      "productDesign": "该架构启示我们可以开发模块化医疗AI产品，不同功能由独立Agent实现便于迭代。隐私保护设计为医疗AI合规落地提供了重要参考方案。"
     },
     {
-      "id": "20260510_q003",
+      "id": "20260510_005",
       "title": "EMO：专家混合预训练实现涌现模块化",
       "originalTitle": "EMO: Pretraining mixture of experts for emergent modularity",
       "category": "llm",
@@ -182,15 +111,17 @@
         "官方",
         "大语言模型"
       ],
-      "isHeadline": false,
-      "coreInsight": "EMO采用专家混合(Mixture of Experts)预训练框架，通过动态激活不同专家模块实现参数高效利用。该技术使模型在保持总参数量不变情况下，能根据输入内容自动选择特定专家处理任务。",
-      "scenarios": "多模态内容理解、个性化推荐系统、大规模预训练模型微调",
-      "techKeywords": "Mixture of Experts：通过路由器网络动态选择子网络专家处理不同输入，实现条件计算。Emergent Modularity：在预训练过程中自然形成的模块化结构，提升模型可解释性和可扩展性。",
-      "productDesign": "可设计动态计算资源分配系统，根据用户请求复杂度自动调整计算成本。模块化架构为模型可解释性功能提供基础，适合开发透明AI产品。"
-    },
+      "isHeadline": true,
+      "coreInsight": "EMO采用专家混合(Mixture of Experts)预训练方法，通过动态激活不同专家模块实现模型能力的模块化涌现。这种架构允许模型在推理时根据输入类型自动选择最相关的子网络进行计算，显著提升计算效率。",
+      "scenarios": "大规模多任务学习场景、需要动态计算分配的场景、资源受限的边缘计算场景",
+      "techKeywords": "Mixture of Experts：通过并行部署多个专家网络，每个前向传播只激活部分专家。Emergent Modularity：模型在预训练过程中自发形成功能模块化分工，类似人脑的模块化工作机制。",
+      "productDesign": "该技术为构建可解释性AI系统提供新思路，建议探索模块化能力的可视化监控工具。同时可针对计算资源敏感场景设计动态路由算法，优化推理成本。"
+    }
+  ],
+  "quickBrowse": [
     {
-      "id": "20260510_q004",
-      "title": "创意大师用AI为小企业打造广告，OpenAI/LangChain技术展现惊人效果",
+      "id": "20260510_q001",
+      "title": "创意大师用AI为小企业打造广告，效果惊艳",
       "originalTitle": "See what happens when creative legends use AI to make ads for small businesses.",
       "category": "application",
       "categoryName": "应用落地",
@@ -206,14 +137,14 @@
         "应用落地"
       ],
       "isHeadline": false,
-      "coreInsight": "该新闻展示了如何利用OpenAI/LangChain等AI技术赋能传统广告创意流程，使小型企业也能获得专业级的广告解决方案。通过将创意专家的经验与AI的内容生成能力结合，实现了高质量广告的低成本快速生产。",
-      "scenarios": "小型企业数字营销、本地化广告内容创作、创意团队AI辅助工具",
-      "techKeywords": "OpenAI：基于大语言模型的生成式AI系统，能理解自然语言指令并生成高质量文本内容。LangChain：框架用于连接语言模型与外部数据源，支持复杂任务的链式调用和流程编排。",
-      "productDesign": "启示在于构建专家经验+AI能力的混合工作流，可开发垂直领域的内容生成SaaS工具。机会点包括为中小企业提供AI创意模板市场，以及为广告公司开发定制化AI助手。"
+      "coreInsight": "该案例展示了AI广告创作的垂直应用：通过将创意专家的经验与Generative AI技术结合，为中小企业提供高质量广告内容。采用专家指导+AI执行的协作模式，既保证创意质量又提升生产效率。",
+      "scenarios": "本地中小企业营销内容生成、广告创意快速原型设计、个性化广告批量生产",
+      "techKeywords": "Generative AI：使用深度学习模型根据输入条件自动生成文本/图像/视频内容。Creative Automation：通过自动化流程将创意想法快速转化为可执行方案，提高广告制作效率。",
+      "productDesign": "启示：1）需建立专家知识到AI提示词的转化体系 2）重点解决中小企业营销内容的生产成本问题。机会：可发展垂直行业的AI创意模板市场，降低使用门槛。"
     },
     {
-      "id": "20260510_q005",
-      "title": "马斯克vs.奥特曼第二周：OpenAI回击，希冯·齐利斯透露马斯克曾试图挖角山姆·奥特曼",
+      "id": "20260510_q002",
+      "title": "马斯克大战奥尔特曼第二周：OpenAI反击，希冯·齐利斯揭露马斯克曾试图挖角山姆·奥尔特曼",
       "originalTitle": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
       "category": "company",
       "categoryName": "企业动态",
@@ -229,14 +160,14 @@
         "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "核心洞察：Elon Musk与OpenAI的法律纠纷揭示了AI公司治理中的信任危机。这反映了AI行业在融资和公司控制权方面的潜在风险，特别是当创始人与投资人理念不合时。",
-      "scenarios": "应用场景1：AI初创公司股权结构设计、应用场景2：科技公司创始人纠纷调解、应用场景3：高风险技术投资的法律保障机制",
-      "techKeywords": "Poaching(English)：指高科技公司通过高薪或股权等方式挖走竞争对手关键人才的行为。Nonprofit Conversion(English)：描述组织从非营利性质转变为营利性结构的过程及其法律影响。",
-      "productDesign": "产品启示：1) 需要设计更透明的AI公司治理工具 2) 开发针对技术创始人的法律风险预警系统 3) 建立技术人才流动的合规评估机制"
+      "coreInsight": "本次事件揭示了AI行业顶级人才争夺战的激烈程度，以及初创公司治理结构中创始人控制权的重要性。Musk利用法律手段施压竞争对手的做法，反映了AI行业竞争已从技术层面向法律和人才维度扩展。",
+      "scenarios": "1、AI公司核心团队稳定性管理 2、科技巨头人才争夺战应对策略 3、初创公司融资协议法律风险防控",
+      "techKeywords": "Poaching：科技公司通过高薪或股权激励等手段挖角竞争对手核心人才的行为，是技术密集型行业的常见竞争策略。Governance Structure：指公司决策权分配和管理架构设计，在AI初创公司中常涉及创始人控制权与投资人权益的平衡问题。",
+      "productDesign": "建议AI产品建立关键人才保留机制，如动态股权激励计划；在产品合作协议中需明确约定知识产权归属条款；可开发面向科技公司的竞业限制合规管理工具。"
     },
     {
-      "id": "20260510_q006",
-      "title": "关于邮轮汉坦病毒疫情你需要知道的事",
+      "id": "20260510_q003",
+      "title": "邮轮汉坦病毒疫情须知",
       "originalTitle": "Here’s what you need to know about the cruise ship hantavirus outbreak",
       "category": "llm",
       "categoryName": "大语言模型",
@@ -252,14 +183,14 @@
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "汉坦病毒通过啮齿动物传播的疫情突显了密闭空间传染病的防控挑战。AI监测系统可通过环境传感器+生物特征识别实现早期预警。",
-      "scenarios": "邮轮/航空器密闭空间病毒监测、港口入境生物安全筛查、城市鼠害传播疾病预防系统",
-      "techKeywords": "Hantavirus：通过啮齿动物排泄物传播的布尼亚病毒科病原体，主要攻击肺部毛细血管。Environmental Sensor Network：实时监测温度/湿度/空气微粒的物联网系统，可建立病原传播风险模型。",
-      "productDesign": "应开发集成生物识别与环境感知的AI预警终端，重点攻克多模态数据融合算法。可结合邮轮公司的安全巡检系统做商业化落地。"
+      "coreInsight": "汉坦病毒是一种通过啮齿动物传播的人畜共患病毒，此次邮轮疫情凸显密闭空间传播风险。技术手段如环境监测和早期预警系统可帮助防控类似公共卫生事件。",
+      "scenarios": "邮轮/航空器等密闭空间传染病监测、港口城市啮齿动物防控系统、跨境旅游公共卫生预警平台",
+      "techKeywords": "Hantavirus：通过啮齿动物排泄物传播，主要攻击人类肺部血管系统。Environmental monitoring：实时检测空气中病原体浓度的技术，可结合物联网设备实现早期预警。",
+      "productDesign": "可开发智能病媒生物监测系统，结合AI图像识别实时追踪啮齿类活动。邮轮场景需要集成空气质量和生物传感器的综合健康预警解决方案。"
     },
     {
-      "id": "20260510_q007",
-      "title": "今日要闻：AI行业低迷与babymaking技术",
+      "id": "20260510_q004",
+      "title": "今日要闻：AI行业低迷与Babymaking科技",
       "originalTitle": "The Download: AI malaise and babymaking tech",
       "category": "llm",
       "categoryName": "大语言模型",
@@ -275,13 +206,13 @@
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "AI技术已进入普及期但引发社会担忧，需要关注技术伦理与社会影响。babymaking技术预示着生物科技与AI的交叉创新趋势。",
-      "scenarios": "AI伦理评估场景、生殖健康科技场景、社会影响研究场景",
-      "techKeywords": "AI malaise：指AI普及后产生的技术疲劳与伦理焦虑现象，源于技术不可控性带来的社会压力。babymaking tech：利用AI和基因技术辅助生育的前沿科技，包括胚胎筛查和生育预测等功能。",
-      "productDesign": "需设计AI透明化功能缓解用户焦虑，同时开发医疗+AI的垂直场景产品。可探索生育科技与个性化健康服务的结合点。"
+      "coreInsight": "AI技术已进入普及化阶段，但社会对其长期影响仍存疑虑。Babymaking tech展示了生物科技与AI结合的新兴领域。",
+      "scenarios": "医疗辅助生殖领域、AI伦理评估系统、生育健康数据分析平台",
+      "techKeywords": "Generative AI：通过深度学习模型生成新内容，在辅助生殖领域可用于模拟胚胎发育。Fertility Tech：结合传感器和算法优化受孕几率，典型应用包括周期预测和个性化建议。",
+      "productDesign": "应重点关注AI+生育健康领域的隐私保护设计，开发可解释性强的辅助决策工具。可探索生成式AI在医疗影像分析中的合规应用场景。"
     }
   ],
-  "total": 12,
+  "total": 9,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
