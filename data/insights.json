@@ -1,15 +1,15 @@
 {
-  "date": "20260510",
-  "updateTime": "2026-05-10T13:21:19.499Z",
+  "date": "20260511",
+  "updateTime": "2026-05-11T02:09:34.958Z",
   "headlines": [
     {
-      "id": "20260510_001",
+      "id": "20260511_001",
       "title": "在OpenAI安全运行Codex",
       "originalTitle": "Running Codex safely at OpenAI",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Fri, 08 May 2026 12:30:00 GMT",
-      "crawlDate": "2026-05-10",
+      "crawlDate": "2026-05-11",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -20,88 +20,42 @@
         "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "OpenAI通过沙盒隔离（sandboxing）、审批流程和多层网络策略确保Codex安全运行。这种架构设计既保障了AI编码助手的合规性，又维持了开发效率。",
-      "scenarios": "企业级代码生成、教育领域编程教学、开发者工具集成",
-      "techKeywords": "Sandboxing：通过隔离执行环境限制代码访问权限，防止恶意操作。Agent-native telemetry：原生植入监控模块实时采集代理行为数据，用于安全审计。",
-      "productDesign": "启示1：企业级AI产品必须内置安全合规框架。机会点：可开发针对金融/医疗等敏感行业的专用代码生成解决方案。"
+      "coreInsight": "OpenAI通过沙盒隔离、审批流程、网络策略和原生遥测技术四大安全机制，确保Codex代码生成模型在生产环境中的安全可控。这种分层防御体系既保护模型不被滥用，又能合规支持开发者集成AI编程助手。",
+      "scenarios": "企业级代码自动生成、IDE智能编程插件、低代码开发平台的后端引擎",
+      "techKeywords": "Sandboxing：通过容器化隔离执行环境，防止恶意代码影响宿主系统。Agent-native telemetry：在代理层面嵌入监控数据采集，实时追踪模型行为与资源使用。",
+      "productDesign": "企业级AI产品必须内置安全防护体系，可借鉴分层控制策略；模型监控数据应作为标准功能输出，帮助客户满足合规审计需求。"
     },
     {
-      "id": "20260510_002",
-      "title": "浙大校友用AI突破32年拉姆齐数下界",
-      "originalTitle": "浙大校友用AI突破32年拉姆齐数下界",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sun, 10 May 2026 04:01:40 +0000",
-      "crawlDate": "2026-05-10",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/415031.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "通过AI算法突破数学领域经典难题，展示了AI在组合数学中的应用潜力。该研究使用强化学习优化图的构造方法，将R(3,17)下界提升1个单位。",
-      "scenarios": "数学理论研究、算法优化领域、AI辅助科研",
-      "techKeywords": "Ramsey Theory：研究在足够大的结构中必然出现的规律性。R(3,17)表示任意3人和17人的群体中存在特定子结构的最小规模。Reinforcement Learning：通过奖励机制训练AI系统自主寻找最优解。在此研究中用于优化图构造策略。",
-      "productDesign": "可开发AI+科研协作平台，将算法模型封装为数学研究工具。探索建立跨学科AI解决方案库，降低技术应用门槛。"
-    },
-    {
-      "id": "20260510_003",
-      "title": "两项AI政策发布，范式智能战略布局与产业方向高度契合",
-      "originalTitle": "两项AI政策发布，范式智能战略布局与产业方向高度契合",
-      "category": "application",
-      "categoryName": "应用落地",
-      "publishDate": "Sat, 09 May 2026 09:53:25 +0000",
-      "crawlDate": "2026-05-10",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/415019.html"
-      },
-      "tags": [
-        "媒体",
-        "应用落地"
-      ],
-      "isHeadline": true,
-      "coreInsight": "政策导向与AI企业战略的契合点在于垂直场景的技术落地，特别是能源领域需要AI解决预测和决策优化问题。这需要结合时序预测算法和运筹优化技术来实现智能化调度。",
-      "scenarios": "电力交易价格预测、区域能源动态调度、用电负荷智能预测",
-      "techKeywords": "Time Series Forecasting：通过LSTM等模型学习历史数据的时间依赖关系，预测未来能源供需变化。Operations Research：运用线性规划和整数规划等方法，在约束条件下找到最优资源分配方案。",
-      "productDesign": "应重点构建能源领域的AI中台，封装预测和优化算法为可复用模块。产品设计需强调与SCADA等工业系统的对接能力，同时提供可视化决策看板。"
-    },
-    {
-      "id": "20260510_004",
-      "title": "《OncoAgent：用于隐私保护肿瘤临床决策支持的双层多Agent框架》",
-      "originalTitle": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
+      "id": "20260511_002",
+      "title": "MachinaCheck：基于AMD MI300X打造多智能体CNC可制造性系统",
+      "originalTitle": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Sat, 09 May 2026 18:09:28 GMT",
-      "crawlDate": "2026-05-10",
+      "publishDate": "Sun, 10 May 2026 18:44:11 GMT",
+      "crawlDate": "2026-05-11",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
-        "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper"
+        "url": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck"
       },
       "tags": [
         "官方",
         "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "OncoAgent采用双层多Agent框架实现肿瘤临床决策支持，上层处理整体诊疗流程，下层专注具体医学任务。通过分布式架构实现患者数据隐私保护，同时支持跨机构医疗协作。",
-      "scenarios": "1. 跨医院肿瘤诊疗方案制定 2. 患者隐私数据保护的远程会诊 3. 个性化抗癌药物推荐系统",
-      "techKeywords": "Multi-Agent System：通过多个智能Agent分工协作处理复杂医疗任务，每个Agent专注特定子任务。Federated Learning：在数据不出本地的情况下进行模型训练，保护患者隐私同时实现知识共享。",
-      "productDesign": "该架构启示我们可以开发模块化医疗AI产品，不同功能由独立Agent实现便于迭代。隐私保护设计为医疗AI合规落地提供了重要参考方案。"
+      "coreInsight": "该系统基于AMD MI300X加速器构建多智能体架构，实现CNC加工可制造性的实时评估。通过分布式智能体协同分析设计参数、材料特性和工艺约束，显著提升制造可行性检测效率。",
+      "scenarios": "航空航天复杂零部件制造评估、汽车批量生产前的可制造性验证、定制化医疗器械的快速工艺可行性分析",
+      "techKeywords": "Multi-Agent System：采用分布式智能体架构并行处理不同制造维度评估任务。AMD MI300X：利用AMD最新加速器硬件实现高性能并行计算，支撑实时仿真需求。",
+      "productDesign": "启示1：硬件加速+多智能体架构可解决传统CAE工具耗时长的问题。机会：可延伸开发云端SaaS服务，结合数字孪生技术构建制造评估平台。"
     },
     {
-      "id": "20260510_005",
+      "id": "20260511_003",
       "title": "EMO：专家混合预训练实现涌现模块化",
       "originalTitle": "EMO: Pretraining mixture of experts for emergent modularity",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 08 May 2026 16:03:50 GMT",
-      "crawlDate": "2026-05-10",
+      "crawlDate": "2026-05-11",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -112,21 +66,19 @@
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "EMO采用专家混合(Mixture of Experts)预训练方法，通过动态激活不同专家模块实现模型能力的模块化涌现。这种架构允许模型在推理时根据输入类型自动选择最相关的子网络进行计算，显著提升计算效率。",
-      "scenarios": "大规模多任务学习场景、需要动态计算分配的场景、资源受限的边缘计算场景",
-      "techKeywords": "Mixture of Experts：通过并行部署多个专家网络，每个前向传播只激活部分专家。Emergent Modularity：模型在预训练过程中自发形成功能模块化分工，类似人脑的模块化工作机制。",
-      "productDesign": "该技术为构建可解释性AI系统提供新思路，建议探索模块化能力的可视化监控工具。同时可针对计算资源敏感场景设计动态路由算法，优化推理成本。"
-    }
-  ],
-  "quickBrowse": [
+      "coreInsight": "EMO技术通过专家混合(Mixture of Experts)预训练实现模型模块化，不同专家子网络自动学习处理特定任务。这种架构允许动态激活相关专家，显著提升模型效率与扩展性。",
+      "scenarios": "多模态内容理解、个性化推荐系统、复杂决策任务处理",
+      "techKeywords": "Mixture of Experts：由多个专家网络和门控机制组成，仅激活相关专家处理输入。Emergent Modularity：模型在训练中自发形成模块化结构，各模块专注不同子任务。",
+      "productDesign": "可为B端客户提供可定制化AI模块服务，降低计算资源消耗。模块化设计便于功能迭代，适合构建企业级AI解决方案。"
+    },
     {
-      "id": "20260510_q001",
+      "id": "20260511_004",
       "title": "创意大师用AI为小企业打造广告，效果惊艳",
       "originalTitle": "See what happens when creative legends use AI to make ads for small businesses.",
       "category": "application",
       "categoryName": "应用落地",
       "publishDate": "Fri, 08 May 2026 15:00:00 +0000",
-      "crawlDate": "2026-05-10",
+      "crawlDate": "2026-05-11",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -136,20 +88,20 @@
         "官方",
         "应用落地"
       ],
-      "isHeadline": false,
-      "coreInsight": "该案例展示了AI广告创作的垂直应用：通过将创意专家的经验与Generative AI技术结合，为中小企业提供高质量广告内容。采用专家指导+AI执行的协作模式，既保证创意质量又提升生产效率。",
-      "scenarios": "本地中小企业营销内容生成、广告创意快速原型设计、个性化广告批量生产",
-      "techKeywords": "Generative AI：使用深度学习模型根据输入条件自动生成文本/图像/视频内容。Creative Automation：通过自动化流程将创意想法快速转化为可执行方案，提高广告制作效率。",
-      "productDesign": "启示：1）需建立专家知识到AI提示词的转化体系 2）重点解决中小企业营销内容的生产成本问题。机会：可发展垂直行业的AI创意模板市场，降低使用门槛。"
+      "isHeadline": true,
+      "coreInsight": "Google AI通过The Small Brief项目，展示了创意专家利用AI工具为中小企业快速生成高质量广告的能力。该方案结合专业创意人的审美判断与AI的内容生成效率，实现广告制作的降本增效。",
+      "scenarios": "中小企业营销内容生产、创意机构工作效率提升、本土品牌低成本获客",
+      "techKeywords": "Generative AI：通过深度学习模型自动生成文字/图像内容，保留人类创意的核心逻辑。Creative Automation：将广告制作流程模块化，利用AI自动完成重复性设计工作。",
+      "productDesign": "PM应关注创意工作流中AI的嵌入点，构建人机协作的标准流程。机会在于开发垂直行业的创意模板库，降低AI工具使用门槛。"
     },
     {
-      "id": "20260510_q002",
-      "title": "马斯克大战奥尔特曼第二周：OpenAI反击，希冯·齐利斯揭露马斯克曾试图挖角山姆·奥尔特曼",
+      "id": "20260511_005",
+      "title": "马斯克大战奥特曼第二周：OpenAI反击，希冯·齐利斯爆料马斯克曾试图挖角山姆·奥特曼",
       "originalTitle": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 08 May 2026 23:59:19 +0000",
-      "crawlDate": "2026-05-10",
+      "crawlDate": "2026-05-11",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -159,20 +111,22 @@
         "媒体",
         "企业动态"
       ],
-      "isHeadline": false,
-      "coreInsight": "本次事件揭示了AI行业顶级人才争夺战的激烈程度，以及初创公司治理结构中创始人控制权的重要性。Musk利用法律手段施压竞争对手的做法，反映了AI行业竞争已从技术层面向法律和人才维度扩展。",
-      "scenarios": "1、AI公司核心团队稳定性管理 2、科技巨头人才争夺战应对策略 3、初创公司融资协议法律风险防控",
-      "techKeywords": "Poaching：科技公司通过高薪或股权激励等手段挖角竞争对手核心人才的行为，是技术密集型行业的常见竞争策略。Governance Structure：指公司决策权分配和管理架构设计，在AI初创公司中常涉及创始人控制权与投资人权益的平衡问题。",
-      "productDesign": "建议AI产品建立关键人才保留机制，如动态股权激励计划；在产品合作协议中需明确约定知识产权归属条款；可开发面向科技公司的竞业限制合规管理工具。"
-    },
+      "isHeadline": true,
+      "coreInsight": "事件揭示了AI公司治理中的信任危机与人才争夺战。核心原理在于OpenAI的Donor-Advised Fund机制允许捐赠者保留资金控制权，而Poaching（挖角）策略反映了AI行业顶尖人才的稀缺性。",
+      "scenarios": "应用场景1：科技公司治理结构设计、应用场景2：高管人才争夺战应对策略、应用场景3：捐赠协议的合规性审查",
+      "techKeywords": "Donor-Advised Fund：一种允许捐赠者在捐赠后仍能影响资金使用方向的慈善基金结构，常见于科技公司早期融资。Poaching：通过高薪或股权激励等手段主动获取竞争对手核心人才的市场行为，在AI领域尤为激烈。",
+      "productDesign": "启示1：需设计更透明的捐赠者权益披露机制，启示2：人才保留计划应纳入产品路线图，启示3：可开发智能合约工具自动执行捐赠协议条款。"
+    }
+  ],
+  "quickBrowse": [
     {
-      "id": "20260510_q003",
+      "id": "20260511_q001",
       "title": "邮轮汉坦病毒疫情须知",
       "originalTitle": "Here’s what you need to know about the cruise ship hantavirus outbreak",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 08 May 2026 16:19:40 +0000",
-      "crawlDate": "2026-05-10",
+      "crawlDate": "2026-05-11",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -183,19 +137,19 @@
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "汉坦病毒是一种通过啮齿动物传播的人畜共患病毒，此次邮轮疫情凸显密闭空间传播风险。技术手段如环境监测和早期预警系统可帮助防控类似公共卫生事件。",
-      "scenarios": "邮轮/航空器等密闭空间传染病监测、港口城市啮齿动物防控系统、跨境旅游公共卫生预警平台",
-      "techKeywords": "Hantavirus：通过啮齿动物排泄物传播，主要攻击人类肺部血管系统。Environmental monitoring：实时检测空气中病原体浓度的技术，可结合物联网设备实现早期预警。",
-      "productDesign": "可开发智能病媒生物监测系统，结合AI图像识别实时追踪啮齿类活动。邮轮场景需要集成空气质量和生物传感器的综合健康预警解决方案。"
+      "coreInsight": "汉坦病毒通过老鼠传播的罕见疾病，邮轮封闭环境加剧了疫情传播风险。现代公共卫生监测技术可帮助快速识别和隔离病例，但需要完善早期预警系统。",
+      "scenarios": "邮轮公共卫生监测系统、城市鼠害智能监控、传染病早期预警平台",
+      "techKeywords": "hantavirus：通过啮齿动物排泄物传播的病毒，主要攻击人类呼吸系统。public health surveillance：利用数据分析和物联网技术实时监测人群健康状况。",
+      "productDesign": "可开发基于物联网的智能鼠害监测设备，结合邮轮定位系统实现疫情预警。公共卫生SaaS平台可整合多源数据实现传染病早期预测。"
     },
     {
-      "id": "20260510_q004",
-      "title": "今日要闻：AI行业低迷与Babymaking科技",
+      "id": "20260511_q002",
+      "title": "今日要闻：AI行业低迷与babymaking科技",
       "originalTitle": "The Download: AI malaise and babymaking tech",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 08 May 2026 12:10:00 +0000",
-      "crawlDate": "2026-05-10",
+      "crawlDate": "2026-05-11",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -206,13 +160,13 @@
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "AI技术已进入普及化阶段，但社会对其长期影响仍存疑虑。Babymaking tech展示了生物科技与AI结合的新兴领域。",
-      "scenarios": "医疗辅助生殖领域、AI伦理评估系统、生育健康数据分析平台",
-      "techKeywords": "Generative AI：通过深度学习模型生成新内容，在辅助生殖领域可用于模拟胚胎发育。Fertility Tech：结合传感器和算法优化受孕几率，典型应用包括周期预测和个性化建议。",
-      "productDesign": "应重点关注AI+生育健康领域的隐私保护设计，开发可解释性强的辅助决策工具。可探索生成式AI在医疗影像分析中的合规应用场景。"
+      "coreInsight": "AI技术正从爆发期进入常态化阶段，其社会影响力评估成为关键议题。babymaking tech代表生物科技与AI的跨界融合，需关注伦理边界。",
+      "scenarios": "AI企业战略规划、生育科技产品设计、技术社会影响评估",
+      "techKeywords": "AI malaise：指AI技术普及后产生的审美疲劳与社会焦虑，反映技术成熟度曲线的调整期。babymaking tech：结合基因编辑与生育辅助的跨学科技术，需建立严格的伦理审查机制。",
+      "productDesign": "应开发AI影响评估工具包帮助决策者量化技术风险，babymaking领域需构建透明化伦理决策框架。可探索AI+生物科技的合规性SaaS解决方案。"
     }
   ],
-  "total": 9,
+  "total": 7,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
