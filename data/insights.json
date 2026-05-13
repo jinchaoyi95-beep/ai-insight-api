@@ -1,15 +1,84 @@
 {
-  "date": "20260512",
-  "updateTime": "2026-05-12T14:28:56.434Z",
+  "date": "20260513",
+  "updateTime": "2026-05-13T02:11:09.523Z",
   "headlines": [
     {
-      "id": "20260512_001",
-      "title": "2026年初ChatGPT应用如何全面扩展",
+      "id": "20260513_001",
+      "title": "NVIDIA工程师与研究人员如何用Codex构建",
+      "originalTitle": "How NVIDIA engineers and researchers build with Codex",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Tue, 12 May 2026 00:00:00 GMT",
+      "crawlDate": "2026-05-13",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/nvidia"
+      },
+      "tags": [
+        "官方",
+        "科研突破"
+      ],
+      "isHeadline": true,
+      "coreInsight": "NVIDIA工程师通过Codex与GPT-5.5的深度集成，实现了从研究到生产系统的快速转化。这种组合显著提升了代码生成效率，使复杂想法的实验验证周期大幅缩短。",
+      "scenarios": "生产系统快速部署、研究原型快速验证、跨团队协作开发",
+      "techKeywords": "Codex：基于GPT的代码生成模型，可将自然语言指令转换为可执行代码。GPT-5.5：OpenAI最新大语言模型，在代码理解和生成能力上有显著提升。",
+      "productDesign": "产品设计应注重AI开发工具的垂直集成，减少研究到生产的gap。同时需要构建端到端的开发工作流，将代码生成与现有工程实践无缝衔接。"
+    },
+    {
+      "id": "20260513_002",
+      "title": "参数高尔夫对AI辅助研究的启示",
+      "originalTitle": "What Parameter Golf taught us about AI-assisted research",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Tue, 12 May 2026 00:00:00 GMT",
+      "crawlDate": "2026-05-13",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/what-parameter-golf-taught-us"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "通过Parameter Golf活动验证了在严格约束条件下AI辅助研究的可行性，展示了众包模式在机器学习创新中的潜力。该活动证明通过结构化挑战可有效探索模型优化和量化技术边界。",
+      "scenarios": "1、量化模型部署 2、自动化代码生成 3、资源受限环境下的AI研究",
+      "techKeywords": "Quantization：通过降低数值精度减少模型内存占用和计算成本，保持模型性能。Coding Agents：能够理解自然语言需求并生成可用代码的AI系统，可提升开发效率。",
+      "productDesign": "建议开发面向开发者的AI辅助研究平台，内置量化工具链和代码生成模块。可设计成竞赛机制激发社区创新，同时收集高质量优化方案。"
+    },
+    {
+      "id": "20260513_003",
+      "title": "AutoScout24借助AI驱动工作流实现工程团队扩展",
+      "originalTitle": "AutoScout24 scales engineering with AI-powered workflows",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Tue, 12 May 2026 00:00:00 GMT",
+      "crawlDate": "2026-05-13",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/autoscout24"
+      },
+      "tags": [
+        "官方",
+        "开发工具"
+      ],
+      "isHeadline": true,
+      "coreInsight": "AutoScout24通过Codex和ChatGPT实现了开发流程智能化。AI自动补全代码和生成测试用例，提升30%开发效率同时保证代码质量。",
+      "scenarios": "1.自动化代码生成 2.智能代码审查 3.测试用例自动生成",
+      "techKeywords": "Codex：基于GPT-3的代码生成模型，可直接将自然语言转换为可执行代码。 ChatGPT：通用对话AI，可用于技术文档生成和开发问题解答。",
+      "productDesign": "启示1：AI+低代码可打造智能开发中台。机会：将AI代码助手整合进CI/CD流程，建立质量监控闭环。"
+    },
+    {
+      "id": "20260513_004",
+      "title": "2026年初ChatGPT应用如何全面普及",
       "originalTitle": "How ChatGPT adoption broadened in early 2026",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Mon, 11 May 2026 15:00:00 GMT",
-      "crawlDate": "2026-05-12",
+      "crawlDate": "2026-05-13",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -20,113 +89,44 @@
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "ChatGPT在2026年Q1的显著增长表明AI技术已突破早期采用者阶段进入主流市场。该增长尤其体现在35岁以上用户群体和更均衡的性别使用比例上，说明易用性改进和场景适配取得了成效。",
-      "scenarios": "企业知识库智能问答、在线教育个性化辅导、医疗健康咨询辅助决策",
-      "techKeywords": "Transformer architecture：基于自注意力机制的深度学习模型，能并行处理序列数据解决长程依赖问题。Few-shot learning：模型通过少量示例快速适应新任务，显著降低AI应用门槛。",
-      "productDesign": "需重点优化非科技背景用户的使用体验，开发垂直行业模板降低采用门槛。用户画像扩展提示设计应关注35+人群的交互习惯，同时加强隐私保护功能提升女性用户信任度。"
+      "coreInsight": "ChatGPT在2026年初的爆发式增长表明AI技术已突破早期采用者阶段，35岁以上用户群体的快速接纳说明易用性和实用性显著提升。性别使用比例趋于平衡反映产品设计成功降低了技术使用门槛。",
+      "scenarios": "企业自动化报告生成、家庭智能教育助手、医疗问诊预检分诊",
+      "techKeywords": "Transformer architecture：基于自注意力机制的深度学习模型，能并行处理序列数据实现高效语义理解。Few-shot learning：模型通过少量示例快速适应新任务，降低用户教育成本。",
+      "productDesign": "需重点优化非科技人群的onboarding流程，开发垂直行业模板库。机会在于将AI能力封装为可组合的微服务模块，支持企业快速集成。"
     },
     {
-      "id": "20260512_002",
-      "title": "OpenAI校园网络：学生社团兴趣表",
-      "originalTitle": "OpenAI Campus Network: Student club interest form",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Mon, 11 May 2026 10:00:00 GMT",
-      "crawlDate": "2026-05-12",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/openai-campus-network-student-club-interest-form"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "OpenAI通过校园网络连接全球学生社团，提供AI工具和活动支持，旨在构建AI驱动的校园社区。该产品主要利用OpenAI的底层技术赋能学生群体进行创新实践。",
-      "scenarios": "校园AI创新项目孵化、跨校AI技术交流活动、学生AI应用开发协作",
-      "techKeywords": "Campus Network：通过平台化连接全球学生社团，提供标准化的AI工具接口。AI-powered community：利用OpenAI技术栈为校园社区注入智能化能力，如内容生成和分析工具。",
-      "productDesign": "教育场景是AI技术落地的重要切入点，可重点关注学生群体的创新需求。平台化运营模式能快速形成规模效应，建议设计轻量级接入方案。"
-    },
-    {
-      "id": "20260512_003",
-      "title": "企业如何扩展AI应用",
-      "originalTitle": "How enterprises are scaling AI",
+      "id": "20260513_005",
+      "title": "何恺明首个语言模型：105M参数，不走GPT自回归老路",
+      "originalTitle": "何恺明首个语言模型：105M参数，不走GPT自回归老路",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Mon, 11 May 2026 10:00:00 GMT",
-      "crawlDate": "2026-05-12",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai"
-      },
-      "tags": [
-        "官方",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "企业AI应用从初期实验扩展到规模化价值创造，需建立信任机制(trust)、治理框架(governance)并优化工作流设计(workflow design)。关键在于通过标准化流程保证AI输出质量(quality at scale)，实现效益的持续累积(compounding impact)。",
-      "scenarios": "金融风控模型迭代、智能客服系统升级、制造业质检流程优化",
-      "techKeywords": "Trust in AI：通过透明度工具和效果监控建立用户对AI系统的信任。Governance framework：制定数据使用规范、模型审核流程确保AI应用合规性。",
-      "productDesign": "应开发模块化的AI治理工具包降低企业部署门槛，同时设计可视化工作流编辑器帮助非技术人员参与AI应用优化。重点解决从POC到生产环境的技术断层问题。"
-    },
-    {
-      "id": "20260512_004",
-      "title": "OpenAI推出DeployCo助力企业构建智能应用",
-      "originalTitle": "OpenAI launches DeployCo to help businesses build around intelligence",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Mon, 11 May 2026 06:00:00 GMT",
-      "crawlDate": "2026-05-12",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/openai-launches-the-deployment-company"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "OpenAI通过成立DeployCo专门帮助企业将前沿AI技术产品化，解决AI落地最后一公里的问题。该服务聚焦于将AI模型转化为可量化的商业价值，降低企业应用AI的门槛。",
-      "scenarios": "应用场景1：金融行业智能风控系统部署、应用场景2：零售业个性化推荐引擎实施、应用场景3：制造业预测性维护解决方案集成",
-      "techKeywords": "DeployCo：OpenAI新成立的AI部署服务公司，专门负责将AI模型集成到企业现有系统。Frontier AI：指处于技术前沿的AI系统，特点是需要特殊部署方案才能实现商业化落地。",
-      "productDesign": "启示1：AI产品需要专门部署服务团队来确保落地效果。机会：可发展面向垂直行业的AI部署解决方案，填补技术到商业的鸿沟。"
-    },
-    {
-      "id": "20260512_005",
-      "title": "360发布OpenClaw生态安全报告：AI智能体风险进入自动化审计阶段",
-      "originalTitle": "360发布OpenClaw生态安全报告：AI智能体风险进入自动化审计阶段",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Tue, 12 May 2026 09:35:29 +0000",
-      "crawlDate": "2026-05-12",
+      "publishDate": "Wed, 13 May 2026 01:23:32 +0000",
+      "crawlDate": "2026-05-13",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/416582.html"
+        "url": "https://www.qbitai.com/2026/05/416628.html"
       },
       "tags": [
         "媒体",
-        "Agent"
+        "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "360的OpenClaw生态安全报告标志着AI安全进入自动化审计阶段。该系统通过智能体技术自动发现和评估AI系统中的安全漏洞，提升了风险检测效率。",
-      "scenarios": "应用场景1：企业AI系统安全审计。应用场景2：政府关键基础设施AI安全监测。应用场景3：金融行业AI风控系统漏洞检测。",
-      "techKeywords": "OpenClaw：360开发的AI安全生态平台，通过智能体技术实现自动化漏洞扫描。AI智能体(AI Agent)：自主运行的AI程序，能够执行特定安全检测任务并生成报告。",
-      "productDesign": "启示1：将自动化审计能力整合到AI开发流程中可提升产品安全性。启示2：需要建立专门的AI安全监测功能模块。机会：开发针对垂直行业的AI安全解决方案存在市场空白。"
+      "coreInsight": "何恺明团队提出非自回归语言模型，采用并行预测技术突破传统GPT序列生成限制。105M小参数量显示高效架构设计潜力，为轻量化LLM提供新思路。",
+      "scenarios": "边缘设备实时文本生成、低延迟对话系统、资源受限环境的语言理解",
+      "techKeywords": "Non-autoregressive(NAR)：通过并行输出token打破自回归的序列依赖，显著提升推理速度。Parallel Decoding：利用全局上下文同步预测所有token，需配合特殊的训练目标解决预测一致性。",
+      "productDesign": "该架构为移动端AI产品提供新的技术选型，建议探索实时字幕生成等延迟敏感场景。小模型路线启示产品经理关注计算成本与性能的平衡。"
     }
   ],
   "quickBrowse": [
     {
-      "id": "20260512_q001",
+      "id": "20260513_q001",
       "title": "原来Ilya还有70亿美元OpenAI股权",
       "originalTitle": "原来Ilya还有70亿美元OpenAI股权",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Tue, 12 May 2026 13:55:01 +0000",
-      "crawlDate": "2026-05-12",
+      "crawlDate": "2026-05-13",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -137,19 +137,42 @@
         "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "该新闻揭示了OpenAI股权激励机制在吸引顶尖AI人才方面的有效性。通过股权激励保留核心技术人员（如Ilya Sutskever）是AI公司常见策略，同时也反映出AI行业高估值的特点。",
-      "scenarios": "初创公司股权设计、AI人才争夺战、技术公司估值模型",
-      "techKeywords": "Equity Incentive：通过授予公司股权来激励和保留关键员工。Valuation：公司估值反映市场对其未来潜力的预期，OpenAI的高估值源于其领先的AI技术。",
-      "productDesign": "启示1：AI产品需要设计合理的股权激励方案来保持核心技术团队稳定。启示2：高估值AI公司需要持续的技术突破来支撑其商业价值。"
+      "coreInsight": "OpenAI的股权结构揭示了AI行业巨大的财富创造潜力。通过限制性股票单位(RSU)等激励机制，顶级AI人才可获得巨额回报。",
+      "scenarios": "科技公司股权激励设计、AI人才争夺战、初创企业估值模型",
+      "techKeywords": "RSU(Restricted Stock Unit)：限制性股票单位是公司授予员工的股权奖励，在满足条件后可转换为股票。Equity Compensation：股权补偿是企业吸引和留住顶尖人才的重要手段，在科技行业尤为普遍。",
+      "productDesign": "产品设计需考虑长期激励机制，将员工利益与公司发展深度绑定。可探索基于AI产品市场表现的动态股权分配机制。"
     },
     {
-      "id": "20260512_q002",
+      "id": "20260513_q002",
+      "title": "360发布OpenClaw生态安全报告：AI智能体风险进入自动化审计阶段",
+      "originalTitle": "360发布OpenClaw生态安全报告：AI智能体风险进入自动化审计阶段",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Tue, 12 May 2026 09:35:29 +0000",
+      "crawlDate": "2026-05-13",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/05/416582.html"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "360通过OpenClaw实现了对AI智能体安全隐患的自动化识别和审计，这表明AI安全已进入系统化防御阶段。该系统采用动态分析技术实时监测AI模型的行为模式，能够发现传统扫描工具无法检测的新型漏洞。",
+      "scenarios": "1、企业级AI系统安全审计 2、智能家居设备漏洞检测 3、自动驾驶系统的安全验证",
+      "techKeywords": "OpenClaw：基于行为分析的AI安全审计框架，通过监测API调用序列识别异常模式。Automated Auditing：使用机器学习算法自动分析系统日志，比传统规则引擎快10倍识别0day漏洞。",
+      "productDesign": "建议开发可视化漏洞图谱工具帮助客户理解风险链，同时可考虑将审计能力封装成SaaS服务。应重点关注智能体交互过程中的权限边界问题，这是当前AI安全的核心痛点。"
+    },
+    {
+      "id": "20260513_q003",
       "title": "AI第一金主黄仁勋：日均花掉20亿",
       "originalTitle": "AI第一金主黄仁勋：日均花掉20亿",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 12 May 2026 08:03:52 +0000",
-      "crawlDate": "2026-05-12",
+      "crawlDate": "2026-05-13",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -160,19 +183,19 @@
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "该新闻揭示了AI领域头部企业的资本投入强度，日均20亿的投资规模凸显了算力基建和AI研发的重要性。核心原理是通过大规模资本投入加速GPU集群建设，为深度学习训练提供基础设施支持。",
-      "scenarios": "超算中心建设、云端AI训练平台、自动驾驶研发",
-      "techKeywords": "GPU Cluster：通过并行计算架构加速矩阵运算，是深度学习训练的基础设施。Deep Learning Training：利用多层神经网络从海量数据中自动提取特征，需要大规模算力支持。",
-      "productDesign": "PM应重点关注AI基础设施的投资热点，挖掘GPU资源调度和分布式训练的优化机会。同时可探索在自动驾驶、药物研发等重资本领域的AI应用产品化路径。"
+      "coreInsight": "英伟达CEO黄仁勋的巨额投资反映了AI芯片市场的爆发式增长，表明算力已成为AI发展的核心基础设施。这种持续投入验证了GPU在深度学习训练中的不可替代性，同时暗示着AI产业进入军备竞赛阶段。",
+      "scenarios": "高性能计算中心、自动驾驶系统训练、云端AI模型部署",
+      "techKeywords": "GPU：图形处理器通过并行计算架构大幅提升矩阵运算效率，是深度学习训练的核心硬件。Transformer：基于自注意力机制的神经网络架构，通过并行化处理大幅提升自然语言处理性能。",
+      "productDesign": "应重点布局AI基础设施即服务(IaaS)产品，开发针对垂直行业的预训练模型市场。同时需要建立算力资源动态调度系统，优化GPU集群利用率。"
     },
     {
-      "id": "20260512_q003",
+      "id": "20260513_q004",
       "title": "AWS上的基础模型训练与推理构建模块",
       "originalTitle": "Building Blocks for Foundation Model Training and Inference on AWS",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Mon, 11 May 2026 23:18:26 GMT",
-      "crawlDate": "2026-05-12",
+      "crawlDate": "2026-05-13",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -183,19 +206,19 @@
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "AWS提供了基于Hugging Face的基础模型训练与推理构建模块，通过优化计算资源分配和预置模型架构，显著降低了AI开发门槛。该方案支持从模型训练到部署的全流程自动化，特别适合需要快速迭代的企业场景。",
-      "scenarios": "企业级AI模型开发、多模态内容生成、实时推理服务部署",
-      "techKeywords": "Foundation Model：基于海量数据预训练的大规模通用模型，通过迁移学习适配具体任务。Inference Optimization：通过模型量化、缓存机制和自动扩缩容技术，提升推理效率降低延迟。",
-      "productDesign": "建议构建可视化模型调参界面，降低技术团队使用门槛。可探索与垂直行业解决方案的深度集成，形成差异化竞争力。"
+      "coreInsight": "AWS提供基础模型训练与推理的基础构建模块，通过云服务简化大规模AI模型开发流程。这些模块包含数据准备、分布式训练和模型部署等关键环节，帮助开发者快速构建AI应用。",
+      "scenarios": "企业级AI模型开发、科研机构的大规模实验、初创公司的快速产品原型验证",
+      "techKeywords": "Foundation Model：基于海量数据预训练的大型神经网络模型，可通过微调适应多种下游任务。Distributed Training：利用多GPU/TPU并行计算加速模型训练，AWS提供优化的基础设施支持。",
+      "productDesign": "产品设计应考虑模块化服务架构，降低AI开发门槛。同时需要优化成本管理功能，帮助客户控制云资源消耗。"
     },
     {
-      "id": "20260512_q004",
-      "title": "AI驱动的Google Finance新版将扩展至欧洲",
+      "id": "20260513_q005",
+      "title": "AI驱动的Google Finance新功能将扩展至欧洲",
       "originalTitle": "The new AI-powered Google Finance is expanding to Europe.",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Mon, 11 May 2026 06:00:00 +0000",
-      "crawlDate": "2026-05-12",
+      "crawlDate": "2026-05-13",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -206,19 +229,42 @@
         "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "Google Finance通过AI技术实现智能金融数据分析，提供本地语言支持的个性化服务。AI驱动可实现实时市场趋势预测和自动化投资建议。",
-      "scenarios": "个人投资者资产配置、企业财务数据分析、金融教育平台",
-      "techKeywords": "NLP(Natural Language Processing)：通过算法解析金融文本数据，提取关键信息生成报告。Machine Learning：基于历史数据训练模型，预测市场走势并提供投资建议。",
-      "productDesign": "启示1：AI+金融场景需注重数据准确性和本地化适配。机会：可拓展智能投顾、跨境支付等垂直领域，提升用户粘性。"
+      "coreInsight": "Google Finance利用AI技术提供实时金融数据分析，通过NLP处理多语言财经新闻。该功能基于机器学习模型自动生成投资洞察，支持欧洲多国语言本地化。",
+      "scenarios": "个人投资者实时监控股票动态、金融机构自动化生成分析报告、跨国企业进行多语言财经信息整合",
+      "techKeywords": "NLP(Natural Language Processing)：通过深度学习模型理解处理多语言文本数据，实现财经新闻的语义分析。Machine Learning Models：训练金融领域专用模型，从海量数据中识别投资模式和趋势信号。",
+      "productDesign": "启示在于垂直领域AI应用需要专业数据训练，机会在于结合地域特性做本地化适配。PM应重点关注模型准确性与解释性的平衡，同时建立多语言支持体系。"
     },
     {
-      "id": "20260512_q005",
-      "title": "《今日精选》：诺贝尔奖得主谈AI，以及修复一切的案例",
+      "id": "20260513_q006",
+      "title": "世界模型：当前AI领域的10大关键趋势",
+      "originalTitle": "World Models: 10 Things That Matter in AI Right Now",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 12 May 2026 16:22:15 +0000",
+      "crawlDate": "2026-05-13",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "World models通过构建虚拟环境模拟现实世界运行规律，使AI系统能进行预测和推理。这种自监督学习范式让AI在虚拟环境中持续进化，减少对现实数据采集的依赖。",
+      "scenarios": "自动驾驶仿真测试、数字孪生城市建模、游戏NPC行为训练",
+      "techKeywords": "Self-supervised learning：通过系统自动生成监督信号进行训练，无需人工标注数据。Sim2Real：将在虚拟环境训练的模型迁移到现实场景，核心是解决domain gap问题。",
+      "productDesign": "应优先布局仿真训练平台产品，构建可扩展的虚拟环境引擎。需建立评估体系量化world models的预测准确度和泛化能力。"
+    },
+    {
+      "id": "20260513_q007",
+      "title": "《今日下载》：诺贝尔奖得主谈AI，以及修复一切的案例",
       "originalTitle": "The Download: a Nobel winner on AI, and the case for fixing everything",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 12 May 2026 12:10:00 +0000",
-      "crawlDate": "2026-05-12",
+      "crawlDate": "2026-05-13",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -229,19 +275,19 @@
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "诺贝尔经济学奖得主Daron Acemoglu提出AI发展需要关注社会影响与技术伦理，强调技术应服务于人类整体福祉而非仅追求效率。其研究指出AI系统需要设计补偿机制来平衡自动化带来的就业冲击。",
-      "scenarios": "政策制定中的AI影响评估、企业自动化转型中的员工再培训、社会福利系统的算法优化",
-      "techKeywords": "Compensation Mechanisms(补偿机制)：通过算法设计对受自动化影响的群体进行经济补偿。Labor Displacement(劳动力置换)：量化分析AI对不同行业就业岗位的替代速率和模式。",
-      "productDesign": "建议开发AI影响评估工具包帮助政策制定者模拟技术冲击，同时设计自动化转型咨询服务产品。可探索建立算法补偿的区块链验证系统增强透明度。"
+      "coreInsight": "诺贝尔经济学奖得主指出AI发展需要关注社会影响和包容性增长，强调技术应服务于人类整体福祉。他的研究为AI治理提供了经济学视角，建议通过制度设计平衡效率与公平。",
+      "scenarios": "AI政策制定、企业社会责任战略、普惠性技术解决方案开发",
+      "techKeywords": "Inclusive Growth：通过技术普惠性设计确保经济增长成果广泛分配，核心是降低技术应用门槛。AI Governance：建立多利益相关方参与的监管框架，重点解决算法偏见和劳动力替代问题。",
+      "productDesign": "产品设计应内置社会影响评估模块，在技术路线选择时考量包容性指标。可开发AI影响可视化工具帮助决策者理解技术扩散的长期经济效应。"
     },
     {
-      "id": "20260512_q006",
+      "id": "20260513_q008",
       "title": "诺贝尔经济学家眼中的三大AI趋势",
       "originalTitle": "Three things in AI to watch, according to a Nobel-winning economist",
       "category": "application",
       "categoryName": "应用落地",
       "publishDate": "Mon, 11 May 2026 17:35:12 +0000",
-      "crawlDate": "2026-05-12",
+      "crawlDate": "2026-05-13",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -252,36 +298,13 @@
         "应用落地"
       ],
       "isHeadline": false,
-      "coreInsight": "诺贝尔经济学家揭示了AI发展与社会经济间的深刻矛盾，指出当前Big Tech主导的AI发展路径可能加剧不平等。这要求AI产品设计必须平衡技术创新与社会效益。",
-      "scenarios": "劳动力市场重构、公共服务智能化、区域经济再平衡",
-      "techKeywords": "Automation Bias：指过度依赖AI自动化决策的倾向，可能导致系统性错误。Skill-Biased Technical Change：描述技术进步对不同技能劳动者的差异化影响，是收入差距扩大的关键因素。",
-      "productDesign": "产品设计应关注可解释AI和human-in-the-loop机制，开发技能平权工具。需要建立技术红利再分配的产品机制，如收益共享模式。"
-    },
-    {
-      "id": "20260512_q007",
-      "title": "通过客户反向工程推动AI突破性创新",
-      "originalTitle": "Fostering breakthrough AI innovation through customer-back engineering",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Mon, 11 May 2026 13:33:06 +0000",
-      "crawlDate": "2026-05-12",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/"
-      },
-      "tags": [
-        "媒体",
-        "科研突破"
-      ],
-      "isHeadline": false,
-      "coreInsight": "客户反向工程(Customer-back engineering)强调从客户需求出发逆向设计技术方案，比传统技术驱动方式更能创造价值。这种方法通过深度理解用户痛点来指导AI解决方案设计，避免技术与需求脱节。",
-      "scenarios": "企业数字化转型咨询、AI产品需求挖掘、B端解决方案设计",
-      "techKeywords": "Customer-back engineering：从终端用户需求出发逆向推导技术架构的设计方法论。Digital value gap：指企业数字化投入与实际获得价值之间的差距，常由技术方案与业务需求不匹配导致。",
-      "productDesign": "PM应建立系统的客户需求挖掘机制，在AI产品设计前期就嵌入用户旅程分析。可开发需求逆向映射工具，将用户痛点直接转化为技术需求文档。"
+      "coreInsight": "诺贝尔经济学家Daron Acemoglu的研究对硅谷主流AI发展路径提出批判，强调需关注技术的社会分配效应。这揭示了当前AI发展需平衡效率提升与社会公平的核心矛盾。",
+      "scenarios": "公共政策制定中的AI影响评估、企业社会责任(CSR)中的技术伦理审查、劳动力市场转型中的技能再培训",
+      "techKeywords": "Labor-displacing technology：指直接替代人类劳动力的AI技术，其核心矛盾在于短期效率提升与长期就业结构破坏。Skill-biased technical change：技术发展倾向于强化高技能岗位，其原理是AI系统与专业知识的互补性高于基础劳动。",
+      "productDesign": "应开发AI影响评估工具包帮助政策制定者量化技术冲击，设计包含伦理维度的人才匹配算法，在自动化系统中预留人工干预接口。"
     }
   ],
-  "total": 12,
+  "total": 13,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
