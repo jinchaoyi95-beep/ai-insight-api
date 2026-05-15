@@ -1,310 +1,264 @@
 {
-  "date": "20260513",
-  "updateTime": "2026-05-13T02:11:09.523Z",
+  "date": "20260515",
+  "updateTime": "2026-05-15T14:09:30.836Z",
   "headlines": [
     {
-      "id": "20260513_001",
-      "title": "NVIDIA工程师与研究人员如何用Codex构建",
-      "originalTitle": "How NVIDIA engineers and researchers build with Codex",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Tue, 12 May 2026 00:00:00 GMT",
-      "crawlDate": "2026-05-13",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/nvidia"
-      },
-      "tags": [
-        "官方",
-        "科研突破"
-      ],
-      "isHeadline": true,
-      "coreInsight": "NVIDIA工程师通过Codex与GPT-5.5的深度集成，实现了从研究到生产系统的快速转化。这种组合显著提升了代码生成效率，使复杂想法的实验验证周期大幅缩短。",
-      "scenarios": "生产系统快速部署、研究原型快速验证、跨团队协作开发",
-      "techKeywords": "Codex：基于GPT的代码生成模型，可将自然语言指令转换为可执行代码。GPT-5.5：OpenAI最新大语言模型，在代码理解和生成能力上有显著提升。",
-      "productDesign": "产品设计应注重AI开发工具的垂直集成，减少研究到生产的gap。同时需要构建端到端的开发工作流，将代码生成与现有工程实践无缝衔接。"
-    },
-    {
-      "id": "20260513_002",
-      "title": "参数高尔夫对AI辅助研究的启示",
-      "originalTitle": "What Parameter Golf taught us about AI-assisted research",
+      "id": "20260515_001",
+      "title": "Sea展望Codex驱动的Agentic软件开发未来",
+      "originalTitle": "Sea's View on the Future of Agentic Software Development with Codex",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Tue, 12 May 2026 00:00:00 GMT",
-      "crawlDate": "2026-05-13",
+      "publishDate": "Thu, 14 May 2026 20:30:00 GMT",
+      "crawlDate": "2026-05-15",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/what-parameter-golf-taught-us"
+        "url": "https://openai.com/index/sea-david-chen"
       },
       "tags": [
         "官方",
         "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "通过Parameter Golf活动验证了在严格约束条件下AI辅助研究的可行性，展示了众包模式在机器学习创新中的潜力。该活动证明通过结构化挑战可有效探索模型优化和量化技术边界。",
-      "scenarios": "1、量化模型部署 2、自动化代码生成 3、资源受限环境下的AI研究",
-      "techKeywords": "Quantization：通过降低数值精度减少模型内存占用和计算成本，保持模型性能。Coding Agents：能够理解自然语言需求并生成可用代码的AI系统，可提升开发效率。",
-      "productDesign": "建议开发面向开发者的AI辅助研究平台，内置量化工具链和代码生成模块。可设计成竞赛机制激发社区创新，同时收集高质量优化方案。"
+      "coreInsight": "核心洞察：Sea Limited通过部署Codex实现AI原生软件开发加速，Codex作为生成式AI模型能理解自然语言并生成代码。这标志着Agentic开发模式的兴起，即AI代理能自主完成部分开发任务。",
+      "scenarios": "应用场景1：自动化代码生成与补全、应用场景2：跨语言代码翻译、应用场景3：技术文档智能生成",
+      "techKeywords": "Codex：基于GPT-3的衍生模型，专门针对编程语言训练，能将自然语言描述转化为可执行代码。Agentic Development：新型软件开发范式，AI代理具备自主决策能力，可独立完成特定开发流程。",
+      "productDesign": "产品启示：需构建自然语言到代码的交互层，降低开发门槛。机会点：可开发垂直领域专用代码生成器，并与现有IDE深度集成。"
     },
     {
-      "id": "20260513_003",
-      "title": "AutoScout24借助AI驱动工作流实现工程团队扩展",
-      "originalTitle": "AutoScout24 scales engineering with AI-powered workflows",
+      "id": "20260515_002",
+      "title": "随时随地使用Codex",
+      "originalTitle": "Work with Codex from anywhere",
       "category": "devtool",
       "categoryName": "开发工具",
-      "publishDate": "Tue, 12 May 2026 00:00:00 GMT",
-      "crawlDate": "2026-05-13",
+      "publishDate": "Thu, 14 May 2026 13:00:00 GMT",
+      "crawlDate": "2026-05-15",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/autoscout24"
+        "url": "https://openai.com/index/work-with-codex-from-anywhere"
       },
       "tags": [
         "官方",
         "开发工具"
       ],
       "isHeadline": true,
-      "coreInsight": "AutoScout24通过Codex和ChatGPT实现了开发流程智能化。AI自动补全代码和生成测试用例，提升30%开发效率同时保证代码质量。",
-      "scenarios": "1.自动化代码生成 2.智能代码审查 3.测试用例自动生成",
-      "techKeywords": "Codex：基于GPT-3的代码生成模型，可直接将自然语言转换为可执行代码。 ChatGPT：通用对话AI，可用于技术文档生成和开发问题解答。",
-      "productDesign": "启示1：AI+低代码可打造智能开发中台。机会：将AI代码助手整合进CI/CD流程，建立质量监控闭环。"
+      "coreInsight": "核心原理是将Codex代码生成能力整合到ChatGPT移动端，实现跨设备实时编程协作。用户可随时随地监控、引导和审批AI生成的代码，提升开发效率。",
+      "scenarios": "应用场景1：远程团队实时协作编程。应用场景2：移动场景下的紧急代码调试。应用场景3：教育场景中的编程教学辅助。",
+      "techKeywords": "Codex：基于GPT-3的AI代码生成系统，能将自然语言指令转化为多种编程语言代码。Real-time collaboration：通过云端同步技术，实现多终端实时编程协作和数据同步。",
+      "productDesign": "产品启示：移动端AI编程工具需强化场景化交互设计，解决小屏幕操作痛点。机会点：可结合AR技术实现空间编程交互，拓展移动开发新范式。"
     },
     {
-      "id": "20260513_004",
-      "title": "2026年初ChatGPT应用如何全面普及",
-      "originalTitle": "How ChatGPT adoption broadened in early 2026",
+      "id": "20260515_003",
+      "title": "帮助ChatGPT在敏感对话中更准确识别上下文",
+      "originalTitle": "Helping ChatGPT better recognize context in sensitive conversations",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Mon, 11 May 2026 15:00:00 GMT",
-      "crawlDate": "2026-05-13",
+      "publishDate": "Thu, 14 May 2026 00:00:00 GMT",
+      "crawlDate": "2026-05-15",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/signals/research/2026q1-update"
+        "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations"
       },
       "tags": [
         "官方",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "ChatGPT在2026年初的爆发式增长表明AI技术已突破早期采用者阶段，35岁以上用户群体的快速接纳说明易用性和实用性显著提升。性别使用比例趋于平衡反映产品设计成功降低了技术使用门槛。",
-      "scenarios": "企业自动化报告生成、家庭智能教育助手、医疗问诊预检分诊",
-      "techKeywords": "Transformer architecture：基于自注意力机制的深度学习模型，能并行处理序列数据实现高效语义理解。Few-shot learning：模型通过少量示例快速适应新任务，降低用户教育成本。",
-      "productDesign": "需重点优化非科技人群的onboarding流程，开发垂直行业模板库。机会在于将AI能力封装为可组合的微服务模块，支持企业快速集成。"
+      "coreInsight": "通过时间序列分析提升上下文敏感度，新安全机制能动态追踪对话中的风险信号。采用渐进式风险评估模型，使AI在持续对话中逐步调整响应策略。",
+      "scenarios": "心理咨询中的危机干预、医疗咨询中的敏感话题处理、法律咨询中的风险评估",
+      "techKeywords": "Contextual Risk Detection：通过对话历史分析建立风险评分模型，随时间推移动态更新风险等级。Temporal Attention Mechanism：利用时间注意力机制捕捉长期对话依赖关系，识别潜在敏感模式。",
+      "productDesign": "需设计渐进式风险预警系统，在用户体验与安全间取得平衡。可开发领域专用的敏感词动态学习模块，提升垂直场景适应力。"
     },
     {
-      "id": "20260513_005",
-      "title": "何恺明首个语言模型：105M参数，不走GPT自回归老路",
-      "originalTitle": "何恺明首个语言模型：105M参数，不走GPT自回归老路",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 13 May 2026 01:23:32 +0000",
-      "crawlDate": "2026-05-13",
+      "id": "20260515_004",
+      "title": "为Windows构建安全高效的Codex沙盒环境",
+      "originalTitle": "Building a safe, effective sandbox to enable Codex on Windows",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Wed, 13 May 2026 11:00:00 GMT",
+      "crawlDate": "2026-05-15",
       "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/416628.html"
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/building-codex-windows-sandbox"
       },
       "tags": [
-        "媒体",
-        "大语言模型"
+        "官方",
+        "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "何恺明团队提出非自回归语言模型，采用并行预测技术突破传统GPT序列生成限制。105M小参数量显示高效架构设计潜力，为轻量化LLM提供新思路。",
-      "scenarios": "边缘设备实时文本生成、低延迟对话系统、资源受限环境的语言理解",
-      "techKeywords": "Non-autoregressive(NAR)：通过并行输出token打破自回归的序列依赖，显著提升推理速度。Parallel Decoding：利用全局上下文同步预测所有token，需配合特殊的训练目标解决预测一致性。",
-      "productDesign": "该架构为移动端AI产品提供新的技术选型，建议探索实时字幕生成等延迟敏感场景。小模型路线启示产品经理关注计算成本与性能的平衡。"
+      "coreInsight": "OpenAI通过构建Windows沙盒环境解决Codex的安全部署问题，采用文件访问控制和网络限制确保AI编码代理的安全性。该方案既保持了Codex的编程效率，又通过沙盒隔离规避了潜在风险。",
+      "scenarios": "企业级AI编程辅助、教育领域的代码教学系统、自动化代码审查工具",
+      "techKeywords": "Sandbox：隔离执行环境技术，通过资源限制和权限控制确保程序安全运行。Codex：基于GPT-3的AI编程系统，能够理解自然语言并生成对应代码。",
+      "productDesign": "启示在于AI产品需平衡功能与安全性，可探索沙盒模式在企业软件中的应用机会。建议开发可配置的访问控制模块以适应不同安全级别需求。"
+    },
+    {
+      "id": "20260515_005",
+      "title": "我们对TanStack npm供应链攻击的回应",
+      "originalTitle": "Our response to the TanStack npm supply chain attack",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 13 May 2026 00:00:00 GMT",
+      "crawlDate": "2026-05-15",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "本次事件揭示了npm供应链攻击的风险，攻击者通过依赖包注入恶意代码。OpenAI通过加强系统签名证书保护和强制更新机制来应对，展示了AI基础设施安全防护的重要性。",
+      "scenarios": "应用场景1：企业级AI系统安全防护。应用场景2：开源软件供应链安全管理。应用场景3：跨平台应用强制更新机制。",
+      "techKeywords": "supply chain attack：攻击者通过软件依赖关系注入恶意代码，利用信任链传播危害。code signing：使用数字证书验证软件来源和完整性，防止篡改和伪造。",
+      "productDesign": "产品需内置自动安全审计机制，关键更新应采用强制推送策略。可探索区块链技术实现更透明的依赖关系验证。"
     }
   ],
   "quickBrowse": [
     {
-      "id": "20260513_q001",
-      "title": "原来Ilya还有70亿美元OpenAI股权",
-      "originalTitle": "原来Ilya还有70亿美元OpenAI股权",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 12 May 2026 13:55:01 +0000",
-      "crawlDate": "2026-05-13",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/416597.html"
-      },
-      "tags": [
-        "媒体",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "OpenAI的股权结构揭示了AI行业巨大的财富创造潜力。通过限制性股票单位(RSU)等激励机制，顶级AI人才可获得巨额回报。",
-      "scenarios": "科技公司股权激励设计、AI人才争夺战、初创企业估值模型",
-      "techKeywords": "RSU(Restricted Stock Unit)：限制性股票单位是公司授予员工的股权奖励，在满足条件后可转换为股票。Equity Compensation：股权补偿是企业吸引和留住顶尖人才的重要手段，在科技行业尤为普遍。",
-      "productDesign": "产品设计需考虑长期激励机制，将员工利益与公司发展深度绑定。可探索基于AI产品市场表现的动态股权分配机制。"
-    },
-    {
-      "id": "20260513_q002",
-      "title": "360发布OpenClaw生态安全报告：AI智能体风险进入自动化审计阶段",
-      "originalTitle": "360发布OpenClaw生态安全报告：AI智能体风险进入自动化审计阶段",
+      "id": "20260515_q001",
+      "title": "华为云创想者大会主题论坛议程公布：释放Agentic AI新布局",
+      "originalTitle": "华为云创想者大会主题论坛议程公布：释放Agentic AI新布局",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Tue, 12 May 2026 09:35:29 +0000",
-      "crawlDate": "2026-05-13",
+      "publishDate": "Fri, 15 May 2026 10:14:54 +0000",
+      "crawlDate": "2026-05-15",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/416582.html"
+        "url": "https://www.qbitai.com/2026/05/418135.html"
       },
       "tags": [
         "媒体",
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "360通过OpenClaw实现了对AI智能体安全隐患的自动化识别和审计，这表明AI安全已进入系统化防御阶段。该系统采用动态分析技术实时监测AI模型的行为模式，能够发现传统扫描工具无法检测的新型漏洞。",
-      "scenarios": "1、企业级AI系统安全审计 2、智能家居设备漏洞检测 3、自动驾驶系统的安全验证",
-      "techKeywords": "OpenClaw：基于行为分析的AI安全审计框架，通过监测API调用序列识别异常模式。Automated Auditing：使用机器学习算法自动分析系统日志，比传统规则引擎快10倍识别0day漏洞。",
-      "productDesign": "建议开发可视化漏洞图谱工具帮助客户理解风险链，同时可考虑将审计能力封装成SaaS服务。应重点关注智能体交互过程中的权限边界问题，这是当前AI安全的核心痛点。"
+      "coreInsight": "华为云通过Agentic AI技术构建具备自主决策能力的AI系统，该技术使AI能够根据环境变化自主规划行动路径。这种架构将强化学习与知识图谱相结合，实现动态任务分解和资源分配。",
+      "scenarios": "智能制造中的动态排产优化、金融领域的实时风控决策、智慧城市的交通流自主调度",
+      "techKeywords": "Agentic AI：通过目标导向的自主行为框架，使AI系统具备环境感知和策略生成能力。Multi-agent Systems：分布式智能体通过协作博弈实现复杂系统优化，采用契约网络协议进行任务协调。",
+      "productDesign": "建议设计可解释的Agent决策看板功能，满足企业级用户对AI决策透明度的需求。可构建低代码Agent编排工具，降低业务专家使用门槛。"
     },
     {
-      "id": "20260513_q003",
-      "title": "AI第一金主黄仁勋：日均花掉20亿",
-      "originalTitle": "AI第一金主黄仁勋：日均花掉20亿",
+      "id": "20260515_q002",
+      "title": "Need is all you need：AI接手Coding后，程序员最值钱的能力只剩这一项?",
+      "originalTitle": "Need is all you need：AI接手Coding后，程序员最值钱的能力只剩这一项?",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Tue, 12 May 2026 08:03:52 +0000",
-      "crawlDate": "2026-05-13",
+      "publishDate": "Fri, 15 May 2026 09:55:56 +0000",
+      "crawlDate": "2026-05-15",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/416540.html"
+        "url": "https://www.qbitai.com/2026/05/418035.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "英伟达CEO黄仁勋的巨额投资反映了AI芯片市场的爆发式增长，表明算力已成为AI发展的核心基础设施。这种持续投入验证了GPU在深度学习训练中的不可替代性，同时暗示着AI产业进入军备竞赛阶段。",
-      "scenarios": "高性能计算中心、自动驾驶系统训练、云端AI模型部署",
-      "techKeywords": "GPU：图形处理器通过并行计算架构大幅提升矩阵运算效率，是深度学习训练的核心硬件。Transformer：基于自注意力机制的神经网络架构，通过并行化处理大幅提升自然语言处理性能。",
-      "productDesign": "应重点布局AI基础设施即服务(IaaS)产品，开发针对垂直行业的预训练模型市场。同时需要建立算力资源动态调度系统，优化GPU集群利用率。"
+      "coreInsight": "核心洞察：Need is all you need揭示了AI编程工具正在将需求分析能力变成程序员的核心竞争力。Qoder等工具通过自然语言理解实现代码生成，使表达需求的能力比编码能力更重要。",
+      "scenarios": "应用场景1：快速原型开发。应用场景2：非技术人员的编程需求。应用场景3：教学场景中的编程概念验证。",
+      "techKeywords": "Natural Language Processing(NLP)：将人类语言转换为机器可执行指令的核心技术。Code Generation：基于AI模型自动生成符合需求的代码实现。",
+      "productDesign": "产品启示：应重点优化需求-代码的转换准确率。机会点：可开发需求描述模板库和即时反馈系统，降低用户表达门槛。"
     },
     {
-      "id": "20260513_q004",
-      "title": "AWS上的基础模型训练与推理构建模块",
-      "originalTitle": "Building Blocks for Foundation Model Training and Inference on AWS",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Mon, 11 May 2026 23:18:26 GMT",
-      "crawlDate": "2026-05-13",
+      "id": "20260515_q003",
+      "title": "容联云发布“数字员工”级 Al Agent 平台，重塑大模型联络中心",
+      "originalTitle": "容联云发布“数字员工”级 Al Agent 平台，重塑大模型联络中心",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Fri, 15 May 2026 08:18:22 +0000",
+      "crawlDate": "2026-05-15",
       "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/05/418140.html"
       },
       "tags": [
-        "官方",
-        "大语言模型"
+        "媒体",
+        "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "AWS提供基础模型训练与推理的基础构建模块，通过云服务简化大规模AI模型开发流程。这些模块包含数据准备、分布式训练和模型部署等关键环节，帮助开发者快速构建AI应用。",
-      "scenarios": "企业级AI模型开发、科研机构的大规模实验、初创公司的快速产品原型验证",
-      "techKeywords": "Foundation Model：基于海量数据预训练的大型神经网络模型，可通过微调适应多种下游任务。Distributed Training：利用多GPU/TPU并行计算加速模型训练，AWS提供优化的基础设施支持。",
-      "productDesign": "产品设计应考虑模块化服务架构，降低AI开发门槛。同时需要优化成本管理功能，帮助客户控制云资源消耗。"
+      "coreInsight": "该平台采用AI Agent技术实现智能对话和任务处理，通过大模型提升联络中心的自动化水平。数字员工能理解复杂意图并自主完成工单流转、知识查询等高阶任务。",
+      "scenarios": "金融行业智能客服、电商售后自动化处理、政务热线智能应答",
+      "techKeywords": "AI Agent：基于LLM的自主决策系统，可记忆对话上下文并调用工具链。Digital Employee：具备岗位技能画像的虚拟劳动力，通过RPA+AI实现业务流程自动化。",
+      "productDesign": "启示在于将大模型能力与垂直场景深度结合，需构建领域知识库和业务流程引擎。机会在于开发可配置的Agent技能市场，支持企业快速部署数字员工。"
     },
     {
-      "id": "20260513_q005",
-      "title": "AI驱动的Google Finance新功能将扩展至欧洲",
-      "originalTitle": "The new AI-powered Google Finance is expanding to Europe.",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Mon, 11 May 2026 06:00:00 +0000",
-      "crawlDate": "2026-05-13",
+      "id": "20260515_q004",
+      "title": "手机的智能体AI，正在因为天玑全面跃升",
+      "originalTitle": "手机的智能体AI，正在因为天玑全面跃升",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Fri, 15 May 2026 07:36:18 +0000",
+      "crawlDate": "2026-05-15",
       "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/05/417968.html"
       },
       "tags": [
-        "官方",
-        "企业动态"
+        "媒体",
+        "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "Google Finance利用AI技术提供实时金融数据分析，通过NLP处理多语言财经新闻。该功能基于机器学习模型自动生成投资洞察，支持欧洲多国语言本地化。",
-      "scenarios": "个人投资者实时监控股票动态、金融机构自动化生成分析报告、跨国企业进行多语言财经信息整合",
-      "techKeywords": "NLP(Natural Language Processing)：通过深度学习模型理解处理多语言文本数据，实现财经新闻的语义分析。Machine Learning Models：训练金融领域专用模型，从海量数据中识别投资模式和趋势信号。",
-      "productDesign": "启示在于垂直领域AI应用需要专业数据训练，机会在于结合地域特性做本地化适配。PM应重点关注模型准确性与解释性的平衡，同时建立多语言支持体系。"
+      "coreInsight": "联发科天玑芯片通过底层硬件升级和AI计算架构优化，为移动端智能体提供全栈支持。该方案实现了从芯片层到应用层的垂直整合，大幅提升了端侧AI任务的执行效率和响应速度。",
+      "scenarios": "实时AR场景渲染、设备端个性化推荐系统、低功耗语音助手常驻运行",
+      "techKeywords": "APU(AI Processing Unit)：专用于神经网络计算的处理器单元，通过异构计算架构提升能效比。NeuroPilot：联发科AI开发平台，提供跨框架的模型优化和部署工具链。",
+      "productDesign": "移动端PM应重点关注芯片级AI能力释放的新交互形态，同时需平衡算力需求与功耗表现。建议探索端云协同的混合智能架构设计机会。"
     },
     {
-      "id": "20260513_q006",
-      "title": "世界模型：当前AI领域的10大关键趋势",
-      "originalTitle": "World Models: 10 Things That Matter in AI Right Now",
+      "id": "20260515_q005",
+      "title": "今日要闻：中国的AI戏剧工厂与WHO未达成的健康目标",
+      "originalTitle": "The Download: China’s AI drama factory and the WHO’s missing health targets",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Tue, 12 May 2026 16:22:15 +0000",
-      "crawlDate": "2026-05-13",
+      "publishDate": "Fri, 15 May 2026 12:10:00 +0000",
+      "crawlDate": "2026-05-15",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/05/12/1137134/world-models-10-things-that-matter-in-ai-right-now/"
+        "url": "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "World models通过构建虚拟环境模拟现实世界运行规律，使AI系统能进行预测和推理。这种自监督学习范式让AI在虚拟环境中持续进化，减少对现实数据采集的依赖。",
-      "scenarios": "自动驾驶仿真测试、数字孪生城市建模、游戏NPC行为训练",
-      "techKeywords": "Self-supervised learning：通过系统自动生成监督信号进行训练，无需人工标注数据。Sim2Real：将在虚拟环境训练的模型迁移到现实场景，核心是解决domain gap问题。",
-      "productDesign": "应优先布局仿真训练平台产品，构建可扩展的虚拟环境引擎。需建立评估体系量化world models的预测准确度和泛化能力。"
+      "coreInsight": "中国的AI短剧工厂利用AI技术快速生成剧情内容，通过算法优化实现高度定制化生产。WHO未达成的健康目标显示医疗AI在公共卫生领域的应用仍需突破。",
+      "scenarios": "短视频平台的内容生成、个性化剧情推荐系统、公共卫生数据分析与预测",
+      "techKeywords": "Generative AI：利用深度学习模型自动生成符合特定风格的内容。Content Recommendation Algorithm：通过用户行为数据分析实现个性化内容分发。",
+      "productDesign": "可开发AI辅助剧本创作工具提升短剧生产效率，构建医疗AI平台辅助公共卫生决策。需要平衡内容质量与量产速度的矛盾。"
     },
     {
-      "id": "20260513_q007",
-      "title": "《今日下载》：诺贝尔奖得主谈AI，以及修复一切的案例",
-      "originalTitle": "The Download: a Nobel winner on AI, and the case for fixing everything",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 12 May 2026 12:10:00 +0000",
-      "crawlDate": "2026-05-13",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/05/12/1137103/the-download-nobel-winner-ai-maintenance-of-everything/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "诺贝尔经济学奖得主指出AI发展需要关注社会影响和包容性增长，强调技术应服务于人类整体福祉。他的研究为AI治理提供了经济学视角，建议通过制度设计平衡效率与公平。",
-      "scenarios": "AI政策制定、企业社会责任战略、普惠性技术解决方案开发",
-      "techKeywords": "Inclusive Growth：通过技术普惠性设计确保经济增长成果广泛分配，核心是降低技术应用门槛。AI Governance：建立多利益相关方参与的监管框架，重点解决算法偏见和劳动力替代问题。",
-      "productDesign": "产品设计应内置社会影响评估模块，在技术路线选择时考量包容性指标。可开发AI影响可视化工具帮助决策者理解技术扩散的长期经济效应。"
-    },
-    {
-      "id": "20260513_q008",
-      "title": "诺贝尔经济学家眼中的三大AI趋势",
-      "originalTitle": "Three things in AI to watch, according to a Nobel-winning economist",
+      "id": "20260515_q006",
+      "title": "中国短剧如何成为AI内容机器",
+      "originalTitle": "How Chinese short dramas became AI content machines",
       "category": "application",
       "categoryName": "应用落地",
-      "publishDate": "Mon, 11 May 2026 17:35:12 +0000",
-      "crawlDate": "2026-05-13",
+      "publishDate": "Fri, 15 May 2026 09:00:00 +0000",
+      "crawlDate": "2026-05-15",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/"
+        "url": "https://www.technologyreview.com/2026/05/15/1137326/chinese-short-dramas-ai/"
       },
       "tags": [
         "媒体",
         "应用落地"
       ],
       "isHeadline": false,
-      "coreInsight": "诺贝尔经济学家Daron Acemoglu的研究对硅谷主流AI发展路径提出批判，强调需关注技术的社会分配效应。这揭示了当前AI发展需平衡效率提升与社会公平的核心矛盾。",
-      "scenarios": "公共政策制定中的AI影响评估、企业社会责任(CSR)中的技术伦理审查、劳动力市场转型中的技能再培训",
-      "techKeywords": "Labor-displacing technology：指直接替代人类劳动力的AI技术，其核心矛盾在于短期效率提升与长期就业结构破坏。Skill-biased technical change：技术发展倾向于强化高技能岗位，其原理是AI系统与专业知识的互补性高于基础劳动。",
-      "productDesign": "应开发AI影响评估工具包帮助政策制定者量化技术冲击，设计包含伦理维度的人才匹配算法，在自动化系统中预留人工干预接口。"
+      "coreInsight": "中国短剧通过AI生成内容实现快速量产，结合算法优化剧情和视觉特效。利用Generative AI自动生成高冲突剧情模板+动态分镜，极大降低制作成本。",
+      "scenarios": "短视频平台个性化推荐、互动式剧情分支生成、广告植入内容自动化生产",
+      "techKeywords": "Generative AI：通过深度学习模型自动生成剧本和分镜，核心是CLIP+GPT的多模态联合训练。 Neural Rendering：实时生成影视级特效，本质是3D神经场结合物理引擎的动态渲染。",
+      "productDesign": "PM应关注AI内容生成与人工审校的平衡点设计，建立剧情冲突度量化评估体系。机会在于开发垂直领域短剧生成SaaS工具。"
     }
   ],
-  "total": 13,
+  "total": 11,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
