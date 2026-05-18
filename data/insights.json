@@ -1,224 +1,107 @@
 {
-  "date": "20260516",
-  "updateTime": "2026-05-16T02:03:08.480Z",
+  "date": "20260518",
+  "updateTime": "2026-05-18T02:28:36.593Z",
   "headlines": [
     {
-      "id": "20260516_001",
-      "title": "ChatGPT推出全新个人理财体验",
-      "originalTitle": "A new personal finance experience in ChatGPT",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 15 May 2026 00:00:00 GMT",
-      "crawlDate": "2026-05-16",
+      "id": "20260518_001",
+      "title": "OpenAI与马耳他合作，为全体公民提供ChatGPT Plus",
+      "originalTitle": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Sat, 16 May 2026 00:00:00 GMT",
+      "crawlDate": "2026-05-18",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/personal-finance-chatgpt"
+        "url": "https://openai.com/index/malta-chatgpt-plus-partnership"
       },
       "tags": [
         "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "OpenAI通过与马耳他政府合作，将ChatGPT Plus普及化，展示了大模型落地的政企合作模式。该合作包含AI技能培训，体现了负责任的AI部署策略。",
+      "scenarios": "政府数字化服务、全民AI素养教育、公共部门智能客服",
+      "techKeywords": "ChatGPT Plus：基于GPT-4的订阅服务，提供更快的响应速度和优先访问新功能。Responsible AI：通过培训和规范确保AI使用符合伦理要求，包含内容过滤和使用监控。",
+      "productDesign": "该案例验证了B2G模式在AI商业化中的可行性，建议探索更多政府场景的定制化方案。产品设计需考虑全民适用性，如多语言支持和简化交互流程。"
+    },
+    {
+      "id": "20260518_002",
+      "title": "Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI",
+      "originalTitle": "Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Sun, 17 May 2026 08:55:21 +0000",
+      "crawlDate": "2026-05-18",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/05/418836.html"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "本次峰会聚焦AI Agent、多模态等前沿技术，展示了如何通过算力支撑实现智能体自主决策和多模态数据融合。这些技术正在推动AI从单一任务处理向复杂场景理解演进。",
+      "scenarios": "智能客服场景、自动驾驶感知场景、跨模态内容生成场景",
+      "techKeywords": "Agent：通过强化学习和环境交互实现自主决策的AI实体。多模态：整合视觉、语音等多维度数据实现更全面的环境理解。",
+      "productDesign": "应重点关注Agent技术的可解释性和多模态接口设计，同时考虑边缘计算场景下的算力优化方案。可探索Agent+多模态在智能家居等垂直领域的组合应用。"
+    },
+    {
+      "id": "20260518_003",
+      "title": "SFT别急着接RL！你的多模态大模型可能一直在“带伤训练”",
+      "originalTitle": "SFT别急着接RL！你的多模态大模型可能一直在“带伤训练”",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Sun, 17 May 2026 03:42:11 +0000",
+      "crawlDate": "2026-05-18",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/05/418814.html"
+      },
+      "tags": [
+        "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "ChatGPT通过安全连接用户银行账户实现个性化理财服务，利用LLM(Large Language Model)分析用户财务数据并提供实时建议。该系统采用银行级加密保护用户隐私，并通过自然语言交互降低理财门槛。",
-      "scenarios": "月度预算规划、投资组合优化建议、债务偿还策略制定",
-      "techKeywords": "Open Banking API：通过标准化接口安全获取用户财务数据，支持跨机构数据整合。Differential Privacy：在数据分析过程中添加可控噪声，确保用户敏感信息不被反向推导。",
-      "productDesign": "启示1：金融场景需严格遵循SOC2等安全标准。机会：可扩展至税务优化等垂直领域，结合GPTs构建专属财务助手。"
+      "coreInsight": "核心洞察：文章指出多模态大模型在SFT(监督微调)阶段存在的潜在问题可能影响后续RL(强化学习)效果。技术原理是模型在前期训练中形成的偏差会随着训练阶段推进被放大，正确做法是先充分优化SFT阶段的模型质量。",
+      "scenarios": "应用场景1：多模态大模型预训练。应用场景2：AIGC内容生成。应用场景3：跨模态理解任务。",
+      "techKeywords": "SFT(Supervised Fine-Tuning)：通过标注数据对预训练模型进行有监督微调，是模型适应下游任务的关键阶段。RL(Reinforcement Learning)：通过奖励机制优化模型输出，但依赖前期SFT阶段建立的稳定基础。",
+      "productDesign": "产品启示：1) 需要建立更完善的SFT阶段评估体系 2) 可开发针对SFT问题的诊断工具 3) 设计分阶段训练的质量控制方案。"
     },
     {
-      "id": "20260516_002",
-      "title": "Databricks将GPT-5.5引入企业级Agent工作流",
-      "originalTitle": "Databricks brings GPT-5.5 to enterprise agent workflows",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Fri, 15 May 2026 00:00:00 GMT",
-      "crawlDate": "2026-05-16",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/databricks"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Databricks将GPT-5.5集成到企业Agent工作流中，该模型在OfficeQA Pro基准测试中创造了新记录。这标志着大模型从通用能力向垂直领域工作流落地的关键一步。",
-      "scenarios": "企业级智能客服自动化、跨部门文档智能处理、数据驱动型决策支持系统",
-      "techKeywords": "GPT-5.5：基于Transformer架构的生成式预训练模型，通过MoE架构实现任务专用化微调。Enterprise Agent：企业级智能代理系统，通过API串联LLM与企业现有工作流。",
-      "productDesign": "启示在于垂直领域需要专门的模型微调方案，机会在于构建企业Agent的中间件层。需要关注模型与企业系统的无缝集成和权限管控设计。"
-    },
-    {
-      "id": "20260516_003",
-      "title": "Sea展望Codex驱动的Agentic软件开发未来",
-      "originalTitle": "Sea's View on the Future of Agentic Software Development with Codex",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 14 May 2026 20:30:00 GMT",
-      "crawlDate": "2026-05-16",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/sea-david-chen"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Sea Limited正在通过部署Codex加速AI原生软件开发，这展示了大型语言模型如何提升开发效率。Codex通过自然语言理解自动生成代码，使得工程师可以更专注于高阶设计而非低阶实现。",
-      "scenarios": "1) 自动化代码生成，2) 快速原型开发，3) 跨语言代码转换",
-      "techKeywords": "Codex：基于GPT-3的代码生成模型，能将自然语言描述转换为多种编程语言的代码。Agentic Software Development：指能自主完成软件开发任务的智能代理系统，通过AI降低人工干预需求。",
-      "productDesign": "产品经理应关注如何将AI代码生成深度集成到开发流程中，同时需要设计新的交互方式让非技术人员也能参与软件开发。这为低代码/无代码平台提供了新的可能性。"
-    },
-    {
-      "id": "20260516_004",
-      "title": "随时随地使用Codex",
-      "originalTitle": "Work with Codex from anywhere",
+      "id": "20260518_004",
+      "title": "LLM架构新进展：KV共享、mHC与压缩注意力技术",
+      "originalTitle": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
       "category": "devtool",
       "categoryName": "开发工具",
-      "publishDate": "Thu, 14 May 2026 13:00:00 GMT",
-      "crawlDate": "2026-05-16",
+      "publishDate": "Sat, 16 May 2026 11:33:51 GMT",
+      "crawlDate": "2026-05-18",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/work-with-codex-from-anywhere"
+        "name": "Sebastian Raschka",
+        "type": "专家",
+        "url": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures"
       },
       "tags": [
-        "官方",
+        "专家",
         "开发工具"
       ],
       "isHeadline": true,
-      "coreInsight": "核心洞察：通过ChatGPT移动端集成Codex，实现了跨设备实时编程协作。技术原理是基于云端的AI模型同步，让开发者可以随时随地获取编程建议和代码生成能力。",
-      "scenarios": "应用场景1：移动端快速原型开发。应用场景2：远程团队实时代码评审。应用场景3：跨设备持续编程工作流。",
-      "techKeywords": "Codex：基于GPT-3的AI编程助手，能理解自然语言并生成代码。ChatGPT mobile app：提供跨平台接口调用AI服务，保持开发环境一致性。",
-      "productDesign": "产品启示：移动化开发工具是未来趋势，需优化小屏交互体验。机会点在于构建端到端的移动开发沙盒环境，整合代码执行和调试能力。"
+      "coreInsight": "KV共享技术通过让多个注意力头共享键值对来减少内存占用，mHC（multi-Head Context）优化了长上下文处理效率，压缩注意力则通过稀疏化计算降低显存需求。这些技术共同解决了LLM处理长文本时的高成本问题。",
+      "scenarios": "长文档摘要、代码补全、多轮对话系统",
+      "techKeywords": "KV Sharing：通过共享键值矩阵减少内存占用，适用于需要保留长上下文信息的场景。mHC：改进多头注意力机制，通过分层处理提升长序列建模效率。Compressed Attention：采用近似计算减少注意力矩阵规模，显著降低计算开销。",
+      "productDesign": "可设计支持超长文本输入的文档分析工具，开发持续学习型对话机器人，探索在低显存设备部署LLM的可能性。这些技术突破为开发高性价比的大模型产品提供了新思路。"
     },
     {
-      "id": "20260516_005",
-      "title": "助力ChatGPT更精准识别敏感对话中的上下文",
-      "originalTitle": "Helping ChatGPT better recognize context in sensitive conversations",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 14 May 2026 00:00:00 GMT",
-      "crawlDate": "2026-05-16",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations"
-      },
-      "tags": [
-        "官方",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "通过时序上下文理解技术，ChatGPT能更准确地识别敏感对话中的风险演变。该技术使模型不仅能分析单次对话，还能追踪长期互动中的潜在风险模式。",
-      "scenarios": "心理咨询中的危机干预、金融客服中的欺诈识别、教育场景中的欺凌监测",
-      "techKeywords": "Contextual Awareness：通过注意力机制分析多轮对话的语义关联。Temporal Risk Modeling：基于时间序列建模识别风险累积模式。",
-      "productDesign": "需建立对话风险评估的量化指标体系，同时设计渐进式干预策略。可开发面向特定行业的敏感对话增强模块作为增值服务。"
-    }
-  ],
-  "quickBrowse": [
-    {
-      "id": "20260516_q001",
-      "title": "华为云创想者大会主题论坛议程公布：释放Agentic AI新布局",
-      "originalTitle": "华为云创想者大会主题论坛议程公布：释放Agentic AI新布局",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Fri, 15 May 2026 10:14:54 +0000",
-      "crawlDate": "2026-05-16",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/418135.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "华为云通过Agentic AI技术实现自主决策的AI系统，该技术结合大型语言模型与规则引擎实现任务自动化。预计将发布支持企业级AI代理开发的云服务平台。",
-      "scenarios": "场景1：企业业务流程自动化。场景2：智能客服系统升级。场景3：跨平台数据整合与决策支持。",
-      "techKeywords": "Agentic AI：通过LLM与规则引擎组合实现自主任务执行的AI范式，能动态分解复杂任务并调用工具链。Rule Engine：基于预定义逻辑的决策系统，为AI代理提供结构化行为框架。",
-      "productDesign": "建议构建可视化Agent编排工具降低使用门槛，同时需要设计完善的权限管控机制。可探索行业专属Agent模板的变现模式。"
-    },
-    {
-      "id": "20260516_q002",
-      "title": "Need is all you need：AI接手Coding后，程序员最值钱的能力只剩这一项?",
-      "originalTitle": "Need is all you need：AI接手Coding后，程序员最值钱的能力只剩这一项?",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 15 May 2026 09:55:56 +0000",
-      "crawlDate": "2026-05-16",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/418035.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "该新闻揭示了AI编程工具(Qoder)能够通过理解需求自动生成代码，这将改变程序员的角色定位。核心在于AI正在从代码执行层面向需求理解层面进化，程序员需要更注重需求分析能力。",
-      "scenarios": "1、快速原型开发场景。2、业务人员自主实现简单功能。3、教育领域辅助编程学习。",
-      "techKeywords": "Qoder：基于自然语言处理的代码生成系统，通过解析用户需求直接输出可执行代码。Need-driven Development：以需求为核心的新型开发范式，强调对业务目标的精准描述而非具体实现。",
-      "productDesign": "产品设计应聚焦自然语言交互界面优化，降低使用门槛。同时需要构建需求-代码的验证闭环，确保AI输出的准确性。可探索领域特定语言(DSL)与通用编程语言的桥梁方案。"
-    },
-    {
-      "id": "20260516_q003",
-      "title": "容联云发布“数字员工”级 Al Agent 平台，重塑大模型联络中心",
-      "originalTitle": "容联云发布“数字员工”级 Al Agent 平台，重塑大模型联络中心",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Fri, 15 May 2026 08:18:22 +0000",
-      "crawlDate": "2026-05-16",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/418140.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "该平台以AI Agent技术为核心，通过大模型能力实现拟人化交互，可自主完成客户服务全流程。采用多模态交互技术，支持文本、语音等多种沟通方式。",
-      "scenarios": "金融行业智能客服、电商行业售前咨询、政务热线智能应答",
-      "techKeywords": "AI Agent：基于大语言模型的自主智能体，能理解意图并执行复杂任务。Multi-modal Interaction：融合语音识别、NLP和TTS技术，实现自然的人机交互。",
-      "productDesign": "启示1：需重点设计AI Agent的拟人化交互链路。机会：可基于行业知识库开发垂直领域专属数字员工。"
-    },
-    {
-      "id": "20260516_q004",
-      "title": "手机的智能体AI，正在因为天玑全面跃升",
-      "originalTitle": "手机的智能体AI，正在因为天玑全面跃升",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Fri, 15 May 2026 07:36:18 +0000",
-      "crawlDate": "2026-05-16",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/417968.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "联发科天玑芯片通过全栈AI赋能，正在推动手机智能体化体验升级。其技术原理是通过整合芯片级AI加速和算法优化，使手机能更高效地运行智能体AI应用。",
-      "scenarios": "场景1：实时AI语音助手交互。场景2：智能相机实时图像处理。场景3：游戏场景的AI渲染优化。",
-      "techKeywords": "AI Acceleration：通过专用硬件加速矩阵运算，提升神经网络计算效率。On-device AI：在终端设备本地运行AI模型，保障数据隐私并降低延迟。",
-      "productDesign": "产品机会在于打造基于芯片能力的端侧AI应用生态。需要重点关注如何降低开发者接入门槛，构建差异化AI体验。"
-    },
-    {
-      "id": "20260516_q005",
-      "title": "马斯克诉奥特曼第三周：双方互攻信誉，陪审团即将裁决",
-      "originalTitle": "Musk v. Altman week 3: Musk and Altman traded blows over each other’s credibility. Now the jury will pick a side.",
+      "id": "20260518_005",
+      "title": "马斯克大战阿尔特曼第3周：埃隆·马斯克与萨姆·阿尔特曼互攻信誉，陪审团即将裁决",
+      "originalTitle": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 15 May 2026 23:39:35 +0000",
-      "crawlDate": "2026-05-16",
+      "crawlDate": "2026-05-18",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -228,20 +111,22 @@
         "媒体",
         "企业动态"
       ],
-      "isHeadline": false,
-      "coreInsight": "本案揭示了AI企业治理中创始人信誉与权力制衡的重要性。技术产品经理需关注创始团队声誉对产品公信力的影响，以及如何通过透明治理机制规避个人利益冲突。",
-      "scenarios": "AI企业治理架构设计、创始人声誉风险管理、技术合作中的利益冲突规避",
-      "techKeywords": "Credibility Attack(信誉攻击)：法律战中通过质疑对方诚信度削弱公信力的策略。Self-dealing(自我交易)：创始人利用职务便利使关联公司获利的利益输送行为。",
-      "productDesign": "产品设计应内置透明化决策追踪系统，记录关键决策流程。建议开发'利益冲突检测'功能模块，自动识别并预警可能的关联交易风险。"
-    },
+      "isHeadline": true,
+      "coreInsight": "本次法庭交锋揭示了AI行业领导权争夺的本质矛盾：技术路线的开放性与商业化的平衡问题。马斯克主张开源路线与阿尔特曼的商业化策略形成直接冲突，这反映了AI发展中最根本的治理模式分歧。",
+      "scenarios": "AI治理模式决策、科技公司创始人控制权纠纷处理、开源与商业化路径选择",
+      "techKeywords": "AI Governance：指人工智能开发和应用过程中的决策框架，包含技术伦理、数据权限和利益分配机制。Open Source AI：强调模型权重和训练数据的公开可获取性，与专有模型形成对比，涉及技术民主化与商业保密的权衡。",
+      "productDesign": "需建立双轨制产品策略：既维护核心技术的可控性，又通过API等开放部分能力。建议设计透明的利益分配机制，在技术路线文档中明确开源范围与商业条款的边界点。"
+    }
+  ],
+  "quickBrowse": [
     {
-      "id": "20260516_q006",
+      "id": "20260518_q001",
       "title": "今日要闻：中国的AI戏剧工厂与WHO未达成的健康目标",
       "originalTitle": "The Download: China’s AI drama factory and the WHO’s missing health targets",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 15 May 2026 12:10:00 +0000",
-      "crawlDate": "2026-05-16",
+      "crawlDate": "2026-05-18",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -252,13 +137,13 @@
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "中国短剧产业正通过AI技术实现内容生产的工业化，采用AI生成剧情、角色和对话，大幅提升生产效率。这种AI内容工厂模式展示了算法驱动创作的可能性，但也引发内容同质化担忧。",
-      "scenarios": "短视频平台的内容自动化生产、跨境文化内容输出、AI辅助剧本创作",
-      "techKeywords": "Generative AI：使用深度学习模型根据输入数据生成新内容，在短剧领域可自动生成剧本和分镜。Content Moderation：通过NLP和计算机视觉技术过滤不当内容，确保符合平台规范和地区法律要求。",
-      "productDesign": "可开发垂直领域AI编剧工具，结合文化差异算法实现本地化改编。需要建立创作者-AI协作机制，在效率和质量间取得平衡。"
+      "coreInsight": "中国短剧产业通过AI技术实现内容快速生成，结合智能手机用户碎片化观看习惯，形成高效的内容生产模式。WHO未达成健康目标表明医疗AI领域仍需突破性应用。",
+      "scenarios": "短视频平台AI内容生成、医疗健康目标监测系统、娱乐产业剧本自动化创作",
+      "techKeywords": "Generative AI(生成式AI)：通过深度学习模型自动生成文本/视频内容，显著提升内容生产效率。Digital Health(数字健康)：利用数据分析和AI技术追踪公共卫生指标，但目前落地效果有限。",
+      "productDesign": "可开发垂直领域AI短剧生成工具，同时需要加强医疗AI的数据整合能力。娱乐与健康领域的AI应用存在明显技术落差，后者是蓝海市场。"
     }
   ],
-  "total": 11,
+  "total": 6,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
