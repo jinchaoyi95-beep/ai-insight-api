@@ -1,10 +1,10 @@
 {
   "date": "20260521",
-  "updateTime": "2026-05-21T02:15:37.324Z",
+  "updateTime": "2026-05-21T15:30:11.351Z",
   "headlines": [
     {
       "id": "20260521_001",
-      "title": "OpenAI模型推翻离散几何核心猜想",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "originalTitle": "An OpenAI model has disproved a central conjecture in discrete geometry",
       "category": "company",
       "categoryName": "企业动态",
@@ -20,37 +20,14 @@
         "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "OpenAI模型通过大规模模式识别和推理能力，成功推翻了离散几何领域的核心猜想，标志着AI在数学证明领域的突破性应用。该模型结合了符号推理和神经网络的优势，以半监督方式探索数学猜想。",
-      "scenarios": "1.数学研究辅助工具 2.科研猜想验证平台 3.教育领域复杂问题求解",
-      "techKeywords": "Unit Distance Problem：研究平面上点集间单位距离出现频率的经典问题，属于Erdős离散几何难题。Neural Theorem Proving：结合神经网络与自动推理的技术，通过模式识别发现传统方法难以捕捉的数学规律。",
-      "productDesign": "1.应开发面向科研机构的AI数学研究套件 2.需建立数学猜想验证的交互式工作流 3.可探索教育场景下的智能解题助手商业化路径"
+      "coreInsight": "An OpenAI model has disproved a central conjecture in discrete geometry。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260521_002",
-      "title": "OpenAI教育计划进入国家合作新阶段",
-      "originalTitle": "The next phase of OpenAI’s Education for Countries",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Wed, 20 May 2026 00:00:00 GMT",
-      "crawlDate": "2026-05-21",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/the-next-phase-of-education-for-countries"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "OpenAI通过国家教育计划推动AI在教育系统的规模化落地，采用三方合作模式（政府+学校+技术方），重点通过教师培训和工具赋能实现AI教育渗透",
-      "scenarios": "1. K12课堂AI教学辅助 2. 教师AI能力培训项目 3. 区域化教育质量监测",
-      "techKeywords": "EdTech(Educational Technology)：教育技术通过数字化工具提升教学效率，核心是AI驱动的个性化学习系统。Teacher Empowerment：教师赋能侧重用AI工具扩展教育者能力边界，关键技术包括自动化备课和学情分析",
-      "productDesign": "启示1：需要设计政府-学校-供应商的协同机制 机会2：开发低门槛的教师AI培训产品 关键点：教育类产品需特别关注伦理审查和数字鸿沟问题"
-    },
-    {
-      "id": "20260521_003",
-      "title": "Ramp工程师如何用Codex加速代码审查",
+      "title": "How Ramp engineers accelerate code review with Codex",
       "originalTitle": "How Ramp engineers accelerate code review with Codex",
       "category": "devtool",
       "categoryName": "开发工具",
@@ -66,62 +43,85 @@
         "开发工具"
       ],
       "isHeadline": true,
-      "coreInsight": "Ramp工程师利用Codex结合GPT-5.5实现代码自动审查，通过AI模型理解代码逻辑并提供改进建议，将原本需要数小时的代码审查缩短至分钟级。该系统通过自然语言处理技术解析代码语义，自动生成优化建议和潜在问题提示。",
-      "scenarios": "1、企业级代码质量控制 2、开发团队敏捷协作 3、新人工程师培训指导",
-      "techKeywords": "Codex：OpenAI开发的AI编程助手，基于GPT-3模型微调，擅长代码生成和理解。GPT-5.5：OpenAI新一代语言模型，在代码理解和自然语言交互方面有显著提升，支持更精准的上下文分析。",
-      "productDesign": "产品设计应聚焦AI与开发者工作流的深度整合，重点解决代码审查的延迟痛点。可探索建立反馈闭环机制，持续优化模型对特定代码库的理解能力。"
+      "coreInsight": "How Ramp engineers accelerate code review with Codex。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260521_003",
+      "title": "The next phase of OpenAI’s Education for Countries",
+      "originalTitle": "The next phase of OpenAI’s Education for Countries",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 20 May 2026 00:00:00 GMT",
+      "crawlDate": "2026-05-21",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/the-next-phase-of-education-for-countries"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "The next phase of OpenAI’s Education for Countries。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260521_004",
-      "title": "智象未来超两千亿参数图像大模型HiDream-O1-Image-Pro发布，融资持续提速",
-      "originalTitle": "智象未来超两千亿参数图像大模型HiDream-O1-Image-Pro发布，融资持续提速",
-      "category": "image-video",
-      "categoryName": "AI绘画/视频",
-      "publishDate": "Wed, 20 May 2026 14:09:25 +0000",
-      "crawlDate": "2026-05-21",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/420753.html"
-      },
-      "tags": [
-        "媒体",
-        "AI绘画/视频"
-      ],
-      "isHeadline": true,
-      "coreInsight": "HiDream-O1-Image-Pro作为超大规模视觉基础模型，通过2000亿参数实现跨模态理解与生成能力。其核心突破在于将扩散模型与传统Transformer结合，支持文生图、图生文等多模态任务。",
-      "scenarios": "影视特效自动生成、工业设计草图渲染、电商平台智能修图",
-      "techKeywords": "Diffusion Model：通过逐步去噪过程生成高质量图像，适合细节丰富的创作任务。Transformer：基于自注意力机制处理序列数据，在大规模预训练中展现强大泛化能力。",
-      "productDesign": "建议重点突破垂直领域工具链集成，如设计软件插件化部署。需构建用户友好的prompt工程界面降低使用门槛，同时建立版权保护机制。"
-    },
-    {
-      "id": "20260521_005",
-      "title": "太初元碁洪源：异构计算能力将成为未来AI算力基础设施的重要方向｜AIGC2026",
-      "originalTitle": "太初元碁洪源：异构计算能力将成为未来AI算力基础设施的重要方向｜AIGC2026",
+      "title": "风行在线CEO易正朝：先全员Coding，再All in众创丨AIGC2026",
+      "originalTitle": "风行在线CEO易正朝：先全员Coding，再All in众创丨AIGC2026",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Wed, 20 May 2026 13:08:51 +0000",
+      "publishDate": "Thu, 21 May 2026 09:27:25 +0000",
       "crawlDate": "2026-05-21",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/420743.html"
+        "url": "https://www.qbitai.com/2026/05/422001.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "异构计算通过整合CPU/GPU/FPGA等不同架构处理器，可针对AI负载特点优化算力分配。这能有效提升复杂模型训练和推理的效率，降低单位算力成本。",
-      "scenarios": "大规模AI模型训练、边缘设备实时推理、超算中心混合负载处理",
-      "techKeywords": "Heterogeneous Computing：通过协同使用不同指令集架构的处理单元，实现算力资源的最优配置。FPGA Acceleration：通过硬件可编程特性，为特定AI算法提供定制化计算加速。",
-      "productDesign": "应关注异构资源调度系统的开发，实现自动化负载分配。可探索面向垂直领域的异构计算解决方案，如医疗影像分析的FPGA加速套件。"
+      "coreInsight": "风行在线CEO易正朝：先全员Coding，再All in众创丨AIGC2026。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260521_005",
+      "title": "AI首次实现中国风光发电普查，北大、阿里达摩院研究登上《自然》",
+      "originalTitle": "AI首次实现中国风光发电普查，北大、阿里达摩院研究登上《自然》",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 21 May 2026 09:14:23 +0000",
+      "crawlDate": "2026-05-21",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/05/422002.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "AI首次实现中国风光发电普查，北大、阿里达摩院研究登上《自然》。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
   "quickBrowse": [
     {
       "id": "20260521_q001",
-      "title": "OpenAI正式登陆新加坡",
+      "title": "Introducing OpenAI for Singapore",
       "originalTitle": "Introducing OpenAI for Singapore",
       "category": "company",
       "categoryName": "企业动态",
@@ -137,14 +137,14 @@
         "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "OpenAI通过多维度合作模式拓展国际市场，结合本地化部署(GPT-4o模型微调)+人才培养形成生态系统。技术原理上采用联邦学习框架实现数据隐私与模型性能的平衡。",
-      "scenarios": "跨语言政务AI助手、金融业智能风控系统、教育行业个性化学习平台",
-      "techKeywords": "Federated Learning：通过分布式训练保持数据本地化，中央服务器只聚合模型参数。Model Fine-tuning：使用本地数据对预训练模型进行领域适配，提升特定任务表现。",
-      "productDesign": "启示1：国际化产品需设计灵活的模块化部署方案；机会点：可开发面向政府端的AI能力开放平台，集成合规审计功能。"
+      "coreInsight": "Introducing OpenAI for Singapore。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260521_q002",
-      "title": "推进内容溯源技术，构建更安全透明的AI生态系统",
+      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
       "originalTitle": "Advancing content provenance for a safer, more transparent AI ecosystem",
       "category": "company",
       "categoryName": "企业动态",
@@ -160,128 +160,82 @@
         "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "OpenAI通过Content Credentials和SynthID技术为AI生成内容添加数字水印和可验证标识，建立内容溯源机制。验证工具允许用户识别内容来源，提升AI生成媒体的透明度和可信度。",
-      "scenarios": "新闻媒体内容真实性验证、数字版权保护、社交媒体虚假信息识别",
-      "techKeywords": "Content Credentials：通过加密签名在AI生成内容中嵌入来源元数据，支持跨平台验证。SynthID：采用不可见水印技术，在不影响内容质量的前提下植入可检测的身份标识。",
-      "productDesign": "产品设计应优先考虑用户端的验证便利性，可开发浏览器插件实现一键验证。建议构建开放的验证标准协议，促进多平台互认体系形成。"
+      "coreInsight": "Advancing content provenance for a safer, more transparent AI ecosystem。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260521_q003",
-      "title": "VC、品牌顾问、编剧，正在批量把自己做成AI",
-      "originalTitle": "VC、品牌顾问、编剧，正在批量把自己做成AI",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 20 May 2026 10:15:21 +0000",
+      "title": "菲尔兹奖得主都看懵了：OpenAI非数学模型首次自主突破80年未解数学难题",
+      "originalTitle": "菲尔兹奖得主都看懵了：OpenAI非数学模型首次自主突破80年未解数学难题",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Thu, 21 May 2026 09:36:23 +0000",
       "crawlDate": "2026-05-21",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/420703.html"
+        "url": "https://www.qbitai.com/2026/05/422032.html"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "专业人士通过AI分身技术实现经验产品化，将个人知识封装为可24小时运行的数字化服务。关键技术是借助LLM进行知识蒸馏和对话生成，使AI能模拟专家决策模式。",
-      "scenarios": "创投顾问AI自动筛选项目、品牌咨询AI即时生成方案、编剧AI持续产出创意脚本",
-      "techKeywords": "Digital Twin(数字孪生)：通过行为数据建模构建虚拟专家分身，实现真人决策逻辑的算法映射。LLM Orchestration(大模型编排)：组合多个专家模块形成工作流，如先分析需求再调用相应知识库生成解决方案。",
-      "productDesign": "需开发专家知识封装工具链，重点解决经验数字化中的置信度标注问题。机会在于构建专家AI应用商店，实现技能服务的平台化交易。"
+      "coreInsight": "菲尔兹奖得主都看懵了：OpenAI非数学模型首次自主突破80年未解数学难题。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260521_q004",
-      "title": "AIDC建设正从“通用标准”走向“适用高效”",
-      "originalTitle": "AIDC建设正从“通用标准”走向“适用高效”",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 20 May 2026 07:35:59 +0000",
+      "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
+      "originalTitle": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Thu, 21 May 2026 14:30:45 +0000",
       "crawlDate": "2026-05-21",
       "source": {
-        "name": "量子位",
+        "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/420698.html"
+        "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "AIDC（AI Data Center）建设正在从通用标准转向更注重实际应用场景的高效解决方案。这种转变意味着AI基础设施需要根据不同行业需求进行定制化设计，以提升计算资源利用率和模型训练效率。",
-      "scenarios": "自动驾驶模型训练、医疗影像分析、工业质检系统",
-      "techKeywords": "AIDC(Artificial Intelligence Data Center)：专为AI计算优化的数据中心架构，通过异构计算和资源调度算法提升训练效率。Edge AIDC：将AI计算能力下沉到边缘节点，实现低延迟推理和实时数据处理。",
-      "productDesign": "产品设计应关注垂直行业的特定计算需求，开发模块化AIDC解决方案。建议构建资源利用率监控系统，通过动态调度算法实现成本优化。"
+      "coreInsight": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260521_q005",
-      "title": "绿色钢铁初创公司Boston Metal加码关键金属业务",
-      "originalTitle": "Green steel startup Boston Metal is doubling down on critical metals",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Wed, 20 May 2026 13:00:00 +0000",
+      "title": "The Download: online safety’s future and climate tech’s big pivot",
+      "originalTitle": "The Download: online safety’s future and climate tech’s big pivot",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Thu, 21 May 2026 12:10:00 +0000",
       "crawlDate": "2026-05-21",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/"
+        "url": "https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/"
       },
       "tags": [
         "媒体",
-        "企业动态"
+        "科研突破"
       ],
       "isHeadline": false,
-      "coreInsight": "Boston Metal采用电解冶金技术(MOE)替代传统高炉炼钢，通过电力驱动金属氧化物直接还原为纯金属。该技术不仅能生产绿色钢铁，还能提取关键金属，实现双轨并行发展。",
-      "scenarios": "1、低碳钢铁生产 2、战略金属回收 3、工业脱碳解决方案",
-      "techKeywords": "MOE(Molten Oxide Electrolysis)：通过熔融氧化物电解槽直接分解金属氧化物，避免焦炭还原过程。Critical Metals：指稀土、钴等战略资源，电解法可高效分离提纯。",
-      "productDesign": "应关注电解技术平台化能力，同一设备既产钢铁又提稀有金属可显著提升经济性。建议开发模块化电解槽产品，适配不同金属产出需求。"
-    },
-    {
-      "id": "20260521_q006",
-      "title": "《科技动态》：全人造鸡蛋与马斯克败诉内幕",
-      "originalTitle": "The Download: fully artificial chicken eggs and why Musk lost",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 20 May 2026 12:10:00 +0000",
-      "crawlDate": "2026-05-21",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/05/20/1137579/the-download-colossal-biosciences-egg-musk-altman-trial/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "3D打印人造蛋壳技术突破传统孵化方式，通过精确控制微环境实现禽类胚胎体外培育。这项技术可减少对自然鸡蛋的依赖，具有颠覆畜牧业供应链的潜力。",
-      "scenarios": "实验室培育替代蛋白质、濒危禽类物种保护、太空农业生态系统",
-      "techKeywords": "3D-printed artificial eggshell：利用生物相容性材料逐层构建蛋壳结构，内部模拟自然蛋的微环境。in vitro avian embryogenesis：在受控实验室环境中实现禽类胚胎的完整发育过程。",
-      "productDesign": "建议开发生物反应器+智能孵化监测系统组合产品，重点关注动物福利认证标准。可探索与细胞培养肉企业的技术协同，构建完整替代蛋白解决方案。"
-    },
-    {
-      "id": "20260521_q007",
-      "title": "圆桌会议：马斯克诉Altman案内幕",
-      "originalTitle": "Roundtables: Inside the Musk v. Altman Trial",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 19 May 2026 20:15:18 +0000",
-      "crawlDate": "2026-05-21",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/05/19/1137454/roundtables-inside-the-musk-v-altman-trial/"
-      },
-      "tags": [
-        "媒体",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "本案揭示了AI企业治理中Non-profit与For-profit模式的核心冲突。法院判决表明AI公司的商业化转型需要明确法律依据和股东协议。",
-      "scenarios": "AI企业股权架构设计、科技公司治理合规审查、创始人利益冲突调解",
-      "techKeywords": "Non-profit organization(非营利组织)：不以营利为目的的法人实体，享受税收优惠但融资受限。For-profit corporation(营利性公司)：以股东利益最大化为目标，可通过股权融资但需承担更高税负。",
-      "productDesign": "需设计清晰的商业模式转换路径文档工具，开发创始人股权冲突预警系统，建立AI企业治理知识图谱数据库。"
+      "coreInsight": "The Download: online safety’s future and climate tech’s big pivot。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 12,
+  "total": 10,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
