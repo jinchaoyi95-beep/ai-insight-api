@@ -1,15 +1,155 @@
 {
-  "date": "20260520",
-  "updateTime": "2026-05-20T02:16:09.375Z",
+  "date": "20260521",
+  "updateTime": "2026-05-21T02:15:37.324Z",
   "headlines": [
     {
-      "id": "20260520_001",
-      "title": "推进内容溯源，构建更安全透明的AI生态系统",
+      "id": "20260521_001",
+      "title": "OpenAI模型推翻离散几何核心猜想",
+      "originalTitle": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 20 May 2026 00:00:00 GMT",
+      "crawlDate": "2026-05-21",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "OpenAI模型通过大规模模式识别和推理能力，成功推翻了离散几何领域的核心猜想，标志着AI在数学证明领域的突破性应用。该模型结合了符号推理和神经网络的优势，以半监督方式探索数学猜想。",
+      "scenarios": "1.数学研究辅助工具 2.科研猜想验证平台 3.教育领域复杂问题求解",
+      "techKeywords": "Unit Distance Problem：研究平面上点集间单位距离出现频率的经典问题，属于Erdős离散几何难题。Neural Theorem Proving：结合神经网络与自动推理的技术，通过模式识别发现传统方法难以捕捉的数学规律。",
+      "productDesign": "1.应开发面向科研机构的AI数学研究套件 2.需建立数学猜想验证的交互式工作流 3.可探索教育场景下的智能解题助手商业化路径"
+    },
+    {
+      "id": "20260521_002",
+      "title": "OpenAI教育计划进入国家合作新阶段",
+      "originalTitle": "The next phase of OpenAI’s Education for Countries",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 20 May 2026 00:00:00 GMT",
+      "crawlDate": "2026-05-21",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/the-next-phase-of-education-for-countries"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "OpenAI通过国家教育计划推动AI在教育系统的规模化落地，采用三方合作模式（政府+学校+技术方），重点通过教师培训和工具赋能实现AI教育渗透",
+      "scenarios": "1. K12课堂AI教学辅助 2. 教师AI能力培训项目 3. 区域化教育质量监测",
+      "techKeywords": "EdTech(Educational Technology)：教育技术通过数字化工具提升教学效率，核心是AI驱动的个性化学习系统。Teacher Empowerment：教师赋能侧重用AI工具扩展教育者能力边界，关键技术包括自动化备课和学情分析",
+      "productDesign": "启示1：需要设计政府-学校-供应商的协同机制 机会2：开发低门槛的教师AI培训产品 关键点：教育类产品需特别关注伦理审查和数字鸿沟问题"
+    },
+    {
+      "id": "20260521_003",
+      "title": "Ramp工程师如何用Codex加速代码审查",
+      "originalTitle": "How Ramp engineers accelerate code review with Codex",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Wed, 20 May 2026 00:00:00 GMT",
+      "crawlDate": "2026-05-21",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/ramp"
+      },
+      "tags": [
+        "官方",
+        "开发工具"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Ramp工程师利用Codex结合GPT-5.5实现代码自动审查，通过AI模型理解代码逻辑并提供改进建议，将原本需要数小时的代码审查缩短至分钟级。该系统通过自然语言处理技术解析代码语义，自动生成优化建议和潜在问题提示。",
+      "scenarios": "1、企业级代码质量控制 2、开发团队敏捷协作 3、新人工程师培训指导",
+      "techKeywords": "Codex：OpenAI开发的AI编程助手，基于GPT-3模型微调，擅长代码生成和理解。GPT-5.5：OpenAI新一代语言模型，在代码理解和自然语言交互方面有显著提升，支持更精准的上下文分析。",
+      "productDesign": "产品设计应聚焦AI与开发者工作流的深度整合，重点解决代码审查的延迟痛点。可探索建立反馈闭环机制，持续优化模型对特定代码库的理解能力。"
+    },
+    {
+      "id": "20260521_004",
+      "title": "智象未来超两千亿参数图像大模型HiDream-O1-Image-Pro发布，融资持续提速",
+      "originalTitle": "智象未来超两千亿参数图像大模型HiDream-O1-Image-Pro发布，融资持续提速",
+      "category": "image-video",
+      "categoryName": "AI绘画/视频",
+      "publishDate": "Wed, 20 May 2026 14:09:25 +0000",
+      "crawlDate": "2026-05-21",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/05/420753.html"
+      },
+      "tags": [
+        "媒体",
+        "AI绘画/视频"
+      ],
+      "isHeadline": true,
+      "coreInsight": "HiDream-O1-Image-Pro作为超大规模视觉基础模型，通过2000亿参数实现跨模态理解与生成能力。其核心突破在于将扩散模型与传统Transformer结合，支持文生图、图生文等多模态任务。",
+      "scenarios": "影视特效自动生成、工业设计草图渲染、电商平台智能修图",
+      "techKeywords": "Diffusion Model：通过逐步去噪过程生成高质量图像，适合细节丰富的创作任务。Transformer：基于自注意力机制处理序列数据，在大规模预训练中展现强大泛化能力。",
+      "productDesign": "建议重点突破垂直领域工具链集成，如设计软件插件化部署。需构建用户友好的prompt工程界面降低使用门槛，同时建立版权保护机制。"
+    },
+    {
+      "id": "20260521_005",
+      "title": "太初元碁洪源：异构计算能力将成为未来AI算力基础设施的重要方向｜AIGC2026",
+      "originalTitle": "太初元碁洪源：异构计算能力将成为未来AI算力基础设施的重要方向｜AIGC2026",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 20 May 2026 13:08:51 +0000",
+      "crawlDate": "2026-05-21",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/05/420743.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "异构计算通过整合CPU/GPU/FPGA等不同架构处理器，可针对AI负载特点优化算力分配。这能有效提升复杂模型训练和推理的效率，降低单位算力成本。",
+      "scenarios": "大规模AI模型训练、边缘设备实时推理、超算中心混合负载处理",
+      "techKeywords": "Heterogeneous Computing：通过协同使用不同指令集架构的处理单元，实现算力资源的最优配置。FPGA Acceleration：通过硬件可编程特性，为特定AI算法提供定制化计算加速。",
+      "productDesign": "应关注异构资源调度系统的开发，实现自动化负载分配。可探索面向垂直领域的异构计算解决方案，如医疗影像分析的FPGA加速套件。"
+    }
+  ],
+  "quickBrowse": [
+    {
+      "id": "20260521_q001",
+      "title": "OpenAI正式登陆新加坡",
+      "originalTitle": "Introducing OpenAI for Singapore",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 19 May 2026 20:30:00 GMT",
+      "crawlDate": "2026-05-21",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/introducing-openai-for-singapore"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "OpenAI通过多维度合作模式拓展国际市场，结合本地化部署(GPT-4o模型微调)+人才培养形成生态系统。技术原理上采用联邦学习框架实现数据隐私与模型性能的平衡。",
+      "scenarios": "跨语言政务AI助手、金融业智能风控系统、教育行业个性化学习平台",
+      "techKeywords": "Federated Learning：通过分布式训练保持数据本地化，中央服务器只聚合模型参数。Model Fine-tuning：使用本地数据对预训练模型进行领域适配，提升特定任务表现。",
+      "productDesign": "启示1：国际化产品需设计灵活的模块化部署方案；机会点：可开发面向政府端的AI能力开放平台，集成合规审计功能。"
+    },
+    {
+      "id": "20260521_q002",
+      "title": "推进内容溯源技术，构建更安全透明的AI生态系统",
       "originalTitle": "Advancing content provenance for a safer, more transparent AI ecosystem",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Tue, 19 May 2026 10:45:00 GMT",
-      "crawlDate": "2026-05-20",
+      "crawlDate": "2026-05-21",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -19,137 +159,112 @@
         "官方",
         "企业动态"
       ],
-      "isHeadline": true,
-      "coreInsight": "OpenAI通过Content Credentials和SynthID技术构建内容溯源系统，为AI生成内容添加数字水印和元数据。验证工具可帮助用户识别内容来源，提升AI生成内容的可信度。",
-      "scenarios": "社交媒体内容真实性验证、数字版权保护、虚假信息识别",
-      "techKeywords": "Content Credentials：通过嵌入元数据记录内容来源和修改历史。SynthID：采用数字水印技术在不影响观感的前提下标记AI生成内容。",
-      "productDesign": "产品设计应重视内容可追溯性，可集成第三方验证工具。考虑用户侧的内容真实性展示界面，建立信任机制。"
+      "isHeadline": false,
+      "coreInsight": "OpenAI通过Content Credentials和SynthID技术为AI生成内容添加数字水印和可验证标识，建立内容溯源机制。验证工具允许用户识别内容来源，提升AI生成媒体的透明度和可信度。",
+      "scenarios": "新闻媒体内容真实性验证、数字版权保护、社交媒体虚假信息识别",
+      "techKeywords": "Content Credentials：通过加密签名在AI生成内容中嵌入来源元数据，支持跨平台验证。SynthID：采用不可见水印技术，在不影响内容质量的前提下植入可检测的身份标识。",
+      "productDesign": "产品设计应优先考虑用户端的验证便利性，可开发浏览器插件实现一键验证。建议构建开放的验证标准协议，促进多平台互认体系形成。"
     },
     {
-      "id": "20260520_002",
-      "title": "OpenAI与Dell合作将Codex引入混合及本地企业环境",
-      "originalTitle": "OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Mon, 18 May 2026 10:00:00 GMT",
-      "crawlDate": "2026-05-20",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/dell-codex-enterprise-partnership"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "OpenAI与Dell合作将Codex模型部署到企业混合云和本地环境，通过Dell的基础设施确保AI代码生成工具在企业内部安全运行。这种合作模式解决了企业使用生成式AI时的数据隐私和合规需求。",
-      "scenarios": "企业级代码自动生成、私有代码库的AI辅助开发、敏感数据环境下的智能编程助手",
-      "techKeywords": "Codex：基于GPT-3的AI编程模型，能够理解自然语言并生成对应代码。Hybrid Cloud：混合云架构结合了公有云和私有云优势，使企业可以灵活部署AI服务。",
-      "productDesign": "该合作为企业AI产品设计提供了新思路：1) 与基础设施厂商合作可加速AI产品落地 2) 混合部署模式将成为企业AI的重要方向 3) 数据安全是产品设计的关键考量点"
-    },
-    {
-      "id": "20260520_003",
-      "title": "苏姿丰上海开讲：AI正在重新定义计算的每一层",
-      "originalTitle": "苏姿丰上海开讲：AI正在重新定义计算的每一层",
+      "id": "20260521_q003",
+      "title": "VC、品牌顾问、编剧，正在批量把自己做成AI",
+      "originalTitle": "VC、品牌顾问、编剧，正在批量把自己做成AI",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Wed, 20 May 2026 00:48:27 +0000",
-      "crawlDate": "2026-05-20",
+      "publishDate": "Wed, 20 May 2026 10:15:21 +0000",
+      "crawlDate": "2026-05-21",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/420531.html"
+        "url": "https://www.qbitai.com/2026/05/420703.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
-      "isHeadline": true,
-      "coreInsight": "AI计算架构需要从芯片层到软件层全面革新，AMD通过ROCm开放生态降低开发者门槛。异构计算结合专用AI加速单元将成为下一代处理器标配。",
-      "scenarios": "云端AI模型训练、边缘设备实时推理、高性能计算仿真优化",
-      "techKeywords": "ROCm：AMD开源的GPU计算平台，提供类似CUDA的异构编程环境。CDNA架构：专为AI/HPC优化的GPU架构，采用矩阵核心加速张量运算。",
-      "productDesign": "应关注异构计算在端边云场景的标准化部署，开发者工具链的易用性决定生态规模。需要建立跨厂商的AI加速器兼容层解决方案。"
+      "isHeadline": false,
+      "coreInsight": "专业人士通过AI分身技术实现经验产品化，将个人知识封装为可24小时运行的数字化服务。关键技术是借助LLM进行知识蒸馏和对话生成，使AI能模拟专家决策模式。",
+      "scenarios": "创投顾问AI自动筛选项目、品牌咨询AI即时生成方案、编剧AI持续产出创意脚本",
+      "techKeywords": "Digital Twin(数字孪生)：通过行为数据建模构建虚拟专家分身，实现真人决策逻辑的算法映射。LLM Orchestration(大模型编排)：组合多个专家模块形成工作流，如先分析需求再调用相应知识库生成解决方案。",
+      "productDesign": "需开发专家知识封装工具链，重点解决经验数字化中的置信度标注问题。机会在于构建专家AI应用商店，实现技能服务的平台化交易。"
     },
     {
-      "id": "20260520_004",
-      "title": "I/O 2026",
-      "originalTitle": "I/O 2026",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 19 May 2026 17:45:00 +0000",
-      "crawlDate": "2026-05-20",
-      "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/google-io-2026-collection/"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Google I/O 2026展示了AI技术普惠化的新方向，通过模型压缩和边缘计算技术降低AI部署门槛。重点优化了多模态交互能力，使AI能同时处理语音、图像和文本输入。",
-      "scenarios": "智能家居自动化控制、跨语言实时翻译系统、工业质检视觉辅助",
-      "techKeywords": "Edge AI：通过将模型部署到终端设备实现实时响应，减少云端依赖。Multimodal Learning：使用Transformer架构统一处理不同模态输入，提升上下文理解能力。",
-      "productDesign": "需重点关注AI技术的平民化设计，开发低代码配置工具降低使用门槛。异构计算架构的优化将成为提升终端AI性能的关键突破口。"
-    },
-    {
-      "id": "20260520_005",
-      "title": "AI Mode如何改变美国人的搜索方式",
-      "originalTitle": "How AI Mode is changing the way people search in the U.S.",
+      "id": "20260521_q004",
+      "title": "AIDC建设正从“通用标准”走向“适用高效”",
+      "originalTitle": "AIDC建设正从“通用标准”走向“适用高效”",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Tue, 19 May 2026 17:45:00 +0000",
-      "crawlDate": "2026-05-20",
+      "publishDate": "Wed, 20 May 2026 07:35:59 +0000",
+      "crawlDate": "2026-05-21",
       "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/products-and-platforms/products/search/ai-mode-us-insights/"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/05/420698.html"
       },
       "tags": [
-        "官方",
+        "媒体",
         "大语言模型"
       ],
-      "isHeadline": true,
-      "coreInsight": "AI Mode通过自然语言处理技术，将传统关键词搜索升级为对话式搜索，用户可以用完整句子提问。系统采用LLM模型理解查询意图，直接返回结构化答案而非链接列表。",
-      "scenarios": "复杂问题咨询（如医疗建议）、多条件商品筛选、教育学习中的概念追问",
-      "techKeywords": "Natural Language Processing(NLP)：通过深度学习模型解析人类语言语义和上下文关系。Large Language Model(LLM)：基于海量文本训练的模型，能生成符合语言逻辑的连贯回答。",
-      "productDesign": "需优化query理解模块的歧义消除能力，可探索多轮对话中的上下文记忆功能。商业变现可考虑在精准答案中嵌入相关服务推荐。"
-    }
-  ],
-  "quickBrowse": [
+      "isHeadline": false,
+      "coreInsight": "AIDC（AI Data Center）建设正在从通用标准转向更注重实际应用场景的高效解决方案。这种转变意味着AI基础设施需要根据不同行业需求进行定制化设计，以提升计算资源利用率和模型训练效率。",
+      "scenarios": "自动驾驶模型训练、医疗影像分析、工业质检系统",
+      "techKeywords": "AIDC(Artificial Intelligence Data Center)：专为AI计算优化的数据中心架构，通过异构计算和资源调度算法提升训练效率。Edge AIDC：将AI计算能力下沉到边缘节点，实现低延迟推理和实时数据处理。",
+      "productDesign": "产品设计应关注垂直行业的特定计算需求，开发模块化AIDC解决方案。建议构建资源利用率监控系统，通过动态调度算法实现成本优化。"
+    },
     {
-      "id": "20260520_q001",
-      "title": "Google Workspace全新创作与高效协作方式",
-      "originalTitle": "New ways to create and get things done in Google Workspace",
+      "id": "20260521_q005",
+      "title": "绿色钢铁初创公司Boston Metal加码关键金属业务",
+      "originalTitle": "Green steel startup Boston Metal is doubling down on critical metals",
       "category": "company",
       "categoryName": "企业动态",
-      "publishDate": "Tue, 19 May 2026 17:45:00 +0000",
-      "crawlDate": "2026-05-20",
+      "publishDate": "Wed, 20 May 2026 13:00:00 +0000",
+      "crawlDate": "2026-05-21",
       "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/products-and-platforms/products/workspace/workspace-updates/"
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/05/20/1137523/boston-metal-funding-critical-metals/"
       },
       "tags": [
-        "官方",
+        "媒体",
         "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "Google Workspace通过Voice capabilities实现语音交互式文档编辑，结合Google Pics设计工具提升视觉内容创作效率，AI Inbox则利用机器学习优化邮件处理流程。这体现了AI在办公场景的深度融合。",
-      "scenarios": "远程团队语音协作编辑文档、营销人员快速制作视觉素材、商务人士高效管理收件箱",
-      "techKeywords": "Voice capabilities：通过ASR语音识别和NLP处理实现语音转文字与指令执行。Google Pics：基于生成式AI的视觉设计工具，可自动适配不同平台尺寸要求。",
-      "productDesign": "启示在于将AI能力拆解为颗粒化功能嵌入现有工作流，机会在于建立跨工具的数据联动机制。建议探索非结构化输入（如语音/草图）到结构化输出的转化场景。"
+      "coreInsight": "Boston Metal采用电解冶金技术(MOE)替代传统高炉炼钢，通过电力驱动金属氧化物直接还原为纯金属。该技术不仅能生产绿色钢铁，还能提取关键金属，实现双轨并行发展。",
+      "scenarios": "1、低碳钢铁生产 2、战略金属回收 3、工业脱碳解决方案",
+      "techKeywords": "MOE(Molten Oxide Electrolysis)：通过熔融氧化物电解槽直接分解金属氧化物，避免焦炭还原过程。Critical Metals：指稀土、钴等战略资源，电解法可高效分离提纯。",
+      "productDesign": "应关注电解技术平台化能力，同一设备既产钢铁又提稀有金属可显著提升经济性。建议开发模块化电解槽产品，适配不同金属产出需求。"
     },
     {
-      "id": "20260520_q002",
-      "title": "圆桌会议：揭秘Musk诉Altman案内幕",
+      "id": "20260521_q006",
+      "title": "《科技动态》：全人造鸡蛋与马斯克败诉内幕",
+      "originalTitle": "The Download: fully artificial chicken eggs and why Musk lost",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 20 May 2026 12:10:00 +0000",
+      "crawlDate": "2026-05-21",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/05/20/1137579/the-download-colossal-biosciences-egg-musk-altman-trial/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "3D打印人造蛋壳技术突破传统孵化方式，通过精确控制微环境实现禽类胚胎体外培育。这项技术可减少对自然鸡蛋的依赖，具有颠覆畜牧业供应链的潜力。",
+      "scenarios": "实验室培育替代蛋白质、濒危禽类物种保护、太空农业生态系统",
+      "techKeywords": "3D-printed artificial eggshell：利用生物相容性材料逐层构建蛋壳结构，内部模拟自然蛋的微环境。in vitro avian embryogenesis：在受控实验室环境中实现禽类胚胎的完整发育过程。",
+      "productDesign": "建议开发生物反应器+智能孵化监测系统组合产品，重点关注动物福利认证标准。可探索与细胞培养肉企业的技术协同，构建完整替代蛋白解决方案。"
+    },
+    {
+      "id": "20260521_q007",
+      "title": "圆桌会议：马斯克诉Altman案内幕",
       "originalTitle": "Roundtables: Inside the Musk v. Altman Trial",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Tue, 19 May 2026 20:15:18 +0000",
-      "crawlDate": "2026-05-20",
+      "crawlDate": "2026-05-21",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -160,59 +275,13 @@
         "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "本案涉及AI企业治理架构的核心争议点：Non-profit与For-profit模式的冲突。技术原理上体现了AI公司的双重属性：既要保障技术开放性(Non-profit)，又需要商业变现(For-profit)。",
-      "scenarios": "AI公司治理架构设计、科技企业股权纠纷处理、技术伦理与商业化的平衡",
-      "techKeywords": "Non-profit organization：非营利组织在法律上禁止分配利润给成员，所有收入必须用于组织使命。For-profit AI：商业化AI公司通过专利授权、API收费等方式实现盈利，但可能牺牲技术开放性。",
-      "productDesign": "启示1：AI产品需在架构设计阶段明确治理模式。机会点：可设计混合架构产品，核心层保持开源，商业层提供增值服务。需要建立透明的利益分配机制。"
-    },
-    {
-      "id": "20260520_q003",
-      "title": "了解现代网络犯罪形势",
-      "originalTitle": "Understanding the modern cybercrime landscape",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 19 May 2026 13:00:00 +0000",
-      "crawlDate": "2026-05-20",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/05/19/1136925/understanding-the-modern-cybercrime-landscape/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "网络犯罪呈现工业化发展趋势，攻击者利用automation和AI技术规模化利用系统漏洞。这种模式使攻击具有更快速度、更大规模和更高结构化特征。",
-      "scenarios": "企业安全防护系统升级、政府关键基础设施防御、金融机构反欺诈监测",
-      "techKeywords": "Automation：通过脚本和工具链实现攻击流程自动化，减少人工干预。AI-powered attacks：利用机器学习分析漏洞模式，动态调整攻击策略。",
-      "productDesign": "安全产品需强化行为分析和异常检测能力，建议开发具备自适应防御的AI安全中台。可探索攻击路径预测等主动防御功能。"
-    },
-    {
-      "id": "20260520_q004",
-      "title": "《今日要闻》：马斯克对决Altman、军用智能眼镜与Google I/O大会",
-      "originalTitle": "The Download: Musk v. Altman, smart glasses for warfare, and Google I/O",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 19 May 2026 12:10:00 +0000",
-      "crawlDate": "2026-05-20",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/05/19/1137505/the-download-musk-altman-trial-smart-glasses-warfare-google-i-o/"
-      },
-      "tags": [
-        "媒体",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "核心洞察：OpenAI作为非营利组织的法律定位成为诉讼焦点，军用智能眼镜展示AI硬件的军事化应用趋势，Google I/O大会预示消费级AI产品的新方向。技术原理上，组织架构决定技术发展方向，硬件集成体现AI能力落地，开发者大会驱动生态建设。",
-      "scenarios": "科技公司治理的法律合规场景、军事领域AI硬件部署场景、消费级AI产品发布场景",
-      "techKeywords": "Nonprofit Contract(English)：规范组织利润分配和决策权的法律框架，决定技术研发的开放程度。Smart Glasses(English)：通过AR叠加和传感器融合实现战场信息可视化的可穿戴设备，需解决低延迟与隐私保护问题。",
-      "productDesign": "PM应关注：1）技术路线与组织形态的匹配设计 2）军用技术转民用时的用户体验重构 3）开发者大会作为产品路线图的风向标价值"
+      "coreInsight": "本案揭示了AI企业治理中Non-profit与For-profit模式的核心冲突。法院判决表明AI公司的商业化转型需要明确法律依据和股东协议。",
+      "scenarios": "AI企业股权架构设计、科技公司治理合规审查、创始人利益冲突调解",
+      "techKeywords": "Non-profit organization(非营利组织)：不以营利为目的的法人实体，享受税收优惠但融资受限。For-profit corporation(营利性公司)：以股东利益最大化为目标，可通过股权融资但需承担更高税负。",
+      "productDesign": "需设计清晰的商业模式转换路径文档工具，开发创始人股权冲突预警系统，建立AI企业治理知识图谱数据库。"
     }
   ],
-  "total": 9,
+  "total": 12,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
