@@ -1,6 +1,6 @@
 {
   "date": "20260522",
-  "updateTime": "2026-05-22T02:28:56.400Z",
+  "updateTime": "2026-05-22T14:41:47.111Z",
   "headlines": [
     {
       "id": "20260522_001",
@@ -27,6 +27,29 @@
     },
     {
       "id": "20260522_002",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "originalTitle": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 20 May 2026 00:00:00 GMT",
+      "crawlDate": "2026-05-22",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "An OpenAI model has disproved a central conjecture in discrete geometry。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260522_003",
       "title": "How Ramp engineers accelerate code review with Codex",
       "originalTitle": "How Ramp engineers accelerate code review with Codex",
       "category": "devtool",
@@ -49,7 +72,55 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260522_003",
+      "id": "20260522_004",
+      "title": "80集短剧，3天拍完：当电影人下场做Agent，影视生产迎来了“最懂行”的解法",
+      "originalTitle": "80集短剧，3天拍完：当电影人下场做Agent，影视生产迎来了“最懂行”的解法",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Fri, 22 May 2026 02:57:25 +0000",
+      "crawlDate": "2026-05-22",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/05/422455.html"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "80集短剧，3天拍完：当电影人下场做Agent，影视生产迎来了“最懂行”的解法。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260522_005",
+      "title": "The Enhanced Games fit right in with the rest of 2026’s longevity vibes",
+      "originalTitle": "The Enhanced Games fit right in with the rest of 2026’s longevity vibes",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 22 May 2026 09:00:00 +0000",
+      "crawlDate": "2026-05-22",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/05/22/1137753/the-enhanced-games-fit-right-in-with-the-rest-of-2026s-longevity-vibes/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "The Enhanced Games fit right in with the rest of 2026’s longevity vibes。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    }
+  ],
+  "quickBrowse": [
+    {
+      "id": "20260522_q001",
       "title": "The next phase of OpenAI’s Education for Countries",
       "originalTitle": "The next phase of OpenAI’s Education for Countries",
       "category": "company",
@@ -65,79 +136,8 @@
         "官方",
         "企业动态"
       ],
-      "isHeadline": true,
-      "coreInsight": "The next phase of OpenAI’s Education for Countries。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260522_004",
-      "title": "风行在线CEO易正朝：先全员Coding，再All in众创丨AIGC2026",
-      "originalTitle": "风行在线CEO易正朝：先全员Coding，再All in众创丨AIGC2026",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 21 May 2026 09:27:25 +0000",
-      "crawlDate": "2026-05-22",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/422001.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "风行在线CEO易正朝：先全员Coding，再All in众创丨AIGC2026。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260522_005",
-      "title": "Roundtables: Can AI Learn to Understand the World?",
-      "originalTitle": "Roundtables: Can AI Learn to Understand the World?",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Thu, 21 May 2026 20:41:05 +0000",
-      "crawlDate": "2026-05-22",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/"
-      },
-      "tags": [
-        "媒体",
-        "开发工具"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Roundtables: Can AI Learn to Understand the World?。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
-    {
-      "id": "20260522_q001",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "originalTitle": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Wed, 20 May 2026 00:00:00 GMT",
-      "crawlDate": "2026-05-22",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
       "isHeadline": false,
-      "coreInsight": "An OpenAI model has disproved a central conjecture in discrete geometry。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The next phase of OpenAI’s Education for Countries。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -167,69 +167,69 @@
     },
     {
       "id": "20260522_q003",
-      "title": "菲尔兹奖得主都看懵了：OpenAI非数学模型首次自主突破80年未解数学难题",
-      "originalTitle": "菲尔兹奖得主都看懵了：OpenAI非数学模型首次自主突破80年未解数学难题",
+      "title": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库",
+      "originalTitle": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库",
       "category": "company",
       "categoryName": "企业动态",
-      "publishDate": "Thu, 21 May 2026 09:36:23 +0000",
+      "publishDate": "Fri, 22 May 2026 06:38:04 +0000",
       "crawlDate": "2026-05-22",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/422032.html"
+        "url": "https://www.qbitai.com/2026/05/422615.html"
       },
       "tags": [
         "媒体",
         "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "菲尔兹奖得主都看懵了：OpenAI非数学模型首次自主突破80年未解数学难题。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260522_q004",
-      "title": "Scaling creativity in the age of AI",
-      "originalTitle": "Scaling creativity in the age of AI",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 21 May 2026 19:16:43 +0000",
-      "crawlDate": "2026-05-22",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Scaling creativity in the age of AI。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260522_q005",
-      "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
-      "originalTitle": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
+      "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
+      "originalTitle": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
       "category": "company",
       "categoryName": "企业动态",
-      "publishDate": "Thu, 21 May 2026 14:30:45 +0000",
+      "publishDate": "Fri, 22 May 2026 12:10:00 +0000",
       "crawlDate": "2026-05-22",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/05/21/1137735/anthropics-code-with-claude-showed-off-codings-future-whether-you-like-it-or-not/"
+        "url": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/"
       },
       "tags": [
         "媒体",
         "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260522_q005",
+      "title": "Google I/O showed how the path for AI-driven science is shifting",
+      "originalTitle": "Google I/O showed how the path for AI-driven science is shifting",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Fri, 22 May 2026 10:00:00 +0000",
+      "crawlDate": "2026-05-22",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/05/22/1137813/google-i-o-showed-how-the-path-for-ai-science-is-shifting/"
+      },
+      "tags": [
+        "媒体",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Google I/O showed how the path for AI-driven science is shifting。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
