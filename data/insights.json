@@ -1,38 +1,38 @@
 {
-  "date": "20260521",
-  "updateTime": "2026-05-21T15:30:11.351Z",
+  "date": "20260522",
+  "updateTime": "2026-05-22T02:28:56.400Z",
   "headlines": [
     {
-      "id": "20260521_001",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "originalTitle": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "id": "20260522_001",
+      "title": "AdventHealth advances whole-person care with OpenAI",
+      "originalTitle": "AdventHealth advances whole-person care with OpenAI",
       "category": "company",
       "categoryName": "企业动态",
-      "publishDate": "Wed, 20 May 2026 00:00:00 GMT",
-      "crawlDate": "2026-05-21",
+      "publishDate": "Thu, 21 May 2026 12:00:00 GMT",
+      "crawlDate": "2026-05-22",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture"
+        "url": "https://openai.com/index/adventhealth"
       },
       "tags": [
         "官方",
         "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "An OpenAI model has disproved a central conjecture in discrete geometry。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "AdventHealth advances whole-person care with OpenAI。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260521_002",
+      "id": "20260522_002",
       "title": "How Ramp engineers accelerate code review with Codex",
       "originalTitle": "How Ramp engineers accelerate code review with Codex",
       "category": "devtool",
       "categoryName": "开发工具",
       "publishDate": "Wed, 20 May 2026 00:00:00 GMT",
-      "crawlDate": "2026-05-21",
+      "crawlDate": "2026-05-22",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,13 +49,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260521_003",
+      "id": "20260522_003",
       "title": "The next phase of OpenAI’s Education for Countries",
       "originalTitle": "The next phase of OpenAI’s Education for Countries",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Wed, 20 May 2026 00:00:00 GMT",
-      "crawlDate": "2026-05-21",
+      "crawlDate": "2026-05-22",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -72,13 +72,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260521_004",
+      "id": "20260522_004",
       "title": "风行在线CEO易正朝：先全员Coding，再All in众创丨AIGC2026",
       "originalTitle": "风行在线CEO易正朝：先全员Coding，再All in众创丨AIGC2026",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Thu, 21 May 2026 09:27:25 +0000",
-      "crawlDate": "2026-05-21",
+      "crawlDate": "2026-05-22",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -95,24 +95,24 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260521_005",
-      "title": "AI首次实现中国风光发电普查，北大、阿里达摩院研究登上《自然》",
-      "originalTitle": "AI首次实现中国风光发电普查，北大、阿里达摩院研究登上《自然》",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 21 May 2026 09:14:23 +0000",
-      "crawlDate": "2026-05-21",
+      "id": "20260522_005",
+      "title": "Roundtables: Can AI Learn to Understand the World?",
+      "originalTitle": "Roundtables: Can AI Learn to Understand the World?",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Thu, 21 May 2026 20:41:05 +0000",
+      "crawlDate": "2026-05-22",
       "source": {
-        "name": "量子位",
+        "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/422002.html"
+        "url": "https://www.technologyreview.com/2026/05/21/1137756/roundtables-can-ai-learn-to-understand-the-world/"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "开发工具"
       ],
       "isHeadline": true,
-      "coreInsight": "AI首次实现中国风光发电普查，北大、阿里达摩院研究登上《自然》。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Roundtables: Can AI Learn to Understand the World?。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -120,13 +120,36 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260521_q001",
+      "id": "20260522_q001",
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "originalTitle": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 20 May 2026 00:00:00 GMT",
+      "crawlDate": "2026-05-22",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "An OpenAI model has disproved a central conjecture in discrete geometry。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260522_q002",
       "title": "Introducing OpenAI for Singapore",
       "originalTitle": "Introducing OpenAI for Singapore",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Tue, 19 May 2026 20:30:00 GMT",
-      "crawlDate": "2026-05-21",
+      "crawlDate": "2026-05-22",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -143,36 +166,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260521_q002",
-      "title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-      "originalTitle": "Advancing content provenance for a safer, more transparent AI ecosystem",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 19 May 2026 10:45:00 GMT",
-      "crawlDate": "2026-05-21",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/advancing-content-provenance"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Advancing content provenance for a safer, more transparent AI ecosystem。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260521_q003",
+      "id": "20260522_q003",
       "title": "菲尔兹奖得主都看懵了：OpenAI非数学模型首次自主突破80年未解数学难题",
       "originalTitle": "菲尔兹奖得主都看懵了：OpenAI非数学模型首次自主突破80年未解数学难题",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Thu, 21 May 2026 09:36:23 +0000",
-      "crawlDate": "2026-05-21",
+      "crawlDate": "2026-05-22",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -189,13 +189,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260521_q004",
+      "id": "20260522_q004",
+      "title": "Scaling creativity in the age of AI",
+      "originalTitle": "Scaling creativity in the age of AI",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 21 May 2026 19:16:43 +0000",
+      "crawlDate": "2026-05-22",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/05/21/1137613/scaling-creativity-in-the-age-of-ai/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Scaling creativity in the age of AI。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260522_q005",
       "title": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
       "originalTitle": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Thu, 21 May 2026 14:30:45 +0000",
-      "crawlDate": "2026-05-21",
+      "crawlDate": "2026-05-22",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -207,29 +230,6 @@
       ],
       "isHeadline": false,
       "coreInsight": "Anthropic’s Code with Claude showed off coding’s future—whether you like it or not。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260521_q005",
-      "title": "The Download: online safety’s future and climate tech’s big pivot",
-      "originalTitle": "The Download: online safety’s future and climate tech’s big pivot",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Thu, 21 May 2026 12:10:00 +0000",
-      "crawlDate": "2026-05-21",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/05/21/1137733/the-download-online-safety-climate-tech-pivot/"
-      },
-      "tags": [
-        "媒体",
-        "科研突破"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Download: online safety’s future and climate tech’s big pivot。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
