@@ -1,15 +1,38 @@
 {
-  "date": "20260522",
-  "updateTime": "2026-05-22T14:41:47.111Z",
+  "date": "20260523",
+  "updateTime": "2026-05-23T02:05:19.930Z",
   "headlines": [
     {
-      "id": "20260522_001",
+      "id": "20260523_001",
+      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "originalTitle": "OpenAI named a Leader in enterprise coding agents by Gartner",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Fri, 22 May 2026 00:00:00 GMT",
+      "crawlDate": "2026-05-23",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/gartner-2026-agentic-coding-leader"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "OpenAI named a Leader in enterprise coding agents by Gartner。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260523_002",
       "title": "AdventHealth advances whole-person care with OpenAI",
       "originalTitle": "AdventHealth advances whole-person care with OpenAI",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Thu, 21 May 2026 12:00:00 GMT",
-      "crawlDate": "2026-05-22",
+      "crawlDate": "2026-05-23",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,82 +49,59 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260522_002",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "originalTitle": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "id": "20260523_003",
+      "title": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库",
+      "originalTitle": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库",
       "category": "company",
       "categoryName": "企业动态",
-      "publishDate": "Wed, 20 May 2026 00:00:00 GMT",
-      "crawlDate": "2026-05-22",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "An OpenAI model has disproved a central conjecture in discrete geometry。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260522_003",
-      "title": "How Ramp engineers accelerate code review with Codex",
-      "originalTitle": "How Ramp engineers accelerate code review with Codex",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Wed, 20 May 2026 00:00:00 GMT",
-      "crawlDate": "2026-05-22",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/ramp"
-      },
-      "tags": [
-        "官方",
-        "开发工具"
-      ],
-      "isHeadline": true,
-      "coreInsight": "How Ramp engineers accelerate code review with Codex。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260522_004",
-      "title": "80集短剧，3天拍完：当电影人下场做Agent，影视生产迎来了“最懂行”的解法",
-      "originalTitle": "80集短剧，3天拍完：当电影人下场做Agent，影视生产迎来了“最懂行”的解法",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Fri, 22 May 2026 02:57:25 +0000",
-      "crawlDate": "2026-05-22",
+      "publishDate": "Fri, 22 May 2026 06:38:04 +0000",
+      "crawlDate": "2026-05-23",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/422455.html"
+        "url": "https://www.qbitai.com/2026/05/422615.html"
       },
       "tags": [
         "媒体",
-        "Agent"
+        "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "80集短剧，3天拍完：当电影人下场做Agent，影视生产迎来了“最懂行”的解法。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260522_005",
+      "id": "20260523_004",
+      "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+      "originalTitle": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 22 May 2026 15:25:59 GMT",
+      "crawlDate": "2026-05-23",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260523_005",
       "title": "The Enhanced Games fit right in with the rest of 2026’s longevity vibes",
       "originalTitle": "The Enhanced Games fit right in with the rest of 2026’s longevity vibes",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 22 May 2026 09:00:00 +0000",
-      "crawlDate": "2026-05-22",
+      "crawlDate": "2026-05-23",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -120,82 +120,36 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260522_q001",
-      "title": "The next phase of OpenAI’s Education for Countries",
-      "originalTitle": "The next phase of OpenAI’s Education for Countries",
+      "id": "20260523_q001",
+      "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+      "originalTitle": "Catch up on the Dialogues stage at Google I/O 2026.",
       "category": "company",
       "categoryName": "企业动态",
-      "publishDate": "Wed, 20 May 2026 00:00:00 GMT",
-      "crawlDate": "2026-05-22",
+      "publishDate": "Fri, 22 May 2026 18:00:00 +0000",
+      "crawlDate": "2026-05-23",
       "source": {
-        "name": "OpenAI Blog",
+        "name": "Google AI",
         "type": "官方",
-        "url": "https://openai.com/index/the-next-phase-of-education-for-countries"
+        "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/"
       },
       "tags": [
         "官方",
         "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "The next phase of OpenAI’s Education for Countries。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Catch up on the Dialogues stage at Google I/O 2026.。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260522_q002",
-      "title": "Introducing OpenAI for Singapore",
-      "originalTitle": "Introducing OpenAI for Singapore",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 19 May 2026 20:30:00 GMT",
-      "crawlDate": "2026-05-22",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/introducing-openai-for-singapore"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Introducing OpenAI for Singapore。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260522_q003",
-      "title": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库",
-      "originalTitle": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Fri, 22 May 2026 06:38:04 +0000",
-      "crawlDate": "2026-05-22",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/422615.html"
-      },
-      "tags": [
-        "媒体",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260522_q004",
+      "id": "20260523_q002",
       "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
       "originalTitle": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 22 May 2026 12:10:00 +0000",
-      "crawlDate": "2026-05-22",
+      "crawlDate": "2026-05-23",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -212,13 +166,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260522_q005",
+      "id": "20260523_q003",
       "title": "Google I/O showed how the path for AI-driven science is shifting",
       "originalTitle": "Google I/O showed how the path for AI-driven science is shifting",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 22 May 2026 10:00:00 +0000",
-      "crawlDate": "2026-05-22",
+      "crawlDate": "2026-05-23",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -235,7 +189,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 10,
+  "total": 8,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
