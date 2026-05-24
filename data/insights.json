@@ -1,15 +1,15 @@
 {
-  "date": "20260523",
-  "updateTime": "2026-05-23T02:05:19.930Z",
+  "date": "20260524",
+  "updateTime": "2026-05-24T02:13:58.824Z",
   "headlines": [
     {
-      "id": "20260523_001",
+      "id": "20260524_001",
       "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
       "originalTitle": "OpenAI named a Leader in enterprise coding agents by Gartner",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Fri, 22 May 2026 00:00:00 GMT",
-      "crawlDate": "2026-05-23",
+      "crawlDate": "2026-05-24",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +26,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260523_002",
+      "id": "20260524_002",
       "title": "AdventHealth advances whole-person care with OpenAI",
       "originalTitle": "AdventHealth advances whole-person care with OpenAI",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Thu, 21 May 2026 12:00:00 GMT",
-      "crawlDate": "2026-05-23",
+      "crawlDate": "2026-05-24",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,36 +49,59 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260523_003",
-      "title": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库",
-      "originalTitle": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Fri, 22 May 2026 06:38:04 +0000",
-      "crawlDate": "2026-05-23",
+      "id": "20260524_003",
+      "title": "“五类人AI替代不了，企业做第二名最稳妥” | 昆仑万维方汉@AIGC2026",
+      "originalTitle": "“五类人AI替代不了，企业做第二名最稳妥” | 昆仑万维方汉@AIGC2026",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Sat, 23 May 2026 10:09:58 +0000",
+      "crawlDate": "2026-05-24",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/422615.html"
+        "url": "https://www.qbitai.com/2026/05/423202.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "“五类人AI替代不了，企业做第二名最稳妥” | 昆仑万维方汉@AIGC2026。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260524_004",
+      "title": "OpenAI大神教你如何榨干Codex",
+      "originalTitle": "OpenAI大神教你如何榨干Codex",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Sat, 23 May 2026 09:50:51 +0000",
+      "crawlDate": "2026-05-24",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/05/423179.html"
       },
       "tags": [
         "媒体",
         "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "OpenAI大神教你如何榨干Codex。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260523_004",
+      "id": "20260524_005",
       "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
       "originalTitle": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 22 May 2026 15:25:59 GMT",
-      "crawlDate": "2026-05-23",
+      "crawlDate": "2026-05-24",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -93,40 +116,17 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260523_005",
-      "title": "The Enhanced Games fit right in with the rest of 2026’s longevity vibes",
-      "originalTitle": "The Enhanced Games fit right in with the rest of 2026’s longevity vibes",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 22 May 2026 09:00:00 +0000",
-      "crawlDate": "2026-05-23",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/05/22/1137753/the-enhanced-games-fit-right-in-with-the-rest-of-2026s-longevity-vibes/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "The Enhanced Games fit right in with the rest of 2026’s longevity vibes。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
   "quickBrowse": [
     {
-      "id": "20260523_q001",
+      "id": "20260524_q001",
       "title": "Catch up on the Dialogues stage at Google I/O 2026.",
       "originalTitle": "Catch up on the Dialogues stage at Google I/O 2026.",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 22 May 2026 18:00:00 +0000",
-      "crawlDate": "2026-05-23",
+      "crawlDate": "2026-05-24",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -143,13 +143,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260523_q002",
+      "id": "20260524_q002",
       "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
       "originalTitle": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 22 May 2026 12:10:00 +0000",
-      "crawlDate": "2026-05-23",
+      "crawlDate": "2026-05-24",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -166,13 +166,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260523_q003",
+      "id": "20260524_q003",
       "title": "Google I/O showed how the path for AI-driven science is shifting",
       "originalTitle": "Google I/O showed how the path for AI-driven science is shifting",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 22 May 2026 10:00:00 +0000",
-      "crawlDate": "2026-05-23",
+      "crawlDate": "2026-05-24",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -187,9 +187,32 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260524_q004",
+      "title": "The Enhanced Games fit right in with the rest of 2026’s longevity vibes",
+      "originalTitle": "The Enhanced Games fit right in with the rest of 2026’s longevity vibes",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 22 May 2026 09:00:00 +0000",
+      "crawlDate": "2026-05-24",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/05/22/1137753/the-enhanced-games-fit-right-in-with-the-rest-of-2026s-longevity-vibes/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The Enhanced Games fit right in with the rest of 2026’s longevity vibes。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 8,
+  "total": 9,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
