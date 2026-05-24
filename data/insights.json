@@ -1,6 +1,6 @@
 {
   "date": "20260524",
-  "updateTime": "2026-05-24T02:13:58.824Z",
+  "updateTime": "2026-05-24T13:28:32.247Z",
   "headlines": [
     {
       "id": "20260524_001",
@@ -27,100 +27,75 @@
     },
     {
       "id": "20260524_002",
-      "title": "AdventHealth advances whole-person care with OpenAI",
-      "originalTitle": "AdventHealth advances whole-person care with OpenAI",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Thu, 21 May 2026 12:00:00 GMT",
+      "title": "卷到今天，Agent的含金量还在提升丨AIGC2026圆桌论坛",
+      "originalTitle": "卷到今天，Agent的含金量还在提升丨AIGC2026圆桌论坛",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Sun, 24 May 2026 10:50:44 +0000",
       "crawlDate": "2026-05-24",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/adventhealth"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/05/423421.html"
       },
       "tags": [
-        "官方",
-        "企业动态"
+        "媒体",
+        "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "AdventHealth advances whole-person care with OpenAI。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "卷到今天，Agent的含金量还在提升丨AIGC2026圆桌论坛。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260524_003",
-      "title": "“五类人AI替代不了，企业做第二名最稳妥” | 昆仑万维方汉@AIGC2026",
-      "originalTitle": "“五类人AI替代不了，企业做第二名最稳妥” | 昆仑万维方汉@AIGC2026",
+      "title": "谷歌CEO承认Coding落后了",
+      "originalTitle": "谷歌CEO承认Coding落后了",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Sat, 23 May 2026 10:09:58 +0000",
+      "publishDate": "Sun, 24 May 2026 06:20:35 +0000",
       "crawlDate": "2026-05-24",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/423202.html"
+        "url": "https://www.qbitai.com/2026/05/423390.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "“五类人AI替代不了，企业做第二名最稳妥” | 昆仑万维方汉@AIGC2026。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "谷歌CEO承认Coding落后了。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260524_004",
-      "title": "OpenAI大神教你如何榨干Codex",
-      "originalTitle": "OpenAI大神教你如何榨干Codex",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Sat, 23 May 2026 09:50:51 +0000",
+      "title": "未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026",
+      "originalTitle": "未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Sun, 24 May 2026 06:14:05 +0000",
       "crawlDate": "2026-05-24",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/423179.html"
+        "url": "https://www.qbitai.com/2026/05/423382.html"
       },
       "tags": [
         "媒体",
-        "企业动态"
+        "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "OpenAI大神教你如何榨干Codex。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260524_005",
-      "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
-      "originalTitle": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 22 May 2026 15:25:59 GMT",
-      "crawlDate": "2026-05-24",
-      "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale"
-      },
-      "tags": [
-        "官方",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
-    {
-      "id": "20260524_q001",
       "title": "Catch up on the Dialogues stage at Google I/O 2026.",
       "originalTitle": "Catch up on the Dialogues stage at Google I/O 2026.",
       "category": "company",
@@ -136,14 +111,62 @@
         "官方",
         "企业动态"
       ],
-      "isHeadline": false,
+      "isHeadline": true,
       "coreInsight": "Catch up on the Dialogues stage at Google I/O 2026.。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    }
+  ],
+  "quickBrowse": [
+    {
+      "id": "20260524_q001",
+      "title": "“五类人AI替代不了，企业做第二名最稳妥” | 昆仑万维方汉@AIGC2026",
+      "originalTitle": "“五类人AI替代不了，企业做第二名最稳妥” | 昆仑万维方汉@AIGC2026",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Sat, 23 May 2026 10:09:58 +0000",
+      "crawlDate": "2026-05-24",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/05/423202.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "“五类人AI替代不了，企业做第二名最稳妥” | 昆仑万维方汉@AIGC2026。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260524_q002",
+      "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+      "originalTitle": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 22 May 2026 15:25:59 GMT",
+      "crawlDate": "2026-05-24",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260524_q003",
       "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
       "originalTitle": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
       "category": "company",
@@ -166,7 +189,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260524_q003",
+      "id": "20260524_q004",
       "title": "Google I/O showed how the path for AI-driven science is shifting",
       "originalTitle": "Google I/O showed how the path for AI-driven science is shifting",
       "category": "company",
@@ -189,7 +212,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260524_q004",
+      "id": "20260524_q005",
       "title": "The Enhanced Games fit right in with the rest of 2026’s longevity vibes",
       "originalTitle": "The Enhanced Games fit right in with the rest of 2026’s longevity vibes",
       "category": "llm",
@@ -212,7 +235,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 9,
+  "total": 10,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
