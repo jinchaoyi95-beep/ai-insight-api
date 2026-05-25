@@ -1,38 +1,15 @@
 {
-  "date": "20260524",
-  "updateTime": "2026-05-24T13:28:32.247Z",
+  "date": "20260525",
+  "updateTime": "2026-05-25T02:32:28.991Z",
   "headlines": [
     {
-      "id": "20260524_001",
-      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-      "originalTitle": "OpenAI named a Leader in enterprise coding agents by Gartner",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Fri, 22 May 2026 00:00:00 GMT",
-      "crawlDate": "2026-05-24",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/gartner-2026-agentic-coding-leader"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "OpenAI named a Leader in enterprise coding agents by Gartner。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260524_002",
+      "id": "20260525_001",
       "title": "卷到今天，Agent的含金量还在提升丨AIGC2026圆桌论坛",
       "originalTitle": "卷到今天，Agent的含金量还在提升丨AIGC2026圆桌论坛",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Sun, 24 May 2026 10:50:44 +0000",
-      "crawlDate": "2026-05-24",
+      "crawlDate": "2026-05-25",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -49,13 +26,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260524_003",
+      "id": "20260525_002",
       "title": "谷歌CEO承认Coding落后了",
       "originalTitle": "谷歌CEO承认Coding落后了",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Sun, 24 May 2026 06:20:35 +0000",
-      "crawlDate": "2026-05-24",
+      "crawlDate": "2026-05-25",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -72,13 +49,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260524_004",
+      "id": "20260525_003",
       "title": "未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026",
       "originalTitle": "未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Sun, 24 May 2026 06:14:05 +0000",
-      "crawlDate": "2026-05-24",
+      "crawlDate": "2026-05-25",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -95,13 +72,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260524_005",
+      "id": "20260525_004",
       "title": "Catch up on the Dialogues stage at Google I/O 2026.",
       "originalTitle": "Catch up on the Dialogues stage at Google I/O 2026.",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 22 May 2026 18:00:00 +0000",
-      "crawlDate": "2026-05-24",
+      "crawlDate": "2026-05-25",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -116,17 +93,40 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260525_005",
+      "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
+      "originalTitle": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Fri, 22 May 2026 12:10:00 +0000",
+      "crawlDate": "2026-05-25",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/"
+      },
+      "tags": [
+        "媒体",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
   "quickBrowse": [
     {
-      "id": "20260524_q001",
+      "id": "20260525_q001",
       "title": "“五类人AI替代不了，企业做第二名最稳妥” | 昆仑万维方汉@AIGC2026",
       "originalTitle": "“五类人AI替代不了，企业做第二名最稳妥” | 昆仑万维方汉@AIGC2026",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Sat, 23 May 2026 10:09:58 +0000",
-      "crawlDate": "2026-05-24",
+      "crawlDate": "2026-05-25",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -143,13 +143,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260524_q002",
+      "id": "20260525_q002",
       "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
       "originalTitle": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 22 May 2026 15:25:59 GMT",
-      "crawlDate": "2026-05-24",
+      "crawlDate": "2026-05-25",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -166,36 +166,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260524_q003",
-      "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
-      "originalTitle": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Fri, 22 May 2026 12:10:00 +0000",
-      "crawlDate": "2026-05-24",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/"
-      },
-      "tags": [
-        "媒体",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260524_q004",
+      "id": "20260525_q003",
       "title": "Google I/O showed how the path for AI-driven science is shifting",
       "originalTitle": "Google I/O showed how the path for AI-driven science is shifting",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 22 May 2026 10:00:00 +0000",
-      "crawlDate": "2026-05-24",
+      "crawlDate": "2026-05-25",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -212,13 +189,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260524_q005",
+      "id": "20260525_q004",
       "title": "The Enhanced Games fit right in with the rest of 2026’s longevity vibes",
       "originalTitle": "The Enhanced Games fit right in with the rest of 2026’s longevity vibes",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 22 May 2026 09:00:00 +0000",
-      "crawlDate": "2026-05-24",
+      "crawlDate": "2026-05-25",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -235,7 +212,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 10,
+  "total": 9,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
