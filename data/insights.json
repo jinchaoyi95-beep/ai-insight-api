@@ -1,118 +1,118 @@
 {
-  "date": "20260525",
-  "updateTime": "2026-05-25T14:55:13.443Z",
+  "date": "20260526",
+  "updateTime": "2026-05-26T15:32:37.511Z",
   "headlines": [
     {
-      "id": "20260525_001",
-      "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
-      "originalTitle": "OpenAI named a Leader in enterprise coding agents by Gartner",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Fri, 22 May 2026 00:00:00 GMT",
-      "crawlDate": "2026-05-25",
+      "id": "20260526_001",
+      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "originalTitle": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 25 May 2026 00:00:00 GMT",
+      "crawlDate": "2026-05-26",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/gartner-2026-agentic-coding-leader"
+        "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260526_002",
+      "title": "刚刚，国产AI自己造了AI，全球首例！",
+      "originalTitle": "刚刚，国产AI自己造了AI，全球首例！",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 26 May 2026 08:46:15 +0000",
+      "crawlDate": "2026-05-26",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/05/425511.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "刚刚，国产AI自己造了AI，全球首例！。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260526_003",
+      "title": "华为发布AI DC数据基础设施全栈方案，加速行业智能化跃升",
+      "originalTitle": "华为发布AI DC数据基础设施全栈方案，加速行业智能化跃升",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 26 May 2026 06:52:33 +0000",
+      "crawlDate": "2026-05-26",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/05/425296.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "华为发布AI DC数据基础设施全栈方案，加速行业智能化跃升。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260526_004",
+      "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+      "originalTitle": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 25 May 2026 00:00:00 GMT",
+      "crawlDate": "2026-05-26",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/agent-glossary"
       },
       "tags": [
         "官方",
         "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "OpenAI named a Leader in enterprise coding agents by Gartner。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260525_002",
-      "title": "AdventHealth advances whole-person care with OpenAI",
-      "originalTitle": "AdventHealth advances whole-person care with OpenAI",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Thu, 21 May 2026 12:00:00 GMT",
-      "crawlDate": "2026-05-25",
+      "id": "20260526_005",
+      "title": "Rethinking organizational design in the age of agentic AI",
+      "originalTitle": "Rethinking organizational design in the age of agentic AI",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Tue, 26 May 2026 14:54:10 +0000",
+      "crawlDate": "2026-05-26",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/adventhealth"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "AdventHealth advances whole-person care with OpenAI。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260525_003",
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "originalTitle": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Wed, 20 May 2026 00:00:00 GMT",
-      "crawlDate": "2026-05-25",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "An OpenAI model has disproved a central conjecture in discrete geometry。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260525_004",
-      "title": "京东JoyInside戴文军：AI的终极形态不是聊天，是融入你家每一件物品丨AIGC2026",
-      "originalTitle": "京东JoyInside戴文军：AI的终极形态不是聊天，是融入你家每一件物品丨AIGC2026",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Mon, 25 May 2026 09:37:05 +0000",
-      "crawlDate": "2026-05-25",
-      "source": {
-        "name": "量子位",
+        "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/424794.html"
+        "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "京东JoyInside戴文军：AI的终极形态不是聊天，是融入你家每一件物品丨AIGC2026。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260525_005",
-      "title": "“VLA和世界模型都不是终局，会有物理世界独有的模型” | 蚂蚁灵波沈宇军@AIGC2026",
-      "originalTitle": "“VLA和世界模型都不是终局，会有物理世界独有的模型” | 蚂蚁灵波沈宇军@AIGC2026",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Mon, 25 May 2026 06:56:42 +0000",
-      "crawlDate": "2026-05-25",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/424584.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "“VLA和世界模型都不是终局，会有物理世界独有的模型” | 蚂蚁灵波沈宇军@AIGC2026。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Rethinking organizational design in the age of agentic AI。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -120,237 +120,53 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260525_q001",
-      "title": "The next phase of OpenAI’s Education for Countries",
-      "originalTitle": "The next phase of OpenAI’s Education for Countries",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Wed, 20 May 2026 00:00:00 GMT",
-      "crawlDate": "2026-05-25",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/the-next-phase-of-education-for-countries"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The next phase of OpenAI’s Education for Countries。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260525_q002",
-      "title": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
-      "originalTitle": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook",
+      "id": "20260526_q001",
+      "title": "The Download: puncturing the AI jobs panic",
+      "originalTitle": "The Download: puncturing the AI jobs panic",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Fri, 22 May 2026 15:25:59 GMT",
-      "crawlDate": "2026-05-25",
-      "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/Dharma-AI/specialization-beats-scale"
-      },
-      "tags": [
-        "官方",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Specialization Beats Scale: A Strategic Variable Most AI Procurement Decisions Overlook。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260525_q003",
-      "title": "Catch up on the Dialogues stage at Google I/O 2026.",
-      "originalTitle": "Catch up on the Dialogues stage at Google I/O 2026.",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Fri, 22 May 2026 18:00:00 +0000",
-      "crawlDate": "2026-05-25",
-      "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Catch up on the Dialogues stage at Google I/O 2026.。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260525_q004",
-      "title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
-      "originalTitle": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Sat, 16 May 2026 11:33:51 GMT",
-      "crawlDate": "2026-05-25",
-      "source": {
-        "name": "Sebastian Raschka",
-        "type": "专家",
-        "url": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures"
-      },
-      "tags": [
-        "专家",
-        "开发工具"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260525_q005",
-      "title": "My Workflow for Understanding LLM Architectures",
-      "originalTitle": "My Workflow for Understanding LLM Architectures",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sat, 18 Apr 2026 11:24:36 GMT",
-      "crawlDate": "2026-05-25",
-      "source": {
-        "name": "Sebastian Raschka",
-        "type": "专家",
-        "url": "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms"
-      },
-      "tags": [
-        "专家",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "My Workflow for Understanding LLM Architectures。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260525_q006",
-      "title": "Components of A Coding Agent",
-      "originalTitle": "Components of A Coding Agent",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Sat, 04 Apr 2026 11:45:37 GMT",
-      "crawlDate": "2026-05-25",
-      "source": {
-        "name": "Sebastian Raschka",
-        "type": "专家",
-        "url": "https://magazine.sebastianraschka.com/p/components-of-a-coding-agent"
-      },
-      "tags": [
-        "专家",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Components of A Coding Agent。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260525_q007",
-      "title": "Why We Think",
-      "originalTitle": "Why We Think",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Thu, 01 May 2025 00:00:00 +0000",
-      "crawlDate": "2026-05-25",
-      "source": {
-        "name": "Lil Log",
-        "type": "专家",
-        "url": "https://lilianweng.github.io/posts/2025-05-01-thinking/"
-      },
-      "tags": [
-        "专家",
-        "科研突破"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Why We Think。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260525_q008",
-      "title": "Reward Hacking in Reinforcement Learning",
-      "originalTitle": "Reward Hacking in Reinforcement Learning",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 28 Nov 2024 00:00:00 +0000",
-      "crawlDate": "2026-05-25",
-      "source": {
-        "name": "Lil Log",
-        "type": "专家",
-        "url": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/"
-      },
-      "tags": [
-        "专家",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Reward Hacking in Reinforcement Learning。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260525_q009",
-      "title": "Extrinsic Hallucinations in LLMs",
-      "originalTitle": "Extrinsic Hallucinations in LLMs",
-      "category": "application",
-      "categoryName": "应用落地",
-      "publishDate": "Sun, 07 Jul 2024 00:00:00 +0000",
-      "crawlDate": "2026-05-25",
-      "source": {
-        "name": "Lil Log",
-        "type": "专家",
-        "url": "https://lilianweng.github.io/posts/2024-07-07-hallucination/"
-      },
-      "tags": [
-        "专家",
-        "应用落地"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Extrinsic Hallucinations in LLMs。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260525_q010",
-      "title": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
-      "originalTitle": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Fri, 22 May 2026 12:10:00 +0000",
-      "crawlDate": "2026-05-25",
+      "publishDate": "Tue, 26 May 2026 12:10:00 +0000",
+      "crawlDate": "2026-05-26",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/05/22/1137845/the-download-coding-future-steroid-olympics-ai-science/"
+        "url": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The Download: puncturing the AI jobs panic。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260526_q002",
+      "title": "A reality check on the AI jobs hysteria",
+      "originalTitle": "A reality check on the AI jobs hysteria",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 26 May 2026 09:00:00 +0000",
+      "crawlDate": "2026-05-26",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/"
       },
       "tags": [
         "媒体",
         "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: coding’s future, the ‘Steroid Olympics,’ and AI-driven science。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "A reality check on the AI jobs hysteria。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 15,
+  "total": 7,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
