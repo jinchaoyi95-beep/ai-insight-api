@@ -1,15 +1,84 @@
 {
-  "date": "20260527",
-  "updateTime": "2026-05-27T15:44:29.114Z",
+  "date": "20260529",
+  "updateTime": "2026-05-29T02:11:39.801Z",
   "headlines": [
     {
-      "id": "20260527_001",
+      "id": "20260529_001",
+      "title": "How Endava builds an agentic organization with Codex",
+      "originalTitle": "How Endava builds an agentic organization with Codex",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Thu, 28 May 2026 12:00:00 GMT",
+      "crawlDate": "2026-05-29",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/endava"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "How Endava builds an agentic organization with Codex。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260529_002",
+      "title": "OpenAI’s Frontier Governance Framework",
+      "originalTitle": "OpenAI’s Frontier Governance Framework",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Thu, 28 May 2026 00:00:00 GMT",
+      "crawlDate": "2026-05-29",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/openai-frontier-governance-framework"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "OpenAI’s Frontier Governance Framework。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260529_003",
+      "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+      "originalTitle": "Cisco and OpenAI redefine enterprise engineering with Codex",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 27 May 2026 11:00:00 GMT",
+      "crawlDate": "2026-05-29",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/cisco"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Cisco and OpenAI redefine enterprise engineering with Codex。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260529_004",
       "title": "Building self-improving tax agents with Codex",
       "originalTitle": "Building self-improving tax agents with Codex",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Wed, 27 May 2026 07:00:00 GMT",
-      "crawlDate": "2026-05-27",
+      "crawlDate": "2026-05-29",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,93 +95,24 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260527_002",
-      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-      "originalTitle": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Mon, 25 May 2026 00:00:00 GMT",
-      "crawlDate": "2026-05-27",
+      "id": "20260529_005",
+      "title": "Election information and safeguards in 2026",
+      "originalTitle": "Election information and safeguards in 2026",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 27 May 2026 00:00:00 GMT",
+      "crawlDate": "2026-05-29",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/grupo-folha-grupo-uol-partnership"
+        "url": "https://openai.com/index/election-safeguards-2026"
       },
       "tags": [
         "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260527_003",
-      "title": "1400亿Agent入场，“流量”这条护城河要塌了",
-      "originalTitle": "1400亿Agent入场，“流量”这条护城河要塌了",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Wed, 27 May 2026 09:31:05 +0000",
-      "crawlDate": "2026-05-27",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/425881.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "1400亿Agent入场，“流量”这条护城河要塌了。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260527_004",
-      "title": "5秒完成3D场景编辑，北大&港中文&上海AI Lab搞出VGGT-Edit，120倍加速太炸了",
-      "originalTitle": "5秒完成3D场景编辑，北大&港中文&上海AI Lab搞出VGGT-Edit，120倍加速太炸了",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 27 May 2026 09:01:54 +0000",
-      "crawlDate": "2026-05-27",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/425870.html"
-      },
-      "tags": [
-        "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "5秒完成3D场景编辑，北大&港中文&上海AI Lab搞出VGGT-Edit，120倍加速太炸了。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260527_005",
-      "title": "OpenAI挖来了个F1级别车手搞公关",
-      "originalTitle": "OpenAI挖来了个F1级别车手搞公关",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Wed, 27 May 2026 06:55:44 +0000",
-      "crawlDate": "2026-05-27",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/425857.html"
-      },
-      "tags": [
-        "媒体",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "OpenAI挖来了个F1级别车手搞公关。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Election information and safeguards in 2026。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -120,122 +120,145 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260527_q001",
-      "title": "Codex自我蒸馏玩法火了！OpenAI员工亲授：复制粘贴就能让AI消灭重复劳动",
-      "originalTitle": "Codex自我蒸馏玩法火了！OpenAI员工亲授：复制粘贴就能让AI消灭重复劳动",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Wed, 27 May 2026 05:12:18 +0000",
-      "crawlDate": "2026-05-27",
+      "id": "20260529_q001",
+      "title": "Claude 4.8炸场！部分能力超过Mythos，支持数百子智能体并行",
+      "originalTitle": "Claude 4.8炸场！部分能力超过Mythos，支持数百子智能体并行",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Thu, 28 May 2026 23:57:47 +0000",
+      "crawlDate": "2026-05-29",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/425810.html"
+        "url": "https://www.qbitai.com/2026/05/426314.html"
       },
       "tags": [
         "媒体",
-        "企业动态"
+        "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "Codex自我蒸馏玩法火了！OpenAI员工亲授：复制粘贴就能让AI消灭重复劳动。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Claude 4.8炸场！部分能力超过Mythos，支持数百子智能体并行。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260527_q002",
-      "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
-      "originalTitle": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+      "id": "20260529_q002",
+      "title": "世界模型接棒语言模型，这家公司全球首创物理AGI“双金字塔”体系，通用机器人进入“家庭时代”",
+      "originalTitle": "世界模型接棒语言模型，这家公司全球首创物理AGI“双金字塔”体系，通用机器人进入“家庭时代”",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 28 May 2026 13:01:16 +0000",
+      "crawlDate": "2026-05-29",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/05/426237.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "世界模型接棒语言模型，这家公司全球首创物理AGI“双金字塔”体系，通用机器人进入“家庭时代”。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260529_q003",
+      "title": "沙钢签约钉钉，让悟空成为每一位“钢铁人”的生产力工具",
+      "originalTitle": "沙钢签约钉钉，让悟空成为每一位“钢铁人”的生产力工具",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 28 May 2026 08:47:27 +0000",
+      "crawlDate": "2026-05-29",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/05/426223.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "沙钢签约钉钉，让悟空成为每一位“钢铁人”的生产力工具。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260529_q004",
+      "title": "5篇AI生成的数学论文被接收！00后创始人洪乐潼融资14个亿",
+      "originalTitle": "5篇AI生成的数学论文被接收！00后创始人洪乐潼融资14个亿",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Thu, 28 May 2026 08:11:40 +0000",
+      "crawlDate": "2026-05-29",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/05/426198.html"
+      },
+      "tags": [
+        "媒体",
+        "科研突破"
+      ],
+      "isHeadline": false,
+      "coreInsight": "5篇AI生成的数学论文被接收！00后创始人洪乐潼融资14个亿。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260529_q005",
+      "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+      "originalTitle": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Mon, 25 May 2026 00:00:00 GMT",
-      "crawlDate": "2026-05-27",
+      "publishDate": "Wed, 27 May 2026 17:20:29 GMT",
+      "crawlDate": "2026-05-29",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
-        "url": "https://huggingface.co/blog/agent-glossary"
+        "url": "https://huggingface.co/blog/ibm-research/itbench-aa"
       },
       "tags": [
         "官方",
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260527_q003",
-      "title": "The Download: keeping up with AI, and the future of IVF",
-      "originalTitle": "The Download: keeping up with AI, and the future of IVF",
+      "id": "20260529_q006",
+      "title": "The Download: climate tech goes public and the AI Hype Index returns",
+      "originalTitle": "The Download: climate tech goes public and the AI Hype Index returns",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Wed, 27 May 2026 12:10:00 +0000",
-      "crawlDate": "2026-05-27",
+      "publishDate": "Thu, 28 May 2026 12:10:00 +0000",
+      "crawlDate": "2026-05-29",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/05/27/1138048/the-download-ai-future-ivf-technology/"
+        "url": "https://www.technologyreview.com/2026/05/28/1138085/the-download-climate-tech-ipos-ai-hype-index/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: keeping up with AI, and the future of IVF。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260527_q004",
-      "title": "Rethinking organizational design in the age of agentic AI",
-      "originalTitle": "Rethinking organizational design in the age of agentic AI",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Tue, 26 May 2026 14:54:10 +0000",
-      "crawlDate": "2026-05-27",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/05/26/1137584/rethinking-organizational-design-in-the-age-of-agentic-ai/"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Rethinking organizational design in the age of agentic AI。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260527_q005",
-      "title": "The Download: puncturing the AI jobs panic",
-      "originalTitle": "The Download: puncturing the AI jobs panic",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 26 May 2026 12:10:00 +0000",
-      "crawlDate": "2026-05-27",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Download: puncturing the AI jobs panic。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: climate tech goes public and the AI Hype Index returns。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 10,
+  "total": 11,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
