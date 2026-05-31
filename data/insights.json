@@ -1,15 +1,15 @@
 {
-  "date": "20260530",
-  "updateTime": "2026-05-30T02:07:26.790Z",
+  "date": "20260531",
+  "updateTime": "2026-05-31T02:33:13.339Z",
   "headlines": [
     {
-      "id": "20260530_001",
+      "id": "20260531_001",
       "title": "Boston Children’s uses AI to unlock new diagnoses",
       "originalTitle": "Boston Children’s uses AI to unlock new diagnoses",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 29 May 2026 12:00:00 GMT",
-      "crawlDate": "2026-05-30",
+      "crawlDate": "2026-05-31",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +26,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260530_002",
+      "id": "20260531_002",
       "title": "How Braintrust turns customer requests into code with Codex",
       "originalTitle": "How Braintrust turns customer requests into code with Codex",
       "category": "devtool",
       "categoryName": "开发工具",
       "publishDate": "Fri, 29 May 2026 12:00:00 GMT",
-      "crawlDate": "2026-05-30",
+      "crawlDate": "2026-05-31",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,13 +49,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260530_003",
+      "id": "20260531_003",
       "title": "Strengthening societal resilience with Rosalind Biodefense",
       "originalTitle": "Strengthening societal resilience with Rosalind Biodefense",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 29 May 2026 03:00:00 GMT",
-      "crawlDate": "2026-05-30",
+      "crawlDate": "2026-05-31",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -72,13 +72,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260530_004",
+      "id": "20260531_004",
       "title": "How Endava builds an agentic organization with Codex",
       "originalTitle": "How Endava builds an agentic organization with Codex",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Thu, 28 May 2026 12:00:00 GMT",
-      "crawlDate": "2026-05-30",
+      "crawlDate": "2026-05-31",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -95,24 +95,24 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260530_005",
-      "title": "4nm！比亚迪自研AI芯片来了：制程对齐英伟达，算力拉爆特斯拉",
-      "originalTitle": "4nm！比亚迪自研AI芯片来了：制程对齐英伟达，算力拉爆特斯拉",
+      "id": "20260531_005",
+      "title": "帮Gemini拿下IMO金牌的关键先生，差点成了职业钢琴家",
+      "originalTitle": "帮Gemini拿下IMO金牌的关键先生，差点成了职业钢琴家",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Fri, 29 May 2026 14:30:20 +0000",
-      "crawlDate": "2026-05-30",
+      "publishDate": "Sat, 30 May 2026 06:43:26 +0000",
+      "crawlDate": "2026-05-31",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/426557.html"
+        "url": "https://www.qbitai.com/2026/05/426706.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "4nm！比亚迪自研AI芯片来了：制程对齐英伟达，算力拉爆特斯拉。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "帮Gemini拿下IMO金牌的关键先生，差点成了职业钢琴家。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -120,13 +120,13 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260530_q001",
+      "id": "20260531_q001",
       "title": "A shared playbook for trustworthy third party evaluations",
       "originalTitle": "A shared playbook for trustworthy third party evaluations",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 29 May 2026 00:00:00 GMT",
-      "crawlDate": "2026-05-30",
+      "crawlDate": "2026-05-31",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -143,105 +143,59 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260530_q002",
-      "title": "PPIO入选非凡产研「2026 Global AI 100」，以AI实力领跑出海新浪潮",
-      "originalTitle": "PPIO入选非凡产研「2026 Global AI 100」，以AI实力领跑出海新浪潮",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 29 May 2026 11:24:57 +0000",
-      "crawlDate": "2026-05-30",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/426548.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "PPIO入选非凡产研「2026 Global AI 100」，以AI实力领跑出海新浪潮。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260530_q003",
-      "title": "面壁智能「开源周」：一场定义端侧 AI 终局的系统性「亮剑」",
-      "originalTitle": "面壁智能「开源周」：一场定义端侧 AI 终局的系统性「亮剑」",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 29 May 2026 09:13:24 +0000",
-      "crawlDate": "2026-05-30",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/426542.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "面壁智能「开源周」：一场定义端侧 AI 终局的系统性「亮剑」。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260530_q004",
-      "title": "5亿Tokens白送！全球首个商用AI主机发布，终于能放开烧Token了",
-      "originalTitle": "5亿Tokens白送！全球首个商用AI主机发布，终于能放开烧Token了",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 29 May 2026 09:05:30 +0000",
-      "crawlDate": "2026-05-30",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/426479.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "5亿Tokens白送！全球首个商用AI主机发布，终于能放开烧Token了。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260530_q005",
-      "title": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
-      "originalTitle": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM",
+      "id": "20260531_q002",
+      "title": "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」",
+      "originalTitle": "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Wed, 27 May 2026 17:20:29 GMT",
-      "crawlDate": "2026-05-30",
+      "publishDate": "Sat, 30 May 2026 06:33:58 +0000",
+      "crawlDate": "2026-05-31",
       "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/ibm-research/itbench-aa"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/05/426662.html"
       },
       "tags": [
-        "官方",
+        "媒体",
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260530_q006",
+      "id": "20260531_q003",
+      "title": "4nm！比亚迪自研AI芯片来了：制程对齐英伟达，算力拉爆特斯拉",
+      "originalTitle": "4nm！比亚迪自研AI芯片来了：制程对齐英伟达，算力拉爆特斯拉",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 29 May 2026 14:30:20 +0000",
+      "crawlDate": "2026-05-31",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/05/426557.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "4nm！比亚迪自研AI芯片来了：制程对齐英伟达，算力拉爆特斯拉。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260531_q004",
       "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
       "originalTitle": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 29 May 2026 19:00:00 +0000",
-      "crawlDate": "2026-05-30",
+      "crawlDate": "2026-05-31",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -258,13 +212,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260530_q007",
+      "id": "20260531_q005",
       "title": "Check out real-life AI prototypes from the Futures Lab.",
       "originalTitle": "Check out real-life AI prototypes from the Futures Lab.",
       "category": "devtool",
       "categoryName": "开发工具",
       "publishDate": "Fri, 29 May 2026 12:00:00 +0000",
-      "crawlDate": "2026-05-30",
+      "crawlDate": "2026-05-31",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -281,13 +235,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260530_q008",
+      "id": "20260531_q006",
       "title": "The Download: unlocking lithium and controlling Ebola",
       "originalTitle": "The Download: unlocking lithium and controlling Ebola",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 29 May 2026 12:10:00 +0000",
-      "crawlDate": "2026-05-30",
+      "crawlDate": "2026-05-31",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -304,13 +258,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260530_q009",
+      "id": "20260531_q007",
       "title": "The deadly Ebola outbreak is proving difficult to control",
       "originalTitle": "The deadly Ebola outbreak is proving difficult to control",
       "category": "research",
       "categoryName": "科研突破",
       "publishDate": "Fri, 29 May 2026 11:19:52 +0000",
-      "crawlDate": "2026-05-30",
+      "crawlDate": "2026-05-31",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -327,13 +281,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260530_q010",
+      "id": "20260531_q008",
       "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
       "originalTitle": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 29 May 2026 10:00:00 +0000",
-      "crawlDate": "2026-05-30",
+      "crawlDate": "2026-05-31",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -350,7 +304,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 15,
+  "total": 13,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
