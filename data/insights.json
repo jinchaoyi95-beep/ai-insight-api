@@ -1,6 +1,6 @@
 {
   "date": "20260531",
-  "updateTime": "2026-05-31T02:33:13.339Z",
+  "updateTime": "2026-05-31T13:46:48.460Z",
   "headlines": [
     {
       "id": "20260531_001",
@@ -73,46 +73,46 @@
     },
     {
       "id": "20260531_004",
-      "title": "How Endava builds an agentic organization with Codex",
-      "originalTitle": "How Endava builds an agentic organization with Codex",
+      "title": "Token贵只因你喂给模型的垃圾太多了丨@亚马逊王晓野AIGC2026",
+      "originalTitle": "Token贵只因你喂给模型的垃圾太多了丨@亚马逊王晓野AIGC2026",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Thu, 28 May 2026 12:00:00 GMT",
+      "publishDate": "Sun, 31 May 2026 10:03:40 +0000",
       "crawlDate": "2026-05-31",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/endava"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/05/426970.html"
       },
       "tags": [
-        "官方",
+        "媒体",
         "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "How Endava builds an agentic organization with Codex。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Token贵只因你喂给模型的垃圾太多了丨@亚马逊王晓野AIGC2026。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260531_005",
-      "title": "帮Gemini拿下IMO金牌的关键先生，差点成了职业钢琴家",
-      "originalTitle": "帮Gemini拿下IMO金牌的关键先生，差点成了职业钢琴家",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sat, 30 May 2026 06:43:26 +0000",
+      "title": "AI原生时代下，让世界适应Agent，而非教AI做人 | 港大黄超@AIGC2026",
+      "originalTitle": "AI原生时代下，让世界适应Agent，而非教AI做人 | 港大黄超@AIGC2026",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Sun, 31 May 2026 03:54:27 +0000",
       "crawlDate": "2026-05-31",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/426706.html"
+        "url": "https://www.qbitai.com/2026/05/426819.html"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "帮Gemini拿下IMO金牌的关键先生，差点成了职业钢琴家。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "AI原生时代下，让世界适应Agent，而非教AI做人 | 港大黄超@AIGC2026。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -144,52 +144,29 @@
     },
     {
       "id": "20260531_q002",
-      "title": "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」",
-      "originalTitle": "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」",
+      "title": "从Token无上限到全员Agent：MiniMax的AI Native组织进化实践",
+      "originalTitle": "从Token无上限到全员Agent：MiniMax的AI Native组织进化实践",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Sat, 30 May 2026 06:33:58 +0000",
+      "publishDate": "Sun, 31 May 2026 01:29:42 +0000",
       "crawlDate": "2026-05-31",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/426662.html"
+        "url": "https://www.qbitai.com/2026/05/426793.html"
       },
       "tags": [
         "媒体",
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "从Token无上限到全员Agent：MiniMax的AI Native组织进化实践。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260531_q003",
-      "title": "4nm！比亚迪自研AI芯片来了：制程对齐英伟达，算力拉爆特斯拉",
-      "originalTitle": "4nm！比亚迪自研AI芯片来了：制程对齐英伟达，算力拉爆特斯拉",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 29 May 2026 14:30:20 +0000",
-      "crawlDate": "2026-05-31",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/426557.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "4nm！比亚迪自研AI芯片来了：制程对齐英伟达，算力拉爆特斯拉。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260531_q004",
       "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
       "originalTitle": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
       "category": "company",
@@ -212,7 +189,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260531_q005",
+      "id": "20260531_q004",
       "title": "Check out real-life AI prototypes from the Futures Lab.",
       "originalTitle": "Check out real-life AI prototypes from the Futures Lab.",
       "category": "devtool",
@@ -235,7 +212,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260531_q006",
+      "id": "20260531_q005",
       "title": "The Download: unlocking lithium and controlling Ebola",
       "originalTitle": "The Download: unlocking lithium and controlling Ebola",
       "category": "llm",
@@ -258,7 +235,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260531_q007",
+      "id": "20260531_q006",
       "title": "The deadly Ebola outbreak is proving difficult to control",
       "originalTitle": "The deadly Ebola outbreak is proving difficult to control",
       "category": "research",
@@ -281,7 +258,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260531_q008",
+      "id": "20260531_q007",
       "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
       "originalTitle": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
       "category": "llm",
@@ -304,7 +281,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 13,
+  "total": 12,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
