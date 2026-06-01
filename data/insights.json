@@ -1,118 +1,118 @@
 {
-  "date": "20260531",
-  "updateTime": "2026-05-31T13:46:48.460Z",
+  "date": "20260601",
+  "updateTime": "2026-06-01T17:42:00.928Z",
   "headlines": [
     {
-      "id": "20260531_001",
-      "title": "Boston Children’s uses AI to unlock new diagnoses",
-      "originalTitle": "Boston Children’s uses AI to unlock new diagnoses",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Fri, 29 May 2026 12:00:00 GMT",
-      "crawlDate": "2026-05-31",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/boston-childrens-hospital"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Boston Children’s uses AI to unlock new diagnoses。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260531_002",
-      "title": "How Braintrust turns customer requests into code with Codex",
-      "originalTitle": "How Braintrust turns customer requests into code with Codex",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Fri, 29 May 2026 12:00:00 GMT",
-      "crawlDate": "2026-05-31",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/braintrust"
-      },
-      "tags": [
-        "官方",
-        "开发工具"
-      ],
-      "isHeadline": true,
-      "coreInsight": "How Braintrust turns customer requests into code with Codex。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260531_003",
-      "title": "Strengthening societal resilience with Rosalind Biodefense",
-      "originalTitle": "Strengthening societal resilience with Rosalind Biodefense",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Fri, 29 May 2026 03:00:00 GMT",
-      "crawlDate": "2026-05-31",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Strengthening societal resilience with Rosalind Biodefense。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260531_004",
-      "title": "Token贵只因你喂给模型的垃圾太多了丨@亚马逊王晓野AIGC2026",
-      "originalTitle": "Token贵只因你喂给模型的垃圾太多了丨@亚马逊王晓野AIGC2026",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Sun, 31 May 2026 10:03:40 +0000",
-      "crawlDate": "2026-05-31",
+      "id": "20260601_001",
+      "title": "清智系企业亮相 BEYOND Expo 2026 并斩获多项大奖",
+      "originalTitle": "清智系企业亮相 BEYOND Expo 2026 并斩获多项大奖",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 01 Jun 2026 10:34:31 +0000",
+      "crawlDate": "2026-06-01",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/426970.html"
+        "url": "https://www.qbitai.com/2026/06/427530.html"
       },
       "tags": [
         "媒体",
-        "Agent"
+        "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "Token贵只因你喂给模型的垃圾太多了丨@亚马逊王晓野AIGC2026。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "清智系企业亮相 BEYOND Expo 2026 并斩获多项大奖。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260531_005",
-      "title": "AI原生时代下，让世界适应Agent，而非教AI做人 | 港大黄超@AIGC2026",
-      "originalTitle": "AI原生时代下，让世界适应Agent，而非教AI做人 | 港大黄超@AIGC2026",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Sun, 31 May 2026 03:54:27 +0000",
-      "crawlDate": "2026-05-31",
+      "id": "20260601_002",
+      "title": "今天起，无限期免费！全球首个全模态API开放，Top 10 AI Lab出手",
+      "originalTitle": "今天起，无限期免费！全球首个全模态API开放，Top 10 AI Lab出手",
+      "category": "image-video",
+      "categoryName": "AI绘画/视频",
+      "publishDate": "Mon, 01 Jun 2026 07:57:16 +0000",
+      "crawlDate": "2026-06-01",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/426819.html"
+        "url": "https://www.qbitai.com/2026/06/427332.html"
       },
       "tags": [
         "媒体",
+        "AI绘画/视频"
+      ],
+      "isHeadline": true,
+      "coreInsight": "今天起，无限期免费！全球首个全模态API开放，Top 10 AI Lab出手。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260601_003",
+      "title": "OpenAI重返机器人赛道！四大核心岗位开招",
+      "originalTitle": "OpenAI重返机器人赛道！四大核心岗位开招",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 01 Jun 2026 06:11:12 +0000",
+      "crawlDate": "2026-06-01",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/06/427238.html"
+      },
+      "tags": [
+        "媒体",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "OpenAI重返机器人赛道！四大核心岗位开招。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260601_004",
+      "title": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+      "originalTitle": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 01 Jun 2026 15:45:17 GMT",
+      "crawlDate": "2026-06-01",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/JetBrains/mellum2-launch"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260601_005",
+      "title": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+      "originalTitle": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 01 Jun 2026 13:51:18 GMT",
+      "crawlDate": "2026-06-01",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption"
+      },
+      "tags": [
+        "官方",
         "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "AI原生时代下，让世界适应Agent，而非教AI做人 | 港大黄超@AIGC2026。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -120,59 +120,59 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260531_q001",
-      "title": "A shared playbook for trustworthy third party evaluations",
-      "originalTitle": "A shared playbook for trustworthy third party evaluations",
+      "id": "20260601_q001",
+      "title": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+      "originalTitle": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 01 Jun 2026 04:44:55 GMT",
+      "crawlDate": "2026-06-01",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260601_q002",
+      "title": "How we used Gemini to build Google I/O 2026",
+      "originalTitle": "How we used Gemini to build Google I/O 2026",
       "category": "company",
       "categoryName": "企业动态",
-      "publishDate": "Fri, 29 May 2026 00:00:00 GMT",
-      "crawlDate": "2026-05-31",
+      "publishDate": "Mon, 01 Jun 2026 16:00:00 +0000",
+      "crawlDate": "2026-06-01",
       "source": {
-        "name": "OpenAI Blog",
+        "name": "Google AI",
         "type": "官方",
-        "url": "https://openai.com/index/trustworthy-third-party-evaluations-foundations"
+        "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/"
       },
       "tags": [
         "官方",
         "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "A shared playbook for trustworthy third party evaluations。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "How we used Gemini to build Google I/O 2026。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260531_q002",
-      "title": "从Token无上限到全员Agent：MiniMax的AI Native组织进化实践",
-      "originalTitle": "从Token无上限到全员Agent：MiniMax的AI Native组织进化实践",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Sun, 31 May 2026 01:29:42 +0000",
-      "crawlDate": "2026-05-31",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/05/426793.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "从Token无上限到全员Agent：MiniMax的AI Native组织进化实践。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260531_q003",
+      "id": "20260601_q003",
       "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
       "originalTitle": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 29 May 2026 19:00:00 +0000",
-      "crawlDate": "2026-05-31",
+      "crawlDate": "2026-06-01",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -189,99 +189,53 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260531_q004",
-      "title": "Check out real-life AI prototypes from the Futures Lab.",
-      "originalTitle": "Check out real-life AI prototypes from the Futures Lab.",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Fri, 29 May 2026 12:00:00 +0000",
-      "crawlDate": "2026-05-31",
+      "id": "20260601_q004",
+      "title": "The Download: China’s brain implant ambitions",
+      "originalTitle": "The Download: China’s brain implant ambitions",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Mon, 01 Jun 2026 12:10:00 +0000",
+      "crawlDate": "2026-06-01",
       "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/"
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/"
       },
       "tags": [
-        "官方",
-        "开发工具"
+        "媒体",
+        "应用落地"
       ],
       "isHeadline": false,
-      "coreInsight": "Check out real-life AI prototypes from the Futures Lab.。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: China’s brain implant ambitions。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260531_q005",
-      "title": "The Download: unlocking lithium and controlling Ebola",
-      "originalTitle": "The Download: unlocking lithium and controlling Ebola",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 29 May 2026 12:10:00 +0000",
-      "crawlDate": "2026-05-31",
+      "id": "20260601_q005",
+      "title": "China has approved the world’s first invasive brain-computer chip—here’s what’s next",
+      "originalTitle": "China has approved the world’s first invasive brain-computer chip—here’s what’s next",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Mon, 01 Jun 2026 09:09:00 +0000",
+      "crawlDate": "2026-06-01",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/05/29/1138110/the-download-lithium-extraction-ebola-ai-pope/"
+        "url": "https://www.technologyreview.com/2026/06/01/1138133/china-world-first-brain-chip/"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "应用落地"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: unlocking lithium and controlling Ebola。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260531_q006",
-      "title": "The deadly Ebola outbreak is proving difficult to control",
-      "originalTitle": "The deadly Ebola outbreak is proving difficult to control",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Fri, 29 May 2026 11:19:52 +0000",
-      "crawlDate": "2026-05-31",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/05/29/1138093/the-deadly-ebola-outbreak-is-proving-difficult-to-control/"
-      },
-      "tags": [
-        "媒体",
-        "科研突破"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The deadly Ebola outbreak is proving difficult to control。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260531_q007",
-      "title": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
-      "originalTitle": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 29 May 2026 10:00:00 +0000",
-      "crawlDate": "2026-05-31",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/05/29/1138107/how-the-popes-magnifica-humanitas-offers-a-template-for-individuals-to-meet-the-ai-moment/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "How the Pope’s Magnifica Humanitas offers a template for individuals to meet the AI moment。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "China has approved the world’s first invasive brain-computer chip—here’s what’s next。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 12,
+  "total": 10,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
