@@ -1,6 +1,6 @@
 {
   "date": "20260605",
-  "updateTime": "2026-06-05T02:30:53.558Z",
+  "updateTime": "2026-06-05T14:53:30.064Z",
   "headlines": [
     {
       "id": "20260605_001",
@@ -121,29 +121,121 @@
   "quickBrowse": [
     {
       "id": "20260605_q001",
-      "title": "CVPR 2026，英伟达特斯拉Waymo一块听中国公司讲物理AI",
-      "originalTitle": "CVPR 2026，英伟达特斯拉Waymo一块听中国公司讲物理AI",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 04 Jun 2026 11:56:35 +0000",
+      "title": "有人靠CPU把AI算力密度卷到了新高度",
+      "originalTitle": "有人靠CPU把AI算力密度卷到了新高度",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Fri, 05 Jun 2026 13:16:53 +0000",
       "crawlDate": "2026-06-05",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/429130.html"
+        "url": "https://www.qbitai.com/2026/06/431045.html"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "CVPR 2026，英伟达特斯拉Waymo一块听中国公司讲物理AI。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "有人靠CPU把AI算力密度卷到了新高度。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260605_q002",
+      "title": "智源&清华合作成果登上Science：脑科学多模态基础模型Brainμ支撑揭示“记忆-睡眠”调控的神经机制",
+      "originalTitle": "智源&清华合作成果登上Science：脑科学多模态基础模型Brainμ支撑揭示“记忆-睡眠”调控的神经机制",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 05 Jun 2026 10:53:01 +0000",
+      "crawlDate": "2026-06-05",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/06/431033.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "智源&清华合作成果登上Science：脑科学多模态基础模型Brainμ支撑揭示“记忆-睡眠”调控的神经机制。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260605_q003",
+      "title": "华为云发布Agentic AI系列新品 打造智能时代“硅基黑土地”",
+      "originalTitle": "华为云发布Agentic AI系列新品 打造智能时代“硅基黑土地”",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Fri, 05 Jun 2026 10:46:59 +0000",
+      "crawlDate": "2026-06-05",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/06/431027.html"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "华为云发布Agentic AI系列新品 打造智能时代“硅基黑土地”。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260605_q004",
+      "title": "国星宇航与腾讯云签署“星算”计划战略合作协议，携手领航AI云服务新生态",
+      "originalTitle": "国星宇航与腾讯云签署“星算”计划战略合作协议，携手领航AI云服务新生态",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 05 Jun 2026 09:40:44 +0000",
+      "crawlDate": "2026-06-05",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/06/430757.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "国星宇航与腾讯云签署“星算”计划战略合作协议，携手领航AI云服务新生态。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260605_q005",
+      "title": "WPS笔记正式发布：AI贯穿记录、整理与复用全过程",
+      "originalTitle": "WPS笔记正式发布：AI贯穿记录、整理与复用全过程",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 05 Jun 2026 09:16:04 +0000",
+      "crawlDate": "2026-06-05",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/06/431014.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "WPS笔记正式发布：AI贯穿记录、整理与复用全过程。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260605_q006",
       "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
       "originalTitle": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
       "category": "llm",
@@ -166,7 +258,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260605_q003",
+      "id": "20260605_q007",
       "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
       "originalTitle": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
       "category": "devtool",
@@ -189,7 +281,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260605_q004",
+      "id": "20260605_q008",
       "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
       "originalTitle": "Designing the hf CLI as an agent-optimized way to work with the Hub",
       "category": "agent",
@@ -212,7 +304,30 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260605_q005",
+      "id": "20260605_q009",
+      "title": "The latest AI news we announced in May 2026",
+      "originalTitle": "The latest AI news we announced in May 2026",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Fri, 05 Jun 2026 14:45:00 +0000",
+      "crawlDate": "2026-06-05",
+      "source": {
+        "name": "Google AI",
+        "type": "官方",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The latest AI news we announced in May 2026。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260605_q010",
       "title": "5 ways Google Search can level up your thrift and vintage shopping",
       "originalTitle": "5 ways Google Search can level up your thrift and vintage shopping",
       "category": "company",
@@ -233,55 +348,9 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260605_q006",
-      "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
-      "originalTitle": "The Download: AI-generated lawsuits and virtual power plants for data centers",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 04 Jun 2026 12:10:00 +0000",
-      "crawlDate": "2026-06-05",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Download: AI-generated lawsuits and virtual power plants for data centers。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260605_q007",
-      "title": "How courts are coping with a flood of AI-generated lawsuits",
-      "originalTitle": "How courts are coping with a flood of AI-generated lawsuits",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 04 Jun 2026 10:50:18 +0000",
-      "crawlDate": "2026-06-05",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "How courts are coping with a flood of AI-generated lawsuits。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 12,
+  "total": 15,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
