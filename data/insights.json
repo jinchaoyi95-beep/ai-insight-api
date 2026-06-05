@@ -1,15 +1,84 @@
 {
-  "date": "20260604",
-  "updateTime": "2026-06-04T02:44:16.719Z",
+  "date": "20260605",
+  "updateTime": "2026-06-05T02:30:53.558Z",
   "headlines": [
     {
-      "id": "20260604_001",
+      "id": "20260605_001",
+      "title": "How Endava is redesigning software delivery around AI agents",
+      "originalTitle": "How Endava is redesigning software delivery around AI agents",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Thu, 04 Jun 2026 12:00:00 GMT",
+      "crawlDate": "2026-06-05",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/endava-frontiers"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "How Endava is redesigning software delivery around AI agents。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260605_002",
+      "title": "Dreaming: Better memory for a more helpful ChatGPT",
+      "originalTitle": "Dreaming: Better memory for a more helpful ChatGPT",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 04 Jun 2026 09:00:00 GMT",
+      "crawlDate": "2026-06-05",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/chatgpt-memory-dreaming"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Dreaming: Better memory for a more helpful ChatGPT。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260605_003",
+      "title": "Biodefense in the Intelligence Age",
+      "originalTitle": "Biodefense in the Intelligence Age",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 04 Jun 2026 00:00:00 GMT",
+      "crawlDate": "2026-06-05",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/biodefense-in-the-intelligence-age"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Biodefense in the Intelligence Age。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260605_004",
       "title": "Introducing new capabilities to GPT-Rosalind",
       "originalTitle": "Introducing new capabilities to GPT-Rosalind",
       "category": "research",
       "categoryName": "科研突破",
       "publishDate": "Wed, 03 Jun 2026 13:15:00 GMT",
-      "crawlDate": "2026-06-04",
+      "crawlDate": "2026-06-05",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +95,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260604_002",
+      "id": "20260605_005",
       "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
       "originalTitle": "How Wasmer used Codex to build a Node.js runtime for the edge",
       "category": "devtool",
       "categoryName": "开发工具",
       "publishDate": "Wed, 03 Jun 2026 12:00:00 GMT",
-      "crawlDate": "2026-06-04",
+      "crawlDate": "2026-06-05",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -47,132 +116,109 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260604_003",
-      "title": "A blueprint for democratic governance of frontier AI",
-      "originalTitle": "A blueprint for democratic governance of frontier AI",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Wed, 03 Jun 2026 10:00:00 GMT",
-      "crawlDate": "2026-06-04",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/frontier-safety-blueprint"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "A blueprint for democratic governance of frontier AI。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260604_004",
-      "title": "OpenAI public policy agenda",
-      "originalTitle": "OpenAI public policy agenda",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Wed, 03 Jun 2026 10:00:00 GMT",
-      "crawlDate": "2026-06-04",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/public-policy-agenda"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "OpenAI public policy agenda。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260604_005",
-      "title": "扣子3.0实测：手机就能远程遥控你电脑里的Agent",
-      "originalTitle": "扣子3.0实测：手机就能远程遥控你电脑里的Agent",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 04 Jun 2026 01:37:49 +0000",
-      "crawlDate": "2026-06-04",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/428648.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "扣子3.0实测：手机就能远程遥控你电脑里的Agent。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
   "quickBrowse": [
     {
-      "id": "20260604_q001",
-      "title": "Travelers deploys AI-powered claims countrywide with OpenAI",
-      "originalTitle": "Travelers deploys AI-powered claims countrywide with OpenAI",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 02 Jun 2026 12:00:00 GMT",
-      "crawlDate": "2026-06-04",
+      "id": "20260605_q001",
+      "title": "CVPR 2026，英伟达特斯拉Waymo一块听中国公司讲物理AI",
+      "originalTitle": "CVPR 2026，英伟达特斯拉Waymo一块听中国公司讲物理AI",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 04 Jun 2026 11:56:35 +0000",
+      "crawlDate": "2026-06-05",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/travelers"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/06/429130.html"
       },
       "tags": [
-        "官方",
-        "企业动态"
+        "媒体",
+        "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "Travelers deploys AI-powered claims countrywide with OpenAI。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "CVPR 2026，英伟达特斯拉Waymo一块听中国公司讲物理AI。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260604_q002",
-      "title": "Holo3.1: Fast & Local Computer Use Agents",
-      "originalTitle": "Holo3.1: Fast & Local Computer Use Agents",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Tue, 02 Jun 2026 14:13:23 GMT",
-      "crawlDate": "2026-06-04",
+      "id": "20260605_q002",
+      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+      "originalTitle": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 04 Jun 2026 18:57:45 GMT",
+      "crawlDate": "2026-06-05",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
-        "url": "https://huggingface.co/blog/Hcompany/holo31"
+        "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260605_q003",
+      "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+      "originalTitle": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Thu, 04 Jun 2026 12:24:58 GMT",
+      "crawlDate": "2026-06-05",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data"
+      },
+      "tags": [
+        "官方",
+        "开发工具"
+      ],
+      "isHeadline": false,
+      "coreInsight": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260605_q004",
+      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+      "originalTitle": "Designing the hf CLI as an agent-optimized way to work with the Hub",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Thu, 04 Jun 2026 00:00:00 GMT",
+      "crawlDate": "2026-06-05",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/hf-cli-for-agents"
       },
       "tags": [
         "官方",
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "Holo3.1: Fast & Local Computer Use Agents。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Designing the hf CLI as an agent-optimized way to work with the Hub。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260604_q003",
+      "id": "20260605_q005",
       "title": "5 ways Google Search can level up your thrift and vintage shopping",
       "originalTitle": "5 ways Google Search can level up your thrift and vintage shopping",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Wed, 03 Jun 2026 13:00:00 +0000",
-      "crawlDate": "2026-06-04",
+      "crawlDate": "2026-06-05",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -189,76 +235,53 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260604_q004",
-      "title": "How we used Gemini to build Google I/O 2026",
-      "originalTitle": "How we used Gemini to build Google I/O 2026",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Mon, 01 Jun 2026 16:00:00 +0000",
-      "crawlDate": "2026-06-04",
+      "id": "20260605_q006",
+      "title": "The Download: AI-generated lawsuits and virtual power plants for data centers",
+      "originalTitle": "The Download: AI-generated lawsuits and virtual power plants for data centers",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 04 Jun 2026 12:10:00 +0000",
+      "crawlDate": "2026-06-05",
       "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/"
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/"
       },
       "tags": [
-        "官方",
-        "企业动态"
+        "媒体",
+        "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "How we used Gemini to build Google I/O 2026。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: AI-generated lawsuits and virtual power plants for data centers。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260604_q005",
-      "title": "The Download: Trump’s new AI order, and smart glasses for warfare",
-      "originalTitle": "The Download: Trump’s new AI order, and smart glasses for warfare",
-      "category": "application",
-      "categoryName": "应用落地",
-      "publishDate": "Wed, 03 Jun 2026 12:10:00 +0000",
-      "crawlDate": "2026-06-04",
+      "id": "20260605_q007",
+      "title": "How courts are coping with a flood of AI-generated lawsuits",
+      "originalTitle": "How courts are coping with a flood of AI-generated lawsuits",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 04 Jun 2026 10:50:18 +0000",
+      "crawlDate": "2026-06-05",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/"
+        "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/"
       },
       "tags": [
         "媒体",
-        "应用落地"
+        "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: Trump’s new AI order, and smart glasses for warfare。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260604_q006",
-      "title": "The Download: AI can run your admin department now",
-      "originalTitle": "The Download: AI can run your admin department now",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Tue, 02 Jun 2026 12:10:00 +0000",
-      "crawlDate": "2026-06-04",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/"
-      },
-      "tags": [
-        "媒体",
-        "科研突破"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Download: AI can run your admin department now。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "How courts are coping with a flood of AI-generated lawsuits。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 11,
+  "total": 12,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
