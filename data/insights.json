@@ -1,49 +1,49 @@
 {
   "date": "20260607",
-  "updateTime": "2026-06-07T02:36:26.696Z",
+  "updateTime": "2026-06-07T13:54:52.803Z",
   "headlines": [
     {
       "id": "20260607_001",
-      "title": "How Endava is redesigning software delivery around AI agents",
-      "originalTitle": "How Endava is redesigning software delivery around AI agents",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 04 Jun 2026 12:00:00 GMT",
+      "title": "OpenAI芯片核心叛逃Anthropic！就在量产前夜",
+      "originalTitle": "OpenAI芯片核心叛逃Anthropic！就在量产前夜",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Sun, 07 Jun 2026 12:07:44 +0000",
       "crawlDate": "2026-06-07",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/endava-frontiers"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/06/431499.html"
       },
       "tags": [
-        "官方",
-        "Agent"
+        "媒体",
+        "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "How Endava is redesigning software delivery around AI agents。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "OpenAI芯片核心叛逃Anthropic！就在量产前夜。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260607_002",
-      "title": "Dreaming: Better memory for a more helpful ChatGPT",
-      "originalTitle": "Dreaming: Better memory for a more helpful ChatGPT",
+      "title": "教你用AI一节课收17万，华尔街精英排着队付费",
+      "originalTitle": "教你用AI一节课收17万，华尔街精英排着队付费",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Thu, 04 Jun 2026 09:00:00 GMT",
+      "publishDate": "Sun, 07 Jun 2026 03:10:13 +0000",
       "crawlDate": "2026-06-07",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/chatgpt-memory-dreaming"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/06/431487.html"
       },
       "tags": [
-        "官方",
+        "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "Dreaming: Better memory for a more helpful ChatGPT。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "教你用AI一节课收17万，华尔街精英排着队付费。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -73,77 +73,29 @@
     },
     {
       "id": "20260607_004",
-      "title": "大模型发展三年半，AI圈终于等来了一场“不要大厂，只赌脑洞”的比赛",
-      "originalTitle": "大模型发展三年半，AI圈终于等来了一场“不要大厂，只赌脑洞”的比赛",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sat, 06 Jun 2026 07:15:13 +0000",
+      "title": "Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange",
+      "originalTitle": "Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Sun, 07 Jun 2026 11:38:54 GMT",
       "crawlDate": "2026-06-07",
       "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/431287.html"
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers"
       },
       "tags": [
-        "媒体",
-        "大语言模型"
+        "官方",
+        "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "大模型发展三年半，AI圈终于等来了一场“不要大厂，只赌脑洞”的比赛。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260607_005",
-      "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
-      "originalTitle": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Thu, 04 Jun 2026 12:24:58 GMT",
-      "crawlDate": "2026-06-07",
-      "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data"
-      },
-      "tags": [
-        "官方",
-        "开发工具"
-      ],
-      "isHeadline": true,
-      "coreInsight": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
-    {
-      "id": "20260607_q001",
-      "title": "Hinton吹哨了：AI已经有意识！",
-      "originalTitle": "Hinton吹哨了：AI已经有意识！",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sat, 06 Jun 2026 07:08:15 +0000",
-      "crawlDate": "2026-06-07",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/431349.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Hinton吹哨了：AI已经有意识！。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260607_q002",
       "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
       "originalTitle": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
       "category": "llm",
@@ -159,14 +111,16 @@
         "官方",
         "大语言模型"
       ],
-      "isHeadline": false,
+      "isHeadline": true,
       "coreInsight": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
+    }
+  ],
+  "quickBrowse": [
     {
-      "id": "20260607_q003",
+      "id": "20260607_q001",
       "title": "The latest AI news we announced in May 2026",
       "originalTitle": "The latest AI news we announced in May 2026",
       "category": "company",
@@ -189,7 +143,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260607_q004",
+      "id": "20260607_q002",
       "title": "LLM Research Papers: The 2026 List (January to May)",
       "originalTitle": "LLM Research Papers: The 2026 List (January to May)",
       "category": "research",
@@ -212,7 +166,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260607_q005",
+      "id": "20260607_q003",
       "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
       "originalTitle": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
       "category": "agent",
@@ -235,7 +189,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260607_q006",
+      "id": "20260607_q004",
       "title": "Are AI chatbots making us lose control of our brains?",
       "originalTitle": "Are AI chatbots making us lose control of our brains?",
       "category": "research",
@@ -258,7 +212,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260607_q007",
+      "id": "20260607_q005",
       "title": "The Meta hack shows there’s more to AI security than Mythos",
       "originalTitle": "The Meta hack shows there’s more to AI security than Mythos",
       "category": "agent",
@@ -281,7 +235,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 12,
+  "total": 10,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
