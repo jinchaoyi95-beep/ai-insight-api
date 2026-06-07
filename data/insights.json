@@ -1,15 +1,15 @@
 {
-  "date": "20260605",
-  "updateTime": "2026-06-05T14:53:30.064Z",
+  "date": "20260607",
+  "updateTime": "2026-06-07T02:36:26.696Z",
   "headlines": [
     {
-      "id": "20260605_001",
+      "id": "20260607_001",
       "title": "How Endava is redesigning software delivery around AI agents",
       "originalTitle": "How Endava is redesigning software delivery around AI agents",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Thu, 04 Jun 2026 12:00:00 GMT",
-      "crawlDate": "2026-06-05",
+      "crawlDate": "2026-06-07",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +26,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260605_002",
+      "id": "20260607_002",
       "title": "Dreaming: Better memory for a more helpful ChatGPT",
       "originalTitle": "Dreaming: Better memory for a more helpful ChatGPT",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Thu, 04 Jun 2026 09:00:00 GMT",
-      "crawlDate": "2026-06-05",
+      "crawlDate": "2026-06-07",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,70 +49,70 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260605_003",
-      "title": "Biodefense in the Intelligence Age",
-      "originalTitle": "Biodefense in the Intelligence Age",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 04 Jun 2026 00:00:00 GMT",
-      "crawlDate": "2026-06-05",
+      "id": "20260607_003",
+      "title": "5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队",
+      "originalTitle": "5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队",
+      "category": "image-video",
+      "categoryName": "AI绘画/视频",
+      "publishDate": "Sun, 07 Jun 2026 01:13:21 +0000",
+      "crawlDate": "2026-06-07",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/biodefense-in-the-intelligence-age"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/06/431401.html"
       },
       "tags": [
-        "官方",
+        "媒体",
+        "AI绘画/视频"
+      ],
+      "isHeadline": true,
+      "coreInsight": "5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260607_004",
+      "title": "大模型发展三年半，AI圈终于等来了一场“不要大厂，只赌脑洞”的比赛",
+      "originalTitle": "大模型发展三年半，AI圈终于等来了一场“不要大厂，只赌脑洞”的比赛",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Sat, 06 Jun 2026 07:15:13 +0000",
+      "crawlDate": "2026-06-07",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/06/431287.html"
+      },
+      "tags": [
+        "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "Biodefense in the Intelligence Age。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "大模型发展三年半，AI圈终于等来了一场“不要大厂，只赌脑洞”的比赛。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260605_004",
-      "title": "Introducing new capabilities to GPT-Rosalind",
-      "originalTitle": "Introducing new capabilities to GPT-Rosalind",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Wed, 03 Jun 2026 13:15:00 GMT",
-      "crawlDate": "2026-06-05",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind"
-      },
-      "tags": [
-        "官方",
-        "科研突破"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Introducing new capabilities to GPT-Rosalind。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260605_005",
-      "title": "How Wasmer used Codex to build a Node.js runtime for the edge",
-      "originalTitle": "How Wasmer used Codex to build a Node.js runtime for the edge",
+      "id": "20260607_005",
+      "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
+      "originalTitle": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
       "category": "devtool",
       "categoryName": "开发工具",
-      "publishDate": "Wed, 03 Jun 2026 12:00:00 GMT",
-      "crawlDate": "2026-06-05",
+      "publishDate": "Thu, 04 Jun 2026 12:24:58 GMT",
+      "crawlDate": "2026-06-07",
       "source": {
-        "name": "OpenAI Blog",
+        "name": "Hugging Face",
         "type": "官方",
-        "url": "https://openai.com/index/wasmer"
+        "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data"
       },
       "tags": [
         "官方",
         "开发工具"
       ],
       "isHeadline": true,
-      "coreInsight": "How Wasmer used Codex to build a Node.js runtime for the edge。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -120,128 +120,36 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260605_q001",
-      "title": "有人靠CPU把AI算力密度卷到了新高度",
-      "originalTitle": "有人靠CPU把AI算力密度卷到了新高度",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Fri, 05 Jun 2026 13:16:53 +0000",
-      "crawlDate": "2026-06-05",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/431045.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "有人靠CPU把AI算力密度卷到了新高度。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260605_q002",
-      "title": "智源&清华合作成果登上Science：脑科学多模态基础模型Brainμ支撑揭示“记忆-睡眠”调控的神经机制",
-      "originalTitle": "智源&清华合作成果登上Science：脑科学多模态基础模型Brainμ支撑揭示“记忆-睡眠”调控的神经机制",
+      "id": "20260607_q001",
+      "title": "Hinton吹哨了：AI已经有意识！",
+      "originalTitle": "Hinton吹哨了：AI已经有意识！",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Fri, 05 Jun 2026 10:53:01 +0000",
-      "crawlDate": "2026-06-05",
+      "publishDate": "Sat, 06 Jun 2026 07:08:15 +0000",
+      "crawlDate": "2026-06-07",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/431033.html"
+        "url": "https://www.qbitai.com/2026/06/431349.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "智源&清华合作成果登上Science：脑科学多模态基础模型Brainμ支撑揭示“记忆-睡眠”调控的神经机制。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Hinton吹哨了：AI已经有意识！。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260605_q003",
-      "title": "华为云发布Agentic AI系列新品 打造智能时代“硅基黑土地”",
-      "originalTitle": "华为云发布Agentic AI系列新品 打造智能时代“硅基黑土地”",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Fri, 05 Jun 2026 10:46:59 +0000",
-      "crawlDate": "2026-06-05",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/431027.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "华为云发布Agentic AI系列新品 打造智能时代“硅基黑土地”。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260605_q004",
-      "title": "国星宇航与腾讯云签署“星算”计划战略合作协议，携手领航AI云服务新生态",
-      "originalTitle": "国星宇航与腾讯云签署“星算”计划战略合作协议，携手领航AI云服务新生态",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 05 Jun 2026 09:40:44 +0000",
-      "crawlDate": "2026-06-05",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/430757.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "国星宇航与腾讯云签署“星算”计划战略合作协议，携手领航AI云服务新生态。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260605_q005",
-      "title": "WPS笔记正式发布：AI贯穿记录、整理与复用全过程",
-      "originalTitle": "WPS笔记正式发布：AI贯穿记录、整理与复用全过程",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 05 Jun 2026 09:16:04 +0000",
-      "crawlDate": "2026-06-05",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/431014.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "WPS笔记正式发布：AI贯穿记录、整理与复用全过程。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260605_q006",
+      "id": "20260607_q002",
       "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
       "originalTitle": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Thu, 04 Jun 2026 18:57:45 GMT",
-      "crawlDate": "2026-06-05",
+      "crawlDate": "2026-06-07",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -258,59 +166,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260605_q007",
-      "title": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
-      "originalTitle": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Thu, 04 Jun 2026 12:24:58 GMT",
-      "crawlDate": "2026-06-05",
-      "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data"
-      },
-      "tags": [
-        "官方",
-        "开发工具"
-      ],
-      "isHeadline": false,
-      "coreInsight": "EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260605_q008",
-      "title": "Designing the hf CLI as an agent-optimized way to work with the Hub",
-      "originalTitle": "Designing the hf CLI as an agent-optimized way to work with the Hub",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 04 Jun 2026 00:00:00 GMT",
-      "crawlDate": "2026-06-05",
-      "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/hf-cli-for-agents"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Designing the hf CLI as an agent-optimized way to work with the Hub。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260605_q009",
+      "id": "20260607_q003",
       "title": "The latest AI news we announced in May 2026",
       "originalTitle": "The latest AI news we announced in May 2026",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 05 Jun 2026 14:45:00 +0000",
-      "crawlDate": "2026-06-05",
+      "crawlDate": "2026-06-07",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -327,30 +189,99 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260605_q010",
-      "title": "5 ways Google Search can level up your thrift and vintage shopping",
-      "originalTitle": "5 ways Google Search can level up your thrift and vintage shopping",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Wed, 03 Jun 2026 13:00:00 +0000",
-      "crawlDate": "2026-06-05",
+      "id": "20260607_q004",
+      "title": "LLM Research Papers: The 2026 List (January to May)",
+      "originalTitle": "LLM Research Papers: The 2026 List (January to May)",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Sat, 06 Jun 2026 11:16:22 GMT",
+      "crawlDate": "2026-06-07",
       "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/"
+        "name": "Sebastian Raschka",
+        "type": "专家",
+        "url": "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1"
       },
       "tags": [
-        "官方",
-        "企业动态"
+        "专家",
+        "科研突破"
       ],
       "isHeadline": false,
-      "coreInsight": "5 ways Google Search can level up your thrift and vintage shopping。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "LLM Research Papers: The 2026 List (January to May)。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260607_q005",
+      "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
+      "originalTitle": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Fri, 05 Jun 2026 12:10:00 +0000",
+      "crawlDate": "2026-06-07",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260607_q006",
+      "title": "Are AI chatbots making us lose control of our brains?",
+      "originalTitle": "Are AI chatbots making us lose control of our brains?",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Fri, 05 Jun 2026 09:00:00 +0000",
+      "crawlDate": "2026-06-07",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/"
+      },
+      "tags": [
+        "媒体",
+        "科研突破"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Are AI chatbots making us lose control of our brains?。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260607_q007",
+      "title": "The Meta hack shows there’s more to AI security than Mythos",
+      "originalTitle": "The Meta hack shows there’s more to AI security than Mythos",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Fri, 05 Jun 2026 09:00:00 +0000",
+      "crawlDate": "2026-06-07",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The Meta hack shows there’s more to AI security than Mythos。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 15,
+  "total": 12,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
