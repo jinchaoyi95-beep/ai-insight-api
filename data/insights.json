@@ -1,155 +1,107 @@
 {
-  "date": "20260607",
-  "updateTime": "2026-06-07T13:54:52.803Z",
+  "date": "20260608",
+  "updateTime": "2026-06-08T15:54:43.681Z",
   "headlines": [
     {
-      "id": "20260607_001",
-      "title": "OpenAI芯片核心叛逃Anthropic！就在量产前夜",
-      "originalTitle": "OpenAI芯片核心叛逃Anthropic！就在量产前夜",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Sun, 07 Jun 2026 12:07:44 +0000",
-      "crawlDate": "2026-06-07",
+      "id": "20260608_001",
+      "title": "蚂蚁集团推出海外AI支付解决方案 商户可实现全球智能体运营",
+      "originalTitle": "蚂蚁集团推出海外AI支付解决方案 商户可实现全球智能体运营",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 08 Jun 2026 10:40:55 +0000",
+      "crawlDate": "2026-06-08",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/431499.html"
+        "url": "https://www.qbitai.com/2026/06/432587.html"
       },
       "tags": [
         "媒体",
-        "企业动态"
+        "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "OpenAI芯片核心叛逃Anthropic！就在量产前夜。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "蚂蚁集团推出海外AI支付解决方案 商户可实现全球智能体运营。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260607_002",
-      "title": "教你用AI一节课收17万，华尔街精英排着队付费",
-      "originalTitle": "教你用AI一节课收17万，华尔街精英排着队付费",
+      "id": "20260608_002",
+      "title": "难上热搜的高考数学，我拿ChatGPT和豆包PK了一把！",
+      "originalTitle": "难上热搜的高考数学，我拿ChatGPT和豆包PK了一把！",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Sun, 07 Jun 2026 03:10:13 +0000",
-      "crawlDate": "2026-06-07",
+      "publishDate": "Mon, 08 Jun 2026 08:28:48 +0000",
+      "crawlDate": "2026-06-08",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/431487.html"
+        "url": "https://www.qbitai.com/2026/06/432425.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "教你用AI一节课收17万，华尔街精英排着队付费。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "难上热搜的高考数学，我拿ChatGPT和豆包PK了一把！。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260607_003",
-      "title": "5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队",
-      "originalTitle": "5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队",
-      "category": "image-video",
-      "categoryName": "AI绘画/视频",
-      "publishDate": "Sun, 07 Jun 2026 01:13:21 +0000",
-      "crawlDate": "2026-06-07",
+      "id": "20260608_003",
+      "title": "AI创业者集结！“2026新一代人工智能（深圳）创业创新大赛”正式启动",
+      "originalTitle": "AI创业者集结！“2026新一代人工智能（深圳）创业创新大赛”正式启动",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 08 Jun 2026 08:09:25 +0000",
+      "crawlDate": "2026-06-08",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/431401.html"
+        "url": "https://www.qbitai.com/2026/06/432581.html"
       },
       "tags": [
         "媒体",
-        "AI绘画/视频"
-      ],
-      "isHeadline": true,
-      "coreInsight": "5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260607_004",
-      "title": "Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange",
-      "originalTitle": "Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Sun, 07 Jun 2026 11:38:54 GMT",
-      "crawlDate": "2026-06-07",
-      "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/build-small-hackathon/sponsors-vouchers"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Sponsors especially OPENAI CODEX voucher usage for codex - openAI challange。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260607_005",
-      "title": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-      "originalTitle": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 04 Jun 2026 18:57:45 GMT",
-      "crawlDate": "2026-06-07",
-      "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety"
-      },
-      "tags": [
-        "官方",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
-    {
-      "id": "20260607_q001",
-      "title": "The latest AI news we announced in May 2026",
-      "originalTitle": "The latest AI news we announced in May 2026",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Fri, 05 Jun 2026 14:45:00 +0000",
-      "crawlDate": "2026-06-07",
-      "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The latest AI news we announced in May 2026。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "AI创业者集结！“2026新一代人工智能（深圳）创业创新大赛”正式启动。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260607_q002",
+      "id": "20260608_004",
+      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
+      "originalTitle": "The Open Source Community is backing OpenEnv for Agentic RL",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 08 Jun 2026 00:00:00 GMT",
+      "crawlDate": "2026-06-08",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/openenv-agentic-rl"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "The Open Source Community is backing OpenEnv for Agentic RL。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260608_005",
       "title": "LLM Research Papers: The 2026 List (January to May)",
       "originalTitle": "LLM Research Papers: The 2026 List (January to May)",
       "category": "research",
       "categoryName": "科研突破",
       "publishDate": "Sat, 06 Jun 2026 11:16:22 GMT",
-      "crawlDate": "2026-06-07",
+      "crawlDate": "2026-06-08",
       "source": {
         "name": "Sebastian Raschka",
         "type": "专家",
@@ -159,83 +111,62 @@
         "专家",
         "科研突破"
       ],
-      "isHeadline": false,
+      "isHeadline": true,
       "coreInsight": "LLM Research Papers: The 2026 List (January to May)。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260607_q003",
-      "title": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
-      "originalTitle": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Fri, 05 Jun 2026 12:10:00 +0000",
-      "crawlDate": "2026-06-07",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Download: AI hacking beyond Mythos, and chatbots’ impact on our brains。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260607_q004",
-      "title": "Are AI chatbots making us lose control of our brains?",
-      "originalTitle": "Are AI chatbots making us lose control of our brains?",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Fri, 05 Jun 2026 09:00:00 +0000",
-      "crawlDate": "2026-06-07",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/"
-      },
-      "tags": [
-        "媒体",
-        "科研突破"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Are AI chatbots making us lose control of our brains?。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260607_q005",
-      "title": "The Meta hack shows there’s more to AI security than Mythos",
-      "originalTitle": "The Meta hack shows there’s more to AI security than Mythos",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Fri, 05 Jun 2026 09:00:00 +0000",
-      "crawlDate": "2026-06-07",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Meta hack shows there’s more to AI security than Mythos。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 10,
+  "quickBrowse": [
+    {
+      "id": "20260608_q001",
+      "title": "大模型看Coding，具身看Picking！原力灵机已抢先入局",
+      "originalTitle": "大模型看Coding，具身看Picking！原力灵机已抢先入局",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 08 Jun 2026 06:30:23 +0000",
+      "crawlDate": "2026-06-08",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/06/432417.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "大模型看Coding，具身看Picking！原力灵机已抢先入局。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260608_q002",
+      "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
+      "originalTitle": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 08 Jun 2026 12:10:00 +0000",
+      "crawlDate": "2026-06-08",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/"
+      },
+      "tags": [
+        "媒体",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The Download: how the World Cup ball will fly and OpenAI’s “super app”。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    }
+  ],
+  "total": 7,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
