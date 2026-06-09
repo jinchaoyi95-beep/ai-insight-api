@@ -1,6 +1,6 @@
 {
   "date": "20260609",
-  "updateTime": "2026-06-09T02:07:18.078Z",
+  "updateTime": "2026-06-09T14:53:50.167Z",
   "headlines": [
     {
       "id": "20260609_001",
@@ -73,46 +73,46 @@
     },
     {
       "id": "20260609_004",
-      "title": "蚂蚁集团推出海外AI支付解决方案 商户可实现全球智能体运营",
-      "originalTitle": "蚂蚁集团推出海外AI支付解决方案 商户可实现全球智能体运营",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Mon, 08 Jun 2026 10:40:55 +0000",
-      "crawlDate": "2026-06-09",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/432587.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "蚂蚁集团推出海外AI支付解决方案 商户可实现全球智能体运营。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260609_005",
-      "title": "难上热搜的高考数学，我拿ChatGPT和豆包PK了一把！",
-      "originalTitle": "难上热搜的高考数学，我拿ChatGPT和豆包PK了一把！",
+      "title": "内蒙跑通AI逆袭新解法",
+      "originalTitle": "内蒙跑通AI逆袭新解法",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Mon, 08 Jun 2026 08:28:48 +0000",
+      "publishDate": "Tue, 09 Jun 2026 13:40:54 +0000",
       "crawlDate": "2026-06-09",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/432425.html"
+        "url": "https://www.qbitai.com/2026/06/433565.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "难上热搜的高考数学，我拿ChatGPT和豆包PK了一把！。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "内蒙跑通AI逆袭新解法。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260609_005",
+      "title": "你最该认识的「硅谷CEO」：面试紧张，害怕演讲，管出最赚钱的AI广告公司",
+      "originalTitle": "你最该认识的「硅谷CEO」：面试紧张，害怕演讲，管出最赚钱的AI广告公司",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 09 Jun 2026 09:12:19 +0000",
+      "crawlDate": "2026-06-09",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/06/433517.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "你最该认识的「硅谷CEO」：面试紧张，害怕演讲，管出最赚钱的AI广告公司。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -121,52 +121,75 @@
   "quickBrowse": [
     {
       "id": "20260609_q001",
-      "title": "AI创业者集结！“2026新一代人工智能（深圳）创业创新大赛”正式启动",
-      "originalTitle": "AI创业者集结！“2026新一代人工智能（深圳）创业创新大赛”正式启动",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Mon, 08 Jun 2026 08:09:25 +0000",
+      "title": "与爱为舞亮相腾讯云AI产业应用大会，深耕教育大模型，打造下一代学习Agent",
+      "originalTitle": "与爱为舞亮相腾讯云AI产业应用大会，深耕教育大模型，打造下一代学习Agent",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Tue, 09 Jun 2026 07:11:48 +0000",
       "crawlDate": "2026-06-09",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/432581.html"
+        "url": "https://www.qbitai.com/2026/06/433508.html"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "AI创业者集结！“2026新一代人工智能（深圳）创业创新大赛”正式启动。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "与爱为舞亮相腾讯云AI产业应用大会，深耕教育大模型，打造下一代学习Agent。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260609_q002",
-      "title": "大模型看Coding，具身看Picking！原力灵机已抢先入局",
-      "originalTitle": "大模型看Coding，具身看Picking！原力灵机已抢先入局",
+      "title": "仅4B大小可端侧部署！卡帕西预言的「认知模型」被国产做出来了",
+      "originalTitle": "仅4B大小可端侧部署！卡帕西预言的「认知模型」被国产做出来了",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Mon, 08 Jun 2026 06:30:23 +0000",
+      "publishDate": "Tue, 09 Jun 2026 04:17:04 +0000",
       "crawlDate": "2026-06-09",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/432417.html"
+        "url": "https://www.qbitai.com/2026/06/433478.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "大模型看Coding，具身看Picking！原力灵机已抢先入局。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "仅4B大小可端侧部署！卡帕西预言的「认知模型」被国产做出来了。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260609_q003",
+      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+      "originalTitle": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Tue, 09 Jun 2026 10:46:19 GMT",
+      "crawlDate": "2026-06-09",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/mishig/spaces-agents-md"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260609_q004",
       "title": "The Open Source Community is backing OpenEnv for Agentic RL",
       "originalTitle": "The Open Source Community is backing OpenEnv for Agentic RL",
       "category": "agent",
@@ -189,53 +212,76 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260609_q004",
-      "title": "LLM Research Papers: The 2026 List (January to May)",
-      "originalTitle": "LLM Research Papers: The 2026 List (January to May)",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Sat, 06 Jun 2026 11:16:22 GMT",
+      "id": "20260609_q005",
+      "title": "The Download: whole-body rejuvenation drugs and five things to know about AI",
+      "originalTitle": "The Download: whole-body rejuvenation drugs and five things to know about AI",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 09 Jun 2026 12:10:00 +0000",
       "crawlDate": "2026-06-09",
       "source": {
-        "name": "Sebastian Raschka",
-        "type": "专家",
-        "url": "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1"
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/"
       },
       "tags": [
-        "专家",
-        "科研突破"
+        "媒体",
+        "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "LLM Research Papers: The 2026 List (January to May)。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: whole-body rejuvenation drugs and five things to know about AI。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260609_q005",
-      "title": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
-      "originalTitle": "The Download: how the World Cup ball will fly and OpenAI’s “super app”",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Mon, 08 Jun 2026 12:10:00 +0000",
+      "id": "20260609_q006",
+      "title": "Learning to lead in a hybrid human-AI enterprise",
+      "originalTitle": "Learning to lead in a hybrid human-AI enterprise",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Tue, 09 Jun 2026 10:20:06 +0000",
       "crawlDate": "2026-06-09",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/08/1138485/the-download-world-cup-ball-openai-super-app/"
+        "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/"
       },
       "tags": [
         "媒体",
-        "企业动态"
+        "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: how the World Cup ball will fly and OpenAI’s “super app”。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Learning to lead in a hybrid human-AI enterprise。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260609_q007",
+      "title": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition",
+      "originalTitle": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 09 Jun 2026 10:00:00 +0000",
+      "crawlDate": "2026-06-09",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/06/09/1138545/david-sinclair-plans-to-test-whole-body-rejuvenation-drugs-in-the-xprize-competition/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 10,
+  "total": 12,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
