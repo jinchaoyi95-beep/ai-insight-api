@@ -1,118 +1,118 @@
 {
-  "date": "20260609",
-  "updateTime": "2026-06-09T14:53:50.167Z",
+  "date": "20260611",
+  "updateTime": "2026-06-11T16:03:48.871Z",
   "headlines": [
     {
-      "id": "20260609_001",
-      "title": "Confidential submission of draft S-1 to the SEC",
-      "originalTitle": "Confidential submission of draft S-1 to the SEC",
+      "id": "20260611_001",
+      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
+      "originalTitle": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
       "category": "company",
       "categoryName": "企业动态",
-      "publishDate": "Mon, 08 Jun 2026 14:00:00 GMT",
-      "crawlDate": "2026-06-09",
+      "publishDate": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "crawlDate": "2026-06-11",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/openai-submits-confidential-s-1"
+        "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
       },
       "tags": [
         "官方",
         "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "Confidential submission of draft S-1 to the SEC。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem 。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260609_002",
-      "title": "Built to benefit everyone: our plan",
-      "originalTitle": "Built to benefit everyone: our plan",
+      "id": "20260611_002",
+      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "originalTitle": "Access OpenAI models and Codex through your Oracle cloud commitment",
       "category": "company",
       "categoryName": "企业动态",
-      "publishDate": "Mon, 08 Jun 2026 01:30:00 GMT",
-      "crawlDate": "2026-06-09",
+      "publishDate": "Wed, 10 Jun 2026 20:00:00 GMT",
+      "crawlDate": "2026-06-11",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/built-to-benefit-everyone-our-plan"
+        "url": "https://openai.com/index/openai-on-oracle-cloud"
       },
       "tags": [
         "官方",
         "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "Built to benefit everyone: our plan。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Access OpenAI models and Codex through your Oracle cloud commitment。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260609_003",
-      "title": "Introducing the OpenAI Economic Research Exchange",
-      "originalTitle": "Introducing the OpenAI Economic Research Exchange",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Mon, 08 Jun 2026 00:00:00 GMT",
-      "crawlDate": "2026-06-09",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/economic-research-exchange"
-      },
-      "tags": [
-        "官方",
-        "科研突破"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Introducing the OpenAI Economic Research Exchange。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260609_004",
-      "title": "内蒙跑通AI逆袭新解法",
-      "originalTitle": "内蒙跑通AI逆袭新解法",
+      "id": "20260611_003",
+      "title": "Claude Fable 5省钱秘诀来了：调成Low档比Opus更便宜",
+      "originalTitle": "Claude Fable 5省钱秘诀来了：调成Low档比Opus更便宜",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Tue, 09 Jun 2026 13:40:54 +0000",
-      "crawlDate": "2026-06-09",
+      "publishDate": "Thu, 11 Jun 2026 08:23:31 +0000",
+      "crawlDate": "2026-06-11",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/433565.html"
+        "url": "https://www.qbitai.com/2026/06/434571.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "内蒙跑通AI逆袭新解法。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Claude Fable 5省钱秘诀来了：调成Low档比Opus更便宜。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260609_005",
-      "title": "你最该认识的「硅谷CEO」：面试紧张，害怕演讲，管出最赚钱的AI广告公司",
-      "originalTitle": "你最该认识的「硅谷CEO」：面试紧张，害怕演讲，管出最赚钱的AI广告公司",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 09 Jun 2026 09:12:19 +0000",
-      "crawlDate": "2026-06-09",
+      "id": "20260611_004",
+      "title": "1290万高考生看过来！阿里出了个志愿填报Agent，免费的",
+      "originalTitle": "1290万高考生看过来！阿里出了个志愿填报Agent，免费的",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Thu, 11 Jun 2026 07:25:55 +0000",
+      "crawlDate": "2026-06-11",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/433517.html"
+        "url": "https://www.qbitai.com/2026/06/434558.html"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "你最该认识的「硅谷CEO」：面试紧张，害怕演讲，管出最赚钱的AI广告公司。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "1290万高考生看过来！阿里出了个志愿填报Agent，免费的。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260611_005",
+      "title": "3D创作迎来ChatGPT时刻：Meshy发布全球首个3D AI Agent",
+      "originalTitle": "3D创作迎来ChatGPT时刻：Meshy发布全球首个3D AI Agent",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Thu, 11 Jun 2026 04:18:34 +0000",
+      "crawlDate": "2026-06-11",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/06/434317.html"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "3D创作迎来ChatGPT时刻：Meshy发布全球首个3D AI Agent。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -120,168 +120,145 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260609_q001",
-      "title": "与爱为舞亮相腾讯云AI产业应用大会，深耕教育大模型，打造下一代学习Agent",
-      "originalTitle": "与爱为舞亮相腾讯云AI产业应用大会，深耕教育大模型，打造下一代学习Agent",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Tue, 09 Jun 2026 07:11:48 +0000",
-      "crawlDate": "2026-06-09",
+      "id": "20260611_q001",
+      "title": "PRC-linked influence operations are targeting AI debates in the US",
+      "originalTitle": "PRC-linked influence operations are targeting AI debates in the US",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 10 Jun 2026 12:00:00 GMT",
+      "crawlDate": "2026-06-11",
       "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/433508.html"
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates"
       },
       "tags": [
-        "媒体",
-        "Agent"
+        "官方",
+        "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "与爱为舞亮相腾讯云AI产业应用大会，深耕教育大模型，打造下一代学习Agent。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "PRC-linked influence operations are targeting AI debates in the US。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260609_q002",
-      "title": "仅4B大小可端侧部署！卡帕西预言的「认知模型」被国产做出来了",
-      "originalTitle": "仅4B大小可端侧部署！卡帕西预言的「认知模型」被国产做出来了",
+      "id": "20260611_q002",
+      "title": "From data to decisions: how LSEG is scaling trusted AI",
+      "originalTitle": "From data to decisions: how LSEG is scaling trusted AI",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 10 Jun 2026 00:00:00 GMT",
+      "crawlDate": "2026-06-11",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/lseg"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "From data to decisions: how LSEG is scaling trusted AI。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260611_q003",
+      "title": "Fable 5自带反蒸馏机制！检测到就降智，误触率高到离谱",
+      "originalTitle": "Fable 5自带反蒸馏机制！检测到就降智，误触率高到离谱",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Tue, 09 Jun 2026 04:17:04 +0000",
-      "crawlDate": "2026-06-09",
+      "publishDate": "Thu, 11 Jun 2026 04:16:20 +0000",
+      "crawlDate": "2026-06-11",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/433478.html"
+        "url": "https://www.qbitai.com/2026/06/434326.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "仅4B大小可端侧部署！卡帕西预言的「认知模型」被国产做出来了。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Fable 5自带反蒸馏机制！检测到就降智，误触率高到离谱。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260609_q003",
-      "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
-      "originalTitle": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+      "id": "20260611_q004",
+      "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+      "originalTitle": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Tue, 09 Jun 2026 10:46:19 GMT",
-      "crawlDate": "2026-06-09",
+      "publishDate": "Tue, 09 Jun 2026 19:38:28 GMT",
+      "crawlDate": "2026-06-11",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
-        "url": "https://huggingface.co/blog/mishig/spaces-agents-md"
+        "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching"
       },
       "tags": [
         "官方",
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260609_q004",
-      "title": "The Open Source Community is backing OpenEnv for Agentic RL",
-      "originalTitle": "The Open Source Community is backing OpenEnv for Agentic RL",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Mon, 08 Jun 2026 00:00:00 GMT",
-      "crawlDate": "2026-06-09",
-      "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/openenv-agentic-rl"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Open Source Community is backing OpenEnv for Agentic RL。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260609_q005",
-      "title": "The Download: whole-body rejuvenation drugs and five things to know about AI",
-      "originalTitle": "The Download: whole-body rejuvenation drugs and five things to know about AI",
+      "id": "20260611_q005",
+      "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
+      "originalTitle": "The Download: soccer’s data renaissance and China’s big nuclear plans",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Tue, 09 Jun 2026 12:10:00 +0000",
-      "crawlDate": "2026-06-09",
+      "publishDate": "Thu, 11 Jun 2026 12:10:00 +0000",
+      "crawlDate": "2026-06-11",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/"
+        "url": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: whole-body rejuvenation drugs and five things to know about AI。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: soccer’s data renaissance and China’s big nuclear plans。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260609_q006",
-      "title": "Learning to lead in a hybrid human-AI enterprise",
-      "originalTitle": "Learning to lead in a hybrid human-AI enterprise",
+      "id": "20260611_q006",
+      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+      "originalTitle": "Google DeepMind is worried about what happens when millions of agents start to interact",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Tue, 09 Jun 2026 10:20:06 +0000",
-      "crawlDate": "2026-06-09",
+      "publishDate": "Thu, 11 Jun 2026 11:00:45 +0000",
+      "crawlDate": "2026-06-11",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/"
+        "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/"
       },
       "tags": [
         "媒体",
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "Learning to lead in a hybrid human-AI enterprise。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260609_q007",
-      "title": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition",
-      "originalTitle": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 09 Jun 2026 10:00:00 +0000",
-      "crawlDate": "2026-06-09",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/09/1138545/david-sinclair-plans-to-test-whole-body-rejuvenation-drugs-in-the-xprize-competition/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Google DeepMind is worried about what happens when millions of agents start to interact。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 12,
+  "total": 11,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
