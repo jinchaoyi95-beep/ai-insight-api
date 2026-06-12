@@ -1,15 +1,38 @@
 {
-  "date": "20260611",
-  "updateTime": "2026-06-11T16:03:48.871Z",
+  "date": "20260612",
+  "updateTime": "2026-06-12T02:37:09.078Z",
   "headlines": [
     {
-      "id": "20260611_001",
+      "id": "20260612_001",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "originalTitle": "BBVA puts AI at the core of banking with OpenAI",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "crawlDate": "2026-06-12",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/bbva"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "BBVA puts AI at the core of banking with OpenAI。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260612_002",
       "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
       "originalTitle": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "crawlDate": "2026-06-11",
+      "crawlDate": "2026-06-12",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,36 +49,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260611_002",
-      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-      "originalTitle": "Access OpenAI models and Codex through your Oracle cloud commitment",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Wed, 10 Jun 2026 20:00:00 GMT",
-      "crawlDate": "2026-06-11",
+      "id": "20260612_003",
+      "title": "OpenAI to acquire Ona",
+      "originalTitle": "OpenAI to acquire Ona",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "crawlDate": "2026-06-12",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/openai-on-oracle-cloud"
+        "url": "https://openai.com/index/openai-to-acquire-ona"
       },
       "tags": [
         "官方",
-        "企业动态"
+        "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "Access OpenAI models and Codex through your Oracle cloud commitment。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "OpenAI to acquire Ona。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260611_003",
+      "id": "20260612_004",
       "title": "Claude Fable 5省钱秘诀来了：调成Low档比Opus更便宜",
       "originalTitle": "Claude Fable 5省钱秘诀来了：调成Low档比Opus更便宜",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Thu, 11 Jun 2026 08:23:31 +0000",
-      "crawlDate": "2026-06-11",
+      "crawlDate": "2026-06-12",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -72,13 +95,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260611_004",
+      "id": "20260612_005",
       "title": "1290万高考生看过来！阿里出了个志愿填报Agent，免费的",
       "originalTitle": "1290万高考生看过来！阿里出了个志愿填报Agent，免费的",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Thu, 11 Jun 2026 07:25:55 +0000",
-      "crawlDate": "2026-06-11",
+      "crawlDate": "2026-06-12",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -93,15 +116,40 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    }
+  ],
+  "quickBrowse": [
+    {
+      "id": "20260612_q001",
+      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "originalTitle": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 10 Jun 2026 20:00:00 GMT",
+      "crawlDate": "2026-06-12",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/openai-on-oracle-cloud"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Access OpenAI models and Codex through your Oracle cloud commitment。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260611_005",
+      "id": "20260612_q002",
       "title": "3D创作迎来ChatGPT时刻：Meshy发布全球首个3D AI Agent",
       "originalTitle": "3D创作迎来ChatGPT时刻：Meshy发布全球首个3D AI Agent",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Thu, 11 Jun 2026 04:18:34 +0000",
-      "crawlDate": "2026-06-11",
+      "crawlDate": "2026-06-12",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -111,114 +159,20 @@
         "媒体",
         "Agent"
       ],
-      "isHeadline": true,
+      "isHeadline": false,
       "coreInsight": "3D创作迎来ChatGPT时刻：Meshy发布全球首个3D AI Agent。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
-    {
-      "id": "20260611_q001",
-      "title": "PRC-linked influence operations are targeting AI debates in the US",
-      "originalTitle": "PRC-linked influence operations are targeting AI debates in the US",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Wed, 10 Jun 2026 12:00:00 GMT",
-      "crawlDate": "2026-06-11",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "PRC-linked influence operations are targeting AI debates in the US。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260611_q002",
-      "title": "From data to decisions: how LSEG is scaling trusted AI",
-      "originalTitle": "From data to decisions: how LSEG is scaling trusted AI",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Wed, 10 Jun 2026 00:00:00 GMT",
-      "crawlDate": "2026-06-11",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/lseg"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "From data to decisions: how LSEG is scaling trusted AI。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260611_q003",
-      "title": "Fable 5自带反蒸馏机制！检测到就降智，误触率高到离谱",
-      "originalTitle": "Fable 5自带反蒸馏机制！检测到就降智，误触率高到离谱",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 11 Jun 2026 04:16:20 +0000",
-      "crawlDate": "2026-06-11",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/434326.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Fable 5自带反蒸馏机制！检测到就降智，误触率高到离谱。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260611_q004",
-      "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
-      "originalTitle": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Tue, 09 Jun 2026 19:38:28 GMT",
-      "crawlDate": "2026-06-11",
-      "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260611_q005",
+      "id": "20260612_q003",
       "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
       "originalTitle": "The Download: soccer’s data renaissance and China’s big nuclear plans",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Thu, 11 Jun 2026 12:10:00 +0000",
-      "crawlDate": "2026-06-11",
+      "crawlDate": "2026-06-12",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -235,13 +189,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260611_q006",
+      "id": "20260612_q004",
       "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
       "originalTitle": "Google DeepMind is worried about what happens when millions of agents start to interact",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Thu, 11 Jun 2026 11:00:45 +0000",
-      "crawlDate": "2026-06-11",
+      "crawlDate": "2026-06-12",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -258,7 +212,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 11,
+  "total": 9,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
