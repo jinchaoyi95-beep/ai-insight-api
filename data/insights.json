@@ -1,38 +1,61 @@
 {
-  "date": "20260612",
-  "updateTime": "2026-06-12T02:37:09.078Z",
+  "date": "20260613",
+  "updateTime": "2026-06-13T14:01:29.858Z",
   "headlines": [
     {
-      "id": "20260612_001",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "originalTitle": "BBVA puts AI at the core of banking with OpenAI",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "crawlDate": "2026-06-12",
+      "id": "20260613_001",
+      "title": "New OpenAI Academy courses for the next era of work",
+      "originalTitle": "New OpenAI Academy courses for the next era of work",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Fri, 12 Jun 2026 10:00:00 GMT",
+      "crawlDate": "2026-06-13",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/bbva"
+        "url": "https://openai.com/index/academy-courses-applying-ai-at-work"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "New OpenAI Academy courses for the next era of work。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260613_002",
+      "title": "How Preply combines AI and human tutors to personalize learning",
+      "originalTitle": "How Preply combines AI and human tutors to personalize learning",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Fri, 12 Jun 2026 00:00:00 GMT",
+      "crawlDate": "2026-06-13",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/preply"
       },
       "tags": [
         "官方",
         "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "BBVA puts AI at the core of banking with OpenAI。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "How Preply combines AI and human tutors to personalize learning。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260612_002",
+      "id": "20260613_003",
       "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
       "originalTitle": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "crawlDate": "2026-06-12",
+      "crawlDate": "2026-06-13",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,13 +72,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260612_003",
+      "id": "20260613_004",
       "title": "OpenAI to acquire Ona",
       "originalTitle": "OpenAI to acquire Ona",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "crawlDate": "2026-06-12",
+      "crawlDate": "2026-06-13",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -72,47 +95,24 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260612_004",
-      "title": "Claude Fable 5省钱秘诀来了：调成Low档比Opus更便宜",
-      "originalTitle": "Claude Fable 5省钱秘诀来了：调成Low档比Opus更便宜",
+      "id": "20260613_005",
+      "title": "2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”",
+      "originalTitle": "2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Thu, 11 Jun 2026 08:23:31 +0000",
-      "crawlDate": "2026-06-12",
+      "publishDate": "Sat, 13 Jun 2026 05:19:13 +0000",
+      "crawlDate": "2026-06-13",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/434571.html"
+        "url": "https://www.qbitai.com/2026/06/435394.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "Claude Fable 5省钱秘诀来了：调成Low档比Opus更便宜。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260612_005",
-      "title": "1290万高考生看过来！阿里出了个志愿填报Agent，免费的",
-      "originalTitle": "1290万高考生看过来！阿里出了个志愿填报Agent，免费的",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 11 Jun 2026 07:25:55 +0000",
-      "crawlDate": "2026-06-12",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/434558.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "1290万高考生看过来！阿里出了个志愿填报Agent，免费的。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -120,93 +120,93 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260612_q001",
-      "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
-      "originalTitle": "Access OpenAI models and Codex through your Oracle cloud commitment",
+      "id": "20260613_q001",
+      "title": "BBVA puts AI at the core of banking with OpenAI",
+      "originalTitle": "BBVA puts AI at the core of banking with OpenAI",
       "category": "company",
       "categoryName": "企业动态",
-      "publishDate": "Wed, 10 Jun 2026 20:00:00 GMT",
-      "crawlDate": "2026-06-12",
+      "publishDate": "Thu, 11 Jun 2026 00:00:00 GMT",
+      "crawlDate": "2026-06-13",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/openai-on-oracle-cloud"
+        "url": "https://openai.com/index/bbva"
       },
       "tags": [
         "官方",
         "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "Access OpenAI models and Codex through your Oracle cloud commitment。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "BBVA puts AI at the core of banking with OpenAI。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260612_q002",
-      "title": "3D创作迎来ChatGPT时刻：Meshy发布全球首个3D AI Agent",
-      "originalTitle": "3D创作迎来ChatGPT时刻：Meshy发布全球首个3D AI Agent",
+      "id": "20260613_q002",
+      "title": "Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践",
+      "originalTitle": "Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Thu, 11 Jun 2026 04:18:34 +0000",
-      "crawlDate": "2026-06-12",
+      "publishDate": "Sat, 13 Jun 2026 08:11:07 +0000",
+      "crawlDate": "2026-06-13",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/434317.html"
+        "url": "https://www.qbitai.com/2026/06/435455.html"
       },
       "tags": [
         "媒体",
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "3D创作迎来ChatGPT时刻：Meshy发布全球首个3D AI Agent。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260612_q003",
-      "title": "The Download: soccer’s data renaissance and China’s big nuclear plans",
-      "originalTitle": "The Download: soccer’s data renaissance and China’s big nuclear plans",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 11 Jun 2026 12:10:00 +0000",
-      "crawlDate": "2026-06-12",
+      "id": "20260613_q003",
+      "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
+      "originalTitle": "The Download: “reprogramming” aging, and the hidden sense of interoception",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Fri, 12 Jun 2026 12:10:00 +0000",
+      "crawlDate": "2026-06-13",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/"
+        "url": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "应用落地"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: soccer’s data renaissance and China’s big nuclear plans。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: “reprogramming” aging, and the hidden sense of interoception。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260612_q004",
-      "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "originalTitle": "Google DeepMind is worried about what happens when millions of agents start to interact",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 11 Jun 2026 11:00:45 +0000",
-      "crawlDate": "2026-06-12",
+      "id": "20260613_q004",
+      "title": "Why “reprogramming” is the buzziest approach to reversing aging right now",
+      "originalTitle": "Why “reprogramming” is the buzziest approach to reversing aging right now",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Fri, 12 Jun 2026 09:00:00 +0000",
+      "crawlDate": "2026-06-13",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/"
+        "url": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/"
       },
       "tags": [
         "媒体",
-        "Agent"
+        "应用落地"
       ],
       "isHeadline": false,
-      "coreInsight": "Google DeepMind is worried about what happens when millions of agents start to interact。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Why “reprogramming” is the buzziest approach to reversing aging right now。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
