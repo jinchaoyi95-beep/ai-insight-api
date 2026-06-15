@@ -1,15 +1,38 @@
 {
-  "date": "20260614",
-  "updateTime": "2026-06-14T02:41:15.837Z",
+  "date": "20260615",
+  "updateTime": "2026-06-15T02:46:14.305Z",
   "headlines": [
     {
-      "id": "20260614_001",
+      "id": "20260615_001",
+      "title": "Introducing the OpenAI Partner Network",
+      "originalTitle": "Introducing the OpenAI Partner Network",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Sun, 14 Jun 2026 17:00:00 GMT",
+      "crawlDate": "2026-06-15",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/introducing-openai-partner-network"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Introducing the OpenAI Partner Network。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260615_002",
       "title": "New OpenAI Academy courses for the next era of work",
       "originalTitle": "New OpenAI Academy courses for the next era of work",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Fri, 12 Jun 2026 10:00:00 GMT",
-      "crawlDate": "2026-06-14",
+      "crawlDate": "2026-06-15",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,291 +49,59 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260614_002",
-      "title": "How Preply combines AI and human tutors to personalize learning",
-      "originalTitle": "How Preply combines AI and human tutors to personalize learning",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Fri, 12 Jun 2026 00:00:00 GMT",
-      "crawlDate": "2026-06-14",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/preply"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "How Preply combines AI and human tutors to personalize learning。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260614_003",
-      "title": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
-      "originalTitle": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem ",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "crawlDate": "2026-06-14",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Supporting Europe’s work in ensuring a trustworthy AI ecosystem 。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260614_004",
-      "title": "OpenAI to acquire Ona",
-      "originalTitle": "OpenAI to acquire Ona",
+      "id": "20260615_003",
+      "title": "Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践",
+      "originalTitle": "Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "crawlDate": "2026-06-14",
+      "publishDate": "Sat, 13 Jun 2026 08:11:07 +0000",
+      "crawlDate": "2026-06-15",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/openai-to-acquire-ona"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/06/435455.html"
       },
       "tags": [
-        "官方",
+        "媒体",
         "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "OpenAI to acquire Ona。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260614_005",
-      "title": "LLM Research Papers: The 2026 List (January to May)",
-      "originalTitle": "LLM Research Papers: The 2026 List (January to May)",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Sat, 06 Jun 2026 11:16:22 GMT",
-      "crawlDate": "2026-06-14",
-      "source": {
-        "name": "Sebastian Raschka",
-        "type": "专家",
-        "url": "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1"
-      },
-      "tags": [
-        "专家",
-        "科研突破"
-      ],
-      "isHeadline": true,
-      "coreInsight": "LLM Research Papers: The 2026 List (January to May)。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
-    {
-      "id": "20260614_q001",
-      "title": "BBVA puts AI at the core of banking with OpenAI",
-      "originalTitle": "BBVA puts AI at the core of banking with OpenAI",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Thu, 11 Jun 2026 00:00:00 GMT",
-      "crawlDate": "2026-06-14",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/bbva"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "BBVA puts AI at the core of banking with OpenAI。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260614_q002",
-      "title": "The latest AI news we announced in May 2026",
-      "originalTitle": "The latest AI news we announced in May 2026",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Fri, 05 Jun 2026 14:45:00 +0000",
-      "crawlDate": "2026-06-14",
-      "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The latest AI news we announced in May 2026。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260614_q003",
-      "title": "5 ways Google Search can level up your thrift and vintage shopping",
-      "originalTitle": "5 ways Google Search can level up your thrift and vintage shopping",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Wed, 03 Jun 2026 13:00:00 +0000",
-      "crawlDate": "2026-06-14",
-      "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "5 ways Google Search can level up your thrift and vintage shopping。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260614_q004",
-      "title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
-      "originalTitle": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Sat, 16 May 2026 11:33:51 GMT",
-      "crawlDate": "2026-06-14",
-      "source": {
-        "name": "Sebastian Raschka",
-        "type": "专家",
-        "url": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures"
-      },
-      "tags": [
-        "专家",
-        "开发工具"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260614_q005",
-      "title": "My Workflow for Understanding LLM Architectures",
-      "originalTitle": "My Workflow for Understanding LLM Architectures",
+      "id": "20260615_004",
+      "title": "2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”",
+      "originalTitle": "2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Sat, 18 Apr 2026 11:24:36 GMT",
-      "crawlDate": "2026-06-14",
+      "publishDate": "Sat, 13 Jun 2026 05:19:13 +0000",
+      "crawlDate": "2026-06-15",
       "source": {
-        "name": "Sebastian Raschka",
-        "type": "专家",
-        "url": "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/06/435394.html"
       },
       "tags": [
-        "专家",
+        "媒体",
         "大语言模型"
       ],
-      "isHeadline": false,
-      "coreInsight": "My Workflow for Understanding LLM Architectures。该技术值得关注，建议评估其落地可行性。",
+      "isHeadline": true,
+      "coreInsight": "2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260614_q006",
-      "title": "Why We Think",
-      "originalTitle": "Why We Think",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Thu, 01 May 2025 00:00:00 +0000",
-      "crawlDate": "2026-06-14",
-      "source": {
-        "name": "Lil Log",
-        "type": "专家",
-        "url": "https://lilianweng.github.io/posts/2025-05-01-thinking/"
-      },
-      "tags": [
-        "专家",
-        "科研突破"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Why We Think。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260614_q007",
-      "title": "Reward Hacking in Reinforcement Learning",
-      "originalTitle": "Reward Hacking in Reinforcement Learning",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 28 Nov 2024 00:00:00 +0000",
-      "crawlDate": "2026-06-14",
-      "source": {
-        "name": "Lil Log",
-        "type": "专家",
-        "url": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/"
-      },
-      "tags": [
-        "专家",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Reward Hacking in Reinforcement Learning。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260614_q008",
-      "title": "Extrinsic Hallucinations in LLMs",
-      "originalTitle": "Extrinsic Hallucinations in LLMs",
-      "category": "application",
-      "categoryName": "应用落地",
-      "publishDate": "Sun, 07 Jul 2024 00:00:00 +0000",
-      "crawlDate": "2026-06-14",
-      "source": {
-        "name": "Lil Log",
-        "type": "专家",
-        "url": "https://lilianweng.github.io/posts/2024-07-07-hallucination/"
-      },
-      "tags": [
-        "专家",
-        "应用落地"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Extrinsic Hallucinations in LLMs。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260614_q009",
+      "id": "20260615_005",
       "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
       "originalTitle": "The Download: “reprogramming” aging, and the hidden sense of interoception",
       "category": "application",
       "categoryName": "应用落地",
       "publishDate": "Fri, 12 Jun 2026 12:10:00 +0000",
-      "crawlDate": "2026-06-14",
+      "crawlDate": "2026-06-15",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -320,20 +111,22 @@
         "媒体",
         "应用落地"
       ],
-      "isHeadline": false,
+      "isHeadline": true,
       "coreInsight": "The Download: “reprogramming” aging, and the hidden sense of interoception。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
+    }
+  ],
+  "quickBrowse": [
     {
-      "id": "20260614_q010",
+      "id": "20260615_q001",
       "title": "Why “reprogramming” is the buzziest approach to reversing aging right now",
       "originalTitle": "Why “reprogramming” is the buzziest approach to reversing aging right now",
       "category": "application",
       "categoryName": "应用落地",
       "publishDate": "Fri, 12 Jun 2026 09:00:00 +0000",
-      "crawlDate": "2026-06-14",
+      "crawlDate": "2026-06-15",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -350,7 +143,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 15,
+  "total": 6,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
