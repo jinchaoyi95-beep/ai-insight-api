@@ -1,6 +1,6 @@
 {
   "date": "20260615",
-  "updateTime": "2026-06-15T02:46:14.305Z",
+  "updateTime": "2026-06-15T17:15:35.423Z",
   "headlines": [
     {
       "id": "20260615_001",
@@ -27,92 +27,92 @@
     },
     {
       "id": "20260615_002",
-      "title": "New OpenAI Academy courses for the next era of work",
-      "originalTitle": "New OpenAI Academy courses for the next era of work",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Fri, 12 Jun 2026 10:00:00 GMT",
-      "crawlDate": "2026-06-15",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/academy-courses-applying-ai-at-work"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "New OpenAI Academy courses for the next era of work。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260615_003",
-      "title": "Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践",
-      "originalTitle": "Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Sat, 13 Jun 2026 08:11:07 +0000",
-      "crawlDate": "2026-06-15",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/435455.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260615_004",
-      "title": "2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”",
-      "originalTitle": "2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”",
+      "title": "校企共推AI4S 上海交通大学与太初元碁签署合作协议",
+      "originalTitle": "校企共推AI4S 上海交通大学与太初元碁签署合作协议",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Sat, 13 Jun 2026 05:19:13 +0000",
+      "publishDate": "Mon, 15 Jun 2026 12:57:10 +0000",
       "crawlDate": "2026-06-15",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/435394.html"
+        "url": "https://www.qbitai.com/2026/06/435848.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "校企共推AI4S 上海交通大学与太初元碁签署合作协议。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260615_003",
+      "title": "4步出声，单卡0.24秒！Noiz AI联合港科大清华，开源音频生成大模型",
+      "originalTitle": "4步出声，单卡0.24秒！Noiz AI联合港科大清华，开源音频生成大模型",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 15 Jun 2026 06:52:30 +0000",
+      "crawlDate": "2026-06-15",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/06/435802.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "4步出声，单卡0.24秒！Noiz AI联合港科大清华，开源音频生成大模型。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260615_004",
+      "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
+      "originalTitle": "This man with ALS is “the first power user” of a brain implant that lets him speak",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Mon, 15 Jun 2026 15:12:28 +0000",
+      "crawlDate": "2026-06-15",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/"
+      },
+      "tags": [
+        "媒体",
+        "科研突破"
+      ],
+      "isHeadline": true,
+      "coreInsight": "This man with ALS is “the first power user” of a brain implant that lets him speak。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260615_005",
-      "title": "The Download: “reprogramming” aging, and the hidden sense of interoception",
-      "originalTitle": "The Download: “reprogramming” aging, and the hidden sense of interoception",
-      "category": "application",
-      "categoryName": "应用落地",
-      "publishDate": "Fri, 12 Jun 2026 12:10:00 +0000",
+      "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
+      "originalTitle": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Mon, 15 Jun 2026 09:00:00 +0000",
       "crawlDate": "2026-06-15",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/"
+        "url": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/"
       },
       "tags": [
         "媒体",
-        "应用落地"
+        "科研突破"
       ],
       "isHeadline": true,
-      "coreInsight": "The Download: “reprogramming” aging, and the hidden sense of interoception。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -121,23 +121,23 @@
   "quickBrowse": [
     {
       "id": "20260615_q001",
-      "title": "Why “reprogramming” is the buzziest approach to reversing aging right now",
-      "originalTitle": "Why “reprogramming” is the buzziest approach to reversing aging right now",
-      "category": "application",
-      "categoryName": "应用落地",
-      "publishDate": "Fri, 12 Jun 2026 09:00:00 +0000",
+      "title": "The Download: cutting AC emissions, and nature’s drug designer",
+      "originalTitle": "The Download: cutting AC emissions, and nature’s drug designer",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 15 Jun 2026 12:10:00 +0000",
       "crawlDate": "2026-06-15",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/12/1138829/reprogramming-buzziest-approach-reversing-aging-right-now/"
+        "url": "https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/"
       },
       "tags": [
         "媒体",
-        "应用落地"
+        "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "Why “reprogramming” is the buzziest approach to reversing aging right now。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: cutting AC emissions, and nature’s drug designer。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
