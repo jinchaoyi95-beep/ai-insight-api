@@ -1,15 +1,38 @@
 {
-  "date": "20260616",
-  "updateTime": "2026-06-16T02:48:35.139Z",
+  "date": "20260617",
+  "updateTime": "2026-06-17T02:45:00.718Z",
   "headlines": [
     {
-      "id": "20260616_001",
+      "id": "20260617_001",
+      "title": "Predicting model behavior before release by simulating deployment",
+      "originalTitle": "Predicting model behavior before release by simulating deployment",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 16 Jun 2026 00:00:00 GMT",
+      "crawlDate": "2026-06-17",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/deployment-simulation"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Predicting model behavior before release by simulating deployment。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260617_002",
       "title": "Introducing the OpenAI Partner Network",
       "originalTitle": "Introducing the OpenAI Partner Network",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Sun, 14 Jun 2026 17:00:00 GMT",
-      "crawlDate": "2026-06-16",
+      "crawlDate": "2026-06-17",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,93 +49,70 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260616_002",
-      "title": "校企共推AI4S 上海交通大学与太初元碁签署合作协议",
-      "originalTitle": "校企共推AI4S 上海交通大学与太初元碁签署合作协议",
+      "id": "20260617_003",
+      "title": "和朱广权同台讲脱口秀，鸿蒙小艺这次把AI助手卷到新阶段了？！",
+      "originalTitle": "和朱广权同台讲脱口秀，鸿蒙小艺这次把AI助手卷到新阶段了？！",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Mon, 15 Jun 2026 12:57:10 +0000",
-      "crawlDate": "2026-06-16",
+      "publishDate": "Tue, 16 Jun 2026 13:02:10 +0000",
+      "crawlDate": "2026-06-17",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/435848.html"
+        "url": "https://www.qbitai.com/2026/06/435953.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "校企共推AI4S 上海交通大学与太初元碁签署合作协议。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "和朱广权同台讲脱口秀，鸿蒙小艺这次把AI助手卷到新阶段了？！。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260616_003",
-      "title": "4步出声，单卡0.24秒！Noiz AI联合港科大清华，开源音频生成大模型",
-      "originalTitle": "4步出声，单卡0.24秒！Noiz AI联合港科大清华，开源音频生成大模型",
+      "id": "20260617_004",
+      "title": "网易有道首席科学家段亦涛：让AI技术扎根业务场景",
+      "originalTitle": "网易有道首席科学家段亦涛：让AI技术扎根业务场景",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Mon, 15 Jun 2026 06:52:30 +0000",
-      "crawlDate": "2026-06-16",
+      "publishDate": "Tue, 16 Jun 2026 10:36:35 +0000",
+      "crawlDate": "2026-06-17",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/435802.html"
+        "url": "https://www.qbitai.com/2026/06/435950.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "4步出声，单卡0.24秒！Noiz AI联合港科大清华，开源音频生成大模型。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "网易有道首席科学家段亦涛：让AI技术扎根业务场景。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260616_004",
-      "title": "Why do South Koreans love AI so much?",
-      "originalTitle": "Why do South Koreans love AI so much?",
-      "category": "application",
-      "categoryName": "应用落地",
-      "publishDate": "Mon, 15 Jun 2026 18:46:08 +0000",
-      "crawlDate": "2026-06-16",
+      "id": "20260617_005",
+      "title": "Exclusive eBook: How AI is becoming the next military advisor",
+      "originalTitle": "Exclusive eBook: How AI is becoming the next military advisor",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Tue, 16 Jun 2026 20:35:02 +0000",
+      "crawlDate": "2026-06-17",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/"
+        "url": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/"
       },
       "tags": [
         "媒体",
-        "应用落地"
+        "开发工具"
       ],
       "isHeadline": true,
-      "coreInsight": "Why do South Koreans love AI so much?。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260616_005",
-      "title": "This man with ALS is “the first power user” of a brain implant that lets him speak",
-      "originalTitle": "This man with ALS is “the first power user” of a brain implant that lets him speak",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Mon, 15 Jun 2026 15:12:28 +0000",
-      "crawlDate": "2026-06-16",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/"
-      },
-      "tags": [
-        "媒体",
-        "科研突破"
-      ],
-      "isHeadline": true,
-      "coreInsight": "This man with ALS is “the first power user” of a brain implant that lets him speak。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Exclusive eBook: How AI is becoming the next military advisor。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -120,24 +120,24 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260616_q001",
-      "title": "The Download: cutting AC emissions, and nature’s drug designer",
-      "originalTitle": "The Download: cutting AC emissions, and nature’s drug designer",
+      "id": "20260617_q001",
+      "title": "The Download: the first brain implant power user and South Korea’s AI obsession",
+      "originalTitle": "The Download: the first brain implant power user and South Korea’s AI obsession",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Mon, 15 Jun 2026 12:10:00 +0000",
-      "crawlDate": "2026-06-16",
+      "publishDate": "Tue, 16 Jun 2026 12:10:00 +0000",
+      "crawlDate": "2026-06-17",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/"
+        "url": "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: cutting AC emissions, and nature’s drug designer。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: the first brain implant power user and South Korea’s AI obsession。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
