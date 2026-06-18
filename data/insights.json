@@ -1,9 +1,32 @@
 {
   "date": "20260618",
-  "updateTime": "2026-06-18T02:41:19.415Z",
+  "updateTime": "2026-06-18T15:26:57.478Z",
   "headlines": [
     {
       "id": "20260618_001",
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "originalTitle": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Thu, 18 Jun 2026 08:00:00 GMT",
+      "crawlDate": "2026-06-18",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/diagnose-rare-childhood-diseases"
+      },
+      "tags": [
+        "官方",
+        "科研突破"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Using AI to help physicians diagnose rare genetic diseases affecting children。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260618_002",
       "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
       "originalTitle": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
       "category": "research",
@@ -21,29 +44,6 @@
       ],
       "isHeadline": true,
       "coreInsight": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260618_002",
-      "title": "Introducing LifeSciBench",
-      "originalTitle": "Introducing LifeSciBench",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Wed, 17 Jun 2026 00:00:00 GMT",
-      "crawlDate": "2026-06-18",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/introducing-life-sci-bench"
-      },
-      "tags": [
-        "官方",
-        "科研突破"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Introducing LifeSciBench。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -73,46 +73,46 @@
     },
     {
       "id": "20260618_004",
-      "title": "刚刚，北京建了一座AI工厂：目标10万P算力，日产10万亿Token！",
-      "originalTitle": "刚刚，北京建了一座AI工厂：目标10万P算力，日产10万亿Token！",
+      "title": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
+      "originalTitle": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Wed, 17 Jun 2026 13:07:48 +0000",
+      "publishDate": "Thu, 18 Jun 2026 13:46:04 +0000",
       "crawlDate": "2026-06-18",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/436456.html"
+        "url": "https://www.qbitai.com/2026/06/436758.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "刚刚，北京建了一座AI工厂：目标10万P算力，日产10万亿Token！。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260618_005",
-      "title": "AI转型最大的门槛，不是技术，是人",
-      "originalTitle": "AI转型最大的门槛，不是技术，是人",
+      "title": "AIEC 2026 | 太初元碁分享国产 AI 算力实践 助力 Token 服务落地生根",
+      "originalTitle": "AIEC 2026 | 太初元碁分享国产 AI 算力实践 助力 Token 服务落地生根",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Wed, 17 Jun 2026 12:36:40 +0000",
+      "publishDate": "Thu, 18 Jun 2026 09:45:11 +0000",
       "crawlDate": "2026-06-18",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/436435.html"
+        "url": "https://www.qbitai.com/2026/06/436740.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "AI转型最大的门槛，不是技术，是人。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "AIEC 2026 | 太初元碁分享国产 AI 算力实践 助力 Token 服务落地生根。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -121,52 +121,75 @@
   "quickBrowse": [
     {
       "id": "20260618_q001",
-      "title": "九章云极发布“AI工厂”战略 定义智能规模化新基建",
-      "originalTitle": "九章云极发布“AI工厂”战略 定义智能规模化新基建",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 17 Jun 2026 10:51:07 +0000",
+      "title": "Introducing LifeSciBench",
+      "originalTitle": "Introducing LifeSciBench",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Wed, 17 Jun 2026 00:00:00 GMT",
       "crawlDate": "2026-06-18",
       "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/436224.html"
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/introducing-life-sci-bench"
       },
       "tags": [
-        "媒体",
-        "大语言模型"
+        "官方",
+        "科研突破"
       ],
       "isHeadline": false,
-      "coreInsight": "九章云极发布“AI工厂”战略 定义智能规模化新基建。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Introducing LifeSciBench。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260618_q002",
-      "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-      "originalTitle": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Wed, 17 Jun 2026 10:18:05 GMT",
+      "title": "腾讯老兵+大厂00后新锐，码上飞想做的不只是AI Coding",
+      "originalTitle": "腾讯老兵+大厂00后新锐，码上飞想做的不只是AI Coding",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 18 Jun 2026 09:39:35 +0000",
       "crawlDate": "2026-06-18",
       "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/06/436674.html"
       },
       "tags": [
-        "官方",
-        "Agent"
+        "媒体",
+        "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "腾讯老兵+大厂00后新锐，码上飞想做的不只是AI Coding。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260618_q003",
+      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "originalTitle": "Is it agentic enough? Benchmarking open models on your own tooling",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Thu, 18 Jun 2026 00:00:00 GMT",
+      "crawlDate": "2026-06-18",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/is-it-agentic-enough"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Is it agentic enough? Benchmarking open models on your own tooling。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260618_q004",
       "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
       "originalTitle": "New research shows how AMIE, our medical AI, could help manage health conditions.",
       "category": "research",
@@ -189,70 +212,47 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260618_q004",
-      "title": "The Download: a reality check for geoengineering and the science of interoception",
-      "originalTitle": "The Download: a reality check for geoengineering and the science of interoception",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 17 Jun 2026 12:10:00 +0000",
-      "crawlDate": "2026-06-18",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Download: a reality check for geoengineering and the science of interoception。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
       "id": "20260618_q005",
-      "title": "Entrepreneurs in Nairobi make the case for going solar",
-      "originalTitle": "Entrepreneurs in Nairobi make the case for going solar",
+      "title": "The Download: a new hunt for dark matter and Kenya’s case for going solar",
+      "originalTitle": "The Download: a new hunt for dark matter and Kenya’s case for going solar",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Wed, 17 Jun 2026 09:00:00 +0000",
+      "publishDate": "Thu, 18 Jun 2026 12:10:00 +0000",
       "crawlDate": "2026-06-18",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/"
+        "url": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "Entrepreneurs in Nairobi make the case for going solar。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: a new hunt for dark matter and Kenya’s case for going solar。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260618_q006",
-      "title": "Hacking the atmosphere: Geoengineering gets a reality check",
-      "originalTitle": "Hacking the atmosphere: Geoengineering gets a reality check",
+      "title": "The search for dark matter has been blown wide open",
+      "originalTitle": "The search for dark matter has been blown wide open",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Wed, 17 Jun 2026 09:00:00 +0000",
+      "publishDate": "Thu, 18 Jun 2026 09:00:00 +0000",
       "crawlDate": "2026-06-18",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/"
+        "url": "https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "Hacking the atmosphere: Geoengineering gets a reality check。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The search for dark matter has been blown wide open。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
