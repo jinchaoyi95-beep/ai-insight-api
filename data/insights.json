@@ -1,15 +1,61 @@
 {
-  "date": "20260618",
-  "updateTime": "2026-06-18T15:26:57.478Z",
+  "date": "20260619",
+  "updateTime": "2026-06-19T02:57:37.467Z",
   "headlines": [
     {
-      "id": "20260618_001",
+      "id": "20260619_001",
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "originalTitle": "New usage analytics and updated spend controls for enterprises",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Thu, 18 Jun 2026 17:00:00 GMT",
+      "crawlDate": "2026-06-19",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/chatgpt-enterprise-spend-controls"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "New usage analytics and updated spend controls for enterprises。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260619_002",
+      "title": "Improving health intelligence in ChatGPT",
+      "originalTitle": "Improving health intelligence in ChatGPT",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 18 Jun 2026 11:00:00 GMT",
+      "crawlDate": "2026-06-19",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Improving health intelligence in ChatGPT。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260619_003",
       "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
       "originalTitle": "Using AI to help physicians diagnose rare genetic diseases affecting children",
       "category": "research",
       "categoryName": "科研突破",
       "publishDate": "Thu, 18 Jun 2026 08:00:00 GMT",
-      "crawlDate": "2026-06-18",
+      "crawlDate": "2026-06-19",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +72,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260618_002",
+      "id": "20260619_004",
       "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
       "originalTitle": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
       "category": "research",
       "categoryName": "科研突破",
       "publishDate": "Wed, 17 Jun 2026 10:00:00 GMT",
-      "crawlDate": "2026-06-18",
+      "crawlDate": "2026-06-19",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,36 +95,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260618_003",
-      "title": "Predicting model behavior before release by simulating deployment",
-      "originalTitle": "Predicting model behavior before release by simulating deployment",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 16 Jun 2026 00:00:00 GMT",
-      "crawlDate": "2026-06-18",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/deployment-simulation"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Predicting model behavior before release by simulating deployment。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260618_004",
+      "id": "20260619_005",
       "title": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
       "originalTitle": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Thu, 18 Jun 2026 13:46:04 +0000",
-      "crawlDate": "2026-06-18",
+      "crawlDate": "2026-06-19",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -93,40 +116,17 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260618_005",
-      "title": "AIEC 2026 | 太初元碁分享国产 AI 算力实践 助力 Token 服务落地生根",
-      "originalTitle": "AIEC 2026 | 太初元碁分享国产 AI 算力实践 助力 Token 服务落地生根",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 18 Jun 2026 09:45:11 +0000",
-      "crawlDate": "2026-06-18",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/436740.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "AIEC 2026 | 太初元碁分享国产 AI 算力实践 助力 Token 服务落地生根。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
   "quickBrowse": [
     {
-      "id": "20260618_q001",
+      "id": "20260619_q001",
       "title": "Introducing LifeSciBench",
       "originalTitle": "Introducing LifeSciBench",
       "category": "research",
       "categoryName": "科研突破",
       "publishDate": "Wed, 17 Jun 2026 00:00:00 GMT",
-      "crawlDate": "2026-06-18",
+      "crawlDate": "2026-06-19",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -143,13 +143,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260618_q002",
+      "id": "20260619_q002",
+      "title": "AIEC 2026 | 太初元碁分享国产 AI 算力实践 助力 Token 服务落地生根",
+      "originalTitle": "AIEC 2026 | 太初元碁分享国产 AI 算力实践 助力 Token 服务落地生根",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 18 Jun 2026 09:45:11 +0000",
+      "crawlDate": "2026-06-19",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/06/436740.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "AIEC 2026 | 太初元碁分享国产 AI 算力实践 助力 Token 服务落地生根。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260619_q003",
       "title": "腾讯老兵+大厂00后新锐，码上飞想做的不只是AI Coding",
       "originalTitle": "腾讯老兵+大厂00后新锐，码上飞想做的不只是AI Coding",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Thu, 18 Jun 2026 09:39:35 +0000",
-      "crawlDate": "2026-06-18",
+      "crawlDate": "2026-06-19",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -166,13 +189,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260618_q003",
+      "id": "20260619_q004",
+      "title": "MosaicLeaks: Can your research agent keep a secret?",
+      "originalTitle": "MosaicLeaks: Can your research agent keep a secret?",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Thu, 18 Jun 2026 18:13:13 GMT",
+      "crawlDate": "2026-06-19",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "MosaicLeaks: Can your research agent keep a secret?。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260619_q005",
       "title": "Is it agentic enough? Benchmarking open models on your own tooling",
       "originalTitle": "Is it agentic enough? Benchmarking open models on your own tooling",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Thu, 18 Jun 2026 00:00:00 GMT",
-      "crawlDate": "2026-06-18",
+      "crawlDate": "2026-06-19",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -189,13 +235,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260618_q004",
+      "id": "20260619_q006",
       "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
       "originalTitle": "New research shows how AMIE, our medical AI, could help manage health conditions.",
       "category": "research",
       "categoryName": "科研突破",
       "publishDate": "Wed, 17 Jun 2026 15:00:00 +0000",
-      "crawlDate": "2026-06-18",
+      "crawlDate": "2026-06-19",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -212,13 +258,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260618_q005",
+      "id": "20260619_q007",
       "title": "The Download: a new hunt for dark matter and Kenya’s case for going solar",
       "originalTitle": "The Download: a new hunt for dark matter and Kenya’s case for going solar",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Thu, 18 Jun 2026 12:10:00 +0000",
-      "crawlDate": "2026-06-18",
+      "crawlDate": "2026-06-19",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -235,13 +281,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260618_q006",
+      "id": "20260619_q008",
       "title": "The search for dark matter has been blown wide open",
       "originalTitle": "The search for dark matter has been blown wide open",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Thu, 18 Jun 2026 09:00:00 +0000",
-      "crawlDate": "2026-06-18",
+      "crawlDate": "2026-06-19",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -258,7 +304,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 11,
+  "total": 13,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
