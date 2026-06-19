@@ -1,6 +1,6 @@
 {
   "date": "20260619",
-  "updateTime": "2026-06-19T02:57:37.467Z",
+  "updateTime": "2026-06-19T15:20:08.672Z",
   "headlines": [
     {
       "id": "20260619_001",
@@ -96,23 +96,23 @@
     },
     {
       "id": "20260619_005",
-      "title": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
-      "originalTitle": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
+      "title": "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！",
+      "originalTitle": "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Thu, 18 Jun 2026 13:46:04 +0000",
+      "publishDate": "Fri, 19 Jun 2026 08:42:04 +0000",
       "crawlDate": "2026-06-19",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/436758.html"
+        "url": "https://www.qbitai.com/2026/06/436864.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -144,52 +144,75 @@
     },
     {
       "id": "20260619_q002",
-      "title": "AIEC 2026 | 太初元碁分享国产 AI 算力实践 助力 Token 服务落地生根",
-      "originalTitle": "AIEC 2026 | 太初元碁分享国产 AI 算力实践 助力 Token 服务落地生根",
+      "title": "GPT发AI原创新成果了",
+      "originalTitle": "GPT发AI原创新成果了",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Thu, 18 Jun 2026 09:45:11 +0000",
+      "publishDate": "Fri, 19 Jun 2026 03:34:23 +0000",
       "crawlDate": "2026-06-19",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/436740.html"
+        "url": "https://www.qbitai.com/2026/06/436842.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "AIEC 2026 | 太初元碁分享国产 AI 算力实践 助力 Token 服务落地生根。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "GPT发AI原创新成果了。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260619_q003",
-      "title": "腾讯老兵+大厂00后新锐，码上飞想做的不只是AI Coding",
-      "originalTitle": "腾讯老兵+大厂00后新锐，码上飞想做的不只是AI Coding",
+      "title": "全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化",
+      "originalTitle": "全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Thu, 18 Jun 2026 09:39:35 +0000",
+      "publishDate": "Fri, 19 Jun 2026 03:28:37 +0000",
       "crawlDate": "2026-06-19",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/436674.html"
+        "url": "https://www.qbitai.com/2026/06/436813.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "腾讯老兵+大厂00后新锐，码上飞想做的不只是AI Coding。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260619_q004",
+      "title": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
+      "originalTitle": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 18 Jun 2026 13:46:04 +0000",
+      "crawlDate": "2026-06-19",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/06/436758.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260619_q005",
       "title": "MosaicLeaks: Can your research agent keep a secret?",
       "originalTitle": "MosaicLeaks: Can your research agent keep a secret?",
       "category": "agent",
@@ -212,7 +235,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260619_q005",
+      "id": "20260619_q006",
       "title": "Is it agentic enough? Benchmarking open models on your own tooling",
       "originalTitle": "Is it agentic enough? Benchmarking open models on your own tooling",
       "category": "agent",
@@ -235,7 +258,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260619_q006",
+      "id": "20260619_q007",
       "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
       "originalTitle": "New research shows how AMIE, our medical AI, could help manage health conditions.",
       "category": "research",
@@ -258,53 +281,76 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260619_q007",
-      "title": "The Download: a new hunt for dark matter and Kenya’s case for going solar",
-      "originalTitle": "The Download: a new hunt for dark matter and Kenya’s case for going solar",
+      "id": "20260619_q008",
+      "title": "The Download: AI bottleneck debates, and BCI trials take off",
+      "originalTitle": "The Download: AI bottleneck debates, and BCI trials take off",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Thu, 18 Jun 2026 12:10:00 +0000",
+      "publishDate": "Fri, 19 Jun 2026 12:10:00 +0000",
       "crawlDate": "2026-06-19",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/"
+        "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: a new hunt for dark matter and Kenya’s case for going solar。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: AI bottleneck debates, and BCI trials take off。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260619_q008",
-      "title": "The search for dark matter has been blown wide open",
-      "originalTitle": "The search for dark matter has been blown wide open",
+      "id": "20260619_q009",
+      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+      "originalTitle": "A startup claims it broke through a bottleneck that’s holding back LLMs",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Thu, 18 Jun 2026 09:00:00 +0000",
+      "publishDate": "Fri, 19 Jun 2026 10:40:24 +0000",
       "crawlDate": "2026-06-19",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/"
+        "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "The search for dark matter has been blown wide open。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "A startup claims it broke through a bottleneck that’s holding back LLMs。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260619_q010",
+      "title": "The inevitable weakness of metrics",
+      "originalTitle": "The inevitable weakness of metrics",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Fri, 19 Jun 2026 09:00:00 +0000",
+      "crawlDate": "2026-06-19",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/"
+      },
+      "tags": [
+        "媒体",
+        "应用落地"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The inevitable weakness of metrics。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 13,
+  "total": 15,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
