@@ -1,15 +1,15 @@
 {
-  "date": "20260619",
-  "updateTime": "2026-06-19T15:20:08.672Z",
+  "date": "20260620",
+  "updateTime": "2026-06-20T02:30:09.984Z",
   "headlines": [
     {
-      "id": "20260619_001",
+      "id": "20260620_001",
       "title": "New usage analytics and updated spend controls for enterprises",
       "originalTitle": "New usage analytics and updated spend controls for enterprises",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Thu, 18 Jun 2026 17:00:00 GMT",
-      "crawlDate": "2026-06-19",
+      "crawlDate": "2026-06-20",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +26,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260619_002",
+      "id": "20260620_002",
       "title": "Improving health intelligence in ChatGPT",
       "originalTitle": "Improving health intelligence in ChatGPT",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Thu, 18 Jun 2026 11:00:00 GMT",
-      "crawlDate": "2026-06-19",
+      "crawlDate": "2026-06-20",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,13 +49,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260619_003",
+      "id": "20260620_003",
       "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
       "originalTitle": "Using AI to help physicians diagnose rare genetic diseases affecting children",
       "category": "research",
       "categoryName": "科研突破",
       "publishDate": "Thu, 18 Jun 2026 08:00:00 GMT",
-      "crawlDate": "2026-06-19",
+      "crawlDate": "2026-06-20",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -72,13 +72,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260619_004",
+      "id": "20260620_004",
       "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
       "originalTitle": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
       "category": "research",
       "categoryName": "科研突破",
       "publishDate": "Wed, 17 Jun 2026 10:00:00 GMT",
-      "crawlDate": "2026-06-19",
+      "crawlDate": "2026-06-20",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -95,13 +95,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260619_005",
+      "id": "20260620_005",
       "title": "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！",
       "originalTitle": "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 19 Jun 2026 08:42:04 +0000",
-      "crawlDate": "2026-06-19",
+      "crawlDate": "2026-06-20",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -120,36 +120,13 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260619_q001",
-      "title": "Introducing LifeSciBench",
-      "originalTitle": "Introducing LifeSciBench",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Wed, 17 Jun 2026 00:00:00 GMT",
-      "crawlDate": "2026-06-19",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/introducing-life-sci-bench"
-      },
-      "tags": [
-        "官方",
-        "科研突破"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Introducing LifeSciBench。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260619_q002",
+      "id": "20260620_q001",
       "title": "GPT发AI原创新成果了",
       "originalTitle": "GPT发AI原创新成果了",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 19 Jun 2026 03:34:23 +0000",
-      "crawlDate": "2026-06-19",
+      "crawlDate": "2026-06-20",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -166,13 +143,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260619_q003",
+      "id": "20260620_q002",
       "title": "全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化",
       "originalTitle": "全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 19 Jun 2026 03:28:37 +0000",
-      "crawlDate": "2026-06-19",
+      "crawlDate": "2026-06-20",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -189,13 +166,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260619_q004",
+      "id": "20260620_q003",
       "title": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
       "originalTitle": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Thu, 18 Jun 2026 13:46:04 +0000",
-      "crawlDate": "2026-06-19",
+      "crawlDate": "2026-06-20",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -212,13 +189,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260619_q005",
+      "id": "20260620_q004",
       "title": "MosaicLeaks: Can your research agent keep a secret?",
       "originalTitle": "MosaicLeaks: Can your research agent keep a secret?",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Thu, 18 Jun 2026 18:13:13 GMT",
-      "crawlDate": "2026-06-19",
+      "crawlDate": "2026-06-20",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -235,13 +212,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260619_q006",
+      "id": "20260620_q005",
       "title": "Is it agentic enough? Benchmarking open models on your own tooling",
       "originalTitle": "Is it agentic enough? Benchmarking open models on your own tooling",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Thu, 18 Jun 2026 00:00:00 GMT",
-      "crawlDate": "2026-06-19",
+      "crawlDate": "2026-06-20",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -258,13 +235,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260619_q007",
+      "id": "20260620_q006",
       "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
       "originalTitle": "New research shows how AMIE, our medical AI, could help manage health conditions.",
       "category": "research",
       "categoryName": "科研突破",
       "publishDate": "Wed, 17 Jun 2026 15:00:00 +0000",
-      "crawlDate": "2026-06-19",
+      "crawlDate": "2026-06-20",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -281,13 +258,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260619_q008",
+      "id": "20260620_q007",
       "title": "The Download: AI bottleneck debates, and BCI trials take off",
       "originalTitle": "The Download: AI bottleneck debates, and BCI trials take off",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 19 Jun 2026 12:10:00 +0000",
-      "crawlDate": "2026-06-19",
+      "crawlDate": "2026-06-20",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -304,13 +281,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260619_q009",
+      "id": "20260620_q008",
       "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
       "originalTitle": "A startup claims it broke through a bottleneck that’s holding back LLMs",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 19 Jun 2026 10:40:24 +0000",
-      "crawlDate": "2026-06-19",
+      "crawlDate": "2026-06-20",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -327,13 +304,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260619_q010",
+      "id": "20260620_q009",
       "title": "The inevitable weakness of metrics",
       "originalTitle": "The inevitable weakness of metrics",
       "category": "application",
       "categoryName": "应用落地",
       "publishDate": "Fri, 19 Jun 2026 09:00:00 +0000",
-      "crawlDate": "2026-06-19",
+      "crawlDate": "2026-06-20",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -350,7 +327,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 15,
+  "total": 14,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
