@@ -1,6 +1,6 @@
 {
   "date": "20260620",
-  "updateTime": "2026-06-20T02:30:09.984Z",
+  "updateTime": "2026-06-20T14:06:32.827Z",
   "headlines": [
     {
       "id": "20260620_001",
@@ -73,46 +73,46 @@
     },
     {
       "id": "20260620_004",
-      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-      "originalTitle": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Wed, 17 Jun 2026 10:00:00 GMT",
-      "crawlDate": "2026-06-20",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/ai-chemist-improves-reaction"
-      },
-      "tags": [
-        "官方",
-        "科研突破"
-      ],
-      "isHeadline": true,
-      "coreInsight": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260620_005",
-      "title": "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！",
-      "originalTitle": "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！",
+      "title": "陶哲轩12年前的预言，现在AI帮他兑现了",
+      "originalTitle": "陶哲轩12年前的预言，现在AI帮他兑现了",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Fri, 19 Jun 2026 08:42:04 +0000",
+      "publishDate": "Sat, 20 Jun 2026 11:56:57 +0000",
       "crawlDate": "2026-06-20",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/436864.html"
+        "url": "https://www.qbitai.com/2026/06/437023.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "陶哲轩12年前的预言，现在AI帮他兑现了。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260620_005",
+      "title": "Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶",
+      "originalTitle": "Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Sat, 20 Jun 2026 09:36:31 +0000",
+      "crawlDate": "2026-06-20",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/06/436966.html"
+      },
+      "tags": [
+        "媒体",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -121,75 +121,6 @@
   "quickBrowse": [
     {
       "id": "20260620_q001",
-      "title": "GPT发AI原创新成果了",
-      "originalTitle": "GPT发AI原创新成果了",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 19 Jun 2026 03:34:23 +0000",
-      "crawlDate": "2026-06-20",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/436842.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "GPT发AI原创新成果了。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260620_q002",
-      "title": "全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化",
-      "originalTitle": "全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 19 Jun 2026 03:28:37 +0000",
-      "crawlDate": "2026-06-20",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/436813.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "全球首个人形机器人通用小脑来了！全球最大规模2万小时人类动作数据，实现零样本泛化。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260620_q003",
-      "title": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
-      "originalTitle": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 18 Jun 2026 13:46:04 +0000",
-      "crawlDate": "2026-06-20",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/436758.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260620_q004",
       "title": "MosaicLeaks: Can your research agent keep a secret?",
       "originalTitle": "MosaicLeaks: Can your research agent keep a secret?",
       "category": "agent",
@@ -212,7 +143,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260620_q005",
+      "id": "20260620_q002",
       "title": "Is it agentic enough? Benchmarking open models on your own tooling",
       "originalTitle": "Is it agentic enough? Benchmarking open models on your own tooling",
       "category": "agent",
@@ -235,7 +166,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260620_q006",
+      "id": "20260620_q003",
       "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
       "originalTitle": "New research shows how AMIE, our medical AI, could help manage health conditions.",
       "category": "research",
@@ -258,7 +189,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260620_q007",
+      "id": "20260620_q004",
       "title": "The Download: AI bottleneck debates, and BCI trials take off",
       "originalTitle": "The Download: AI bottleneck debates, and BCI trials take off",
       "category": "llm",
@@ -281,7 +212,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260620_q008",
+      "id": "20260620_q005",
       "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
       "originalTitle": "A startup claims it broke through a bottleneck that’s holding back LLMs",
       "category": "llm",
@@ -304,7 +235,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260620_q009",
+      "id": "20260620_q006",
       "title": "The inevitable weakness of metrics",
       "originalTitle": "The inevitable weakness of metrics",
       "category": "application",
@@ -327,7 +258,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 14,
+  "total": 11,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
