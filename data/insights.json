@@ -1,15 +1,15 @@
 {
-  "date": "20260620",
-  "updateTime": "2026-06-20T14:06:32.827Z",
+  "date": "20260621",
+  "updateTime": "2026-06-21T14:12:52.322Z",
   "headlines": [
     {
-      "id": "20260620_001",
+      "id": "20260621_001",
       "title": "New usage analytics and updated spend controls for enterprises",
       "originalTitle": "New usage analytics and updated spend controls for enterprises",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Thu, 18 Jun 2026 17:00:00 GMT",
-      "crawlDate": "2026-06-20",
+      "crawlDate": "2026-06-21",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,59 +26,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260620_002",
-      "title": "Improving health intelligence in ChatGPT",
-      "originalTitle": "Improving health intelligence in ChatGPT",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 18 Jun 2026 11:00:00 GMT",
-      "crawlDate": "2026-06-20",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt"
-      },
-      "tags": [
-        "官方",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Improving health intelligence in ChatGPT。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260620_003",
-      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "originalTitle": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Thu, 18 Jun 2026 08:00:00 GMT",
-      "crawlDate": "2026-06-20",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/diagnose-rare-childhood-diseases"
-      },
-      "tags": [
-        "官方",
-        "科研突破"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Using AI to help physicians diagnose rare genetic diseases affecting children。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260620_004",
+      "id": "20260621_002",
       "title": "陶哲轩12年前的预言，现在AI帮他兑现了",
       "originalTitle": "陶哲轩12年前的预言，现在AI帮他兑现了",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Sat, 20 Jun 2026 11:56:57 +0000",
-      "crawlDate": "2026-06-20",
+      "crawlDate": "2026-06-21",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -95,38 +49,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260620_005",
-      "title": "Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶",
-      "originalTitle": "Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Sat, 20 Jun 2026 09:36:31 +0000",
-      "crawlDate": "2026-06-20",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/436966.html"
-      },
-      "tags": [
-        "媒体",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
-    {
-      "id": "20260620_q001",
+      "id": "20260621_003",
       "title": "MosaicLeaks: Can your research agent keep a secret?",
       "originalTitle": "MosaicLeaks: Can your research agent keep a secret?",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Thu, 18 Jun 2026 18:13:13 GMT",
-      "crawlDate": "2026-06-20",
+      "crawlDate": "2026-06-21",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -136,66 +65,20 @@
         "官方",
         "Agent"
       ],
-      "isHeadline": false,
+      "isHeadline": true,
       "coreInsight": "MosaicLeaks: Can your research agent keep a secret?。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260620_q002",
-      "title": "Is it agentic enough? Benchmarking open models on your own tooling",
-      "originalTitle": "Is it agentic enough? Benchmarking open models on your own tooling",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 18 Jun 2026 00:00:00 GMT",
-      "crawlDate": "2026-06-20",
-      "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/is-it-agentic-enough"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Is it agentic enough? Benchmarking open models on your own tooling。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260620_q003",
-      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-      "originalTitle": "New research shows how AMIE, our medical AI, could help manage health conditions.",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Wed, 17 Jun 2026 15:00:00 +0000",
-      "crawlDate": "2026-06-20",
-      "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/"
-      },
-      "tags": [
-        "官方",
-        "科研突破"
-      ],
-      "isHeadline": false,
-      "coreInsight": "New research shows how AMIE, our medical AI, could help manage health conditions.。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260620_q004",
+      "id": "20260621_004",
       "title": "The Download: AI bottleneck debates, and BCI trials take off",
       "originalTitle": "The Download: AI bottleneck debates, and BCI trials take off",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 19 Jun 2026 12:10:00 +0000",
-      "crawlDate": "2026-06-20",
+      "crawlDate": "2026-06-21",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -205,20 +88,45 @@
         "媒体",
         "大语言模型"
       ],
-      "isHeadline": false,
+      "isHeadline": true,
       "coreInsight": "The Download: AI bottleneck debates, and BCI trials take off。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260620_q005",
+      "id": "20260621_005",
+      "title": "The inevitable weakness of metrics",
+      "originalTitle": "The inevitable weakness of metrics",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Fri, 19 Jun 2026 09:00:00 +0000",
+      "crawlDate": "2026-06-21",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/"
+      },
+      "tags": [
+        "媒体",
+        "应用落地"
+      ],
+      "isHeadline": true,
+      "coreInsight": "The inevitable weakness of metrics。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    }
+  ],
+  "quickBrowse": [
+    {
+      "id": "20260621_q001",
       "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
       "originalTitle": "A startup claims it broke through a bottleneck that’s holding back LLMs",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 19 Jun 2026 10:40:24 +0000",
-      "crawlDate": "2026-06-20",
+      "crawlDate": "2026-06-21",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -233,32 +141,9 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260620_q006",
-      "title": "The inevitable weakness of metrics",
-      "originalTitle": "The inevitable weakness of metrics",
-      "category": "application",
-      "categoryName": "应用落地",
-      "publishDate": "Fri, 19 Jun 2026 09:00:00 +0000",
-      "crawlDate": "2026-06-20",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/"
-      },
-      "tags": [
-        "媒体",
-        "应用落地"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The inevitable weakness of metrics。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 11,
+  "total": 6,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
