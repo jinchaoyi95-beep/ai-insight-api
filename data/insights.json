@@ -1,38 +1,38 @@
 {
-  "date": "20260621",
-  "updateTime": "2026-06-21T14:12:52.322Z",
+  "date": "20260622",
+  "updateTime": "2026-06-22T02:47:26.078Z",
   "headlines": [
     {
-      "id": "20260621_001",
-      "title": "New usage analytics and updated spend controls for enterprises",
-      "originalTitle": "New usage analytics and updated spend controls for enterprises",
+      "id": "20260622_001",
+      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
+      "originalTitle": "Samsung Electronics brings ChatGPT and Codex to employees",
       "category": "company",
       "categoryName": "企业动态",
-      "publishDate": "Thu, 18 Jun 2026 17:00:00 GMT",
-      "crawlDate": "2026-06-21",
+      "publishDate": "Sun, 21 Jun 2026 23:00:00 GMT",
+      "crawlDate": "2026-06-22",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/chatgpt-enterprise-spend-controls"
+        "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment"
       },
       "tags": [
         "官方",
         "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "New usage analytics and updated spend controls for enterprises。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Samsung Electronics brings ChatGPT and Codex to employees。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260621_002",
+      "id": "20260622_002",
       "title": "陶哲轩12年前的预言，现在AI帮他兑现了",
       "originalTitle": "陶哲轩12年前的预言，现在AI帮他兑现了",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Sat, 20 Jun 2026 11:56:57 +0000",
-      "crawlDate": "2026-06-21",
+      "crawlDate": "2026-06-22",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -49,36 +49,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260621_003",
-      "title": "MosaicLeaks: Can your research agent keep a secret?",
-      "originalTitle": "MosaicLeaks: Can your research agent keep a secret?",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 18 Jun 2026 18:13:13 GMT",
-      "crawlDate": "2026-06-21",
-      "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "MosaicLeaks: Can your research agent keep a secret?。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260621_004",
+      "id": "20260622_003",
       "title": "The Download: AI bottleneck debates, and BCI trials take off",
       "originalTitle": "The Download: AI bottleneck debates, and BCI trials take off",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 19 Jun 2026 12:10:00 +0000",
-      "crawlDate": "2026-06-21",
+      "crawlDate": "2026-06-22",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -95,13 +72,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260621_005",
+      "id": "20260622_004",
       "title": "The inevitable weakness of metrics",
       "originalTitle": "The inevitable weakness of metrics",
       "category": "application",
       "categoryName": "应用落地",
       "publishDate": "Fri, 19 Jun 2026 09:00:00 +0000",
-      "crawlDate": "2026-06-21",
+      "crawlDate": "2026-06-22",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -120,13 +97,13 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260621_q001",
+      "id": "20260622_q001",
       "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
       "originalTitle": "A startup claims it broke through a bottleneck that’s holding back LLMs",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 19 Jun 2026 10:40:24 +0000",
-      "crawlDate": "2026-06-21",
+      "crawlDate": "2026-06-22",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -143,7 +120,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 6,
+  "total": 5,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
