@@ -1,6 +1,6 @@
 {
   "date": "20260622",
-  "updateTime": "2026-06-22T02:47:26.078Z",
+  "updateTime": "2026-06-22T16:59:12.801Z",
   "headlines": [
     {
       "id": "20260622_001",
@@ -27,69 +27,92 @@
     },
     {
       "id": "20260622_002",
-      "title": "陶哲轩12年前的预言，现在AI帮他兑现了",
-      "originalTitle": "陶哲轩12年前的预言，现在AI帮他兑现了",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sat, 20 Jun 2026 11:56:57 +0000",
+      "title": "New usage analytics and updated spend controls for enterprises",
+      "originalTitle": "New usage analytics and updated spend controls for enterprises",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Thu, 18 Jun 2026 17:00:00 GMT",
       "crawlDate": "2026-06-22",
       "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/437023.html"
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/chatgpt-enterprise-spend-controls"
       },
       "tags": [
-        "媒体",
-        "大语言模型"
+        "官方",
+        "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "陶哲轩12年前的预言，现在AI帮他兑现了。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "New usage analytics and updated spend controls for enterprises。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260622_003",
-      "title": "The Download: AI bottleneck debates, and BCI trials take off",
-      "originalTitle": "The Download: AI bottleneck debates, and BCI trials take off",
+      "title": "Improving health intelligence in ChatGPT",
+      "originalTitle": "Improving health intelligence in ChatGPT",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Fri, 19 Jun 2026 12:10:00 +0000",
+      "publishDate": "Thu, 18 Jun 2026 11:00:00 GMT",
       "crawlDate": "2026-06-22",
       "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/"
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt"
       },
       "tags": [
-        "媒体",
+        "官方",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "The Download: AI bottleneck debates, and BCI trials take off。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Improving health intelligence in ChatGPT。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260622_004",
-      "title": "The inevitable weakness of metrics",
-      "originalTitle": "The inevitable weakness of metrics",
-      "category": "application",
-      "categoryName": "应用落地",
-      "publishDate": "Fri, 19 Jun 2026 09:00:00 +0000",
+      "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "originalTitle": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Thu, 18 Jun 2026 08:00:00 GMT",
       "crawlDate": "2026-06-22",
       "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/"
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/diagnose-rare-childhood-diseases"
       },
       "tags": [
-        "媒体",
-        "应用落地"
+        "官方",
+        "科研突破"
       ],
       "isHeadline": true,
-      "coreInsight": "The inevitable weakness of metrics。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Using AI to help physicians diagnose rare genetic diseases affecting children。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260622_005",
+      "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "originalTitle": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Wed, 17 Jun 2026 10:00:00 GMT",
+      "crawlDate": "2026-06-22",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/ai-chemist-improves-reaction"
+      },
+      "tags": [
+        "官方",
+        "科研突破"
+      ],
+      "isHeadline": true,
+      "coreInsight": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -98,29 +121,236 @@
   "quickBrowse": [
     {
       "id": "20260622_q001",
-      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-      "originalTitle": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+      "title": "AI硬件席卷618，钉钉A1包揽天猫、抖音、京东销量冠军",
+      "originalTitle": "AI硬件席卷618，钉钉A1包揽天猫、抖音、京东销量冠军",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Fri, 19 Jun 2026 10:40:24 +0000",
+      "publishDate": "Mon, 22 Jun 2026 06:22:00 +0000",
       "crawlDate": "2026-06-22",
       "source": {
-        "name": "MIT Technology Review",
+        "name": "量子位",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/"
+        "url": "https://www.qbitai.com/2026/06/437308.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "A startup claims it broke through a bottleneck that’s holding back LLMs。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "AI硬件席卷618，钉钉A1包揽天猫、抖音、京东销量冠军。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260622_q002",
+      "title": "DeepSeek缺Agent人才缺疯了！负责人各种贴广告",
+      "originalTitle": "DeepSeek缺Agent人才缺疯了！负责人各种贴广告",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 22 Jun 2026 05:09:27 +0000",
+      "crawlDate": "2026-06-22",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/06/437249.html"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "DeepSeek缺Agent人才缺疯了！负责人各种贴广告。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260622_q003",
+      "title": "MosaicLeaks: Can your research agent keep a secret?",
+      "originalTitle": "MosaicLeaks: Can your research agent keep a secret?",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Thu, 18 Jun 2026 18:13:13 GMT",
+      "crawlDate": "2026-06-22",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "MosaicLeaks: Can your research agent keep a secret?。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260622_q004",
+      "title": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "originalTitle": "New research shows how AMIE, our medical AI, could help manage health conditions.",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Wed, 17 Jun 2026 15:00:00 +0000",
+      "crawlDate": "2026-06-22",
+      "source": {
+        "name": "Google AI",
+        "type": "官方",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-for-disease-management-in-nature/"
+      },
+      "tags": [
+        "官方",
+        "科研突破"
+      ],
+      "isHeadline": false,
+      "coreInsight": "New research shows how AMIE, our medical AI, could help manage health conditions.。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260622_q005",
+      "title": "LLM Research Papers: The 2026 List (January to May)",
+      "originalTitle": "LLM Research Papers: The 2026 List (January to May)",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Sat, 06 Jun 2026 11:16:22 GMT",
+      "crawlDate": "2026-06-22",
+      "source": {
+        "name": "Sebastian Raschka",
+        "type": "专家",
+        "url": "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1"
+      },
+      "tags": [
+        "专家",
+        "科研突破"
+      ],
+      "isHeadline": false,
+      "coreInsight": "LLM Research Papers: The 2026 List (January to May)。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260622_q006",
+      "title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
+      "originalTitle": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Sat, 16 May 2026 11:33:51 GMT",
+      "crawlDate": "2026-06-22",
+      "source": {
+        "name": "Sebastian Raschka",
+        "type": "专家",
+        "url": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures"
+      },
+      "tags": [
+        "专家",
+        "开发工具"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260622_q007",
+      "title": "My Workflow for Understanding LLM Architectures",
+      "originalTitle": "My Workflow for Understanding LLM Architectures",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Sat, 18 Apr 2026 11:24:36 GMT",
+      "crawlDate": "2026-06-22",
+      "source": {
+        "name": "Sebastian Raschka",
+        "type": "专家",
+        "url": "https://magazine.sebastianraschka.com/p/workflow-for-understanding-llms"
+      },
+      "tags": [
+        "专家",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "My Workflow for Understanding LLM Architectures。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260622_q008",
+      "title": "Why We Think",
+      "originalTitle": "Why We Think",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Thu, 01 May 2025 00:00:00 +0000",
+      "crawlDate": "2026-06-22",
+      "source": {
+        "name": "Lil Log",
+        "type": "专家",
+        "url": "https://lilianweng.github.io/posts/2025-05-01-thinking/"
+      },
+      "tags": [
+        "专家",
+        "科研突破"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Why We Think。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260622_q009",
+      "title": "Reward Hacking in Reinforcement Learning",
+      "originalTitle": "Reward Hacking in Reinforcement Learning",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Thu, 28 Nov 2024 00:00:00 +0000",
+      "crawlDate": "2026-06-22",
+      "source": {
+        "name": "Lil Log",
+        "type": "专家",
+        "url": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/"
+      },
+      "tags": [
+        "专家",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Reward Hacking in Reinforcement Learning。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260622_q010",
+      "title": "Extrinsic Hallucinations in LLMs",
+      "originalTitle": "Extrinsic Hallucinations in LLMs",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Sun, 07 Jul 2024 00:00:00 +0000",
+      "crawlDate": "2026-06-22",
+      "source": {
+        "name": "Lil Log",
+        "type": "专家",
+        "url": "https://lilianweng.github.io/posts/2024-07-07-hallucination/"
+      },
+      "tags": [
+        "专家",
+        "应用落地"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Extrinsic Hallucinations in LLMs。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 5,
+  "total": 15,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
