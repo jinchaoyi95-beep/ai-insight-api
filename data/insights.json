@@ -1,9 +1,32 @@
 {
   "date": "20260624",
-  "updateTime": "2026-06-24T02:15:00.793Z",
+  "updateTime": "2026-06-24T14:32:43.234Z",
   "headlines": [
     {
       "id": "20260624_001",
+      "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "originalTitle": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 24 Jun 2026 06:00:00 GMT",
+      "crawlDate": "2026-06-24",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "OpenAI and Broadcom unveil LLM-optimized inference chip。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260624_002",
       "title": "Helping build shared standards for advanced AI",
       "originalTitle": "Helping build shared standards for advanced AI",
       "category": "company",
@@ -26,7 +49,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260624_002",
+      "id": "20260624_003",
       "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
       "originalTitle": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
       "category": "research",
@@ -49,7 +72,55 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260624_003",
+      "id": "20260624_004",
+      "title": "Future Tech谁会成为下一个AI巨头？这175个早期项目站上WAIC2026",
+      "originalTitle": "Future Tech谁会成为下一个AI巨头？这175个早期项目站上WAIC2026",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 24 Jun 2026 09:58:38 +0000",
+      "crawlDate": "2026-06-24",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/06/438157.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Future Tech谁会成为下一个AI巨头？这175个早期项目站上WAIC2026。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260624_005",
+      "title": "物理AI第一块万亿市场，在公路货运先跑通闭环了",
+      "originalTitle": "物理AI第一块万亿市场，在公路货运先跑通闭环了",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 24 Jun 2026 06:06:29 +0000",
+      "crawlDate": "2026-06-24",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/06/437853.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "物理AI第一块万亿市场，在公路货运先跑通闭环了。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    }
+  ],
+  "quickBrowse": [
+    {
+      "id": "20260624_q001",
       "title": "How Omio is building the future of conversational travel",
       "originalTitle": "How Omio is building the future of conversational travel",
       "category": "company",
@@ -65,79 +136,8 @@
         "官方",
         "企业动态"
       ],
-      "isHeadline": true,
-      "coreInsight": "How Omio is building the future of conversational travel。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260624_004",
-      "title": "智能座舱之王「转身」物理AI，高通需要被重估了",
-      "originalTitle": "智能座舱之王「转身」物理AI，高通需要被重估了",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 24 Jun 2026 00:26:07 +0000",
-      "crawlDate": "2026-06-24",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/432494.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "智能座舱之王「转身」物理AI，高通需要被重估了。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260624_005",
-      "title": "云计算一哥，让小鹏、Kimi和猎豹都爽了一把",
-      "originalTitle": "云计算一哥，让小鹏、Kimi和猎豹都爽了一把",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Tue, 23 Jun 2026 13:47:02 +0000",
-      "crawlDate": "2026-06-24",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/437672.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "云计算一哥，让小鹏、Kimi和猎豹都爽了一把。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
-    {
-      "id": "20260624_q001",
-      "title": "Daybreak: Tools for securing every organization in the world",
-      "originalTitle": "Daybreak: Tools for securing every organization in the world",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Mon, 22 Jun 2026 10:00:00 GMT",
-      "crawlDate": "2026-06-24",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/daybreak-securing-the-world"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
       "isHeadline": false,
-      "coreInsight": "Daybreak: Tools for securing every organization in the world。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "How Omio is building the future of conversational travel。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -167,52 +167,6 @@
     },
     {
       "id": "20260624_q003",
-      "title": "刚刚，豆包2.1发布！Agent自己跑18个小时搞定芯片设计代码",
-      "originalTitle": "刚刚，豆包2.1发布！Agent自己跑18个小时搞定芯片设计代码",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Tue, 23 Jun 2026 13:37:17 +0000",
-      "crawlDate": "2026-06-24",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/437503.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "刚刚，豆包2.1发布！Agent自己跑18个小时搞定芯片设计代码。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260624_q004",
-      "title": "57场面试杀进OpenAI！华人博士开源「AI面经」，含泪推荐",
-      "originalTitle": "57场面试杀进OpenAI！华人博士开源「AI面经」，含泪推荐",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 23 Jun 2026 07:31:30 +0000",
-      "crawlDate": "2026-06-24",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/437425.html"
-      },
-      "tags": [
-        "媒体",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "57场面试杀进OpenAI！华人博士开源「AI面经」，含泪推荐。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260624_q005",
       "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
       "originalTitle": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
       "category": "agent",
@@ -235,7 +189,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260624_q006",
+      "id": "20260624_q004",
       "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
       "originalTitle": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
       "category": "devtool",
@@ -258,53 +212,76 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260624_q007",
-      "title": "Heads in the game",
-      "originalTitle": "Heads in the game",
+      "id": "20260624_q005",
+      "title": "The Download: introducing the Engineering issue",
+      "originalTitle": "The Download: introducing the Engineering issue",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Tue, 23 Jun 2026 21:00:00 +0000",
+      "publishDate": "Wed, 24 Jun 2026 12:10:00 +0000",
       "crawlDate": "2026-06-24",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/"
+        "url": "https://www.technologyreview.com/2026/06/24/1139658/the-download-introducing-engineering-issue/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "Heads in the game。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: introducing the Engineering issue。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260624_q008",
-      "title": "Super Mario is mathier than you think",
-      "originalTitle": "Super Mario is mathier than you think",
-      "category": "application",
-      "categoryName": "应用落地",
-      "publishDate": "Tue, 23 Jun 2026 21:00:00 +0000",
+      "id": "20260624_q006",
+      "title": "Stripe, Anthropic and OpenAI are backing an effort to stop respiratory infections",
+      "originalTitle": "Stripe, Anthropic and OpenAI are backing an effort to stop respiratory infections",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 24 Jun 2026 12:00:00 +0000",
       "crawlDate": "2026-06-24",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/23/1138262/super-mario-is-mathier-than-you-think/"
+        "url": "https://www.technologyreview.com/2026/06/24/1139621/stripe-anthropic-and-openai-are-backing-an-effort-to-stop-respiratory-infections/"
       },
       "tags": [
         "媒体",
-        "应用落地"
+        "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "Super Mario is mathier than you think。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Stripe, Anthropic and OpenAI are backing an effort to stop respiratory infections。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260624_q007",
+      "title": "The emergence of the web data infrastructure layer for AI",
+      "originalTitle": "The emergence of the web data infrastructure layer for AI",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 24 Jun 2026 11:59:54 +0000",
+      "crawlDate": "2026-06-24",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The emergence of the web data infrastructure layer for AI。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 13,
+  "total": 12,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
