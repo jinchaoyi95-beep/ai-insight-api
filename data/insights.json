@@ -1,15 +1,15 @@
 {
-  "date": "20260625",
-  "updateTime": "2026-06-25T14:34:58.002Z",
+  "date": "20260626",
+  "updateTime": "2026-06-26T14:26:15.057Z",
   "headlines": [
     {
-      "id": "20260625_001",
+      "id": "20260626_001",
       "title": "How agents are transforming work",
       "originalTitle": "How agents are transforming work",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Thu, 25 Jun 2026 02:00:00 GMT",
-      "crawlDate": "2026-06-25",
+      "crawlDate": "2026-06-26",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +26,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260625_002",
+      "id": "20260626_002",
       "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "originalTitle": "OpenAI and Broadcom unveil LLM-optimized inference chip",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Wed, 24 Jun 2026 06:00:00 GMT",
-      "crawlDate": "2026-06-25",
+      "crawlDate": "2026-06-26",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,36 +49,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260625_003",
-      "title": "Helping build shared standards for advanced AI",
-      "originalTitle": "Helping build shared standards for advanced AI",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 23 Jun 2026 13:00:00 GMT",
-      "crawlDate": "2026-06-25",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/helping-build-shared-standards-for-advanced-ai"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Helping build shared standards for advanced AI。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260625_004",
+      "id": "20260626_003",
       "title": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
       "originalTitle": "How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery",
       "category": "research",
       "categoryName": "科研突破",
       "publishDate": "Tue, 23 Jun 2026 17:00:00 GMT",
-      "crawlDate": "2026-06-25",
+      "crawlDate": "2026-06-26",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -95,24 +72,47 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260625_005",
-      "title": "WAIC UP!｜AI圈都在聊参数，我们偏不",
-      "originalTitle": "WAIC UP!｜AI圈都在聊参数，我们偏不",
+      "id": "20260626_004",
+      "title": "Claude Fable 5分批重新上线！GPT-5.6秒跟",
+      "originalTitle": "Claude Fable 5分批重新上线！GPT-5.6秒跟",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Thu, 25 Jun 2026 09:59:40 +0000",
-      "crawlDate": "2026-06-25",
+      "publishDate": "Fri, 26 Jun 2026 06:55:20 +0000",
+      "crawlDate": "2026-06-26",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/438364.html"
+        "url": "https://www.qbitai.com/2026/06/438789.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "WAIC UP!｜AI圈都在聊参数，我们偏不。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Claude Fable 5分批重新上线！GPT-5.6秒跟。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260626_005",
+      "title": "Run a vLLM Server on HF Jobs in One Command",
+      "originalTitle": "Run a vLLM Server on HF Jobs in One Command",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 26 Jun 2026 00:00:00 GMT",
+      "crawlDate": "2026-06-26",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/vllm-jobs"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Run a vLLM Server on HF Jobs in One Command。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -120,145 +120,99 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260625_q001",
-      "title": "How Omio is building the future of conversational travel",
-      "originalTitle": "How Omio is building the future of conversational travel",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 23 Jun 2026 00:00:00 GMT",
-      "crawlDate": "2026-06-25",
+      "id": "20260626_q001",
+      "title": "Scaling Laws, Carefully",
+      "originalTitle": "Scaling Laws, Carefully",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Wed, 24 Jun 2026 00:00:00 +0000",
+      "crawlDate": "2026-06-26",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/omio"
+        "name": "Lil Log",
+        "type": "专家",
+        "url": "https://lilianweng.github.io/posts/2026-06-24-scaling-laws/"
       },
       "tags": [
-        "官方",
+        "专家",
+        "应用落地"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Scaling Laws, Carefully。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260626_q002",
+      "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+      "originalTitle": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Fri, 26 Jun 2026 12:10:00 +0000",
+      "crawlDate": "2026-06-26",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/"
+      },
+      "tags": [
+        "媒体",
         "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "How Omio is building the future of conversational travel。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260625_q002",
-      "title": "三体问世20周年，光帆科技与三体宇宙联合发布联名款AI全感穿戴设备及重磅视频《破晓》",
-      "originalTitle": "三体问世20周年，光帆科技与三体宇宙联合发布联名款AI全感穿戴设备及重磅视频《破晓》",
-      "category": "image-video",
-      "categoryName": "AI绘画/视频",
-      "publishDate": "Thu, 25 Jun 2026 09:46:44 +0000",
-      "crawlDate": "2026-06-25",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/438658.html"
-      },
-      "tags": [
-        "媒体",
-        "AI绘画/视频"
-      ],
-      "isHeadline": false,
-      "coreInsight": "三体问世20周年，光帆科技与三体宇宙联合发布联名款AI全感穿戴设备及重磅视频《破晓》。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260625_q003",
-      "title": "跟Claude谈个恋爱怎么了？Nature最新研究：真能给人聊傻了",
-      "originalTitle": "跟Claude谈个恋爱怎么了？Nature最新研究：真能给人聊傻了",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 25 Jun 2026 07:02:16 +0000",
-      "crawlDate": "2026-06-25",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/438365.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "跟Claude谈个恋爱怎么了？Nature最新研究：真能给人聊傻了。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260625_q004",
-      "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-      "originalTitle": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Tue, 23 Jun 2026 12:51:55 GMT",
-      "crawlDate": "2026-06-25",
-      "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/ibm-research/cuga-apps"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260625_q005",
-      "title": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
-      "originalTitle": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 25 Jun 2026 12:10:00 +0000",
-      "crawlDate": "2026-06-25",
+      "id": "20260626_q003",
+      "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
+      "originalTitle": "Heat waves mess with your brain. Scientists are trying to figure out why.",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Fri, 26 Jun 2026 09:00:00 +0000",
+      "crawlDate": "2026-06-26",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/"
+        "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "应用落地"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: Europe’s heat wave hits the grid, and IBM’s chip targets Moore’s Law。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Heat waves mess with your brain. Scientists are trying to figure out why.。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260625_q006",
-      "title": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
-      "originalTitle": "IBM has unveiled chip technology that could help extend Moore’s Law another decade",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 25 Jun 2026 10:00:00 +0000",
-      "crawlDate": "2026-06-25",
+      "id": "20260626_q004",
+      "title": "Repositioning retail for the AI era",
+      "originalTitle": "Repositioning retail for the AI era",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Thu, 25 Jun 2026 14:22:59 +0000",
+      "crawlDate": "2026-06-26",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/"
+        "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "开发工具"
       ],
       "isHeadline": false,
-      "coreInsight": "IBM has unveiled chip technology that could help extend Moore’s Law another decade。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Repositioning retail for the AI era。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 11,
+  "total": 9,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
