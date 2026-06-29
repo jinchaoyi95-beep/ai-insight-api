@@ -1,15 +1,38 @@
 {
-  "date": "20260628",
-  "updateTime": "2026-06-28T02:34:03.160Z",
+  "date": "20260629",
+  "updateTime": "2026-06-29T02:34:03.132Z",
   "headlines": [
     {
-      "id": "20260628_001",
+      "id": "20260629_001",
+      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "originalTitle": "HP Inc. launches Frontier strategic partnership with OpenAI",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Sun, 28 Jun 2026 17:00:00 GMT",
+      "crawlDate": "2026-06-29",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/hp-frontier-partnership"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "HP Inc. launches Frontier strategic partnership with OpenAI。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260629_002",
       "title": "Previewing GPT-5.6 Sol: a next-generation model",
       "originalTitle": "Previewing GPT-5.6 Sol: a next-generation model",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 26 Jun 2026 10:00:00 GMT",
-      "crawlDate": "2026-06-28",
+      "crawlDate": "2026-06-29",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,82 +49,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260628_002",
-      "title": "BrowserBC：克隆人类点击，让一次网页操作转化为所有Agent的能力",
-      "originalTitle": "BrowserBC：克隆人类点击，让一次网页操作转化为所有Agent的能力",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Sat, 27 Jun 2026 12:29:33 +0000",
-      "crawlDate": "2026-06-28",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/439393.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "BrowserBC：克隆人类点击，让一次网页操作转化为所有Agent的能力。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260628_003",
-      "title": "微软年度AI职场报告：员工已经准备好了，公司还没有",
-      "originalTitle": "微软年度AI职场报告：员工已经准备好了，公司还没有",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sat, 27 Jun 2026 04:48:02 +0000",
-      "crawlDate": "2026-06-28",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/439032.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "微软年度AI职场报告：员工已经准备好了，公司还没有。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260628_004",
-      "title": "GPT-5.6突然发布！Fable5痛失最强基模王座",
-      "originalTitle": "GPT-5.6突然发布！Fable5痛失最强基模王座",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sat, 27 Jun 2026 01:53:27 +0000",
-      "crawlDate": "2026-06-28",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/438895.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "GPT-5.6突然发布！Fable5痛失最强基模王座。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260628_005",
+      "id": "20260629_003",
       "title": "Using Local Coding Agents",
       "originalTitle": "Using Local Coding Agents",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Sat, 27 Jun 2026 11:21:58 GMT",
-      "crawlDate": "2026-06-28",
+      "crawlDate": "2026-06-29",
       "source": {
         "name": "Sebastian Raschka",
         "type": "专家",
@@ -116,17 +70,40 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260629_004",
+      "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
+      "originalTitle": "Heat waves mess with your brain. Scientists are trying to figure out why.",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Fri, 26 Jun 2026 09:00:00 +0000",
+      "crawlDate": "2026-06-29",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/"
+      },
+      "tags": [
+        "媒体",
+        "应用落地"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Heat waves mess with your brain. Scientists are trying to figure out why.。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
   "quickBrowse": [
     {
-      "id": "20260628_q001",
+      "id": "20260629_q001",
       "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
       "originalTitle": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 26 Jun 2026 12:10:00 +0000",
-      "crawlDate": "2026-06-28",
+      "crawlDate": "2026-06-29",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -141,55 +118,9 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260628_q002",
-      "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
-      "originalTitle": "Heat waves mess with your brain. Scientists are trying to figure out why.",
-      "category": "application",
-      "categoryName": "应用落地",
-      "publishDate": "Fri, 26 Jun 2026 09:00:00 +0000",
-      "crawlDate": "2026-06-28",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/"
-      },
-      "tags": [
-        "媒体",
-        "应用落地"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Heat waves mess with your brain. Scientists are trying to figure out why.。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260628_q003",
-      "title": "Repositioning retail for the AI era",
-      "originalTitle": "Repositioning retail for the AI era",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Thu, 25 Jun 2026 14:22:59 +0000",
-      "crawlDate": "2026-06-28",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/"
-      },
-      "tags": [
-        "媒体",
-        "开发工具"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Repositioning retail for the AI era。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 8,
+  "total": 5,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
