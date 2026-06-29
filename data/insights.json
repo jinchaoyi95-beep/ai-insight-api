@@ -1,9 +1,32 @@
 {
   "date": "20260629",
-  "updateTime": "2026-06-29T02:34:03.132Z",
+  "updateTime": "2026-06-29T15:49:03.004Z",
   "headlines": [
     {
       "id": "20260629_001",
+      "title": "Mapping Europe’s AI Workforce Opportunity",
+      "originalTitle": "Mapping Europe’s AI Workforce Opportunity",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+      "crawlDate": "2026-06-29",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/mapping-ai-jobs-transition-eu"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Mapping Europe’s AI Workforce Opportunity。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260629_002",
       "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
       "originalTitle": "HP Inc. launches Frontier strategic partnership with OpenAI",
       "category": "company",
@@ -26,30 +49,53 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260629_002",
-      "title": "Previewing GPT-5.6 Sol: a next-generation model",
-      "originalTitle": "Previewing GPT-5.6 Sol: a next-generation model",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Fri, 26 Jun 2026 10:00:00 GMT",
+      "id": "20260629_003",
+      "title": "OceanBase发布AI数据库：以一套引擎融合湖库与多模态数据",
+      "originalTitle": "OceanBase发布AI数据库：以一套引擎融合湖库与多模态数据",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 29 Jun 2026 08:49:38 +0000",
       "crawlDate": "2026-06-29",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/previewing-gpt-5-6-sol"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/06/439876.html"
       },
       "tags": [
-        "官方",
-        "企业动态"
+        "媒体",
+        "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "Previewing GPT-5.6 Sol: a next-generation model。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "OceanBase发布AI数据库：以一套引擎融合湖库与多模态数据。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260629_003",
+      "id": "20260629_004",
+      "title": "AI当老板，快给10家公司干破产了…",
+      "originalTitle": "AI当老板，快给10家公司干破产了…",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 29 Jun 2026 08:23:10 +0000",
+      "crawlDate": "2026-06-29",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/06/439864.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "AI当老板，快给10家公司干破产了…。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260629_005",
       "title": "Using Local Coding Agents",
       "originalTitle": "Using Local Coding Agents",
       "category": "agent",
@@ -70,57 +116,80 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260629_004",
-      "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
-      "originalTitle": "Heat waves mess with your brain. Scientists are trying to figure out why.",
-      "category": "application",
-      "categoryName": "应用落地",
-      "publishDate": "Fri, 26 Jun 2026 09:00:00 +0000",
-      "crawlDate": "2026-06-29",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/"
-      },
-      "tags": [
-        "媒体",
-        "应用落地"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Heat waves mess with your brain. Scientists are trying to figure out why.。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
   "quickBrowse": [
     {
       "id": "20260629_q001",
-      "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
-      "originalTitle": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+      "title": "Claude Mythos让梁文锋决定融资",
+      "originalTitle": "Claude Mythos让梁文锋决定融资",
       "category": "company",
       "categoryName": "企业动态",
-      "publishDate": "Fri, 26 Jun 2026 12:10:00 +0000",
+      "publishDate": "Mon, 29 Jun 2026 08:54:57 +0000",
       "crawlDate": "2026-06-29",
       "source": {
-        "name": "MIT Technology Review",
+        "name": "量子位",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/"
+        "url": "https://www.qbitai.com/2026/06/439863.html"
       },
       "tags": [
         "媒体",
         "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Claude Mythos让梁文锋决定融资。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260629_q002",
+      "title": "Agent confidence on the technical frontier",
+      "originalTitle": "Agent confidence on the technical frontier",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 29 Jun 2026 14:44:01 +0000",
+      "crawlDate": "2026-06-29",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Agent confidence on the technical frontier。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260629_q003",
+      "title": "The Download: metric weaknesses and AI elephant warnings",
+      "originalTitle": "The Download: metric weaknesses and AI elephant warnings",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 29 Jun 2026 12:10:00 +0000",
+      "crawlDate": "2026-06-29",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The Download: metric weaknesses and AI elephant warnings。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 5,
+  "total": 8,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
