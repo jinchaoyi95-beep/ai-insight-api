@@ -1,15 +1,15 @@
 {
-  "date": "20260629",
-  "updateTime": "2026-06-29T15:49:03.004Z",
+  "date": "20260630",
+  "updateTime": "2026-06-30T14:20:33.863Z",
   "headlines": [
     {
-      "id": "20260629_001",
+      "id": "20260630_001",
       "title": "Mapping Europe’s AI Workforce Opportunity",
       "originalTitle": "Mapping Europe’s AI Workforce Opportunity",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "crawlDate": "2026-06-29",
+      "crawlDate": "2026-06-30",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +26,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260629_002",
+      "id": "20260630_002",
       "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
       "originalTitle": "HP Inc. launches Frontier strategic partnership with OpenAI",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Sun, 28 Jun 2026 17:00:00 GMT",
-      "crawlDate": "2026-06-29",
+      "crawlDate": "2026-06-30",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,70 +49,70 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260629_003",
-      "title": "OceanBase发布AI数据库：以一套引擎融合湖库与多模态数据",
-      "originalTitle": "OceanBase发布AI数据库：以一套引擎融合湖库与多模态数据",
+      "id": "20260630_003",
+      "title": "港股新贵押注物理AI，乐动机器人打造万亿市场空间的核心基础设施",
+      "originalTitle": "港股新贵押注物理AI，乐动机器人打造万亿市场空间的核心基础设施",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Mon, 29 Jun 2026 08:49:38 +0000",
-      "crawlDate": "2026-06-29",
+      "publishDate": "Tue, 30 Jun 2026 10:20:04 +0000",
+      "crawlDate": "2026-06-30",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/439876.html"
+        "url": "https://www.qbitai.com/2026/06/440818.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "OceanBase发布AI数据库：以一套引擎融合湖库与多模态数据。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "港股新贵押注物理AI，乐动机器人打造万亿市场空间的核心基础设施。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260629_004",
-      "title": "AI当老板，快给10家公司干破产了…",
-      "originalTitle": "AI当老板，快给10家公司干破产了…",
+      "id": "20260630_004",
+      "title": "顶刊生物实验难复现？统一操作话术来了！编译通过率98.6%",
+      "originalTitle": "顶刊生物实验难复现？统一操作话术来了！编译通过率98.6%",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Mon, 29 Jun 2026 08:23:10 +0000",
-      "crawlDate": "2026-06-29",
+      "publishDate": "Tue, 30 Jun 2026 10:09:56 +0000",
+      "crawlDate": "2026-06-30",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/439864.html"
+        "url": "https://www.qbitai.com/2026/06/440630.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "AI当老板，快给10家公司干破产了…。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "顶刊生物实验难复现？统一操作话术来了！编译通过率98.6%。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260629_005",
-      "title": "Using Local Coding Agents",
-      "originalTitle": "Using Local Coding Agents",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Sat, 27 Jun 2026 11:21:58 GMT",
-      "crawlDate": "2026-06-29",
+      "id": "20260630_005",
+      "title": "Claude Code之父版「职场MBTI」：AI洗牌后只剩5类人，你选哪种？",
+      "originalTitle": "Claude Code之父版「职场MBTI」：AI洗牌后只剩5类人，你选哪种？",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Tue, 30 Jun 2026 09:34:05 +0000",
+      "crawlDate": "2026-06-30",
       "source": {
-        "name": "Sebastian Raschka",
-        "type": "专家",
-        "url": "https://magazine.sebastianraschka.com/p/using-local-coding-agents"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/06/440599.html"
       },
       "tags": [
-        "专家",
-        "Agent"
+        "媒体",
+        "开发工具"
       ],
       "isHeadline": true,
-      "coreInsight": "Using Local Coding Agents。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Claude Code之父版「职场MBTI」：AI洗牌后只剩5类人，你选哪种？。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -120,76 +120,122 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260629_q001",
-      "title": "Claude Mythos让梁文锋决定融资",
-      "originalTitle": "Claude Mythos让梁文锋决定融资",
+      "id": "20260630_q001",
+      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+      "originalTitle": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
       "category": "company",
       "categoryName": "企业动态",
-      "publishDate": "Mon, 29 Jun 2026 08:54:57 +0000",
-      "crawlDate": "2026-06-29",
+      "publishDate": "Tue, 30 Jun 2026 06:00:00 +0000",
+      "crawlDate": "2026-06-30",
       "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/439863.html"
+        "name": "Google AI",
+        "type": "官方",
+        "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/"
       },
       "tags": [
-        "媒体",
+        "官方",
         "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "Claude Mythos让梁文锋决定融资。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260629_q002",
-      "title": "Agent confidence on the technical frontier",
-      "originalTitle": "Agent confidence on the technical frontier",
+      "id": "20260630_q002",
+      "title": "Ask an AI expert: What exactly is the full stack?",
+      "originalTitle": "Ask an AI expert: What exactly is the full stack?",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 29 Jun 2026 16:00:00 +0000",
+      "crawlDate": "2026-06-30",
+      "source": {
+        "name": "Google AI",
+        "type": "官方",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Ask an AI expert: What exactly is the full stack?。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260630_q003",
+      "title": "The Download: AI “coworkers” and stratospheric internet",
+      "originalTitle": "The Download: AI “coworkers” and stratospheric internet",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Mon, 29 Jun 2026 14:44:01 +0000",
-      "crawlDate": "2026-06-29",
+      "publishDate": "Tue, 30 Jun 2026 12:10:00 +0000",
+      "crawlDate": "2026-06-30",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/29/1139635/agent-confidence-on-the-technical-frontier/"
+        "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/"
       },
       "tags": [
         "媒体",
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "Agent confidence on the technical frontier。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: AI “coworkers” and stratospheric internet。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260629_q003",
-      "title": "The Download: metric weaknesses and AI elephant warnings",
-      "originalTitle": "The Download: metric weaknesses and AI elephant warnings",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Mon, 29 Jun 2026 12:10:00 +0000",
-      "crawlDate": "2026-06-29",
+      "id": "20260630_q004",
+      "title": "Agriculture is ready for AI, but its data isn’t",
+      "originalTitle": "Agriculture is ready for AI, but its data isn’t",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Tue, 30 Jun 2026 12:00:00 +0000",
+      "crawlDate": "2026-06-30",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/29/1139834/the-download-metric-weaknesses-ai-elephant-warnings/"
+        "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "科研突破"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: metric weaknesses and AI elephant warnings。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Agriculture is ready for AI, but its data isn’t。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260630_q005",
+      "title": "Building tech in the world’s secret R&D hub",
+      "originalTitle": "Building tech in the world’s secret R&D hub",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Tue, 30 Jun 2026 10:23:30 +0000",
+      "crawlDate": "2026-06-30",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/"
+      },
+      "tags": [
+        "媒体",
+        "科研突破"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Building tech in the world’s secret R&D hub。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 8,
+  "total": 10,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
