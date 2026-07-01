@@ -1,61 +1,84 @@
 {
-  "date": "20260630",
-  "updateTime": "2026-06-30T14:20:33.863Z",
+  "date": "20260701",
+  "updateTime": "2026-07-01T02:34:53.835Z",
   "headlines": [
     {
-      "id": "20260630_001",
-      "title": "Mapping Europe’s AI Workforce Opportunity",
-      "originalTitle": "Mapping Europe’s AI Workforce Opportunity",
+      "id": "20260701_001",
+      "title": "How ChatGPT adoption has expanded",
+      "originalTitle": "How ChatGPT adoption has expanded",
       "category": "company",
       "categoryName": "企业动态",
-      "publishDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "crawlDate": "2026-06-30",
+      "publishDate": "Tue, 30 Jun 2026 09:00:00 GMT",
+      "crawlDate": "2026-07-01",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/mapping-ai-jobs-transition-eu"
+        "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
       },
       "tags": [
         "官方",
         "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "Mapping Europe’s AI Workforce Opportunity。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "How ChatGPT adoption has expanded。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260630_002",
-      "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "originalTitle": "HP Inc. launches Frontier strategic partnership with OpenAI",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Sun, 28 Jun 2026 17:00:00 GMT",
-      "crawlDate": "2026-06-30",
+      "id": "20260701_002",
+      "title": "Introducing GeneBench-Pro",
+      "originalTitle": "Introducing GeneBench-Pro",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Tue, 30 Jun 2026 00:00:00 GMT",
+      "crawlDate": "2026-07-01",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/hp-frontier-partnership"
+        "url": "https://openai.com/index/introducing-genebench-pro"
+      },
+      "tags": [
+        "官方",
+        "科研突破"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Introducing GeneBench-Pro。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260701_003",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "originalTitle": "Core dump epidemiology: fixing an 18-year-old bug",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 30 Jun 2026 00:00:00 GMT",
+      "crawlDate": "2026-07-01",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
       },
       "tags": [
         "官方",
         "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "HP Inc. launches Frontier strategic partnership with OpenAI。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Core dump epidemiology: fixing an 18-year-old bug。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260630_003",
+      "id": "20260701_004",
       "title": "港股新贵押注物理AI，乐动机器人打造万亿市场空间的核心基础设施",
       "originalTitle": "港股新贵押注物理AI，乐动机器人打造万亿市场空间的核心基础设施",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 30 Jun 2026 10:20:04 +0000",
-      "crawlDate": "2026-06-30",
+      "crawlDate": "2026-07-01",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -72,13 +95,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260630_004",
+      "id": "20260701_005",
       "title": "顶刊生物实验难复现？统一操作话术来了！编译通过率98.6%",
       "originalTitle": "顶刊生物实验难复现？统一操作话术来了！编译通过率98.6%",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 30 Jun 2026 10:09:56 +0000",
-      "crawlDate": "2026-06-30",
+      "crawlDate": "2026-07-01",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -93,40 +116,63 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260630_005",
-      "title": "Claude Code之父版「职场MBTI」：AI洗牌后只剩5类人，你选哪种？",
-      "originalTitle": "Claude Code之父版「职场MBTI」：AI洗牌后只剩5类人，你选哪种？",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Tue, 30 Jun 2026 09:34:05 +0000",
-      "crawlDate": "2026-06-30",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/440599.html"
-      },
-      "tags": [
-        "媒体",
-        "开发工具"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Claude Code之父版「职场MBTI」：AI洗牌后只剩5类人，你选哪种？。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
   "quickBrowse": [
     {
-      "id": "20260630_q001",
+      "id": "20260701_q001",
+      "title": "Mapping Europe’s AI Workforce Opportunity",
+      "originalTitle": "Mapping Europe’s AI Workforce Opportunity",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+      "crawlDate": "2026-07-01",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/mapping-ai-jobs-transition-eu"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Mapping Europe’s AI Workforce Opportunity。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260701_q002",
+      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "originalTitle": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Tue, 30 Jun 2026 18:32:50 GMT",
+      "crawlDate": "2026-07-01",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/ibm-research/scarfbench"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260701_q003",
       "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
       "originalTitle": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Tue, 30 Jun 2026 06:00:00 +0000",
-      "crawlDate": "2026-06-30",
+      "crawlDate": "2026-07-01",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -143,13 +189,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260630_q002",
+      "id": "20260701_q004",
       "title": "Ask an AI expert: What exactly is the full stack?",
       "originalTitle": "Ask an AI expert: What exactly is the full stack?",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Mon, 29 Jun 2026 16:00:00 +0000",
-      "crawlDate": "2026-06-30",
+      "crawlDate": "2026-07-01",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -166,13 +212,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260630_q003",
+      "id": "20260701_q005",
+      "title": "Claude Science is Anthropic’s newest flagship product",
+      "originalTitle": "Claude Science is Anthropic’s newest flagship product",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Tue, 30 Jun 2026 21:50:04 +0000",
+      "crawlDate": "2026-07-01",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/"
+      },
+      "tags": [
+        "媒体",
+        "科研突破"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Claude Science is Anthropic’s newest flagship product。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260701_q006",
       "title": "The Download: AI “coworkers” and stratospheric internet",
       "originalTitle": "The Download: AI “coworkers” and stratospheric internet",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Tue, 30 Jun 2026 12:10:00 +0000",
-      "crawlDate": "2026-06-30",
+      "crawlDate": "2026-07-01",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -187,55 +256,9 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260630_q004",
-      "title": "Agriculture is ready for AI, but its data isn’t",
-      "originalTitle": "Agriculture is ready for AI, but its data isn’t",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Tue, 30 Jun 2026 12:00:00 +0000",
-      "crawlDate": "2026-06-30",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/"
-      },
-      "tags": [
-        "媒体",
-        "科研突破"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Agriculture is ready for AI, but its data isn’t。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260630_q005",
-      "title": "Building tech in the world’s secret R&D hub",
-      "originalTitle": "Building tech in the world’s secret R&D hub",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Tue, 30 Jun 2026 10:23:30 +0000",
-      "crawlDate": "2026-06-30",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/"
-      },
-      "tags": [
-        "媒体",
-        "科研突破"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Building tech in the world’s secret R&D hub。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 10,
+  "total": 11,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
