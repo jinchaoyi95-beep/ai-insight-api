@@ -1,6 +1,6 @@
 {
   "date": "20260701",
-  "updateTime": "2026-07-01T02:34:53.835Z",
+  "updateTime": "2026-07-01T14:38:05.655Z",
   "headlines": [
     {
       "id": "20260701_001",
@@ -73,46 +73,46 @@
     },
     {
       "id": "20260701_004",
-      "title": "港股新贵押注物理AI，乐动机器人打造万亿市场空间的核心基础设施",
-      "originalTitle": "港股新贵押注物理AI，乐动机器人打造万亿市场空间的核心基础设施",
+      "title": "OceanBase湖库一体，重新定义AI数据库",
+      "originalTitle": "OceanBase湖库一体，重新定义AI数据库",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Tue, 30 Jun 2026 10:20:04 +0000",
+      "publishDate": "Wed, 01 Jul 2026 09:05:10 +0000",
       "crawlDate": "2026-07-01",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/440818.html"
+        "url": "https://www.qbitai.com/2026/07/441386.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "港股新贵押注物理AI，乐动机器人打造万亿市场空间的核心基础设施。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "OceanBase湖库一体，重新定义AI数据库。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260701_005",
-      "title": "顶刊生物实验难复现？统一操作话术来了！编译通过率98.6%",
-      "originalTitle": "顶刊生物实验难复现？统一操作话术来了！编译通过率98.6%",
+      "title": "金融AI武道大会开赛！四道业务真题，出题人：猜不到最优解",
+      "originalTitle": "金融AI武道大会开赛！四道业务真题，出题人：猜不到最优解",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Tue, 30 Jun 2026 10:09:56 +0000",
+      "publishDate": "Wed, 01 Jul 2026 07:41:42 +0000",
       "crawlDate": "2026-07-01",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/06/440630.html"
+        "url": "https://www.qbitai.com/2026/07/441246.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "顶刊生物实验难复现？统一操作话术来了！编译通过率98.6%。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "金融AI武道大会开赛！四道业务真题，出题人：猜不到最优解。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -144,6 +144,52 @@
     },
     {
       "id": "20260701_q002",
+      "title": "OpenSquilla 发布 0.4.0：AI 写代码首次能“自我验证”",
+      "originalTitle": "OpenSquilla 发布 0.4.0：AI 写代码首次能“自我验证”",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Wed, 01 Jul 2026 07:32:23 +0000",
+      "crawlDate": "2026-07-01",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/07/441240.html"
+      },
+      "tags": [
+        "媒体",
+        "开发工具"
+      ],
+      "isHeadline": false,
+      "coreInsight": "OpenSquilla 发布 0.4.0：AI 写代码首次能“自我验证”。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260701_q003",
+      "title": "群核科技三项成果入选ECCV 2026，联手英伟达等探索物理AI仿真平台",
+      "originalTitle": "群核科技三项成果入选ECCV 2026，联手英伟达等探索物理AI仿真平台",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 01 Jul 2026 07:29:32 +0000",
+      "crawlDate": "2026-07-01",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/07/441237.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "群核科技三项成果入选ECCV 2026，联手英伟达等探索物理AI仿真平台。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260701_q004",
       "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
       "originalTitle": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
       "category": "agent",
@@ -166,7 +212,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260701_q003",
+      "id": "20260701_q005",
       "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
       "originalTitle": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
       "category": "company",
@@ -189,7 +235,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260701_q004",
+      "id": "20260701_q006",
       "title": "Ask an AI expert: What exactly is the full stack?",
       "originalTitle": "Ask an AI expert: What exactly is the full stack?",
       "category": "company",
@@ -212,7 +258,30 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260701_q005",
+      "id": "20260701_q007",
+      "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
+      "originalTitle": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Wed, 01 Jul 2026 12:10:00 +0000",
+      "crawlDate": "2026-07-01",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/"
+      },
+      "tags": [
+        "媒体",
+        "科研突破"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The Download: Anthropic launches Claude Science, and California’s carbon manure math。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260701_q008",
       "title": "Claude Science is Anthropic’s newest flagship product",
       "originalTitle": "Claude Science is Anthropic’s newest flagship product",
       "category": "research",
@@ -233,32 +302,9 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260701_q006",
-      "title": "The Download: AI “coworkers” and stratospheric internet",
-      "originalTitle": "The Download: AI “coworkers” and stratospheric internet",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Tue, 30 Jun 2026 12:10:00 +0000",
-      "crawlDate": "2026-07-01",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Download: AI “coworkers” and stratospheric internet。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 11,
+  "total": 13,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
