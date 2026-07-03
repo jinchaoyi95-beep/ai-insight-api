@@ -1,101 +1,9 @@
 {
   "date": "20260703",
-  "updateTime": "2026-07-03T01:59:07.524Z",
+  "updateTime": "2026-07-03T14:06:34.015Z",
   "headlines": [
     {
       "id": "20260703_001",
-      "title": "How ChatGPT adoption has expanded",
-      "originalTitle": "How ChatGPT adoption has expanded",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 30 Jun 2026 09:00:00 GMT",
-      "crawlDate": "2026-07-03",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "How ChatGPT adoption has expanded。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260703_002",
-      "title": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
-      "originalTitle": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 02 Jul 2026 11:28:36 +0000",
-      "crawlDate": "2026-07-03",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/442134.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260703_003",
-      "title": "论坛预告｜夯！AI企业家论坛首发阵容公开，更有千亿级实业巨头突袭",
-      "originalTitle": "论坛预告｜夯！AI企业家论坛首发阵容公开，更有千亿级实业巨头突袭",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 02 Jul 2026 10:29:03 +0000",
-      "crawlDate": "2026-07-03",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/442037.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "论坛预告｜夯！AI企业家论坛首发阵容公开，更有千亿级实业巨头突袭。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260703_004",
-      "title": "天工 3.2 重磅升级：Skywork Tags 上线，给 Agent 一张工牌，邀其加入你的工作群聊",
-      "originalTitle": "天工 3.2 重磅升级：Skywork Tags 上线，给 Agent 一张工牌，邀其加入你的工作群聊",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 02 Jul 2026 10:24:32 +0000",
-      "crawlDate": "2026-07-03",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/442030.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "天工 3.2 重磅升级：Skywork Tags 上线，给 Agent 一张工牌，邀其加入你的工作群聊。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260703_005",
       "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
       "originalTitle": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
       "category": "llm",
@@ -116,11 +24,9 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
+    },
     {
-      "id": "20260703_q001",
+      "id": "20260703_002",
       "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
       "originalTitle": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
       "category": "agent",
@@ -136,14 +42,14 @@
         "官方",
         "Agent"
       ],
-      "isHeadline": false,
+      "isHeadline": true,
       "coreInsight": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260703_q002",
+      "id": "20260703_003",
       "title": "The latest AI news we announced in June 2026",
       "originalTitle": "The latest AI news we announced in June 2026",
       "category": "company",
@@ -159,14 +65,14 @@
         "官方",
         "企业动态"
       ],
-      "isHeadline": false,
+      "isHeadline": true,
       "coreInsight": "The latest AI news we announced in June 2026。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260703_q003",
+      "id": "20260703_004",
       "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
       "originalTitle": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
       "category": "company",
@@ -182,37 +88,62 @@
         "官方",
         "企业动态"
       ],
-      "isHeadline": false,
+      "isHeadline": true,
       "coreInsight": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260703_q004",
-      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-      "originalTitle": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 30 Jun 2026 06:00:00 +0000",
+      "id": "20260703_005",
+      "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
+      "originalTitle": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 03 Jul 2026 12:10:00 +0000",
       "crawlDate": "2026-07-03",
       "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/"
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/"
       },
       "tags": [
-        "官方",
-        "企业动态"
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "The Download: a smoking “endgame” and a new Elizabeth Bear story。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    }
+  ],
+  "quickBrowse": [
+    {
+      "id": "20260703_q001",
+      "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
+      "originalTitle": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 03 Jul 2026 09:00:00 +0000",
+      "crawlDate": "2026-07-03",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260703_q005",
+      "id": "20260703_q002",
       "title": "Achieving operational excellence with AI",
       "originalTitle": "Achieving operational excellence with AI",
       "category": "llm",
@@ -233,55 +164,9 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260703_q006",
-      "title": "Teaching AI to run with the turbines",
-      "originalTitle": "Teaching AI to run with the turbines",
-      "category": "image-video",
-      "categoryName": "AI绘画/视频",
-      "publishDate": "Thu, 02 Jul 2026 12:51:44 +0000",
-      "crawlDate": "2026-07-03",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/"
-      },
-      "tags": [
-        "媒体",
-        "AI绘画/视频"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Teaching AI to run with the turbines。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260703_q007",
-      "title": "The Download: a startup has a solution for AI’s groupthink problem",
-      "originalTitle": "The Download: a startup has a solution for AI’s groupthink problem",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 02 Jul 2026 12:10:00 +0000",
-      "crawlDate": "2026-07-03",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Download: a startup has a solution for AI’s groupthink problem。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 12,
+  "total": 7,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
