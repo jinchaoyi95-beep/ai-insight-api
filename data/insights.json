@@ -1,15 +1,15 @@
 {
-  "date": "20260701",
-  "updateTime": "2026-07-01T14:38:05.655Z",
+  "date": "20260703",
+  "updateTime": "2026-07-03T01:59:07.524Z",
   "headlines": [
     {
-      "id": "20260701_001",
+      "id": "20260703_001",
       "title": "How ChatGPT adoption has expanded",
       "originalTitle": "How ChatGPT adoption has expanded",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Tue, 30 Jun 2026 09:00:00 GMT",
-      "crawlDate": "2026-07-01",
+      "crawlDate": "2026-07-03",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,93 +26,93 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260701_002",
-      "title": "Introducing GeneBench-Pro",
-      "originalTitle": "Introducing GeneBench-Pro",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Tue, 30 Jun 2026 00:00:00 GMT",
-      "crawlDate": "2026-07-01",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/introducing-genebench-pro"
-      },
-      "tags": [
-        "官方",
-        "科研突破"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Introducing GeneBench-Pro。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260701_003",
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "originalTitle": "Core dump epidemiology: fixing an 18-year-old bug",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 30 Jun 2026 00:00:00 GMT",
-      "crawlDate": "2026-07-01",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Core dump epidemiology: fixing an 18-year-old bug。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260701_004",
-      "title": "OceanBase湖库一体，重新定义AI数据库",
-      "originalTitle": "OceanBase湖库一体，重新定义AI数据库",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 01 Jul 2026 09:05:10 +0000",
-      "crawlDate": "2026-07-01",
+      "id": "20260703_002",
+      "title": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
+      "originalTitle": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Thu, 02 Jul 2026 11:28:36 +0000",
+      "crawlDate": "2026-07-03",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/441386.html"
+        "url": "https://www.qbitai.com/2026/07/442134.html"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260703_003",
+      "title": "论坛预告｜夯！AI企业家论坛首发阵容公开，更有千亿级实业巨头突袭",
+      "originalTitle": "论坛预告｜夯！AI企业家论坛首发阵容公开，更有千亿级实业巨头突袭",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 02 Jul 2026 10:29:03 +0000",
+      "crawlDate": "2026-07-03",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/07/442037.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "OceanBase湖库一体，重新定义AI数据库。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "论坛预告｜夯！AI企业家论坛首发阵容公开，更有千亿级实业巨头突袭。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260701_005",
-      "title": "金融AI武道大会开赛！四道业务真题，出题人：猜不到最优解",
-      "originalTitle": "金融AI武道大会开赛！四道业务真题，出题人：猜不到最优解",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 01 Jul 2026 07:41:42 +0000",
-      "crawlDate": "2026-07-01",
+      "id": "20260703_004",
+      "title": "天工 3.2 重磅升级：Skywork Tags 上线，给 Agent 一张工牌，邀其加入你的工作群聊",
+      "originalTitle": "天工 3.2 重磅升级：Skywork Tags 上线，给 Agent 一张工牌，邀其加入你的工作群聊",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Thu, 02 Jul 2026 10:24:32 +0000",
+      "crawlDate": "2026-07-03",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/441246.html"
+        "url": "https://www.qbitai.com/2026/07/442030.html"
       },
       "tags": [
         "媒体",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "天工 3.2 重磅升级：Skywork Tags 上线，给 Agent 一张工牌，邀其加入你的工作群聊。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260703_005",
+      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "originalTitle": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 01 Jul 2026 00:00:00 GMT",
+      "crawlDate": "2026-07-03",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai"
+      },
+      "tags": [
+        "官方",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "金融AI武道大会开赛！四道业务真题，出题人：猜不到最优解。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -120,82 +120,13 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260701_q001",
-      "title": "Mapping Europe’s AI Workforce Opportunity",
-      "originalTitle": "Mapping Europe’s AI Workforce Opportunity",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "crawlDate": "2026-07-01",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/mapping-ai-jobs-transition-eu"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Mapping Europe’s AI Workforce Opportunity。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260701_q002",
-      "title": "OpenSquilla 发布 0.4.0：AI 写代码首次能“自我验证”",
-      "originalTitle": "OpenSquilla 发布 0.4.0：AI 写代码首次能“自我验证”",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Wed, 01 Jul 2026 07:32:23 +0000",
-      "crawlDate": "2026-07-01",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/441240.html"
-      },
-      "tags": [
-        "媒体",
-        "开发工具"
-      ],
-      "isHeadline": false,
-      "coreInsight": "OpenSquilla 发布 0.4.0：AI 写代码首次能“自我验证”。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260701_q003",
-      "title": "群核科技三项成果入选ECCV 2026，联手英伟达等探索物理AI仿真平台",
-      "originalTitle": "群核科技三项成果入选ECCV 2026，联手英伟达等探索物理AI仿真平台",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 01 Jul 2026 07:29:32 +0000",
-      "crawlDate": "2026-07-01",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/441237.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "群核科技三项成果入选ECCV 2026，联手英伟达等探索物理AI仿真平台。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260701_q004",
+      "id": "20260703_q001",
       "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
       "originalTitle": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Tue, 30 Jun 2026 18:32:50 GMT",
-      "crawlDate": "2026-07-01",
+      "crawlDate": "2026-07-03",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -212,13 +143,59 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260701_q005",
+      "id": "20260703_q002",
+      "title": "The latest AI news we announced in June 2026",
+      "originalTitle": "The latest AI news we announced in June 2026",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 01 Jul 2026 18:15:00 +0000",
+      "crawlDate": "2026-07-03",
+      "source": {
+        "name": "Google AI",
+        "type": "官方",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The latest AI news we announced in June 2026。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260703_q003",
+      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "originalTitle": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 01 Jul 2026 16:00:00 +0000",
+      "crawlDate": "2026-07-03",
+      "source": {
+        "name": "Google AI",
+        "type": "官方",
+        "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260703_q004",
       "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
       "originalTitle": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Tue, 30 Jun 2026 06:00:00 +0000",
-      "crawlDate": "2026-07-01",
+      "crawlDate": "2026-07-03",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -235,76 +212,76 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260701_q006",
-      "title": "Ask an AI expert: What exactly is the full stack?",
-      "originalTitle": "Ask an AI expert: What exactly is the full stack?",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Mon, 29 Jun 2026 16:00:00 +0000",
-      "crawlDate": "2026-07-01",
+      "id": "20260703_q005",
+      "title": "Achieving operational excellence with AI",
+      "originalTitle": "Achieving operational excellence with AI",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 02 Jul 2026 15:37:08 +0000",
+      "crawlDate": "2026-07-03",
       "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/"
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/"
       },
       "tags": [
-        "官方",
-        "企业动态"
+        "媒体",
+        "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "Ask an AI expert: What exactly is the full stack?。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Achieving operational excellence with AI。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260701_q007",
-      "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
-      "originalTitle": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Wed, 01 Jul 2026 12:10:00 +0000",
-      "crawlDate": "2026-07-01",
+      "id": "20260703_q006",
+      "title": "Teaching AI to run with the turbines",
+      "originalTitle": "Teaching AI to run with the turbines",
+      "category": "image-video",
+      "categoryName": "AI绘画/视频",
+      "publishDate": "Thu, 02 Jul 2026 12:51:44 +0000",
+      "crawlDate": "2026-07-03",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/"
+        "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/"
       },
       "tags": [
         "媒体",
-        "科研突破"
+        "AI绘画/视频"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: Anthropic launches Claude Science, and California’s carbon manure math。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Teaching AI to run with the turbines。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260701_q008",
-      "title": "Claude Science is Anthropic’s newest flagship product",
-      "originalTitle": "Claude Science is Anthropic’s newest flagship product",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Tue, 30 Jun 2026 21:50:04 +0000",
-      "crawlDate": "2026-07-01",
+      "id": "20260703_q007",
+      "title": "The Download: a startup has a solution for AI’s groupthink problem",
+      "originalTitle": "The Download: a startup has a solution for AI’s groupthink problem",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 02 Jul 2026 12:10:00 +0000",
+      "crawlDate": "2026-07-03",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/"
+        "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/"
       },
       "tags": [
         "媒体",
-        "科研突破"
+        "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "Claude Science is Anthropic’s newest flagship product。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: a startup has a solution for AI’s groupthink problem。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 13,
+  "total": 12,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
