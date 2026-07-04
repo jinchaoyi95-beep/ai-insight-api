@@ -1,61 +1,38 @@
 {
-  "date": "20260703",
-  "updateTime": "2026-07-03T14:06:34.015Z",
+  "date": "20260704",
+  "updateTime": "2026-07-04T01:57:26.932Z",
   "headlines": [
     {
-      "id": "20260703_001",
-      "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-      "originalTitle": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
+      "id": "20260704_001",
+      "title": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
+      "originalTitle": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Wed, 01 Jul 2026 00:00:00 GMT",
-      "crawlDate": "2026-07-03",
+      "publishDate": "Fri, 03 Jul 2026 14:28:38 +0000",
+      "crawlDate": "2026-07-04",
       "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/07/442746.html"
       },
       "tags": [
-        "官方",
+        "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260703_002",
-      "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-      "originalTitle": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Tue, 30 Jun 2026 18:32:50 GMT",
-      "crawlDate": "2026-07-03",
-      "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/ibm-research/scarfbench"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260703_003",
+      "id": "20260704_002",
       "title": "The latest AI news we announced in June 2026",
       "originalTitle": "The latest AI news we announced in June 2026",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Wed, 01 Jul 2026 18:15:00 +0000",
-      "crawlDate": "2026-07-03",
+      "crawlDate": "2026-07-04",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -72,13 +49,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260703_004",
+      "id": "20260704_003",
       "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
       "originalTitle": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Wed, 01 Jul 2026 16:00:00 +0000",
-      "crawlDate": "2026-07-03",
+      "crawlDate": "2026-07-04",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -95,13 +72,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260703_005",
+      "id": "20260704_004",
+      "title": " A device that revives eyeballs from dead donors could make eye transplants possible",
+      "originalTitle": " A device that revives eyeballs from dead donors could make eye transplants possible",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Fri, 03 Jul 2026 17:34:37 +0000",
+      "crawlDate": "2026-07-04",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/"
+      },
+      "tags": [
+        "媒体",
+        "科研突破"
+      ],
+      "isHeadline": true,
+      "coreInsight": " A device that revives eyeballs from dead donors could make eye transplants possible。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260704_005",
       "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
       "originalTitle": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 03 Jul 2026 12:10:00 +0000",
-      "crawlDate": "2026-07-03",
+      "crawlDate": "2026-07-04",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -120,13 +120,13 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260703_q001",
+      "id": "20260704_q001",
       "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
       "originalTitle": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 03 Jul 2026 09:00:00 +0000",
-      "crawlDate": "2026-07-03",
+      "crawlDate": "2026-07-04",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -141,32 +141,9 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260703_q002",
-      "title": "Achieving operational excellence with AI",
-      "originalTitle": "Achieving operational excellence with AI",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 02 Jul 2026 15:37:08 +0000",
-      "crawlDate": "2026-07-03",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Achieving operational excellence with AI。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 7,
+  "total": 6,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
