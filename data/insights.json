@@ -1,38 +1,155 @@
 {
-  "date": "20260704",
-  "updateTime": "2026-07-04T13:27:49.322Z",
+  "date": "20260707",
+  "updateTime": "2026-07-07T14:36:01.864Z",
   "headlines": [
     {
-      "id": "20260704_001",
-      "title": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
-      "originalTitle": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 03 Jul 2026 14:28:38 +0000",
-      "crawlDate": "2026-07-04",
+      "id": "20260707_001",
+      "title": "How ChatGPT adoption has expanded",
+      "originalTitle": "How ChatGPT adoption has expanded",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 30 Jun 2026 09:00:00 GMT",
+      "crawlDate": "2026-07-07",
       "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/442746.html"
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
       },
       "tags": [
-        "媒体",
-        "大语言模型"
+        "官方",
+        "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "How ChatGPT adoption has expanded。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260704_002",
+      "id": "20260707_002",
+      "title": "Core dump epidemiology: fixing an 18-year-old bug",
+      "originalTitle": "Core dump epidemiology: fixing an 18-year-old bug",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 30 Jun 2026 00:00:00 GMT",
+      "crawlDate": "2026-07-07",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Core dump epidemiology: fixing an 18-year-old bug。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260707_003",
+      "title": "Introducing GeneBench-Pro",
+      "originalTitle": "Introducing GeneBench-Pro",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Tue, 30 Jun 2026 00:00:00 GMT",
+      "crawlDate": "2026-07-07",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/introducing-genebench-pro"
+      },
+      "tags": [
+        "官方",
+        "科研突破"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Introducing GeneBench-Pro。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260707_004",
+      "title": "Using Local Coding Agents",
+      "originalTitle": "Using Local Coding Agents",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Sat, 27 Jun 2026 11:21:58 GMT",
+      "crawlDate": "2026-07-07",
+      "source": {
+        "name": "Sebastian Raschka",
+        "type": "专家",
+        "url": "https://magazine.sebastianraschka.com/p/using-local-coding-agents"
+      },
+      "tags": [
+        "专家",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Using Local Coding Agents。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260707_005",
+      "title": "LLM Research Papers: The 2026 List (January to May)",
+      "originalTitle": "LLM Research Papers: The 2026 List (January to May)",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Sat, 06 Jun 2026 11:16:22 GMT",
+      "crawlDate": "2026-07-07",
+      "source": {
+        "name": "Sebastian Raschka",
+        "type": "专家",
+        "url": "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1"
+      },
+      "tags": [
+        "专家",
+        "科研突破"
+      ],
+      "isHeadline": true,
+      "coreInsight": "LLM Research Papers: The 2026 List (January to May)。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    }
+  ],
+  "quickBrowse": [
+    {
+      "id": "20260707_q001",
+      "title": "Mapping Europe’s AI Workforce Opportunity",
+      "originalTitle": "Mapping Europe’s AI Workforce Opportunity",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 29 Jun 2026 07:00:00 GMT",
+      "crawlDate": "2026-07-07",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/mapping-ai-jobs-transition-eu"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Mapping Europe’s AI Workforce Opportunity。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260707_q002",
       "title": "The latest AI news we announced in June 2026",
       "originalTitle": "The latest AI news we announced in June 2026",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Wed, 01 Jul 2026 18:15:00 +0000",
-      "crawlDate": "2026-07-04",
+      "crawlDate": "2026-07-07",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -42,20 +159,20 @@
         "官方",
         "企业动态"
       ],
-      "isHeadline": true,
+      "isHeadline": false,
       "coreInsight": "The latest AI news we announced in June 2026。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260704_003",
+      "id": "20260707_q003",
       "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
       "originalTitle": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Wed, 01 Jul 2026 16:00:00 +0000",
-      "crawlDate": "2026-07-04",
+      "crawlDate": "2026-07-07",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -65,85 +182,175 @@
         "官方",
         "企业动态"
       ],
-      "isHeadline": true,
+      "isHeadline": false,
       "coreInsight": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260704_004",
-      "title": " A device that revives eyeballs from dead donors could make eye transplants possible",
-      "originalTitle": " A device that revives eyeballs from dead donors could make eye transplants possible",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Fri, 03 Jul 2026 17:34:37 +0000",
-      "crawlDate": "2026-07-04",
+      "id": "20260707_q004",
+      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+      "originalTitle": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 30 Jun 2026 06:00:00 +0000",
+      "crawlDate": "2026-07-07",
       "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/"
+        "name": "Google AI",
+        "type": "官方",
+        "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/"
       },
       "tags": [
-        "媒体",
-        "科研突破"
+        "官方",
+        "企业动态"
       ],
-      "isHeadline": true,
-      "coreInsight": " A device that revives eyeballs from dead donors could make eye transplants possible。该技术值得关注，建议评估其落地可行性。",
+      "isHeadline": false,
+      "coreInsight": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260704_005",
-      "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
-      "originalTitle": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 03 Jul 2026 12:10:00 +0000",
-      "crawlDate": "2026-07-04",
+      "id": "20260707_q005",
+      "title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
+      "originalTitle": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Sat, 16 May 2026 11:33:51 GMT",
+      "crawlDate": "2026-07-07",
       "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/"
+        "name": "Sebastian Raschka",
+        "type": "专家",
+        "url": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures"
       },
       "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "The Download: a smoking “endgame” and a new Elizabeth Bear story。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
-    {
-      "id": "20260704_q001",
-      "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
-      "originalTitle": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 03 Jul 2026 09:00:00 +0000",
-      "crawlDate": "2026-07-04",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
+        "专家",
+        "开发工具"
       ],
       "isHeadline": false,
-      "coreInsight": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260707_q006",
+      "title": "Harness Engineering for Self-Improvement",
+      "originalTitle": "Harness Engineering for Self-Improvement",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Sat, 04 Jul 2026 00:00:00 +0000",
+      "crawlDate": "2026-07-07",
+      "source": {
+        "name": "Lil Log",
+        "type": "专家",
+        "url": "https://lilianweng.github.io/posts/2026-07-04-harness/"
+      },
+      "tags": [
+        "专家",
+        "科研突破"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Harness Engineering for Self-Improvement。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260707_q007",
+      "title": "Scaling Laws, Carefully",
+      "originalTitle": "Scaling Laws, Carefully",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Wed, 24 Jun 2026 00:00:00 +0000",
+      "crawlDate": "2026-07-07",
+      "source": {
+        "name": "Lil Log",
+        "type": "专家",
+        "url": "https://lilianweng.github.io/posts/2026-06-24-scaling-laws/"
+      },
+      "tags": [
+        "专家",
+        "应用落地"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Scaling Laws, Carefully。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260707_q008",
+      "title": "Why We Think",
+      "originalTitle": "Why We Think",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Thu, 01 May 2025 00:00:00 +0000",
+      "crawlDate": "2026-07-07",
+      "source": {
+        "name": "Lil Log",
+        "type": "专家",
+        "url": "https://lilianweng.github.io/posts/2025-05-01-thinking/"
+      },
+      "tags": [
+        "专家",
+        "科研突破"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Why We Think。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260707_q009",
+      "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+      "originalTitle": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 07 Jul 2026 12:10:00 +0000",
+      "crawlDate": "2026-07-07",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/"
+      },
+      "tags": [
+        "媒体",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The Download: your stake in OpenAI, and the Treasury’s AI warning。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260707_q010",
+      "title": "The foundational elements of AI architecture that IT leaders need to scale",
+      "originalTitle": "The foundational elements of AI architecture that IT leaders need to scale",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Tue, 07 Jul 2026 11:10:52 +0000",
+      "crawlDate": "2026-07-07",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The foundational elements of AI architecture that IT leaders need to scale。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 6,
+  "total": 15,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
