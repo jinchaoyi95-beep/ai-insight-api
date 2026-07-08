@@ -1,316 +1,107 @@
 {
-  "date": "20260707",
-  "updateTime": "2026-07-07T14:36:01.864Z",
+  "date": "20260708",
+  "updateTime": "2026-07-08T01:47:11.010Z",
   "headlines": [
     {
-      "id": "20260707_001",
-      "title": "How ChatGPT adoption has expanded",
-      "originalTitle": "How ChatGPT adoption has expanded",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 30 Jun 2026 09:00:00 GMT",
-      "crawlDate": "2026-07-07",
+      "id": "20260708_001",
+      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+      "originalTitle": "Australian Payments Plus moves faster with ChatGPT and Codex",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Tue, 07 Jul 2026 00:00:00 GMT",
+      "crawlDate": "2026-07-08",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded"
+        "url": "https://openai.com/index/australian-payments-plus"
+      },
+      "tags": [
+        "官方",
+        "开发工具"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Australian Payments Plus moves faster with ChatGPT and Codex。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260708_002",
+      "title": "MUFG aims to become AI-native with OpenAI",
+      "originalTitle": "MUFG aims to become AI-native with OpenAI",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 07 Jul 2026 00:00:00 GMT",
+      "crawlDate": "2026-07-08",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/mufg"
       },
       "tags": [
         "官方",
         "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "How ChatGPT adoption has expanded。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "MUFG aims to become AI-native with OpenAI。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260707_002",
-      "title": "Core dump epidemiology: fixing an 18-year-old bug",
-      "originalTitle": "Core dump epidemiology: fixing an 18-year-old bug",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 30 Jun 2026 00:00:00 GMT",
-      "crawlDate": "2026-07-07",
+      "id": "20260708_003",
+      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "originalTitle": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 07 Jul 2026 00:00:00 GMT",
+      "crawlDate": "2026-07-08",
       "source": {
-        "name": "OpenAI Blog",
+        "name": "Hugging Face",
         "type": "官方",
-        "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug"
+        "url": "https://huggingface.co/blog/skypilot-hf-storage"
       },
       "tags": [
         "官方",
-        "企业动态"
+        "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "Core dump epidemiology: fixing an 18-year-old bug。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260707_003",
-      "title": "Introducing GeneBench-Pro",
-      "originalTitle": "Introducing GeneBench-Pro",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Tue, 30 Jun 2026 00:00:00 GMT",
-      "crawlDate": "2026-07-07",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/introducing-genebench-pro"
-      },
-      "tags": [
-        "官方",
-        "科研突破"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Introducing GeneBench-Pro。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260707_004",
-      "title": "Using Local Coding Agents",
-      "originalTitle": "Using Local Coding Agents",
+      "id": "20260708_004",
+      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+      "originalTitle": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Sat, 27 Jun 2026 11:21:58 GMT",
-      "crawlDate": "2026-07-07",
+      "publishDate": "Tue, 07 Jul 2026 08:54:00 +0000",
+      "crawlDate": "2026-07-08",
       "source": {
-        "name": "Sebastian Raschka",
-        "type": "专家",
-        "url": "https://magazine.sebastianraschka.com/p/using-local-coding-agents"
+        "name": "Google AI",
+        "type": "官方",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/"
       },
       "tags": [
-        "专家",
+        "官方",
         "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "Using Local Coding Agents。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260707_005",
-      "title": "LLM Research Papers: The 2026 List (January to May)",
-      "originalTitle": "LLM Research Papers: The 2026 List (January to May)",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Sat, 06 Jun 2026 11:16:22 GMT",
-      "crawlDate": "2026-07-07",
-      "source": {
-        "name": "Sebastian Raschka",
-        "type": "专家",
-        "url": "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1"
-      },
-      "tags": [
-        "专家",
-        "科研突破"
-      ],
-      "isHeadline": true,
-      "coreInsight": "LLM Research Papers: The 2026 List (January to May)。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
-    {
-      "id": "20260707_q001",
-      "title": "Mapping Europe’s AI Workforce Opportunity",
-      "originalTitle": "Mapping Europe’s AI Workforce Opportunity",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "crawlDate": "2026-07-07",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/mapping-ai-jobs-transition-eu"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Mapping Europe’s AI Workforce Opportunity。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260707_q002",
-      "title": "The latest AI news we announced in June 2026",
-      "originalTitle": "The latest AI news we announced in June 2026",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Wed, 01 Jul 2026 18:15:00 +0000",
-      "crawlDate": "2026-07-07",
-      "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The latest AI news we announced in June 2026。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260707_q003",
-      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-      "originalTitle": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Wed, 01 Jul 2026 16:00:00 +0000",
-      "crawlDate": "2026-07-07",
-      "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260707_q004",
-      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-      "originalTitle": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 30 Jun 2026 06:00:00 +0000",
-      "crawlDate": "2026-07-07",
-      "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260707_q005",
-      "title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
-      "originalTitle": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Sat, 16 May 2026 11:33:51 GMT",
-      "crawlDate": "2026-07-07",
-      "source": {
-        "name": "Sebastian Raschka",
-        "type": "专家",
-        "url": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures"
-      },
-      "tags": [
-        "专家",
-        "开发工具"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260707_q006",
-      "title": "Harness Engineering for Self-Improvement",
-      "originalTitle": "Harness Engineering for Self-Improvement",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Sat, 04 Jul 2026 00:00:00 +0000",
-      "crawlDate": "2026-07-07",
-      "source": {
-        "name": "Lil Log",
-        "type": "专家",
-        "url": "https://lilianweng.github.io/posts/2026-07-04-harness/"
-      },
-      "tags": [
-        "专家",
-        "科研突破"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Harness Engineering for Self-Improvement。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260707_q007",
-      "title": "Scaling Laws, Carefully",
-      "originalTitle": "Scaling Laws, Carefully",
-      "category": "application",
-      "categoryName": "应用落地",
-      "publishDate": "Wed, 24 Jun 2026 00:00:00 +0000",
-      "crawlDate": "2026-07-07",
-      "source": {
-        "name": "Lil Log",
-        "type": "专家",
-        "url": "https://lilianweng.github.io/posts/2026-06-24-scaling-laws/"
-      },
-      "tags": [
-        "专家",
-        "应用落地"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Scaling Laws, Carefully。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260707_q008",
-      "title": "Why We Think",
-      "originalTitle": "Why We Think",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Thu, 01 May 2025 00:00:00 +0000",
-      "crawlDate": "2026-07-07",
-      "source": {
-        "name": "Lil Log",
-        "type": "专家",
-        "url": "https://lilianweng.github.io/posts/2025-05-01-thinking/"
-      },
-      "tags": [
-        "专家",
-        "科研突破"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Why We Think。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260707_q009",
+      "id": "20260708_005",
       "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
       "originalTitle": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Tue, 07 Jul 2026 12:10:00 +0000",
-      "crawlDate": "2026-07-07",
+      "crawlDate": "2026-07-08",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -320,20 +111,22 @@
         "媒体",
         "企业动态"
       ],
-      "isHeadline": false,
+      "isHeadline": true,
       "coreInsight": "The Download: your stake in OpenAI, and the Treasury’s AI warning。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
+    }
+  ],
+  "quickBrowse": [
     {
-      "id": "20260707_q010",
+      "id": "20260708_q001",
       "title": "The foundational elements of AI architecture that IT leaders need to scale",
       "originalTitle": "The foundational elements of AI architecture that IT leaders need to scale",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Tue, 07 Jul 2026 11:10:52 +0000",
-      "crawlDate": "2026-07-07",
+      "crawlDate": "2026-07-08",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -348,9 +141,32 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260708_q002",
+      "title": "Why worms (and microbes) are catching on as a manure pollution solution",
+      "originalTitle": "Why worms (and microbes) are catching on as a manure pollution solution",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 07 Jul 2026 10:00:00 +0000",
+      "crawlDate": "2026-07-08",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Why worms (and microbes) are catching on as a manure pollution solution。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 15,
+  "total": 7,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
