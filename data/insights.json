@@ -1,15 +1,84 @@
 {
-  "date": "20260708",
-  "updateTime": "2026-07-08T01:47:11.010Z",
+  "date": "20260709",
+  "updateTime": "2026-07-09T15:11:12.968Z",
   "headlines": [
     {
-      "id": "20260708_001",
+      "id": "20260709_001",
+      "title": "Our approach to government and national security partnerships",
+      "originalTitle": "Our approach to government and national security partnerships",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 08 Jul 2026 13:30:00 GMT",
+      "crawlDate": "2026-07-09",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/government-national-security-partnerships"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Our approach to government and national security partnerships。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260709_002",
+      "title": "Separating signal from noise in coding evaluations",
+      "originalTitle": "Separating signal from noise in coding evaluations",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 08 Jul 2026 13:00:00 GMT",
+      "crawlDate": "2026-07-09",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Separating signal from noise in coding evaluations。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260709_003",
+      "title": "Introducing GPT-Live",
+      "originalTitle": "Introducing GPT-Live",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 08 Jul 2026 00:00:00 GMT",
+      "crawlDate": "2026-07-09",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/introducing-gpt-live"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Introducing GPT-Live。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260709_004",
       "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
       "originalTitle": "Australian Payments Plus moves faster with ChatGPT and Codex",
       "category": "devtool",
       "categoryName": "开发工具",
       "publishDate": "Tue, 07 Jul 2026 00:00:00 GMT",
-      "crawlDate": "2026-07-08",
+      "crawlDate": "2026-07-09",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,59 +95,107 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260708_002",
-      "title": "MUFG aims to become AI-native with OpenAI",
-      "originalTitle": "MUFG aims to become AI-native with OpenAI",
+      "id": "20260709_005",
+      "title": "Data for Agents",
+      "originalTitle": "Data for Agents",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Wed, 08 Jul 2026 17:16:05 GMT",
+      "crawlDate": "2026-07-09",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/nvidia/open-data-for-agents"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Data for Agents。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    }
+  ],
+  "quickBrowse": [
+    {
+      "id": "20260709_q001",
+      "title": "Helping K–12 educators build practical AI skills",
+      "originalTitle": "Helping K–12 educators build practical AI skills",
       "category": "company",
       "categoryName": "企业动态",
-      "publishDate": "Tue, 07 Jul 2026 00:00:00 GMT",
-      "crawlDate": "2026-07-08",
+      "publishDate": "Wed, 08 Jul 2026 10:00:00 GMT",
+      "crawlDate": "2026-07-09",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/mufg"
+        "url": "https://openai.com/index/k-12-educators-practical-skills"
       },
       "tags": [
         "官方",
         "企业动态"
       ],
-      "isHeadline": true,
-      "coreInsight": "MUFG aims to become AI-native with OpenAI。该技术值得关注，建议评估其落地可行性。",
+      "isHeadline": false,
+      "coreInsight": "Helping K–12 educators build practical AI skills。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260708_003",
-      "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
-      "originalTitle": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+      "id": "20260709_q002",
+      "title": "刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴",
+      "originalTitle": "刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Thu, 09 Jul 2026 06:29:30 +0000",
+      "crawlDate": "2026-07-09",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/07/446658.html"
+      },
+      "tags": [
+        "媒体",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260709_q003",
+      "title": "Native-speed vLLM transformers modeling backend",
+      "originalTitle": "Native-speed vLLM transformers modeling backend",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Tue, 07 Jul 2026 00:00:00 GMT",
-      "crawlDate": "2026-07-08",
+      "publishDate": "Wed, 08 Jul 2026 00:00:00 GMT",
+      "crawlDate": "2026-07-09",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
-        "url": "https://huggingface.co/blog/skypilot-hf-storage"
+        "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend"
       },
       "tags": [
         "官方",
         "大语言模型"
       ],
-      "isHeadline": true,
-      "coreInsight": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot。该技术值得关注，建议评估其落地可行性。",
+      "isHeadline": false,
+      "coreInsight": "Native-speed vLLM transformers modeling backend。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260708_004",
+      "id": "20260709_q004",
       "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
       "originalTitle": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Tue, 07 Jul 2026 08:54:00 +0000",
-      "crawlDate": "2026-07-08",
+      "crawlDate": "2026-07-09",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -88,85 +205,60 @@
         "官方",
         "Agent"
       ],
-      "isHeadline": true,
+      "isHeadline": false,
       "coreInsight": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260708_005",
-      "title": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
-      "originalTitle": "The Download: your stake in OpenAI, and the Treasury’s AI warning",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 07 Jul 2026 12:10:00 +0000",
-      "crawlDate": "2026-07-08",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/"
-      },
-      "tags": [
-        "媒体",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "The Download: your stake in OpenAI, and the Treasury’s AI warning。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
-    {
-      "id": "20260708_q001",
-      "title": "The foundational elements of AI architecture that IT leaders need to scale",
-      "originalTitle": "The foundational elements of AI architecture that IT leaders need to scale",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Tue, 07 Jul 2026 11:10:52 +0000",
-      "crawlDate": "2026-07-08",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/07/07/1139413/the-foundational-elements-of-ai-architecture-that-it-leaders-need-to-scale/"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The foundational elements of AI architecture that IT leaders need to scale。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260708_q002",
-      "title": "Why worms (and microbes) are catching on as a manure pollution solution",
-      "originalTitle": "Why worms (and microbes) are catching on as a manure pollution solution",
+      "id": "20260709_q005",
+      "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
+      "originalTitle": "The Download: a nuclear landmark, and China eyes Nvidia chips",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Tue, 07 Jul 2026 10:00:00 +0000",
-      "crawlDate": "2026-07-08",
+      "publishDate": "Thu, 09 Jul 2026 12:10:00 +0000",
+      "crawlDate": "2026-07-09",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/07/07/1140142/why-worms-and-microbes-are-catching-on-as-a-manure-pollution-solution/"
+        "url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "Why worms (and microbes) are catching on as a manure pollution solution。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: a nuclear landmark, and China eyes Nvidia chips。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260709_q006",
+      "title": "EmTech AI 2026: The Rise of the AI Platform",
+      "originalTitle": "EmTech AI 2026: The Rise of the AI Platform",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 08 Jul 2026 16:26:10 +0000",
+      "crawlDate": "2026-07-09",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "EmTech AI 2026: The Rise of the AI Platform。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 7,
+  "total": 11,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
