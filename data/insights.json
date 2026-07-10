@@ -1,107 +1,201 @@
 {
-  "date": "20260709",
-  "updateTime": "2026-07-09T15:11:12.968Z",
+  "date": "20260710",
+  "updateTime": "2026-07-10T14:28:10.721Z",
   "headlines": [
     {
-      "id": "20260709_001",
-      "title": "Our approach to government and national security partnerships",
-      "originalTitle": "Our approach to government and national security partnerships",
+      "id": "20260710_001",
+      "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+      "originalTitle": "How Deutsche Telekom is rewiring telecommunications with AI",
       "category": "company",
       "categoryName": "企业动态",
-      "publishDate": "Wed, 08 Jul 2026 13:30:00 GMT",
-      "crawlDate": "2026-07-09",
+      "publishDate": "Fri, 10 Jul 2026 07:00:00 GMT",
+      "crawlDate": "2026-07-10",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/government-national-security-partnerships"
+        "url": "https://openai.com/index/deutsche-telekom"
       },
       "tags": [
         "官方",
         "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "Our approach to government and national security partnerships。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "How Deutsche Telekom is rewiring telecommunications with AI。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260709_002",
-      "title": "Separating signal from noise in coding evaluations",
-      "originalTitle": "Separating signal from noise in coding evaluations",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Wed, 08 Jul 2026 13:00:00 GMT",
-      "crawlDate": "2026-07-09",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Separating signal from noise in coding evaluations。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260709_003",
-      "title": "Introducing GPT-Live",
-      "originalTitle": "Introducing GPT-Live",
+      "id": "20260710_002",
+      "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+      "originalTitle": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Wed, 08 Jul 2026 00:00:00 GMT",
-      "crawlDate": "2026-07-09",
+      "publishDate": "Thu, 09 Jul 2026 13:00:00 GMT",
+      "crawlDate": "2026-07-10",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/introducing-gpt-live"
+        "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot"
       },
       "tags": [
         "官方",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "Introducing GPT-Live。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260709_004",
-      "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
-      "originalTitle": "Australian Payments Plus moves faster with ChatGPT and Codex",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Tue, 07 Jul 2026 00:00:00 GMT",
-      "crawlDate": "2026-07-09",
+      "id": "20260710_003",
+      "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "originalTitle": "GPT-5.6: Frontier intelligence that scales with your ambition",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 09 Jul 2026 10:00:00 GMT",
+      "crawlDate": "2026-07-10",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/australian-payments-plus"
+        "url": "https://openai.com/index/gpt-5-6"
       },
       "tags": [
         "官方",
-        "开发工具"
+        "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "Australian Payments Plus moves faster with ChatGPT and Codex。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "GPT-5.6: Frontier intelligence that scales with your ambition。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260709_005",
+      "id": "20260710_004",
+      "title": "ChatGPT is now a partner for your most ambitious work",
+      "originalTitle": "ChatGPT is now a partner for your most ambitious work",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Thu, 09 Jul 2026 10:00:00 GMT",
+      "crawlDate": "2026-07-10",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "ChatGPT is now a partner for your most ambitious work。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260710_005",
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "originalTitle": "GPT-5.5 Bio Bug Bounty",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Thu, 09 Jul 2026 10:00:00 GMT",
+      "crawlDate": "2026-07-10",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/bio-bug-bounty"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "GPT-5.5 Bio Bug Bounty。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    }
+  ],
+  "quickBrowse": [
+    {
+      "id": "20260710_q001",
+      "title": "GPT-5.6一发布，Claude终于舍得重置Fable 5额度了",
+      "originalTitle": "GPT-5.6一发布，Claude终于舍得重置Fable 5额度了",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 10 Jul 2026 09:41:25 +0000",
+      "crawlDate": "2026-07-10",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/07/447691.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "GPT-5.6一发布，Claude终于舍得重置Fable 5额度了。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260710_q002",
+      "title": "AI聪明够了，行动呢？WAIC首夜，来聊点下一步的真实判断｜活动报名",
+      "originalTitle": "AI聪明够了，行动呢？WAIC首夜，来聊点下一步的真实判断｜活动报名",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 10 Jul 2026 09:32:09 +0000",
+      "crawlDate": "2026-07-10",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/07/447682.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "AI聪明够了，行动呢？WAIC首夜，来聊点下一步的真实判断｜活动报名。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260710_q003",
+      "title": "日均提问次数暴增 20 倍！百度搭子宣布重磅升级，企业版同步发布",
+      "originalTitle": "日均提问次数暴增 20 倍！百度搭子宣布重磅升级，企业版同步发布",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Fri, 10 Jul 2026 09:27:52 +0000",
+      "crawlDate": "2026-07-10",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/07/447681.html"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "日均提问次数暴增 20 倍！百度搭子宣布重磅升级，企业版同步发布。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260710_q004",
       "title": "Data for Agents",
       "originalTitle": "Data for Agents",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Wed, 08 Jul 2026 17:16:05 GMT",
-      "crawlDate": "2026-07-09",
+      "crawlDate": "2026-07-10",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -111,68 +205,20 @@
         "官方",
         "Agent"
       ],
-      "isHeadline": true,
+      "isHeadline": false,
       "coreInsight": "Data for Agents。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
-    {
-      "id": "20260709_q001",
-      "title": "Helping K–12 educators build practical AI skills",
-      "originalTitle": "Helping K–12 educators build practical AI skills",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Wed, 08 Jul 2026 10:00:00 GMT",
-      "crawlDate": "2026-07-09",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/k-12-educators-practical-skills"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Helping K–12 educators build practical AI skills。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260709_q002",
-      "title": "刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴",
-      "originalTitle": "刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Thu, 09 Jul 2026 06:29:30 +0000",
-      "crawlDate": "2026-07-09",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/446658.html"
-      },
-      "tags": [
-        "媒体",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260709_q003",
+      "id": "20260710_q005",
       "title": "Native-speed vLLM transformers modeling backend",
       "originalTitle": "Native-speed vLLM transformers modeling backend",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Wed, 08 Jul 2026 00:00:00 GMT",
-      "crawlDate": "2026-07-09",
+      "crawlDate": "2026-07-10",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -189,76 +235,53 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260709_q004",
-      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-      "originalTitle": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Tue, 07 Jul 2026 08:54:00 +0000",
-      "crawlDate": "2026-07-09",
+      "id": "20260710_q006",
+      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+      "originalTitle": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Fri, 10 Jul 2026 12:10:00 +0000",
+      "crawlDate": "2026-07-10",
       "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/"
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/"
       },
       "tags": [
-        "官方",
-        "Agent"
+        "媒体",
+        "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: Claude’s inner workings and OpenAI’s “super app”。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260709_q005",
-      "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
-      "originalTitle": "The Download: a nuclear landmark, and China eyes Nvidia chips",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 09 Jul 2026 12:10:00 +0000",
-      "crawlDate": "2026-07-09",
+      "id": "20260710_q007",
+      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+      "originalTitle": "Anthropic found a hidden space where Claude puzzles over concepts",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Thu, 09 Jul 2026 20:22:28 +0000",
+      "crawlDate": "2026-07-10",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/"
+        "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "科研突破"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: a nuclear landmark, and China eyes Nvidia chips。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260709_q006",
-      "title": "EmTech AI 2026: The Rise of the AI Platform",
-      "originalTitle": "EmTech AI 2026: The Rise of the AI Platform",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 08 Jul 2026 16:26:10 +0000",
-      "crawlDate": "2026-07-09",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "EmTech AI 2026: The Rise of the AI Platform。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Anthropic found a hidden space where Claude puzzles over concepts。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 11,
+  "total": 12,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
