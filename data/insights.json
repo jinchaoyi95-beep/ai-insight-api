@@ -1,15 +1,15 @@
 {
-  "date": "20260710",
-  "updateTime": "2026-07-10T14:28:10.721Z",
+  "date": "20260711",
+  "updateTime": "2026-07-11T01:45:48.095Z",
   "headlines": [
     {
-      "id": "20260710_001",
+      "id": "20260711_001",
       "title": "How Deutsche Telekom is rewiring telecommunications with AI",
       "originalTitle": "How Deutsche Telekom is rewiring telecommunications with AI",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 10 Jul 2026 07:00:00 GMT",
-      "crawlDate": "2026-07-10",
+      "crawlDate": "2026-07-11",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +26,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260710_002",
+      "id": "20260711_002",
       "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
       "originalTitle": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Thu, 09 Jul 2026 13:00:00 GMT",
-      "crawlDate": "2026-07-10",
+      "crawlDate": "2026-07-11",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,13 +49,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260710_003",
+      "id": "20260711_003",
       "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
       "originalTitle": "GPT-5.6: Frontier intelligence that scales with your ambition",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "crawlDate": "2026-07-10",
+      "crawlDate": "2026-07-11",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -72,13 +72,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260710_004",
+      "id": "20260711_004",
       "title": "ChatGPT is now a partner for your most ambitious work",
       "originalTitle": "ChatGPT is now a partner for your most ambitious work",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "crawlDate": "2026-07-10",
+      "crawlDate": "2026-07-11",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -95,13 +95,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260710_005",
+      "id": "20260711_005",
       "title": "GPT-5.5 Bio Bug Bounty",
       "originalTitle": "GPT-5.5 Bio Bug Bounty",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "crawlDate": "2026-07-10",
+      "crawlDate": "2026-07-11",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -120,13 +120,36 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260710_q001",
+      "id": "20260711_q001",
+      "title": "AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放",
+      "originalTitle": "AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 10 Jul 2026 14:13:37 +0000",
+      "crawlDate": "2026-07-11",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/07/447832.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260711_q002",
       "title": "GPT-5.6一发布，Claude终于舍得重置Fable 5额度了",
       "originalTitle": "GPT-5.6一发布，Claude终于舍得重置Fable 5额度了",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 10 Jul 2026 09:41:25 +0000",
-      "crawlDate": "2026-07-10",
+      "crawlDate": "2026-07-11",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -143,13 +166,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260710_q002",
+      "id": "20260711_q003",
       "title": "AI聪明够了，行动呢？WAIC首夜，来聊点下一步的真实判断｜活动报名",
       "originalTitle": "AI聪明够了，行动呢？WAIC首夜，来聊点下一步的真实判断｜活动报名",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 10 Jul 2026 09:32:09 +0000",
-      "crawlDate": "2026-07-10",
+      "crawlDate": "2026-07-11",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -166,36 +189,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260710_q003",
-      "title": "日均提问次数暴增 20 倍！百度搭子宣布重磅升级，企业版同步发布",
-      "originalTitle": "日均提问次数暴增 20 倍！百度搭子宣布重磅升级，企业版同步发布",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Fri, 10 Jul 2026 09:27:52 +0000",
-      "crawlDate": "2026-07-10",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/447681.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "日均提问次数暴增 20 倍！百度搭子宣布重磅升级，企业版同步发布。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260710_q004",
+      "id": "20260711_q004",
       "title": "Data for Agents",
       "originalTitle": "Data for Agents",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Wed, 08 Jul 2026 17:16:05 GMT",
-      "crawlDate": "2026-07-10",
+      "crawlDate": "2026-07-11",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -212,36 +212,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260710_q005",
-      "title": "Native-speed vLLM transformers modeling backend",
-      "originalTitle": "Native-speed vLLM transformers modeling backend",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 08 Jul 2026 00:00:00 GMT",
-      "crawlDate": "2026-07-10",
-      "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend"
-      },
-      "tags": [
-        "官方",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Native-speed vLLM transformers modeling backend。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260710_q006",
+      "id": "20260711_q005",
       "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
       "originalTitle": "The Download: Claude’s inner workings and OpenAI’s “super app”",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 10 Jul 2026 12:10:00 +0000",
-      "crawlDate": "2026-07-10",
+      "crawlDate": "2026-07-11",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -258,13 +235,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260710_q007",
+      "id": "20260711_q006",
       "title": "Anthropic found a hidden space where Claude puzzles over concepts",
       "originalTitle": "Anthropic found a hidden space where Claude puzzles over concepts",
       "category": "research",
       "categoryName": "科研突破",
       "publishDate": "Thu, 09 Jul 2026 20:22:28 +0000",
-      "crawlDate": "2026-07-10",
+      "crawlDate": "2026-07-11",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -281,7 +258,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 12,
+  "total": 11,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
