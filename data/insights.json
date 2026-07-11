@@ -1,6 +1,6 @@
 {
   "date": "20260711",
-  "updateTime": "2026-07-11T01:45:48.095Z",
+  "updateTime": "2026-07-11T13:20:44.159Z",
   "headlines": [
     {
       "id": "20260711_001",
@@ -121,6 +121,29 @@
   "quickBrowse": [
     {
       "id": "20260711_q001",
+      "title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent",
+      "originalTitle": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Sat, 11 Jul 2026 05:30:11 +0000",
+      "crawlDate": "2026-07-11",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/07/447873.html"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260711_q002",
       "title": "AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放",
       "originalTitle": "AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放",
       "category": "llm",
@@ -143,53 +166,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260711_q002",
-      "title": "GPT-5.6一发布，Claude终于舍得重置Fable 5额度了",
-      "originalTitle": "GPT-5.6一发布，Claude终于舍得重置Fable 5额度了",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 10 Jul 2026 09:41:25 +0000",
-      "crawlDate": "2026-07-11",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/447691.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "GPT-5.6一发布，Claude终于舍得重置Fable 5额度了。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
       "id": "20260711_q003",
-      "title": "AI聪明够了，行动呢？WAIC首夜，来聊点下一步的真实判断｜活动报名",
-      "originalTitle": "AI聪明够了，行动呢？WAIC首夜，来聊点下一步的真实判断｜活动报名",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 10 Jul 2026 09:32:09 +0000",
-      "crawlDate": "2026-07-11",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/447682.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "AI聪明够了，行动呢？WAIC首夜，来聊点下一步的真实判断｜活动报名。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260711_q004",
       "title": "Data for Agents",
       "originalTitle": "Data for Agents",
       "category": "agent",
@@ -212,7 +189,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260711_q005",
+      "id": "20260711_q004",
       "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
       "originalTitle": "The Download: Claude’s inner workings and OpenAI’s “super app”",
       "category": "company",
@@ -235,7 +212,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260711_q006",
+      "id": "20260711_q005",
       "title": "Anthropic found a hidden space where Claude puzzles over concepts",
       "originalTitle": "Anthropic found a hidden space where Claude puzzles over concepts",
       "category": "research",
@@ -258,7 +235,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 11,
+  "total": 10,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
