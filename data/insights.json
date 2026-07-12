@@ -1,15 +1,15 @@
 {
-  "date": "20260711",
-  "updateTime": "2026-07-11T13:20:44.159Z",
+  "date": "20260712",
+  "updateTime": "2026-07-12T13:21:13.994Z",
   "headlines": [
     {
-      "id": "20260711_001",
+      "id": "20260712_001",
       "title": "How Deutsche Telekom is rewiring telecommunications with AI",
       "originalTitle": "How Deutsche Telekom is rewiring telecommunications with AI",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 10 Jul 2026 07:00:00 GMT",
-      "crawlDate": "2026-07-11",
+      "crawlDate": "2026-07-12",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +26,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260711_002",
+      "id": "20260712_002",
       "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
       "originalTitle": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Thu, 09 Jul 2026 13:00:00 GMT",
-      "crawlDate": "2026-07-11",
+      "crawlDate": "2026-07-12",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,13 +49,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260711_003",
+      "id": "20260712_003",
       "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
       "originalTitle": "GPT-5.6: Frontier intelligence that scales with your ambition",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "crawlDate": "2026-07-11",
+      "crawlDate": "2026-07-12",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -72,13 +72,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260711_004",
+      "id": "20260712_004",
       "title": "ChatGPT is now a partner for your most ambitious work",
       "originalTitle": "ChatGPT is now a partner for your most ambitious work",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "crawlDate": "2026-07-11",
+      "crawlDate": "2026-07-12",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -95,13 +95,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260711_005",
+      "id": "20260712_005",
       "title": "GPT-5.5 Bio Bug Bounty",
       "originalTitle": "GPT-5.5 Bio Bug Bounty",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "crawlDate": "2026-07-11",
+      "crawlDate": "2026-07-12",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -120,59 +120,36 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260711_q001",
-      "title": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent",
-      "originalTitle": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Sat, 11 Jul 2026 05:30:11 +0000",
-      "crawlDate": "2026-07-11",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/447873.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "GPT-5.6一小时解开50年数学猜想，700词Prompt驾驭64个子Agent。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260711_q002",
-      "title": "AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放",
-      "originalTitle": "AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放",
+      "id": "20260712_q001",
+      "title": "老黄RTX Spark真机现身Bilibili World！CPU和GPU直接焊在一起，笔记本跑120B大模型",
+      "originalTitle": "老黄RTX Spark真机现身Bilibili World！CPU和GPU直接焊在一起，笔记本跑120B大模型",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Fri, 10 Jul 2026 14:13:37 +0000",
-      "crawlDate": "2026-07-11",
+      "publishDate": "Sun, 12 Jul 2026 01:37:11 +0000",
+      "crawlDate": "2026-07-12",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/447832.html"
+        "url": "https://www.qbitai.com/2026/07/447981.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "AI生物研发进入“操作系统时代”，许锦波团队MoleculeOS正式开放。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "老黄RTX Spark真机现身Bilibili World！CPU和GPU直接焊在一起，笔记本跑120B大模型。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260711_q003",
+      "id": "20260712_q002",
       "title": "Data for Agents",
       "originalTitle": "Data for Agents",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Wed, 08 Jul 2026 17:16:05 GMT",
-      "crawlDate": "2026-07-11",
+      "crawlDate": "2026-07-12",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -189,53 +166,191 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260711_q004",
-      "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
-      "originalTitle": "The Download: Claude’s inner workings and OpenAI’s “super app”",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Fri, 10 Jul 2026 12:10:00 +0000",
-      "crawlDate": "2026-07-11",
+      "id": "20260712_q003",
+      "title": "Native-speed vLLM transformers modeling backend",
+      "originalTitle": "Native-speed vLLM transformers modeling backend",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 08 Jul 2026 00:00:00 GMT",
+      "crawlDate": "2026-07-12",
       "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/"
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend"
       },
       "tags": [
-        "媒体",
-        "企业动态"
+        "官方",
+        "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: Claude’s inner workings and OpenAI’s “super app”。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Native-speed vLLM transformers modeling backend。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260711_q005",
-      "title": "Anthropic found a hidden space where Claude puzzles over concepts",
-      "originalTitle": "Anthropic found a hidden space where Claude puzzles over concepts",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Thu, 09 Jul 2026 20:22:28 +0000",
-      "crawlDate": "2026-07-11",
+      "id": "20260712_q004",
+      "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+      "originalTitle": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Tue, 07 Jul 2026 08:54:00 +0000",
+      "crawlDate": "2026-07-12",
       "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/"
+        "name": "Google AI",
+        "type": "官方",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/"
       },
       "tags": [
-        "媒体",
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260712_q005",
+      "title": "The latest AI news we announced in June 2026",
+      "originalTitle": "The latest AI news we announced in June 2026",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 01 Jul 2026 18:15:00 +0000",
+      "crawlDate": "2026-07-12",
+      "source": {
+        "name": "Google AI",
+        "type": "官方",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The latest AI news we announced in June 2026。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260712_q006",
+      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "originalTitle": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 01 Jul 2026 16:00:00 +0000",
+      "crawlDate": "2026-07-12",
+      "source": {
+        "name": "Google AI",
+        "type": "官方",
+        "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260712_q007",
+      "title": "Using Local Coding Agents",
+      "originalTitle": "Using Local Coding Agents",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Sat, 27 Jun 2026 11:21:58 GMT",
+      "crawlDate": "2026-07-12",
+      "source": {
+        "name": "Sebastian Raschka",
+        "type": "专家",
+        "url": "https://magazine.sebastianraschka.com/p/using-local-coding-agents"
+      },
+      "tags": [
+        "专家",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Using Local Coding Agents。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260712_q008",
+      "title": "LLM Research Papers: The 2026 List (January to May)",
+      "originalTitle": "LLM Research Papers: The 2026 List (January to May)",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Sat, 06 Jun 2026 11:16:22 GMT",
+      "crawlDate": "2026-07-12",
+      "source": {
+        "name": "Sebastian Raschka",
+        "type": "专家",
+        "url": "https://magazine.sebastianraschka.com/p/llm-research-papers-2026-part1"
+      },
+      "tags": [
+        "专家",
         "科研突破"
       ],
       "isHeadline": false,
-      "coreInsight": "Anthropic found a hidden space where Claude puzzles over concepts。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "LLM Research Papers: The 2026 List (January to May)。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260712_q009",
+      "title": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
+      "originalTitle": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Sat, 16 May 2026 11:33:51 GMT",
+      "crawlDate": "2026-07-12",
+      "source": {
+        "name": "Sebastian Raschka",
+        "type": "专家",
+        "url": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures"
+      },
+      "tags": [
+        "专家",
+        "开发工具"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Recent Developments in LLM Architectures: KV Sharing, mHC, and Compressed Attention。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260712_q010",
+      "title": "Harness Engineering for Self-Improvement",
+      "originalTitle": "Harness Engineering for Self-Improvement",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Sat, 04 Jul 2026 00:00:00 +0000",
+      "crawlDate": "2026-07-12",
+      "source": {
+        "name": "Lil Log",
+        "type": "专家",
+        "url": "https://lilianweng.github.io/posts/2026-07-04-harness/"
+      },
+      "tags": [
+        "专家",
+        "科研突破"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Harness Engineering for Self-Improvement。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 10,
+  "total": 15,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
