@@ -1,72 +1,95 @@
 {
-  "date": "20260713",
-  "updateTime": "2026-07-13T14:35:30.321Z",
+  "date": "20260714",
+  "updateTime": "2026-07-14T13:45:07.622Z",
   "headlines": [
     {
-      "id": "20260713_001",
-      "title": "Agent要数量也要脑子！浪潮信息一边单柜养4万Agent，一边让大模型组队答题",
-      "originalTitle": "Agent要数量也要脑子！浪潮信息一边单柜养4万Agent，一边让大模型组队答题",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Mon, 13 Jul 2026 11:59:57 +0000",
-      "crawlDate": "2026-07-13",
+      "id": "20260714_001",
+      "title": "How data science teams use ChatGPT Work",
+      "originalTitle": "How data science teams use ChatGPT Work",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 14 Jul 2026 00:00:00 GMT",
+      "crawlDate": "2026-07-14",
       "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/449311.html"
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
       },
       "tags": [
-        "媒体",
-        "Agent"
+        "官方",
+        "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "Agent要数量也要脑子！浪潮信息一边单柜养4万Agent，一边让大模型组队答题。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "How data science teams use ChatGPT Work。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260713_002",
-      "title": "WAIC特别关注｜思想者论坛：当赛道疯狂内卷，谁在拆解AI底层的底层？",
-      "originalTitle": "WAIC特别关注｜思想者论坛：当赛道疯狂内卷，谁在拆解AI底层的底层？",
+      "id": "20260714_002",
+      "title": "How sales teams use ChatGPT Work",
+      "originalTitle": "How sales teams use ChatGPT Work",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Mon, 13 Jul 2026 09:27:19 +0000",
-      "crawlDate": "2026-07-13",
+      "publishDate": "Tue, 14 Jul 2026 00:00:00 GMT",
+      "crawlDate": "2026-07-14",
       "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/449156.html"
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
       },
       "tags": [
-        "媒体",
+        "官方",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "WAIC特别关注｜思想者论坛：当赛道疯狂内卷，谁在拆解AI底层的底层？。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "How sales teams use ChatGPT Work。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260713_003",
-      "title": "从前沿创新到产业落地：西门子将亮相2026世界人工智能大会",
-      "originalTitle": "从前沿创新到产业落地：西门子将亮相2026世界人工智能大会",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Mon, 13 Jul 2026 08:28:04 +0000",
-      "crawlDate": "2026-07-13",
+      "id": "20260714_003",
+      "title": "The Download: Claude’s inner workings, and the future of world models",
+      "originalTitle": "The Download: Claude’s inner workings, and the future of world models",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 14 Jul 2026 12:10:00 +0000",
+      "crawlDate": "2026-07-14",
       "source": {
-        "name": "量子位",
+        "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/449150.html"
+        "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "从前沿创新到产业落地：西门子将亮相2026世界人工智能大会。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: Claude’s inner workings, and the future of world models。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260714_004",
+      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+      "originalTitle": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Mon, 13 Jul 2026 18:00:00 +0000",
+      "crawlDate": "2026-07-14",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/"
+      },
+      "tags": [
+        "媒体",
+        "科研突破"
+      ],
+      "isHeadline": true,
+      "coreInsight": "What Anthropic’s latest AI discovery does—and doesn’t—show。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -74,53 +97,122 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260713_q001",
-      "title": "WAIC’26探展召集令！和量子位一起逛展、直播、聊AI",
-      "originalTitle": "WAIC’26探展召集令！和量子位一起逛展、直播、聊AI",
+      "id": "20260714_q001",
+      "title": "刚刚，一个免费AI Coding选手杀入全球第一梯队",
+      "originalTitle": "刚刚，一个免费AI Coding选手杀入全球第一梯队",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Mon, 13 Jul 2026 07:00:18 +0000",
-      "crawlDate": "2026-07-13",
+      "publishDate": "Tue, 14 Jul 2026 12:36:48 +0000",
+      "crawlDate": "2026-07-14",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/448923.html"
+        "url": "https://www.qbitai.com/2026/07/448475.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "WAIC’26探展召集令！和量子位一起逛展、直播、聊AI。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "刚刚，一个免费AI Coding选手杀入全球第一梯队。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260713_q002",
-      "title": "The Download: a donor conception cap and world models for AI",
-      "originalTitle": "The Download: a donor conception cap and world models for AI",
+      "id": "20260714_q002",
+      "title": "B站AI创造公开赛正式上线投币榜，单月参赛人数突破五千",
+      "originalTitle": "B站AI创造公开赛正式上线投币榜，单月参赛人数突破五千",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Mon, 13 Jul 2026 12:10:00 +0000",
-      "crawlDate": "2026-07-13",
+      "publishDate": "Tue, 14 Jul 2026 11:05:51 +0000",
+      "crawlDate": "2026-07-14",
       "source": {
-        "name": "MIT Technology Review",
+        "name": "量子位",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/"
+        "url": "https://www.qbitai.com/2026/07/449863.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: a donor conception cap and world models for AI。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "B站AI创造公开赛正式上线投币榜，单月参赛人数突破五千。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260714_q003",
+      "title": "百年德国「战车」征服欧陆，驾驶位上是中国AI司机",
+      "originalTitle": "百年德国「战车」征服欧陆，驾驶位上是中国AI司机",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 14 Jul 2026 11:04:17 +0000",
+      "crawlDate": "2026-07-14",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/07/449850.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "百年德国「战车」征服欧陆，驾驶位上是中国AI司机。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260714_q004",
+      "title": "2026年世界人工智能大会，7月17-7月20上海举办",
+      "originalTitle": "2026年世界人工智能大会，7月17-7月20上海举办",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 14 Jul 2026 05:33:28 +0000",
+      "crawlDate": "2026-07-14",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/07/436498.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "2026年世界人工智能大会，7月17-7月20上海举办。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260714_q005",
+      "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
+      "originalTitle": "PsiQuantum has a plan to make a massive quantum computer out of light",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 14 Jul 2026 08:00:00 +0000",
+      "crawlDate": "2026-07-14",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "PsiQuantum has a plan to make a massive quantum computer out of light。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 5,
+  "total": 9,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
