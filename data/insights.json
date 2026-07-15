@@ -1,15 +1,38 @@
 {
-  "date": "20260714",
-  "updateTime": "2026-07-14T13:45:07.622Z",
+  "date": "20260715",
+  "updateTime": "2026-07-15T01:24:16.932Z",
   "headlines": [
     {
-      "id": "20260714_001",
+      "id": "20260715_001",
+      "title": "How to manage AI investments in the agentic era",
+      "originalTitle": "How to manage AI investments in the agentic era",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Tue, 14 Jul 2026 10:00:00 GMT",
+      "crawlDate": "2026-07-15",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/managing-ai-investments-in-agentic-era"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "How to manage AI investments in the agentic era。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260715_002",
       "title": "How data science teams use ChatGPT Work",
       "originalTitle": "How data science teams use ChatGPT Work",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 14 Jul 2026 00:00:00 GMT",
-      "crawlDate": "2026-07-14",
+      "crawlDate": "2026-07-15",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +49,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260714_002",
+      "id": "20260715_003",
       "title": "How sales teams use ChatGPT Work",
       "originalTitle": "How sales teams use ChatGPT Work",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 14 Jul 2026 00:00:00 GMT",
-      "crawlDate": "2026-07-14",
+      "crawlDate": "2026-07-15",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,13 +72,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260714_003",
+      "id": "20260715_004",
+      "title": "阶跃入局，重构智能体时代操作系统",
+      "originalTitle": "阶跃入局，重构智能体时代操作系统",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Tue, 14 Jul 2026 18:43:55 +0000",
+      "crawlDate": "2026-07-15",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/07/449979.html"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "阶跃入局，重构智能体时代操作系统。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260715_005",
       "title": "The Download: Claude’s inner workings, and the future of world models",
       "originalTitle": "The Download: Claude’s inner workings, and the future of world models",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Tue, 14 Jul 2026 12:10:00 +0000",
-      "crawlDate": "2026-07-14",
+      "crawlDate": "2026-07-15",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -70,40 +116,17 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260714_004",
-      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-      "originalTitle": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Mon, 13 Jul 2026 18:00:00 +0000",
-      "crawlDate": "2026-07-14",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/"
-      },
-      "tags": [
-        "媒体",
-        "科研突破"
-      ],
-      "isHeadline": true,
-      "coreInsight": "What Anthropic’s latest AI discovery does—and doesn’t—show。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
   "quickBrowse": [
     {
-      "id": "20260714_q001",
+      "id": "20260715_q001",
       "title": "刚刚，一个免费AI Coding选手杀入全球第一梯队",
       "originalTitle": "刚刚，一个免费AI Coding选手杀入全球第一梯队",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 14 Jul 2026 12:36:48 +0000",
-      "crawlDate": "2026-07-14",
+      "crawlDate": "2026-07-15",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -120,13 +143,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260714_q002",
+      "id": "20260715_q002",
       "title": "B站AI创造公开赛正式上线投币榜，单月参赛人数突破五千",
       "originalTitle": "B站AI创造公开赛正式上线投币榜，单月参赛人数突破五千",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 14 Jul 2026 11:05:51 +0000",
-      "crawlDate": "2026-07-14",
+      "crawlDate": "2026-07-15",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -143,59 +166,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260714_q003",
-      "title": "百年德国「战车」征服欧陆，驾驶位上是中国AI司机",
-      "originalTitle": "百年德国「战车」征服欧陆，驾驶位上是中国AI司机",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 14 Jul 2026 11:04:17 +0000",
-      "crawlDate": "2026-07-14",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/449850.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "百年德国「战车」征服欧陆，驾驶位上是中国AI司机。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260714_q004",
-      "title": "2026年世界人工智能大会，7月17-7月20上海举办",
-      "originalTitle": "2026年世界人工智能大会，7月17-7月20上海举办",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 14 Jul 2026 05:33:28 +0000",
-      "crawlDate": "2026-07-14",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/436498.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "2026年世界人工智能大会，7月17-7月20上海举办。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260714_q005",
+      "id": "20260715_q003",
       "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
       "originalTitle": "PsiQuantum has a plan to make a massive quantum computer out of light",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 14 Jul 2026 08:00:00 +0000",
-      "crawlDate": "2026-07-14",
+      "crawlDate": "2026-07-15",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -207,6 +184,29 @@
       ],
       "isHeadline": false,
       "coreInsight": "PsiQuantum has a plan to make a massive quantum computer out of light。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260715_q004",
+      "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+      "originalTitle": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Mon, 13 Jul 2026 18:00:00 +0000",
+      "crawlDate": "2026-07-15",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/"
+      },
+      "tags": [
+        "媒体",
+        "科研突破"
+      ],
+      "isHeadline": false,
+      "coreInsight": "What Anthropic’s latest AI discovery does—and doesn’t—show。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
