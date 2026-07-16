@@ -1,15 +1,61 @@
 {
-  "date": "20260715",
-  "updateTime": "2026-07-15T13:44:33.272Z",
+  "date": "20260716",
+  "updateTime": "2026-07-16T01:44:35.562Z",
   "headlines": [
     {
-      "id": "20260715_001",
+      "id": "20260716_001",
+      "title": "The US is advancing AI safety through state and federal action",
+      "originalTitle": "The US is advancing AI safety through state and federal action",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 15 Jul 2026 12:00:00 GMT",
+      "crawlDate": "2026-07-16",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "The US is advancing AI safety through state and federal action。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260716_002",
+      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "originalTitle": "GPT-Red: Unlocking Self-Improvement for Robustness",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 15 Jul 2026 10:00:00 GMT",
+      "crawlDate": "2026-07-16",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/unlocking-self-improvement-gpt-red"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "GPT-Red: Unlocking Self-Improvement for Robustness。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260716_003",
       "title": "How to manage AI investments in the agentic era",
       "originalTitle": "How to manage AI investments in the agentic era",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Tue, 14 Jul 2026 10:00:00 GMT",
-      "crawlDate": "2026-07-15",
+      "crawlDate": "2026-07-16",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,36 +72,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260715_002",
-      "title": "How data science teams use ChatGPT Work",
-      "originalTitle": "How data science teams use ChatGPT Work",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 14 Jul 2026 00:00:00 GMT",
-      "crawlDate": "2026-07-15",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
-      },
-      "tags": [
-        "官方",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "How data science teams use ChatGPT Work。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260715_003",
+      "id": "20260716_004",
       "title": "How sales teams use ChatGPT Work",
       "originalTitle": "How sales teams use ChatGPT Work",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 14 Jul 2026 00:00:00 GMT",
-      "crawlDate": "2026-07-15",
+      "crawlDate": "2026-07-16",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -72,47 +95,24 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260715_004",
-      "title": "人在Meta，休个病假/产假转身被AI裁了？？",
-      "originalTitle": "人在Meta，休个病假/产假转身被AI裁了？？",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Wed, 15 Jul 2026 09:03:58 +0000",
-      "crawlDate": "2026-07-15",
+      "id": "20260716_005",
+      "title": "How data science teams use ChatGPT Work",
+      "originalTitle": "How data science teams use ChatGPT Work",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 14 Jul 2026 00:00:00 GMT",
+      "crawlDate": "2026-07-16",
       "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/450709.html"
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
       },
       "tags": [
-        "媒体",
-        "企业动态"
+        "官方",
+        "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "人在Meta，休个病假/产假转身被AI裁了？？。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260715_005",
-      "title": "The Download: Claude’s inner workings, and the future of world models",
-      "originalTitle": "The Download: Claude’s inner workings, and the future of world models",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 14 Jul 2026 12:10:00 +0000",
-      "crawlDate": "2026-07-15",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/"
-      },
-      "tags": [
-        "媒体",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "The Download: Claude’s inner workings, and the future of world models。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "How data science teams use ChatGPT Work。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -120,13 +120,13 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260715_q001",
+      "id": "20260716_q001",
       "title": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！",
       "originalTitle": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Wed, 15 Jul 2026 09:18:03 +0000",
-      "crawlDate": "2026-07-15",
+      "crawlDate": "2026-07-16",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -143,36 +143,82 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260715_q002",
-      "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-      "originalTitle": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 15 Jul 2026 00:00:00 GMT",
-      "crawlDate": "2026-07-15",
+      "id": "20260716_q002",
+      "title": "人在Meta，休个病假/产假转身被AI裁了？？",
+      "originalTitle": "人在Meta，休个病假/产假转身被AI裁了？？",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 15 Jul 2026 09:03:58 +0000",
+      "crawlDate": "2026-07-16",
       "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/real-world-voiceeq"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/07/450709.html"
       },
       "tags": [
-        "官方",
-        "大语言模型"
+        "媒体",
+        "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "人在Meta，休个病假/产假转身被AI裁了？？。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260715_q003",
+      "id": "20260716_q003",
+      "title": "What building Shippy taught us about building agents",
+      "originalTitle": "What building Shippy taught us about building agents",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Wed, 15 Jul 2026 17:29:41 GMT",
+      "crawlDate": "2026-07-16",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/allenai/shippy-tech-blog"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "What building Shippy taught us about building agents。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260716_q004",
+      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "originalTitle": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 15 Jul 2026 17:09:37 +0000",
+      "crawlDate": "2026-07-16",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/"
+      },
+      "tags": [
+        "媒体",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260716_q005",
       "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
       "originalTitle": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Wed, 15 Jul 2026 12:10:00 +0000",
-      "crawlDate": "2026-07-15",
+      "crawlDate": "2026-07-16",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -189,30 +235,30 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260715_q004",
-      "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
-      "originalTitle": "PsiQuantum has a plan to make a massive quantum computer out of light",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 14 Jul 2026 08:00:00 +0000",
-      "crawlDate": "2026-07-15",
+      "id": "20260716_q006",
+      "title": "The Download: Claude’s inner workings, and the future of world models",
+      "originalTitle": "The Download: Claude’s inner workings, and the future of world models",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 14 Jul 2026 12:10:00 +0000",
+      "crawlDate": "2026-07-16",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/"
+        "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "PsiQuantum has a plan to make a massive quantum computer out of light。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: Claude’s inner workings, and the future of world models。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 9,
+  "total": 11,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
