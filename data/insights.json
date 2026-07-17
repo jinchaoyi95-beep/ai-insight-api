@@ -1,15 +1,84 @@
 {
-  "date": "20260716",
-  "updateTime": "2026-07-16T01:44:35.562Z",
+  "date": "20260717",
+  "updateTime": "2026-07-17T13:38:48.069Z",
   "headlines": [
     {
-      "id": "20260716_001",
+      "id": "20260717_001",
+      "title": "A scorecard for the AI age",
+      "originalTitle": "A scorecard for the AI age",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 17 Jul 2026 10:00:00 GMT",
+      "crawlDate": "2026-07-17",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/a-scorecard-for-the-ai-age"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "A scorecard for the AI age。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260717_002",
+      "title": "Why teens deserve access to safe AI",
+      "originalTitle": "Why teens deserve access to safe AI",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Thu, 16 Jul 2026 16:00:00 GMT",
+      "crawlDate": "2026-07-17",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/why-teens-deserve-access-safe-ai"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Why teens deserve access to safe AI。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260717_003",
+      "title": "How Cars24 scales conversations and builds faster with OpenAI",
+      "originalTitle": "How Cars24 scales conversations and builds faster with OpenAI",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Thu, 16 Jul 2026 00:00:00 GMT",
+      "crawlDate": "2026-07-17",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/cars24"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "How Cars24 scales conversations and builds faster with OpenAI。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260717_004",
       "title": "The US is advancing AI safety through state and federal action",
       "originalTitle": "The US is advancing AI safety through state and federal action",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Wed, 15 Jul 2026 12:00:00 GMT",
-      "crawlDate": "2026-07-16",
+      "crawlDate": "2026-07-17",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +95,38 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260716_002",
+      "id": "20260717_005",
+      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+      "originalTitle": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Thu, 16 Jul 2026 16:01:21 GMT",
+      "crawlDate": "2026-07-17",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    }
+  ],
+  "quickBrowse": [
+    {
+      "id": "20260717_q001",
       "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
       "originalTitle": "GPT-Red: Unlocking Self-Improvement for Robustness",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Wed, 15 Jul 2026 10:00:00 GMT",
-      "crawlDate": "2026-07-16",
+      "crawlDate": "2026-07-17",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -42,223 +136,83 @@
         "官方",
         "企业动态"
       ],
-      "isHeadline": true,
+      "isHeadline": false,
       "coreInsight": "GPT-Red: Unlocking Self-Improvement for Robustness。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260716_003",
-      "title": "How to manage AI investments in the agentic era",
-      "originalTitle": "How to manage AI investments in the agentic era",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Tue, 14 Jul 2026 10:00:00 GMT",
-      "crawlDate": "2026-07-16",
+      "id": "20260717_q002",
+      "title": "Connect more of your apps to Search",
+      "originalTitle": "Connect more of your apps to Search",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Thu, 16 Jul 2026 16:00:00 +0000",
+      "crawlDate": "2026-07-17",
       "source": {
-        "name": "OpenAI Blog",
+        "name": "Google AI",
         "type": "官方",
-        "url": "https://openai.com/index/managing-ai-investments-in-agentic-era"
+        "url": "https://blog.google/products-and-platforms/products/search/connected-apps/"
       },
       "tags": [
         "官方",
-        "Agent"
+        "应用落地"
       ],
-      "isHeadline": true,
-      "coreInsight": "How to manage AI investments in the agentic era。该技术值得关注，建议评估其落地可行性。",
+      "isHeadline": false,
+      "coreInsight": "Connect more of your apps to Search。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260716_004",
-      "title": "How sales teams use ChatGPT Work",
-      "originalTitle": "How sales teams use ChatGPT Work",
+      "id": "20260717_q003",
+      "title": "The Download: perimenopause misinformation and China’s latest AI leap",
+      "originalTitle": "The Download: perimenopause misinformation and China’s latest AI leap",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Tue, 14 Jul 2026 00:00:00 GMT",
-      "crawlDate": "2026-07-16",
+      "publishDate": "Fri, 17 Jul 2026 12:10:00 +0000",
+      "crawlDate": "2026-07-17",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex"
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/"
       },
       "tags": [
-        "官方",
+        "媒体",
         "大语言模型"
       ],
-      "isHeadline": true,
-      "coreInsight": "How sales teams use ChatGPT Work。该技术值得关注，建议评估其落地可行性。",
+      "isHeadline": false,
+      "coreInsight": "The Download: perimenopause misinformation and China’s latest AI leap。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260716_005",
-      "title": "How data science teams use ChatGPT Work",
-      "originalTitle": "How data science teams use ChatGPT Work",
+      "id": "20260717_q004",
+      "title": "The risk of weather data sabotage is rising",
+      "originalTitle": "The risk of weather data sabotage is rising",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Tue, 14 Jul 2026 00:00:00 GMT",
-      "crawlDate": "2026-07-16",
+      "publishDate": "Fri, 17 Jul 2026 08:57:32 +0000",
+      "crawlDate": "2026-07-17",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex"
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/"
       },
       "tags": [
-        "官方",
+        "媒体",
         "大语言模型"
       ],
-      "isHeadline": true,
-      "coreInsight": "How data science teams use ChatGPT Work。该技术值得关注，建议评估其落地可行性。",
+      "isHeadline": false,
+      "coreInsight": "The risk of weather data sabotage is rising。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "quickBrowse": [
-    {
-      "id": "20260716_q001",
-      "title": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！",
-      "originalTitle": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 15 Jul 2026 09:18:03 +0000",
-      "crawlDate": "2026-07-16",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/450831.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260716_q002",
-      "title": "人在Meta，休个病假/产假转身被AI裁了？？",
-      "originalTitle": "人在Meta，休个病假/产假转身被AI裁了？？",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Wed, 15 Jul 2026 09:03:58 +0000",
-      "crawlDate": "2026-07-16",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/450709.html"
-      },
-      "tags": [
-        "媒体",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "人在Meta，休个病假/产假转身被AI裁了？？。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260716_q003",
-      "title": "What building Shippy taught us about building agents",
-      "originalTitle": "What building Shippy taught us about building agents",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Wed, 15 Jul 2026 17:29:41 GMT",
-      "crawlDate": "2026-07-16",
-      "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/allenai/shippy-tech-blog"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "What building Shippy taught us about building agents。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260716_q004",
-      "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "originalTitle": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Wed, 15 Jul 2026 17:09:37 +0000",
-      "crawlDate": "2026-07-16",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/"
-      },
-      "tags": [
-        "媒体",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260716_q005",
-      "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
-      "originalTitle": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 15 Jul 2026 12:10:00 +0000",
-      "crawlDate": "2026-07-16",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Download: a useful quantum machine and a record-breaking subsea tunnel。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260716_q006",
-      "title": "The Download: Claude’s inner workings, and the future of world models",
-      "originalTitle": "The Download: Claude’s inner workings, and the future of world models",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 14 Jul 2026 12:10:00 +0000",
-      "crawlDate": "2026-07-16",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/"
-      },
-      "tags": [
-        "媒体",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Download: Claude’s inner workings, and the future of world models。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "total": 11,
+  "total": 9,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
