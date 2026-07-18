@@ -1,15 +1,15 @@
 {
-  "date": "20260717",
-  "updateTime": "2026-07-17T13:38:48.069Z",
+  "date": "20260718",
+  "updateTime": "2026-07-18T13:16:23.965Z",
   "headlines": [
     {
-      "id": "20260717_001",
+      "id": "20260718_001",
       "title": "A scorecard for the AI age",
       "originalTitle": "A scorecard for the AI age",
-      "category": "llm",
-      "categoryName": "大语言模型",
+      "category": "company",
+      "categoryName": "企业动态",
       "publishDate": "Fri, 17 Jul 2026 10:00:00 GMT",
-      "crawlDate": "2026-07-17",
+      "crawlDate": "2026-07-18",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -17,7 +17,7 @@
       },
       "tags": [
         "官方",
-        "大语言模型"
+        "企业动态"
       ],
       "isHeadline": true,
       "coreInsight": "A scorecard for the AI age。该技术值得关注，建议评估其落地可行性。",
@@ -26,13 +26,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260717_002",
+      "id": "20260718_002",
       "title": "Why teens deserve access to safe AI",
       "originalTitle": "Why teens deserve access to safe AI",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Thu, 16 Jul 2026 16:00:00 GMT",
-      "crawlDate": "2026-07-17",
+      "crawlDate": "2026-07-18",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,13 +49,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260717_003",
+      "id": "20260718_003",
       "title": "How Cars24 scales conversations and builds faster with OpenAI",
       "originalTitle": "How Cars24 scales conversations and builds faster with OpenAI",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Thu, 16 Jul 2026 00:00:00 GMT",
-      "crawlDate": "2026-07-17",
+      "crawlDate": "2026-07-18",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -72,47 +72,47 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260717_004",
-      "title": "The US is advancing AI safety through state and federal action",
-      "originalTitle": "The US is advancing AI safety through state and federal action",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Wed, 15 Jul 2026 12:00:00 GMT",
-      "crawlDate": "2026-07-17",
+      "id": "20260718_004",
+      "title": "WAIC 2026现场直击：万兴科技旗下万兴剧厂“无限画布”、新品Filmora.AI与Virbo AI火爆首秀",
+      "originalTitle": "WAIC 2026现场直击：万兴科技旗下万兴剧厂“无限画布”、新品Filmora.AI与Virbo AI火爆首秀",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Sat, 18 Jul 2026 11:19:41 +0000",
+      "crawlDate": "2026-07-18",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/07/454015.html"
       },
       "tags": [
-        "官方",
-        "企业动态"
+        "媒体",
+        "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "The US is advancing AI safety through state and federal action。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "WAIC 2026现场直击：万兴科技旗下万兴剧厂“无限画布”、新品Filmora.AI与Virbo AI火爆首秀。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260717_005",
-      "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-      "originalTitle": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 16 Jul 2026 16:01:21 GMT",
-      "crawlDate": "2026-07-17",
+      "id": "20260718_005",
+      "title": "滴滴在WAIC分享：AI升级出行体验 好服务连接消费烟火气",
+      "originalTitle": "滴滴在WAIC分享：AI升级出行体验 好服务连接消费烟火气",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Sat, 18 Jul 2026 11:04:51 +0000",
+      "crawlDate": "2026-07-18",
       "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/07/454003.html"
       },
       "tags": [
-        "官方",
-        "Agent"
+        "媒体",
+        "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "滴滴在WAIC分享：AI升级出行体验 好服务连接消费烟火气。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -120,36 +120,59 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260717_q001",
-      "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-      "originalTitle": "GPT-Red: Unlocking Self-Improvement for Robustness",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Wed, 15 Jul 2026 10:00:00 GMT",
-      "crawlDate": "2026-07-17",
+      "id": "20260718_q001",
+      "title": "WAIC 2026现场发布AI商业落地报告，海亮科服同时入选产业图谱、Top50",
+      "originalTitle": "WAIC 2026现场发布AI商业落地报告，海亮科服同时入选产业图谱、Top50",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Sat, 18 Jul 2026 10:12:52 +0000",
+      "crawlDate": "2026-07-18",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/unlocking-self-improvement-gpt-red"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/07/453889.html"
       },
       "tags": [
-        "官方",
-        "企业动态"
+        "媒体",
+        "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "GPT-Red: Unlocking Self-Improvement for Robustness。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "WAIC 2026现场发布AI商业落地报告，海亮科服同时入选产业图谱、Top50。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260717_q002",
+      "id": "20260718_q002",
+      "title": "妙啊！无人机直连卫星传Token",
+      "originalTitle": "妙啊！无人机直连卫星传Token",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Sat, 18 Jul 2026 08:17:18 +0000",
+      "crawlDate": "2026-07-18",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/07/453789.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "妙啊！无人机直连卫星传Token。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260718_q003",
       "title": "Connect more of your apps to Search",
       "originalTitle": "Connect more of your apps to Search",
       "category": "application",
       "categoryName": "应用落地",
       "publishDate": "Thu, 16 Jul 2026 16:00:00 +0000",
-      "crawlDate": "2026-07-17",
+      "crawlDate": "2026-07-18",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -166,13 +189,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260717_q003",
+      "id": "20260718_q004",
+      "title": "Controlling Reasoning Effort in LLMs",
+      "originalTitle": "Controlling Reasoning Effort in LLMs",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Sat, 18 Jul 2026 11:16:09 GMT",
+      "crawlDate": "2026-07-18",
+      "source": {
+        "name": "Sebastian Raschka",
+        "type": "专家",
+        "url": "https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms"
+      },
+      "tags": [
+        "专家",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Controlling Reasoning Effort in LLMs。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260718_q005",
       "title": "The Download: perimenopause misinformation and China’s latest AI leap",
       "originalTitle": "The Download: perimenopause misinformation and China’s latest AI leap",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 17 Jul 2026 12:10:00 +0000",
-      "crawlDate": "2026-07-17",
+      "crawlDate": "2026-07-18",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -189,13 +235,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260717_q004",
+      "id": "20260718_q006",
       "title": "The risk of weather data sabotage is rising",
       "originalTitle": "The risk of weather data sabotage is rising",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 17 Jul 2026 08:57:32 +0000",
-      "crawlDate": "2026-07-17",
+      "crawlDate": "2026-07-18",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -212,7 +258,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 9,
+  "total": 11,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
