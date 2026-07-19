@@ -1,15 +1,15 @@
 {
-  "date": "20260718",
-  "updateTime": "2026-07-18T13:16:23.965Z",
+  "date": "20260719",
+  "updateTime": "2026-07-19T01:46:03.929Z",
   "headlines": [
     {
-      "id": "20260718_001",
+      "id": "20260719_001",
       "title": "A scorecard for the AI age",
       "originalTitle": "A scorecard for the AI age",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 17 Jul 2026 10:00:00 GMT",
-      "crawlDate": "2026-07-18",
+      "crawlDate": "2026-07-19",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +26,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260718_002",
+      "id": "20260719_002",
       "title": "Why teens deserve access to safe AI",
       "originalTitle": "Why teens deserve access to safe AI",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Thu, 16 Jul 2026 16:00:00 GMT",
-      "crawlDate": "2026-07-18",
+      "crawlDate": "2026-07-19",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,36 +49,59 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260718_003",
-      "title": "How Cars24 scales conversations and builds faster with OpenAI",
-      "originalTitle": "How Cars24 scales conversations and builds faster with OpenAI",
+      "id": "20260719_003",
+      "title": "全球市占第一后，普渡在WAIC开始回答机器人下一场战争",
+      "originalTitle": "全球市占第一后，普渡在WAIC开始回答机器人下一场战争",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Thu, 16 Jul 2026 00:00:00 GMT",
-      "crawlDate": "2026-07-18",
+      "publishDate": "Sun, 19 Jul 2026 01:01:46 +0000",
+      "crawlDate": "2026-07-19",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/cars24"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/07/453802.html"
       },
       "tags": [
-        "官方",
+        "媒体",
         "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "How Cars24 scales conversations and builds faster with OpenAI。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "全球市占第一后，普渡在WAIC开始回答机器人下一场战争。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260718_004",
+      "id": "20260719_004",
+      "title": "WAIC看了一圈，这家公司的机器人在认真打工",
+      "originalTitle": "WAIC看了一圈，这家公司的机器人在认真打工",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Sat, 18 Jul 2026 13:23:21 +0000",
+      "crawlDate": "2026-07-19",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/07/454040.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "WAIC看了一圈，这家公司的机器人在认真打工。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260719_005",
       "title": "WAIC 2026现场直击：万兴科技旗下万兴剧厂“无限画布”、新品Filmora.AI与Virbo AI火爆首秀",
       "originalTitle": "WAIC 2026现场直击：万兴科技旗下万兴剧厂“无限画布”、新品Filmora.AI与Virbo AI火爆首秀",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Sat, 18 Jul 2026 11:19:41 +0000",
-      "crawlDate": "2026-07-18",
+      "crawlDate": "2026-07-19",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -93,15 +116,17 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
+    }
+  ],
+  "quickBrowse": [
     {
-      "id": "20260718_005",
+      "id": "20260719_q001",
       "title": "滴滴在WAIC分享：AI升级出行体验 好服务连接消费烟火气",
       "originalTitle": "滴滴在WAIC分享：AI升级出行体验 好服务连接消费烟火气",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Sat, 18 Jul 2026 11:04:51 +0000",
-      "crawlDate": "2026-07-18",
+      "crawlDate": "2026-07-19",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -111,68 +136,20 @@
         "媒体",
         "大语言模型"
       ],
-      "isHeadline": true,
+      "isHeadline": false,
       "coreInsight": "滴滴在WAIC分享：AI升级出行体验 好服务连接消费烟火气。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
-    {
-      "id": "20260718_q001",
-      "title": "WAIC 2026现场发布AI商业落地报告，海亮科服同时入选产业图谱、Top50",
-      "originalTitle": "WAIC 2026现场发布AI商业落地报告，海亮科服同时入选产业图谱、Top50",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sat, 18 Jul 2026 10:12:52 +0000",
-      "crawlDate": "2026-07-18",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/453889.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "WAIC 2026现场发布AI商业落地报告，海亮科服同时入选产业图谱、Top50。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260718_q002",
-      "title": "妙啊！无人机直连卫星传Token",
-      "originalTitle": "妙啊！无人机直连卫星传Token",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sat, 18 Jul 2026 08:17:18 +0000",
-      "crawlDate": "2026-07-18",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/453789.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "妙啊！无人机直连卫星传Token。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260718_q003",
+      "id": "20260719_q002",
       "title": "Connect more of your apps to Search",
       "originalTitle": "Connect more of your apps to Search",
       "category": "application",
       "categoryName": "应用落地",
       "publishDate": "Thu, 16 Jul 2026 16:00:00 +0000",
-      "crawlDate": "2026-07-18",
+      "crawlDate": "2026-07-19",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -189,13 +166,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260718_q004",
+      "id": "20260719_q003",
       "title": "Controlling Reasoning Effort in LLMs",
       "originalTitle": "Controlling Reasoning Effort in LLMs",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Sat, 18 Jul 2026 11:16:09 GMT",
-      "crawlDate": "2026-07-18",
+      "crawlDate": "2026-07-19",
       "source": {
         "name": "Sebastian Raschka",
         "type": "专家",
@@ -212,13 +189,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260718_q005",
+      "id": "20260719_q004",
       "title": "The Download: perimenopause misinformation and China’s latest AI leap",
       "originalTitle": "The Download: perimenopause misinformation and China’s latest AI leap",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 17 Jul 2026 12:10:00 +0000",
-      "crawlDate": "2026-07-18",
+      "crawlDate": "2026-07-19",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -235,13 +212,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260718_q006",
+      "id": "20260719_q005",
       "title": "The risk of weather data sabotage is rising",
       "originalTitle": "The risk of weather data sabotage is rising",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 17 Jul 2026 08:57:32 +0000",
-      "crawlDate": "2026-07-18",
+      "crawlDate": "2026-07-19",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -258,7 +235,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 11,
+  "total": 10,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
