@@ -1,15 +1,38 @@
 {
-  "date": "20260720",
-  "updateTime": "2026-07-20T14:07:01.608Z",
+  "date": "20260721",
+  "updateTime": "2026-07-21T01:45:52.208Z",
   "headlines": [
     {
-      "id": "20260720_001",
+      "id": "20260721_001",
+      "title": "Safety and alignment in an era of long-horizon models",
+      "originalTitle": "Safety and alignment in an era of long-horizon models",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 20 Jul 2026 10:00:00 GMT",
+      "crawlDate": "2026-07-21",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/safety-alignment-long-horizon-models"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Safety and alignment in an era of long-horizon models。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260721_002",
       "title": "WAIC 2026收官｜范式大会亮点集锦，见证AI 2.0从技术突破走向产业实践",
       "originalTitle": "WAIC 2026收官｜范式大会亮点集锦，见证AI 2.0从技术突破走向产业实践",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Mon, 20 Jul 2026 10:42:09 +0000",
-      "crawlDate": "2026-07-20",
+      "crawlDate": "2026-07-21",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -26,13 +49,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260720_002",
+      "id": "20260721_003",
       "title": "不同模型厂同一家Agentic Infra，AGI时代的地基终于浮出水面",
       "originalTitle": "不同模型厂同一家Agentic Infra，AGI时代的地基终于浮出水面",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Mon, 20 Jul 2026 10:33:23 +0000",
-      "crawlDate": "2026-07-20",
+      "crawlDate": "2026-07-21",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -49,13 +72,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260720_003",
+      "id": "20260721_004",
       "title": "当AI进入最依赖“人”的行业：一家四线城市康复机构利润增长40%",
       "originalTitle": "当AI进入最依赖“人”的行业：一家四线城市康复机构利润增长40%",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Mon, 20 Jul 2026 09:54:33 +0000",
-      "crawlDate": "2026-07-20",
+      "crawlDate": "2026-07-21",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -72,47 +95,24 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260720_004",
-      "title": "The Download: AI hiring biases, and weather data sabotage",
-      "originalTitle": "The Download: AI hiring biases, and weather data sabotage",
+      "id": "20260721_005",
+      "title": "China’s AI models have Trump’s AI world at war with itself",
+      "originalTitle": "China’s AI models have Trump’s AI world at war with itself",
       "category": "application",
       "categoryName": "应用落地",
-      "publishDate": "Mon, 20 Jul 2026 12:10:00 +0000",
-      "crawlDate": "2026-07-20",
+      "publishDate": "Mon, 20 Jul 2026 18:00:00 +0000",
+      "crawlDate": "2026-07-21",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/"
+        "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/"
       },
       "tags": [
         "媒体",
         "应用落地"
       ],
       "isHeadline": true,
-      "coreInsight": "The Download: AI hiring biases, and weather data sabotage。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260720_005",
-      "title": "AI is more likely than humans to form biases when hiring",
-      "originalTitle": "AI is more likely than humans to form biases when hiring",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Mon, 20 Jul 2026 08:39:01 +0000",
-      "crawlDate": "2026-07-20",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/"
-      },
-      "tags": [
-        "媒体",
-        "科研突破"
-      ],
-      "isHeadline": true,
-      "coreInsight": "AI is more likely than humans to form biases when hiring。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "China’s AI models have Trump’s AI world at war with itself。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -120,13 +120,13 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260720_q001",
+      "id": "20260721_q001",
       "title": "全球首发技术路线+全域联盟双轮破局，AI for ADANES释放先进核能新质生产力",
       "originalTitle": "全球首发技术路线+全域联盟双轮破局，AI for ADANES释放先进核能新质生产力",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Mon, 20 Jul 2026 09:41:49 +0000",
-      "crawlDate": "2026-07-20",
+      "crawlDate": "2026-07-21",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -143,13 +143,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260720_q002",
+      "id": "20260721_q002",
       "title": "启鸣达人首发《世界模型驱动的教育AGI白皮书》| WAIC 2026",
       "originalTitle": "启鸣达人首发《世界模型驱动的教育AGI白皮书》| WAIC 2026",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Mon, 20 Jul 2026 09:21:30 +0000",
-      "crawlDate": "2026-07-20",
+      "crawlDate": "2026-07-21",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -166,13 +166,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260720_q003",
+      "id": "20260721_q003",
       "title": "Controlling Reasoning Effort in LLMs",
       "originalTitle": "Controlling Reasoning Effort in LLMs",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Sat, 18 Jul 2026 11:16:09 GMT",
-      "crawlDate": "2026-07-20",
+      "crawlDate": "2026-07-21",
       "source": {
         "name": "Sebastian Raschka",
         "type": "专家",
@@ -187,9 +187,55 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260721_q004",
+      "title": "The Download: AI hiring biases, and weather data sabotage",
+      "originalTitle": "The Download: AI hiring biases, and weather data sabotage",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Mon, 20 Jul 2026 12:10:00 +0000",
+      "crawlDate": "2026-07-21",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/"
+      },
+      "tags": [
+        "媒体",
+        "应用落地"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The Download: AI hiring biases, and weather data sabotage。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260721_q005",
+      "title": "AI is more likely than humans to form biases when hiring",
+      "originalTitle": "AI is more likely than humans to form biases when hiring",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Mon, 20 Jul 2026 08:39:01 +0000",
+      "crawlDate": "2026-07-21",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/"
+      },
+      "tags": [
+        "媒体",
+        "科研突破"
+      ],
+      "isHeadline": false,
+      "coreInsight": "AI is more likely than humans to form biases when hiring。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 8,
+  "total": 10,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
