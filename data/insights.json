@@ -1,15 +1,15 @@
 {
-  "date": "20260722",
-  "updateTime": "2026-07-22T13:56:01.349Z",
+  "date": "20260723",
+  "updateTime": "2026-07-23T01:51:57.839Z",
   "headlines": [
     {
-      "id": "20260722_001",
+      "id": "20260723_001",
       "title": "Building AI infrastructure with the Effingham County community",
       "originalTitle": "Building AI infrastructure with the Effingham County community",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Wed, 22 Jul 2026 13:00:00 GMT",
-      "crawlDate": "2026-07-22",
+      "crawlDate": "2026-07-23",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +26,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260722_002",
+      "id": "20260723_002",
+      "title": "How news organizations are using AI to advance their vital missions",
+      "originalTitle": "How news organizations are using AI to advance their vital missions",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 22 Jul 2026 13:00:00 GMT",
+      "crawlDate": "2026-07-23",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/how-news-organizations-are-using-ai"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "How news organizations are using AI to advance their vital missions。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260723_003",
       "title": "Introducing OpenAI Presence",
       "originalTitle": "Introducing OpenAI Presence",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Wed, 22 Jul 2026 05:30:00 GMT",
-      "crawlDate": "2026-07-22",
+      "crawlDate": "2026-07-23",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,36 +72,107 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260722_003",
-      "title": "Introducing the ChatGPT for small business program",
-      "originalTitle": "Introducing the ChatGPT for small business program",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 21 Jul 2026 17:00:00 GMT",
-      "crawlDate": "2026-07-22",
+      "id": "20260723_004",
+      "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+      "originalTitle": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Wed, 22 Jul 2026 00:00:00 GMT",
+      "crawlDate": "2026-07-23",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/introducing-chatgpt-small-business-program"
+        "url": "https://openai.com/index/ntt-data"
       },
       "tags": [
         "官方",
-        "企业动态"
+        "开发工具"
       ],
       "isHeadline": true,
-      "coreInsight": "Introducing the ChatGPT for small business program。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "NTT DATA Group cuts incident analysis to 30 minutes with Codex。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260722_004",
+      "id": "20260723_005",
+      "title": "上海这场大赛有点“野”：让AI自主科研、控核聚变、认甲骨文",
+      "originalTitle": "上海这场大赛有点“野”：让AI自主科研、控核聚变、认甲骨文",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 23 Jul 2026 00:35:43 +0000",
+      "crawlDate": "2026-07-23",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/07/457249.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "上海这场大赛有点“野”：让AI自主科研、控核聚变、认甲骨文。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    }
+  ],
+  "quickBrowse": [
+    {
+      "id": "20260723_q001",
+      "title": "Advancing the next era of national science",
+      "originalTitle": "Advancing the next era of national science",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 22 Jul 2026 12:00:00 GMT",
+      "crawlDate": "2026-07-23",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/advancing-the-next-era-of-national-science"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Advancing the next era of national science。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260723_q002",
+      "title": "美图拿出1亿元，面向全行业寻找AI影像Builder",
+      "originalTitle": "美图拿出1亿元，面向全行业寻找AI影像Builder",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 22 Jul 2026 17:35:44 +0000",
+      "crawlDate": "2026-07-23",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/07/457223.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "美图拿出1亿元，面向全行业寻找AI影像Builder。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260723_q003",
       "title": "百度文心助手任务Agent登顶国际权威榜单，超越Claude、GPT拿下全球智能体冠军",
       "originalTitle": "百度文心助手任务Agent登顶国际权威榜单，超越Claude、GPT拿下全球智能体冠军",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Wed, 22 Jul 2026 07:31:19 +0000",
-      "crawlDate": "2026-07-22",
+      "crawlDate": "2026-07-23",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -88,20 +182,20 @@
         "媒体",
         "Agent"
       ],
-      "isHeadline": true,
+      "isHeadline": false,
       "coreInsight": "百度文心助手任务Agent登顶国际权威榜单，超越Claude、GPT拿下全球智能体冠军。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260722_005",
+      "id": "20260723_q004",
       "title": "业内首款超算+智算的大规模计算底座，在WAIC上我们找到了",
       "originalTitle": "业内首款超算+智算的大规模计算底座，在WAIC上我们找到了",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Wed, 22 Jul 2026 05:47:42 +0000",
-      "crawlDate": "2026-07-22",
+      "crawlDate": "2026-07-23",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -111,68 +205,20 @@
         "媒体",
         "大语言模型"
       ],
-      "isHeadline": true,
+      "isHeadline": false,
       "coreInsight": "业内首款超算+智算的大规模计算底座，在WAIC上我们找到了。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
-    {
-      "id": "20260722_q001",
-      "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-      "originalTitle": "OpenAI and Hugging Face partner to address security incident during model evaluation",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 21 Jul 2026 07:00:00 GMT",
-      "crawlDate": "2026-07-22",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "OpenAI and Hugging Face partner to address security incident during model evaluation。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260722_q002",
-      "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-      "originalTitle": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 21 Jul 2026 00:00:00 GMT",
-      "crawlDate": "2026-07-22",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260722_q003",
+      "id": "20260723_q005",
       "title": "Halliday发布第二代AI眼镜Halliday G2，AI功能走向“实时参与会议”",
       "originalTitle": "Halliday发布第二代AI眼镜Halliday G2，AI功能走向“实时参与会议”",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Wed, 22 Jul 2026 04:10:16 +0000",
-      "crawlDate": "2026-07-22",
+      "crawlDate": "2026-07-23",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -189,36 +235,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260722_q004",
-      "title": "我在WAIC 2026看见的十大趋势",
-      "originalTitle": "我在WAIC 2026看见的十大趋势",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 22 Jul 2026 03:46:30 +0000",
-      "crawlDate": "2026-07-22",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/456974.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "我在WAIC 2026看见的十大趋势。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260722_q005",
+      "id": "20260723_q006",
       "title": "The State of Simulation for Physical AI: An Overview",
       "originalTitle": "The State of Simulation for Physical AI: An Overview",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 21 Jul 2026 20:00:27 GMT",
-      "crawlDate": "2026-07-22",
+      "crawlDate": "2026-07-23",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -235,13 +258,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260722_q006",
+      "id": "20260723_q007",
       "title": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
       "originalTitle": "The Download: NASA’s new space telescope and OpenAI’s autonomous hacker",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Wed, 22 Jul 2026 12:10:00 +0000",
-      "crawlDate": "2026-07-22",
+      "crawlDate": "2026-07-23",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -258,13 +281,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260722_q007",
+      "id": "20260723_q008",
       "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
       "originalTitle": "The Download: Chinese AI divides the White House, and a record copyright payout",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 21 Jul 2026 12:10:00 +0000",
-      "crawlDate": "2026-07-22",
+      "crawlDate": "2026-07-23",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -281,7 +304,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 12,
+  "total": 13,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
