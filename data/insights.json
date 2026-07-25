@@ -1,15 +1,15 @@
 {
-  "date": "20260724",
-  "updateTime": "2026-07-24T13:46:38.288Z",
+  "date": "20260725",
+  "updateTime": "2026-07-25T13:27:37.053Z",
   "headlines": [
     {
-      "id": "20260724_001",
+      "id": "20260725_001",
       "title": "Launching Health in ChatGPT ",
       "originalTitle": "Launching Health in ChatGPT ",
       "category": "application",
       "categoryName": "应用落地",
       "publishDate": "Thu, 23 Jul 2026 00:00:00 GMT",
-      "crawlDate": "2026-07-24",
+      "crawlDate": "2026-07-25",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,93 +26,93 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260724_002",
-      "title": "Building AI infrastructure with the Effingham County community",
-      "originalTitle": "Building AI infrastructure with the Effingham County community",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Wed, 22 Jul 2026 13:00:00 GMT",
-      "crawlDate": "2026-07-24",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Building AI infrastructure with the Effingham County community。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260724_003",
-      "title": "How news organizations are using AI to advance their vital missions",
-      "originalTitle": "How news organizations are using AI to advance their vital missions",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Wed, 22 Jul 2026 13:00:00 GMT",
-      "crawlDate": "2026-07-24",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/how-news-organizations-are-using-ai"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "How news organizations are using AI to advance their vital missions。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260724_004",
-      "title": "Introducing OpenAI Presence",
-      "originalTitle": "Introducing OpenAI Presence",
+      "id": "20260725_002",
+      "title": "100%开源！吴恩达做了个个人桌面Agent",
+      "originalTitle": "100%开源！吴恩达做了个个人桌面Agent",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Wed, 22 Jul 2026 05:30:00 GMT",
-      "crawlDate": "2026-07-24",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/introducing-openai-presence"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Introducing OpenAI Presence。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260724_005",
-      "title": "抢跑！全球化新品牌进入AI时刻，何以定胜负？ | 2026全球化新品牌AI竞争力大会实录",
-      "originalTitle": "抢跑！全球化新品牌进入AI时刻，何以定胜负？ | 2026全球化新品牌AI竞争力大会实录",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 24 Jul 2026 09:57:35 +0000",
-      "crawlDate": "2026-07-24",
+      "publishDate": "Sat, 25 Jul 2026 12:35:34 +0000",
+      "crawlDate": "2026-07-25",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/459432.html"
+        "url": "https://www.qbitai.com/2026/07/460892.html"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "抢跑！全球化新品牌进入AI时刻，何以定胜负？ | 2026全球化新品牌AI竞争力大会实录。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "100%开源！吴恩达做了个个人桌面Agent。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260725_003",
+      "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
+      "originalTitle": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Sat, 25 Jul 2026 12:11:39 +0000",
+      "crawlDate": "2026-07-25",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/07/460253.html"
+      },
+      "tags": [
+        "媒体",
+        "开发工具"
+      ],
+      "isHeadline": true,
+      "coreInsight": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260725_004",
+      "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
+      "originalTitle": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Sat, 25 Jul 2026 11:54:44 +0000",
+      "crawlDate": "2026-07-25",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/07/460234.html"
+      },
+      "tags": [
+        "媒体",
+        "应用落地"
+      ],
+      "isHeadline": true,
+      "coreInsight": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260725_005",
+      "title": "北京说Agent已经能造世界，杭州却说它是刚发明的电灯泡",
+      "originalTitle": "北京说Agent已经能造世界，杭州却说它是刚发明的电灯泡",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Sat, 25 Jul 2026 11:07:25 +0000",
+      "crawlDate": "2026-07-25",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/07/460186.html"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "北京说Agent已经能造世界，杭州却说它是刚发明的电灯泡。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -120,82 +120,36 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260724_q001",
-      "title": "Advancing the next era of national science",
-      "originalTitle": "Advancing the next era of national science",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Wed, 22 Jul 2026 12:00:00 GMT",
-      "crawlDate": "2026-07-24",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/advancing-the-next-era-of-national-science"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Advancing the next era of national science。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260724_q002",
-      "title": "世界模型“六小龙”在WAIC吵起来了！行业红利就在非共识里",
-      "originalTitle": "世界模型“六小龙”在WAIC吵起来了！行业红利就在非共识里",
+      "id": "20260725_q001",
+      "title": "The quest to keep organs alive outside the body",
+      "originalTitle": "The quest to keep organs alive outside the body",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Fri, 24 Jul 2026 07:29:57 +0000",
-      "crawlDate": "2026-07-24",
+      "publishDate": "Fri, 24 Jul 2026 17:03:55 +0000",
+      "crawlDate": "2026-07-25",
       "source": {
-        "name": "量子位",
+        "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/458617.html"
+        "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "世界模型“六小龙”在WAIC吵起来了！行业红利就在非共识里。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The quest to keep organs alive outside the body。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260724_q003",
-      "title": "The State of Simulation for Physical AI: An Overview",
-      "originalTitle": "The State of Simulation for Physical AI: An Overview",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 21 Jul 2026 20:00:27 GMT",
-      "crawlDate": "2026-07-24",
-      "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai"
-      },
-      "tags": [
-        "官方",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The State of Simulation for Physical AI: An Overview。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260724_q004",
+      "id": "20260725_q002",
       "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
       "originalTitle": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 24 Jul 2026 12:10:00 +0000",
-      "crawlDate": "2026-07-24",
+      "crawlDate": "2026-07-25",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -210,32 +164,9 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260724_q005",
-      "title": "The Download: energy transmission and US threats against Chinese AI",
-      "originalTitle": "The Download: energy transmission and US threats against Chinese AI",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 23 Jul 2026 12:10:00 +0000",
-      "crawlDate": "2026-07-24",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Download: energy transmission and US threats against Chinese AI。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 10,
+  "total": 7,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
