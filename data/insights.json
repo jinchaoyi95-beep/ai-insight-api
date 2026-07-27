@@ -1,125 +1,149 @@
 {
   "date": "20260727",
-  "updateTime": "2026-07-27T01:58:28.960Z",
+  "updateTime": "2026-07-27T14:35:37.918Z",
   "headlines": [
     {
       "id": "20260727_001",
-      "title": "100%开源！吴恩达做了个个人桌面Agent",
-      "originalTitle": "100%开源！吴恩达做了个个人桌面Agent",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Sat, 25 Jul 2026 12:35:34 +0000",
+      "title": "How AI is expanding what people do at work",
+      "originalTitle": "How AI is expanding what people do at work",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Mon, 27 Jul 2026 03:30:00 GMT",
       "crawlDate": "2026-07-27",
       "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/460892.html"
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"
       },
       "tags": [
-        "媒体",
-        "Agent"
+        "官方",
+        "科研突破"
       ],
       "isHeadline": true,
-      "coreInsight": "100%开源！吴恩达做了个个人桌面Agent。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "How AI is expanding what people do at work。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260727_002",
-      "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
-      "originalTitle": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Sat, 25 Jul 2026 12:11:39 +0000",
+      "title": "与AI共生：2026微信小程序开发大赛WAIC官宣启动",
+      "originalTitle": "与AI共生：2026微信小程序开发大赛WAIC官宣启动",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 27 Jul 2026 08:54:16 +0000",
       "crawlDate": "2026-07-27",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/460253.html"
+        "url": "https://www.qbitai.com/2026/07/461392.html"
       },
       "tags": [
         "媒体",
-        "开发工具"
+        "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "与AI共生：2026微信小程序开发大赛WAIC官宣启动。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260727_003",
-      "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
-      "originalTitle": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
-      "category": "application",
-      "categoryName": "应用落地",
-      "publishDate": "Sat, 25 Jul 2026 11:54:44 +0000",
+      "title": "AI最尴尬的短板，中国科学院出手了",
+      "originalTitle": "AI最尴尬的短板，中国科学院出手了",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 27 Jul 2026 05:00:12 +0000",
       "crawlDate": "2026-07-27",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/460234.html"
+        "url": "https://www.qbitai.com/2026/07/461160.html"
       },
       "tags": [
         "媒体",
-        "应用落地"
+        "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "AI最尴尬的短板，中国科学院出手了。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260727_004",
-      "title": "The quest to keep organs alive outside the body",
-      "originalTitle": "The quest to keep organs alive outside the body",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 24 Jul 2026 17:03:55 +0000",
+      "title": "The path to artificial superintelligence",
+      "originalTitle": "The path to artificial superintelligence",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 27 Jul 2026 12:00:00 +0000",
       "crawlDate": "2026-07-27",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/"
+        "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "The quest to keep organs alive outside the body。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The path to artificial superintelligence。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260727_005",
-      "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
-      "originalTitle": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 24 Jul 2026 12:10:00 +0000",
+      "title": "Closing the data loop in AI-driven drug discovery",
+      "originalTitle": "Closing the data loop in AI-driven drug discovery",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Mon, 27 Jul 2026 11:40:16 +0000",
       "crawlDate": "2026-07-27",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/"
+        "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "开发工具"
       ],
       "isHeadline": true,
-      "coreInsight": "The Download: an organ transplant breakthrough, and homegrown Chinese chips。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Closing the data loop in AI-driven drug discovery。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "quickBrowse": [],
-  "total": 5,
+  "quickBrowse": [
+    {
+      "id": "20260727_q001",
+      "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
+      "originalTitle": "The Download: lasers for nuclear fuel, and organ preservation advances",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 27 Jul 2026 12:10:00 +0000",
+      "crawlDate": "2026-07-27",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The Download: lasers for nuclear fuel, and organ preservation advances。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    }
+  ],
+  "total": 6,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
