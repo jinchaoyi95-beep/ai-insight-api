@@ -1,15 +1,38 @@
 {
-  "date": "20260727",
-  "updateTime": "2026-07-27T14:35:37.918Z",
+  "date": "20260729",
+  "updateTime": "2026-07-29T01:42:56.390Z",
   "headlines": [
     {
-      "id": "20260727_001",
+      "id": "20260729_001",
+      "title": "Scientific computing in the age of agentic AI",
+      "originalTitle": "Scientific computing in the age of agentic AI",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Tue, 28 Jul 2026 17:00:00 GMT",
+      "crawlDate": "2026-07-29",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/scientific-computing-agentic-ai"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Scientific computing in the age of agentic AI。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260729_002",
       "title": "How AI is expanding what people do at work",
       "originalTitle": "How AI is expanding what people do at work",
       "category": "research",
       "categoryName": "科研突破",
       "publishDate": "Mon, 27 Jul 2026 03:30:00 GMT",
-      "crawlDate": "2026-07-27",
+      "crawlDate": "2026-07-29",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,93 +49,70 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260727_002",
-      "title": "与AI共生：2026微信小程序开发大赛WAIC官宣启动",
-      "originalTitle": "与AI共生：2026微信小程序开发大赛WAIC官宣启动",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Mon, 27 Jul 2026 08:54:16 +0000",
-      "crawlDate": "2026-07-27",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/461392.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "与AI共生：2026微信小程序开发大赛WAIC官宣启动。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260727_003",
-      "title": "AI最尴尬的短板，中国科学院出手了",
-      "originalTitle": "AI最尴尬的短板，中国科学院出手了",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Mon, 27 Jul 2026 05:00:12 +0000",
-      "crawlDate": "2026-07-27",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/461160.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "AI最尴尬的短板，中国科学院出手了。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260727_004",
-      "title": "The path to artificial superintelligence",
-      "originalTitle": "The path to artificial superintelligence",
+      "id": "20260729_003",
+      "title": "豆包搜索，走出了豆包",
+      "originalTitle": "豆包搜索，走出了豆包",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Mon, 27 Jul 2026 12:00:00 +0000",
-      "crawlDate": "2026-07-27",
+      "publishDate": "Tue, 28 Jul 2026 10:12:52 +0000",
+      "crawlDate": "2026-07-29",
       "source": {
-        "name": "MIT Technology Review",
+        "name": "量子位",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/"
+        "url": "https://www.qbitai.com/2026/07/461961.html"
       },
       "tags": [
         "媒体",
         "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "The path to artificial superintelligence。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "豆包搜索，走出了豆包。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260727_005",
-      "title": "Closing the data loop in AI-driven drug discovery",
-      "originalTitle": "Closing the data loop in AI-driven drug discovery",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Mon, 27 Jul 2026 11:40:16 +0000",
-      "crawlDate": "2026-07-27",
+      "id": "20260729_004",
+      "title": "当AI学会“仿真思维”，教师才能回归育人本质",
+      "originalTitle": "当AI学会“仿真思维”，教师才能回归育人本质",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 28 Jul 2026 07:32:47 +0000",
+      "crawlDate": "2026-07-29",
       "source": {
-        "name": "MIT Technology Review",
+        "name": "量子位",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/"
+        "url": "https://www.qbitai.com/2026/07/461939.html"
       },
       "tags": [
         "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "当AI学会“仿真思维”，教师才能回归育人本质。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260729_005",
+      "title": "5 ways AI Mode in Search helps you enjoy the real world",
+      "originalTitle": "5 ways AI Mode in Search helps you enjoy the real world",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Tue, 28 Jul 2026 13:00:00 +0000",
+      "crawlDate": "2026-07-29",
+      "source": {
+        "name": "Google AI",
+        "type": "官方",
+        "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/"
+      },
+      "tags": [
+        "官方",
         "开发工具"
       ],
       "isHeadline": true,
-      "coreInsight": "Closing the data loop in AI-driven drug discovery。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "5 ways AI Mode in Search helps you enjoy the real world。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -120,30 +120,122 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260727_q001",
-      "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
-      "originalTitle": "The Download: lasers for nuclear fuel, and organ preservation advances",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Mon, 27 Jul 2026 12:10:00 +0000",
-      "crawlDate": "2026-07-27",
+      "id": "20260729_q001",
+      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "originalTitle": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Tue, 28 Jul 2026 16:00:00 +0000",
+      "crawlDate": "2026-07-29",
+      "source": {
+        "name": "Google AI",
+        "type": "官方",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Gemini API Managed Agents: 3.6 Flash, hooks, and more。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260729_q002",
+      "title": "5 ways to host the ultimate dinner party with Google Search",
+      "originalTitle": "5 ways to host the ultimate dinner party with Google Search",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 28 Jul 2026 13:00:00 +0000",
+      "crawlDate": "2026-07-29",
+      "source": {
+        "name": "Google AI",
+        "type": "官方",
+        "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "5 ways to host the ultimate dinner party with Google Search。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260729_q003",
+      "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
+      "originalTitle": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 28 Jul 2026 12:10:00 +0000",
+      "crawlDate": "2026-07-29",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/"
+        "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: lasers for nuclear fuel, and organ preservation advances。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: OpenAI’s predictable hack, and an AI stock sell-off。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260729_q004",
+      "title": "Samsung’s chip workers are jumping ship to rival SK Hynix ",
+      "originalTitle": "Samsung’s chip workers are jumping ship to rival SK Hynix ",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Tue, 28 Jul 2026 09:18:57 +0000",
+      "crawlDate": "2026-07-29",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/"
+      },
+      "tags": [
+        "媒体",
+        "应用落地"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Samsung’s chip workers are jumping ship to rival SK Hynix 。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260729_q005",
+      "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. ",
+      "originalTitle": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. ",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 27 Jul 2026 18:00:00 +0000",
+      "crawlDate": "2026-07-29",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/"
+      },
+      "tags": [
+        "媒体",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. 。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 6,
+  "total": 10,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
