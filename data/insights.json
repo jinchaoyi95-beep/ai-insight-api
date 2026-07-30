@@ -1,6 +1,6 @@
 {
   "date": "20260730",
-  "updateTime": "2026-07-30T01:26:13.623Z",
+  "updateTime": "2026-07-30T14:03:13.672Z",
   "headlines": [
     {
       "id": "20260730_001",
@@ -96,23 +96,23 @@
     },
     {
       "id": "20260730_005",
-      "title": "How AI is expanding what people do at work",
-      "originalTitle": "How AI is expanding what people do at work",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Mon, 27 Jul 2026 03:30:00 GMT",
+      "title": "Claude Code之父：Harness保质期只有半年，解开缰绳吧",
+      "originalTitle": "Claude Code之父：Harness保质期只有半年，解开缰绳吧",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Thu, 30 Jul 2026 08:57:55 +0000",
       "crawlDate": "2026-07-30",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/07/463433.html"
       },
       "tags": [
-        "官方",
-        "科研突破"
+        "媒体",
+        "开发工具"
       ],
       "isHeadline": true,
-      "coreInsight": "How AI is expanding what people do at work。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Claude Code之父：Harness保质期只有半年，解开缰绳吧。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -121,98 +121,52 @@
   "quickBrowse": [
     {
       "id": "20260730_q001",
-      "title": "这这这…翁荔光速回OpenAI上班了",
-      "originalTitle": "这这这…翁荔光速回OpenAI上班了",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Thu, 30 Jul 2026 00:31:19 +0000",
-      "crawlDate": "2026-07-30",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/462947.html"
-      },
-      "tags": [
-        "媒体",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "这这这…翁荔光速回OpenAI上班了。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260730_q002",
-      "title": "中科院院士对话北电数智AI专家：以 AI 与数学 “乘法效应” 开辟产业落地新路径",
-      "originalTitle": "中科院院士对话北电数智AI专家：以 AI 与数学 “乘法效应” 开辟产业落地新路径",
+      "title": "终端市场的下一个增长点，高通押在了“个人AI”上",
+      "originalTitle": "终端市场的下一个增长点，高通押在了“个人AI”上",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Wed, 29 Jul 2026 11:25:21 +0000",
+      "publishDate": "Thu, 30 Jul 2026 08:06:47 +0000",
       "crawlDate": "2026-07-30",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/462943.html"
+        "url": "https://www.qbitai.com/2026/07/463204.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "中科院院士对话北电数智AI专家：以 AI 与数学 “乘法效应” 开辟产业落地新路径。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "终端市场的下一个增长点，高通押在了“个人AI”上。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260730_q003",
-      "title": "超越OpenAI、Anthropic！国产AI安全智能体杀进全球前四、国内第一",
-      "originalTitle": "超越OpenAI、Anthropic！国产AI安全智能体杀进全球前四、国内第一",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Wed, 29 Jul 2026 08:13:03 +0000",
-      "crawlDate": "2026-07-30",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/462447.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "超越OpenAI、Anthropic！国产AI安全智能体杀进全球前四、国内第一。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260730_q004",
-      "title": "OceanBase回应融资报道：全力投入AI数据创新，与资本市场保持开放沟通",
-      "originalTitle": "OceanBase回应融资报道：全力投入AI数据创新，与资本市场保持开放沟通",
+      "id": "20260730_q002",
+      "title": "GPT-5.6自己优化自己实锤了，新的左脚踩右脚已经出现",
+      "originalTitle": "GPT-5.6自己优化自己实锤了，新的左脚踩右脚已经出现",
       "category": "company",
       "categoryName": "企业动态",
-      "publishDate": "Wed, 29 Jul 2026 06:39:43 +0000",
+      "publishDate": "Thu, 30 Jul 2026 07:51:14 +0000",
       "crawlDate": "2026-07-30",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/462380.html"
+        "url": "https://www.qbitai.com/2026/07/463297.html"
       },
       "tags": [
         "媒体",
         "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "OceanBase回应融资报道：全力投入AI数据创新，与资本市场保持开放沟通。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "GPT-5.6自己优化自己实锤了，新的左脚踩右脚已经出现。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260730_q005",
+      "id": "20260730_q003",
       "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
       "originalTitle": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
       "category": "agent",
@@ -235,7 +189,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260730_q006",
+      "id": "20260730_q004",
       "title": "5 ways AI Mode in Search helps you enjoy the real world",
       "originalTitle": "5 ways AI Mode in Search helps you enjoy the real world",
       "category": "devtool",
@@ -258,7 +212,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260730_q007",
+      "id": "20260730_q005",
       "title": "5 ways to host the ultimate dinner party with Google Search",
       "originalTitle": "5 ways to host the ultimate dinner party with Google Search",
       "category": "company",
@@ -276,6 +230,52 @@
       ],
       "isHeadline": false,
       "coreInsight": "5 ways to host the ultimate dinner party with Google Search。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260730_q006",
+      "title": "The Download: tricking LLMs, and reviving geothermal plants",
+      "originalTitle": "The Download: tricking LLMs, and reviving geothermal plants",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 30 Jul 2026 12:10:00 +0000",
+      "crawlDate": "2026-07-30",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The Download: tricking LLMs, and reviving geothermal plants。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260730_q007",
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "originalTitle": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Thu, 30 Jul 2026 10:15:19 +0000",
+      "crawlDate": "2026-07-30",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/"
+      },
+      "tags": [
+        "媒体",
+        "科研突破"
+      ],
+      "isHeadline": false,
+      "coreInsight": "A fundamental flaw leaves LLMs strikingly vulnerable to attack。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -302,55 +302,9 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260730_q009",
-      "title": "The Download: a chip talent battle, and deflating AI hype",
-      "originalTitle": "The Download: a chip talent battle, and deflating AI hype",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 29 Jul 2026 12:10:00 +0000",
-      "crawlDate": "2026-07-30",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Download: a chip talent battle, and deflating AI hype。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260730_q010",
-      "title": "The AI Hype Index: Unsexy AI",
-      "originalTitle": "The AI Hype Index: Unsexy AI",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 29 Jul 2026 08:42:57 +0000",
-      "crawlDate": "2026-07-30",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The AI Hype Index: Unsexy AI。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 15,
+  "total": 13,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
