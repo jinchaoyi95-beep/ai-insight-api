@@ -1,9 +1,55 @@
 {
   "date": "20260731",
-  "updateTime": "2026-07-31T01:52:33.827Z",
+  "updateTime": "2026-07-31T14:07:50.628Z",
   "headlines": [
     {
       "id": "20260731_001",
+      "title": "Advancing responsible AI across Europe",
+      "originalTitle": "Advancing responsible AI across Europe",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Fri, 31 Jul 2026 15:00:00 GMT",
+      "crawlDate": "2026-07-31",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/advancing-responsible-ai-across-europe"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Advancing responsible AI across Europe。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260731_002",
+      "title": "Univé builds an AI-ready workforce",
+      "originalTitle": "Univé builds an AI-ready workforce",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 31 Jul 2026 07:00:00 GMT",
+      "crawlDate": "2026-07-31",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/unive"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Univé builds an AI-ready workforce。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260731_003",
       "title": "Advancing the price-performance frontier with GPT-5.6",
       "originalTitle": "Advancing the price-performance frontier with GPT-5.6",
       "category": "company",
@@ -26,7 +72,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260731_002",
+      "id": "20260731_004",
       "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
       "originalTitle": "How avatarin built a 24/7 retail agent with GPT-Realtime",
       "category": "agent",
@@ -49,7 +95,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260731_003",
+      "id": "20260731_005",
       "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
       "originalTitle": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
       "category": "llm",
@@ -70,120 +116,74 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260731_004",
-      "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "originalTitle": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Wed, 29 Jul 2026 10:00:00 GMT",
-      "crawlDate": "2026-07-31",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/chatgpt-for-academic-researchers"
-      },
-      "tags": [
-        "官方",
-        "科研突破"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Accelerating scientific discovery with ChatGPT for Academic Researchers。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260731_005",
-      "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "originalTitle": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Wed, 29 Jul 2026 00:00:00 GMT",
-      "crawlDate": "2026-07-31",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "How GPT-5.6 fuses frontier intelligence with frontier efficiency。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
   "quickBrowse": [
     {
       "id": "20260731_q001",
-      "title": "Claude Code之父：Harness保质期只有半年，解开缰绳吧",
-      "originalTitle": "Claude Code之父：Harness保质期只有半年，解开缰绳吧",
+      "title": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI",
+      "originalTitle": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI",
       "category": "devtool",
       "categoryName": "开发工具",
-      "publishDate": "Thu, 30 Jul 2026 08:57:55 +0000",
+      "publishDate": "Fri, 31 Jul 2026 09:11:32 +0000",
       "crawlDate": "2026-07-31",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/463433.html"
+        "url": "https://www.qbitai.com/2026/07/464328.html"
       },
       "tags": [
         "媒体",
         "开发工具"
       ],
       "isHeadline": false,
-      "coreInsight": "Claude Code之父：Harness保质期只有半年，解开缰绳吧。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260731_q002",
-      "title": "终端市场的下一个增长点，高通押在了“个人AI”上",
-      "originalTitle": "终端市场的下一个增长点，高通押在了“个人AI”上",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 30 Jul 2026 08:06:47 +0000",
+      "title": "米哈游蔡浩宇AI创业生变",
+      "originalTitle": "米哈游蔡浩宇AI创业生变",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Fri, 31 Jul 2026 07:22:37 +0000",
       "crawlDate": "2026-07-31",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/463204.html"
+        "url": "https://www.qbitai.com/2026/07/464169.html"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "终端市场的下一个增长点，高通押在了“个人AI”上。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "米哈游蔡浩宇AI创业生变。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260731_q003",
-      "title": "GPT-5.6自己优化自己实锤了，新的左脚踩右脚已经出现",
-      "originalTitle": "GPT-5.6自己优化自己实锤了，新的左脚踩右脚已经出现",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Thu, 30 Jul 2026 07:51:14 +0000",
+      "title": "姚顺雨拿50年数学难题成绩单，招人了",
+      "originalTitle": "姚顺雨拿50年数学难题成绩单，招人了",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 31 Jul 2026 06:54:57 +0000",
       "crawlDate": "2026-07-31",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/07/463297.html"
+        "url": "https://www.qbitai.com/2026/07/464100.html"
       },
       "tags": [
         "媒体",
-        "企业动态"
+        "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "GPT-5.6自己优化自己实锤了，新的左脚踩右脚已经出现。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "姚顺雨拿50年数学难题成绩单，招人了。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -236,98 +236,29 @@
     },
     {
       "id": "20260731_q006",
-      "title": "5 ways AI Mode in Search helps you enjoy the real world",
-      "originalTitle": "5 ways AI Mode in Search helps you enjoy the real world",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Tue, 28 Jul 2026 13:00:00 +0000",
-      "crawlDate": "2026-07-31",
-      "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/"
-      },
-      "tags": [
-        "官方",
-        "开发工具"
-      ],
-      "isHeadline": false,
-      "coreInsight": "5 ways AI Mode in Search helps you enjoy the real world。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260731_q007",
-      "title": "5 ways to host the ultimate dinner party with Google Search",
-      "originalTitle": "5 ways to host the ultimate dinner party with Google Search",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 28 Jul 2026 13:00:00 +0000",
-      "crawlDate": "2026-07-31",
-      "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "5 ways to host the ultimate dinner party with Google Search。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260731_q008",
-      "title": "The Download: tricking LLMs, and reviving geothermal plants",
-      "originalTitle": "The Download: tricking LLMs, and reviving geothermal plants",
+      "title": "The Download: Montana’s new experimental drug rules",
+      "originalTitle": "The Download: Montana’s new experimental drug rules",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Thu, 30 Jul 2026 12:10:00 +0000",
+      "publishDate": "Fri, 31 Jul 2026 12:16:00 +0000",
       "crawlDate": "2026-07-31",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal/"
+        "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: tricking LLMs, and reviving geothermal plants。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260731_q009",
-      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-      "originalTitle": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Thu, 30 Jul 2026 10:15:19 +0000",
-      "crawlDate": "2026-07-31",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/"
-      },
-      "tags": [
-        "媒体",
-        "科研突破"
-      ],
-      "isHeadline": false,
-      "coreInsight": "A fundamental flaw leaves LLMs strikingly vulnerable to attack。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: Montana’s new experimental drug rules。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 14,
+  "total": 11,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
