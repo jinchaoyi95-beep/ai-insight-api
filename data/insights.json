@@ -1,15 +1,15 @@
 {
-  "date": "20260731",
-  "updateTime": "2026-07-31T14:07:50.628Z",
+  "date": "20260801",
+  "updateTime": "2026-08-01T01:53:47.686Z",
   "headlines": [
     {
-      "id": "20260731_001",
+      "id": "20260801_001",
       "title": "Advancing responsible AI across Europe",
       "originalTitle": "Advancing responsible AI across Europe",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 31 Jul 2026 15:00:00 GMT",
-      "crawlDate": "2026-07-31",
+      "crawlDate": "2026-08-01",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +26,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260731_002",
+      "id": "20260801_002",
+      "title": "Building abundant intelligence",
+      "originalTitle": "Building abundant intelligence",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Fri, 31 Jul 2026 15:00:00 GMT",
+      "crawlDate": "2026-08-01",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/building-abundant-intelligence"
+      },
+      "tags": [
+        "官方",
+        "应用落地"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Building abundant intelligence。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260801_003",
       "title": "Univé builds an AI-ready workforce",
       "originalTitle": "Univé builds an AI-ready workforce",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 31 Jul 2026 07:00:00 GMT",
-      "crawlDate": "2026-07-31",
+      "crawlDate": "2026-08-01",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,84 +72,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260731_003",
-      "title": "Advancing the price-performance frontier with GPT-5.6",
-      "originalTitle": "Advancing the price-performance frontier with GPT-5.6",
+      "id": "20260801_004",
+      "title": "Disrupting a Criminal Scam Operation",
+      "originalTitle": "Disrupting a Criminal Scam Operation",
       "category": "company",
       "categoryName": "企业动态",
-      "publishDate": "Thu, 30 Jul 2026 10:00:00 GMT",
-      "crawlDate": "2026-07-31",
+      "publishDate": "Fri, 31 Jul 2026 00:00:00 GMT",
+      "crawlDate": "2026-08-01",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6"
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"
       },
       "tags": [
         "官方",
         "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "Advancing the price-performance frontier with GPT-5.6。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Disrupting a Criminal Scam Operation。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260731_004",
-      "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-      "originalTitle": "How avatarin built a 24/7 retail agent with GPT-Realtime",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 30 Jul 2026 00:00:00 GMT",
-      "crawlDate": "2026-07-31",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/avatarin"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "How avatarin built a 24/7 retail agent with GPT-Realtime。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260731_005",
-      "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "originalTitle": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 29 Jul 2026 15:00:00 GMT",
-      "crawlDate": "2026-07-31",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores"
-      },
-      "tags": [
-        "官方",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
-    {
-      "id": "20260731_q001",
+      "id": "20260801_005",
       "title": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI",
       "originalTitle": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI",
       "category": "devtool",
       "categoryName": "开发工具",
       "publishDate": "Fri, 31 Jul 2026 09:11:32 +0000",
-      "crawlDate": "2026-07-31",
+      "crawlDate": "2026-08-01",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -136,20 +111,45 @@
         "媒体",
         "开发工具"
       ],
-      "isHeadline": false,
+      "isHeadline": true,
       "coreInsight": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    }
+  ],
+  "quickBrowse": [
+    {
+      "id": "20260801_q001",
+      "title": "Advancing the price-performance frontier with GPT-5.6",
+      "originalTitle": "Advancing the price-performance frontier with GPT-5.6",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Thu, 30 Jul 2026 10:00:00 GMT",
+      "crawlDate": "2026-08-01",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Advancing the price-performance frontier with GPT-5.6。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260731_q002",
+      "id": "20260801_q002",
       "title": "米哈游蔡浩宇AI创业生变",
       "originalTitle": "米哈游蔡浩宇AI创业生变",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Fri, 31 Jul 2026 07:22:37 +0000",
-      "crawlDate": "2026-07-31",
+      "crawlDate": "2026-08-01",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -166,13 +166,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260731_q003",
+      "id": "20260801_q003",
       "title": "姚顺雨拿50年数学难题成绩单，招人了",
       "originalTitle": "姚顺雨拿50年数学难题成绩单，招人了",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 31 Jul 2026 06:54:57 +0000",
-      "crawlDate": "2026-07-31",
+      "crawlDate": "2026-08-01",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -189,13 +189,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260731_q004",
+      "id": "20260801_q004",
       "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
       "originalTitle": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Thu, 30 Jul 2026 15:09:09 GMT",
-      "crawlDate": "2026-07-31",
+      "crawlDate": "2026-08-01",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -212,36 +212,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260731_q005",
-      "title": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "originalTitle": "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Tue, 28 Jul 2026 16:00:00 +0000",
-      "crawlDate": "2026-07-31",
-      "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Gemini API Managed Agents: 3.6 Flash, hooks, and more。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260731_q006",
+      "id": "20260801_q005",
       "title": "The Download: Montana’s new experimental drug rules",
       "originalTitle": "The Download: Montana’s new experimental drug rules",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 31 Jul 2026 12:16:00 +0000",
-      "crawlDate": "2026-07-31",
+      "crawlDate": "2026-08-01",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -258,7 +235,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 11,
+  "total": 10,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
