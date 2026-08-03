@@ -1,6 +1,6 @@
 {
   "date": "20260803",
-  "updateTime": "2026-08-03T01:52:39.531Z",
+  "updateTime": "2026-08-03T14:39:57.735Z",
   "headlines": [
     {
       "id": "20260803_001",
@@ -73,46 +73,46 @@
     },
     {
       "id": "20260803_004",
-      "title": "Univé builds an AI-ready workforce",
-      "originalTitle": "Univé builds an AI-ready workforce",
+      "title": "当品牌开始争夺AI的答案：翰智GEO入场",
+      "originalTitle": "当品牌开始争夺AI的答案：翰智GEO入场",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Fri, 31 Jul 2026 07:00:00 GMT",
+      "publishDate": "Mon, 03 Aug 2026 06:58:06 +0000",
       "crawlDate": "2026-08-03",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/unive"
-      },
-      "tags": [
-        "官方",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Univé builds an AI-ready workforce。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260803_005",
-      "title": "The Download: Montana’s new experimental drug rules",
-      "originalTitle": "The Download: Montana’s new experimental drug rules",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 31 Jul 2026 12:16:00 +0000",
-      "crawlDate": "2026-08-03",
-      "source": {
-        "name": "MIT Technology Review",
+        "name": "量子位",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/07/31/1140999/the-download-montanas-right-to-try-law-anthropic-hacks/"
+        "url": "https://www.qbitai.com/2026/08/465662.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "The Download: Montana’s new experimental drug rules。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "当品牌开始争夺AI的答案：翰智GEO入场。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260803_005",
+      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+      "originalTitle": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 03 Aug 2026 12:08:00 +0000",
+      "crawlDate": "2026-08-03",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "The Download: reward hacking explained, and suspected Iranian cyberattacks。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -121,52 +121,29 @@
   "quickBrowse": [
     {
       "id": "20260803_q001",
-      "title": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！",
-      "originalTitle": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Sat, 01 Aug 2026 05:02:49 +0000",
+      "title": "Here’s why AI agents lie and cheat to reach their goals",
+      "originalTitle": "Here’s why AI agents lie and cheat to reach their goals",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 03 Aug 2026 08:30:05 +0000",
       "crawlDate": "2026-08-03",
       "source": {
-        "name": "量子位",
+        "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/464693.html"
+        "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
       },
       "tags": [
         "媒体",
-        "企业动态"
+        "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260803_q002",
-      "title": "李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”",
-      "originalTitle": "李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Sat, 01 Aug 2026 04:53:33 +0000",
-      "crawlDate": "2026-08-03",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/464532.html"
-      },
-      "tags": [
-        "媒体",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Here’s why AI agents lie and cheat to reach their goals。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 7,
+  "total": 6,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
