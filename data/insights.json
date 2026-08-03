@@ -1,15 +1,15 @@
 {
-  "date": "20260802",
-  "updateTime": "2026-08-02T13:22:19.284Z",
+  "date": "20260803",
+  "updateTime": "2026-08-03T01:52:39.531Z",
   "headlines": [
     {
-      "id": "20260802_001",
+      "id": "20260803_001",
       "title": "Ten advances in mathematics and theoretical computer science",
       "originalTitle": "Ten advances in mathematics and theoretical computer science",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Sat, 01 Aug 2026 00:00:00 GMT",
-      "crawlDate": "2026-08-02",
+      "crawlDate": "2026-08-03",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +26,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260802_002",
+      "id": "20260803_002",
       "title": "Advancing responsible AI across Europe",
       "originalTitle": "Advancing responsible AI across Europe",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 31 Jul 2026 15:00:00 GMT",
-      "crawlDate": "2026-08-02",
+      "crawlDate": "2026-08-03",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,13 +49,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260802_003",
+      "id": "20260803_003",
       "title": "Building abundant intelligence",
       "originalTitle": "Building abundant intelligence",
       "category": "application",
       "categoryName": "应用落地",
       "publishDate": "Fri, 31 Jul 2026 15:00:00 GMT",
-      "crawlDate": "2026-08-02",
+      "crawlDate": "2026-08-03",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -72,13 +72,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260802_004",
+      "id": "20260803_004",
       "title": "Univé builds an AI-ready workforce",
       "originalTitle": "Univé builds an AI-ready workforce",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 31 Jul 2026 07:00:00 GMT",
-      "crawlDate": "2026-08-02",
+      "crawlDate": "2026-08-03",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -95,61 +95,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260802_005",
-      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-      "originalTitle": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 30 Jul 2026 15:09:09 GMT",
-      "crawlDate": "2026-08-02",
-      "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/Dharma-AI/gpu-management"
-      },
-      "tags": [
-        "官方",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
-    {
-      "id": "20260802_q001",
-      "title": "Disrupting a Criminal Scam Operation",
-      "originalTitle": "Disrupting a Criminal Scam Operation",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Fri, 31 Jul 2026 00:00:00 GMT",
-      "crawlDate": "2026-08-02",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Disrupting a Criminal Scam Operation。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260802_q002",
+      "id": "20260803_005",
       "title": "The Download: Montana’s new experimental drug rules",
       "originalTitle": "The Download: Montana’s new experimental drug rules",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 31 Jul 2026 12:16:00 +0000",
-      "crawlDate": "2026-08-02",
+      "crawlDate": "2026-08-03",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -159,8 +111,56 @@
         "媒体",
         "大语言模型"
       ],
-      "isHeadline": false,
+      "isHeadline": true,
       "coreInsight": "The Download: Montana’s new experimental drug rules。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    }
+  ],
+  "quickBrowse": [
+    {
+      "id": "20260803_q001",
+      "title": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！",
+      "originalTitle": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Sat, 01 Aug 2026 05:02:49 +0000",
+      "crawlDate": "2026-08-03",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/08/464693.html"
+      },
+      "tags": [
+        "媒体",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260803_q002",
+      "title": "李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”",
+      "originalTitle": "李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Sat, 01 Aug 2026 04:53:33 +0000",
+      "crawlDate": "2026-08-03",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/08/464532.html"
+      },
+      "tags": [
+        "媒体",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
