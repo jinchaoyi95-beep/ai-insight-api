@@ -1,6 +1,6 @@
 {
   "date": "20260806",
-  "updateTime": "2026-08-06T01:41:28.906Z",
+  "updateTime": "2026-08-06T14:10:23.698Z",
   "headlines": [
     {
       "id": "20260806_001",
@@ -73,100 +73,6 @@
     },
     {
       "id": "20260806_004",
-      "title": "How we built a realtime system for responsive voice AI in six months",
-      "originalTitle": "How we built a realtime system for responsive voice AI in six months",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Mon, 03 Aug 2026 07:00:00 GMT",
-      "crawlDate": "2026-08-06",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live"
-      },
-      "tags": [
-        "官方",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "How we built a realtime system for responsive voice AI in six months。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260806_005",
-      "title": "别再吹AI生图了，不能图层编辑的AI都是“画饼”",
-      "originalTitle": "别再吹AI生图了，不能图层编辑的AI都是“画饼”",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 05 Aug 2026 14:09:18 +0000",
-      "crawlDate": "2026-08-06",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/467034.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "别再吹AI生图了，不能图层编辑的AI都是“画饼”。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
-    {
-      "id": "20260806_q001",
-      "title": "又一家AI基金暴雷了",
-      "originalTitle": "又一家AI基金暴雷了",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 05 Aug 2026 12:43:18 +0000",
-      "crawlDate": "2026-08-06",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/467001.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "又一家AI基金暴雷了。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260806_q002",
-      "title": "淘天开启2027届应届生招聘：AI技术类岗位占比超9成",
-      "originalTitle": "淘天开启2027届应届生招聘：AI技术类岗位占比超9成",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 05 Aug 2026 09:38:49 +0000",
-      "crawlDate": "2026-08-06",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/466998.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "淘天开启2027届应届生招聘：AI技术类岗位占比超9成。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260806_q003",
       "title": "Deploy local agents everywhere with LFM2.5-2.6B",
       "originalTitle": "Deploy local agents everywhere with LFM2.5-2.6B",
       "category": "agent",
@@ -182,14 +88,39 @@
         "官方",
         "Agent"
       ],
-      "isHeadline": false,
+      "isHeadline": true,
       "coreInsight": "Deploy local agents everywhere with LFM2.5-2.6B。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260806_q004",
+      "id": "20260806_005",
+      "title": "Inside our 353,000-person vibe coding course",
+      "originalTitle": "Inside our 353,000-person vibe coding course",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 03 Aug 2026 15:00:00 +0000",
+      "crawlDate": "2026-08-06",
+      "source": {
+        "name": "Google AI",
+        "type": "官方",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Inside our 353,000-person vibe coding course。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    }
+  ],
+  "quickBrowse": [
+    {
+      "id": "20260806_q001",
       "title": "The latest AI news we announced in July 2026",
       "originalTitle": "The latest AI news we announced in July 2026",
       "category": "company",
@@ -212,30 +143,30 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260806_q005",
-      "title": "Inside our 353,000-person vibe coding course",
-      "originalTitle": "Inside our 353,000-person vibe coding course",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Mon, 03 Aug 2026 15:00:00 +0000",
+      "id": "20260806_q002",
+      "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
+      "originalTitle": "The Download: Google’s AI shake-up and Meta’s rogue model",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Thu, 06 Aug 2026 12:10:00 +0000",
       "crawlDate": "2026-08-06",
       "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/"
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/"
       },
       "tags": [
-        "官方",
-        "Agent"
+        "媒体",
+        "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "Inside our 353,000-person vibe coding course。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: Google’s AI shake-up and Meta’s rogue model。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260806_q006",
+      "id": "20260806_q003",
       "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
       "originalTitle": "The Download: NASA’s new telescope and Chinese tech import curbs",
       "category": "llm",
@@ -258,7 +189,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 11,
+  "total": 8,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
