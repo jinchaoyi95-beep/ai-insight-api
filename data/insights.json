@@ -1,15 +1,132 @@
 {
-  "date": "20260806",
-  "updateTime": "2026-08-06T14:10:23.698Z",
+  "date": "20260807",
+  "updateTime": "2026-08-07T13:04:15.488Z",
   "headlines": [
     {
-      "id": "20260806_001",
+      "id": "20260807_001",
+      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "originalTitle": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Fri, 07 Aug 2026 09:00:00 GMT",
+      "crawlDate": "2026-08-07",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/hsp-gruppe"
+      },
+      "tags": [
+        "官方",
+        "应用落地"
+      ],
+      "isHeadline": true,
+      "coreInsight": "How HSP GRUPPE builds AI capabilities for tax advisory。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260807_002",
+      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "originalTitle": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 06 Aug 2026 10:00:00 GMT",
+      "crawlDate": "2026-08-07",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260807_003",
+      "title": "Working with the American Psychological Association on youth mental health and AI",
+      "originalTitle": "Working with the American Psychological Association on youth mental health and AI",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Thu, 06 Aug 2026 06:00:00 GMT",
+      "crawlDate": "2026-08-07",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Working with the American Psychological Association on youth mental health and AI。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260807_004",
+      "title": "From asking to doing: How the world is putting ChatGPT to work",
+      "originalTitle": "From asking to doing: How the world is putting ChatGPT to work",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Thu, 06 Aug 2026 00:00:00 GMT",
+      "crawlDate": "2026-08-07",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "From asking to doing: How the world is putting ChatGPT to work。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260807_005",
+      "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
+      "originalTitle": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 07 Aug 2026 07:43:06 +0000",
+      "crawlDate": "2026-08-07",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/08/468324.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    }
+  ],
+  "quickBrowse": [
+    {
+      "id": "20260807_q001",
       "title": "Third-party cyber evaluations involving OpenAI models",
       "originalTitle": "Third-party cyber evaluations involving OpenAI models",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Tue, 04 Aug 2026 19:00:00 GMT",
-      "crawlDate": "2026-08-06",
+      "crawlDate": "2026-08-07",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -19,66 +136,89 @@
         "官方",
         "企业动态"
       ],
-      "isHeadline": true,
+      "isHeadline": false,
       "coreInsight": "Third-party cyber evaluations involving OpenAI models。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260806_002",
-      "title": "New ways to learn and teach with ChatGPT Work and Codex",
-      "originalTitle": "New ways to learn and teach with ChatGPT Work and Codex",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Tue, 04 Aug 2026 00:00:00 GMT",
-      "crawlDate": "2026-08-06",
+      "id": "20260807_q002",
+      "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
+      "originalTitle": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 07 Aug 2026 06:21:05 +0000",
+      "crawlDate": "2026-08-07",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/learn-teach-chatgpt-work-codex"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/08/466738.html"
       },
       "tags": [
-        "官方",
-        "科研突破"
+        "媒体",
+        "大语言模型"
       ],
-      "isHeadline": true,
-      "coreInsight": "New ways to learn and teach with ChatGPT Work and Codex。该技术值得关注，建议评估其落地可行性。",
+      "isHeadline": false,
+      "coreInsight": "AI批量轰炸苹果bug赏金计划，审核团队已下线。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260806_003",
-      "title": "Apple is getting this wrong",
-      "originalTitle": "Apple is getting this wrong",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Mon, 03 Aug 2026 22:00:00 GMT",
-      "crawlDate": "2026-08-06",
+      "id": "20260807_q003",
+      "title": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路",
+      "originalTitle": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 07 Aug 2026 05:30:08 +0000",
+      "crawlDate": "2026-08-07",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/apple-is-getting-this-wrong"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/08/467878.html"
       },
       "tags": [
-        "官方",
-        "企业动态"
+        "媒体",
+        "大语言模型"
       ],
-      "isHeadline": true,
-      "coreInsight": "Apple is getting this wrong。该技术值得关注，建议评估其落地可行性。",
+      "isHeadline": false,
+      "coreInsight": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260806_004",
+      "id": "20260807_q004",
+      "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
+      "originalTitle": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
+      "category": "image-video",
+      "categoryName": "AI绘画/视频",
+      "publishDate": "Fri, 07 Aug 2026 03:23:54 +0000",
+      "crawlDate": "2026-08-07",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/08/467877.html"
+      },
+      "tags": [
+        "媒体",
+        "AI绘画/视频"
+      ],
+      "isHeadline": false,
+      "coreInsight": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260807_q005",
       "title": "Deploy local agents everywhere with LFM2.5-2.6B",
       "originalTitle": "Deploy local agents everywhere with LFM2.5-2.6B",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Tue, 04 Aug 2026 13:58:29 GMT",
-      "crawlDate": "2026-08-06",
+      "crawlDate": "2026-08-07",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -88,68 +228,20 @@
         "官方",
         "Agent"
       ],
-      "isHeadline": true,
+      "isHeadline": false,
       "coreInsight": "Deploy local agents everywhere with LFM2.5-2.6B。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260806_005",
-      "title": "Inside our 353,000-person vibe coding course",
-      "originalTitle": "Inside our 353,000-person vibe coding course",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Mon, 03 Aug 2026 15:00:00 +0000",
-      "crawlDate": "2026-08-06",
-      "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/ai-agents-intensive-recap-2026/"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Inside our 353,000-person vibe coding course。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
-    {
-      "id": "20260806_q001",
-      "title": "The latest AI news we announced in July 2026",
-      "originalTitle": "The latest AI news we announced in July 2026",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 04 Aug 2026 13:00:00 +0000",
-      "crawlDate": "2026-08-06",
-      "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The latest AI news we announced in July 2026。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260806_q002",
+      "id": "20260807_q006",
       "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
       "originalTitle": "The Download: Google’s AI shake-up and Meta’s rogue model",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Thu, 06 Aug 2026 12:10:00 +0000",
-      "crawlDate": "2026-08-06",
+      "crawlDate": "2026-08-07",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -166,13 +258,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260806_q003",
+      "id": "20260807_q007",
       "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
       "originalTitle": "The Download: NASA’s new telescope and Chinese tech import curbs",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Wed, 05 Aug 2026 12:10:00 +0000",
-      "crawlDate": "2026-08-06",
+      "crawlDate": "2026-08-07",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -189,7 +281,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 8,
+  "total": 12,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
