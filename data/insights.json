@@ -1,15 +1,38 @@
 {
-  "date": "20260807",
-  "updateTime": "2026-08-07T13:04:15.488Z",
+  "date": "20260808",
+  "updateTime": "2026-08-08T00:53:54.504Z",
   "headlines": [
     {
-      "id": "20260807_001",
+      "id": "20260808_001",
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "originalTitle": "Responding to the next frontier of critical cyber capabilities",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Fri, 07 Aug 2026 15:20:00 GMT",
+      "crawlDate": "2026-08-08",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Responding to the next frontier of critical cyber capabilities。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260808_002",
       "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
       "originalTitle": "How HSP GRUPPE builds AI capabilities for tax advisory",
       "category": "application",
       "categoryName": "应用落地",
       "publishDate": "Fri, 07 Aug 2026 09:00:00 GMT",
-      "crawlDate": "2026-08-07",
+      "crawlDate": "2026-08-08",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +49,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260807_002",
+      "id": "20260808_003",
       "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
       "originalTitle": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Thu, 06 Aug 2026 10:00:00 GMT",
-      "crawlDate": "2026-08-07",
+      "crawlDate": "2026-08-08",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,13 +72,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260807_003",
+      "id": "20260808_004",
       "title": "Working with the American Psychological Association on youth mental health and AI",
       "originalTitle": "Working with the American Psychological Association on youth mental health and AI",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Thu, 06 Aug 2026 06:00:00 GMT",
-      "crawlDate": "2026-08-07",
+      "crawlDate": "2026-08-08",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -72,36 +95,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260807_004",
-      "title": "From asking to doing: How the world is putting ChatGPT to work",
-      "originalTitle": "From asking to doing: How the world is putting ChatGPT to work",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Thu, 06 Aug 2026 00:00:00 GMT",
-      "crawlDate": "2026-08-07",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "From asking to doing: How the world is putting ChatGPT to work。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260807_005",
+      "id": "20260808_005",
       "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
       "originalTitle": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 07 Aug 2026 07:43:06 +0000",
-      "crawlDate": "2026-08-07",
+      "crawlDate": "2026-08-08",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -120,36 +120,36 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260807_q001",
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "originalTitle": "Third-party cyber evaluations involving OpenAI models",
+      "id": "20260808_q001",
+      "title": "From asking to doing: How the world is putting ChatGPT to work",
+      "originalTitle": "From asking to doing: How the world is putting ChatGPT to work",
       "category": "company",
       "categoryName": "企业动态",
-      "publishDate": "Tue, 04 Aug 2026 19:00:00 GMT",
-      "crawlDate": "2026-08-07",
+      "publishDate": "Thu, 06 Aug 2026 00:00:00 GMT",
+      "crawlDate": "2026-08-08",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models"
+        "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work"
       },
       "tags": [
         "官方",
         "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "Third-party cyber evaluations involving OpenAI models。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "From asking to doing: How the world is putting ChatGPT to work。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260807_q002",
+      "id": "20260808_q002",
       "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
       "originalTitle": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 07 Aug 2026 06:21:05 +0000",
-      "crawlDate": "2026-08-07",
+      "crawlDate": "2026-08-08",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -166,13 +166,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260807_q003",
+      "id": "20260808_q003",
       "title": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路",
       "originalTitle": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 07 Aug 2026 05:30:08 +0000",
-      "crawlDate": "2026-08-07",
+      "crawlDate": "2026-08-08",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -189,13 +189,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260807_q004",
+      "id": "20260808_q004",
       "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
       "originalTitle": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
       "category": "image-video",
       "categoryName": "AI绘画/视频",
       "publishDate": "Fri, 07 Aug 2026 03:23:54 +0000",
-      "crawlDate": "2026-08-07",
+      "crawlDate": "2026-08-08",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -212,36 +212,82 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260807_q005",
-      "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-      "originalTitle": "Deploy local agents everywhere with LFM2.5-2.6B",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Tue, 04 Aug 2026 13:58:29 GMT",
-      "crawlDate": "2026-08-07",
+      "id": "20260808_q005",
+      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "originalTitle": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 07 Aug 2026 17:53:32 GMT",
+      "crawlDate": "2026-08-08",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
-        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b"
+        "url": "https://huggingface.co/blog/allenai/tutormoments"
       },
       "tags": [
         "官方",
-        "Agent"
+        "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "Deploy local agents everywhere with LFM2.5-2.6B。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "TutorMoments: Do AI tutors know when to help and when to hold back?。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260807_q006",
+      "id": "20260808_q006",
+      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+      "originalTitle": "The Download: a censorship conspiracy theory and the first virus created by AI",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 07 Aug 2026 14:20:00 +0000",
+      "crawlDate": "2026-08-08",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The Download: a censorship conspiracy theory and the first virus created by AI。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260808_q007",
+      "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+      "originalTitle": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 07 Aug 2026 14:00:00 +0000",
+      "crawlDate": "2026-08-08",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "How ideas of a vast censorship network moved from the online fringe to Trump policy。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260808_q008",
       "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
       "originalTitle": "The Download: Google’s AI shake-up and Meta’s rogue model",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Thu, 06 Aug 2026 12:10:00 +0000",
-      "crawlDate": "2026-08-07",
+      "crawlDate": "2026-08-08",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -256,32 +302,9 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260807_q007",
-      "title": "The Download: NASA’s new telescope and Chinese tech import curbs",
-      "originalTitle": "The Download: NASA’s new telescope and Chinese tech import curbs",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 05 Aug 2026 12:10:00 +0000",
-      "crawlDate": "2026-08-07",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/08/05/1141212/the-download-nasa-telescope-chinese-tech-import-curbs/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Download: NASA’s new telescope and Chinese tech import curbs。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 12,
+  "total": 13,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
