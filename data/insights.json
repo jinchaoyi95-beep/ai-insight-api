@@ -1,15 +1,15 @@
 {
-  "date": "20260808",
-  "updateTime": "2026-08-08T00:53:54.504Z",
+  "date": "20260809",
+  "updateTime": "2026-08-09T12:51:36.036Z",
   "headlines": [
     {
-      "id": "20260808_001",
+      "id": "20260809_001",
       "title": "Responding to the next frontier of critical cyber capabilities",
       "originalTitle": "Responding to the next frontier of critical cyber capabilities",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 07 Aug 2026 15:20:00 GMT",
-      "crawlDate": "2026-08-08",
+      "crawlDate": "2026-08-09",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +26,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260808_002",
+      "id": "20260809_002",
       "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
       "originalTitle": "How HSP GRUPPE builds AI capabilities for tax advisory",
       "category": "application",
       "categoryName": "应用落地",
       "publishDate": "Fri, 07 Aug 2026 09:00:00 GMT",
-      "crawlDate": "2026-08-08",
+      "crawlDate": "2026-08-09",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,70 +49,47 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260808_003",
-      "title": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "originalTitle": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "id": "20260809_003",
+      "title": "180万刀，连亚马逊都烧不起Claude了",
+      "originalTitle": "180万刀，连亚马逊都烧不起Claude了",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Thu, 06 Aug 2026 10:00:00 GMT",
-      "crawlDate": "2026-08-08",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt"
-      },
-      "tags": [
-        "官方",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260808_004",
-      "title": "Working with the American Psychological Association on youth mental health and AI",
-      "originalTitle": "Working with the American Psychological Association on youth mental health and AI",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Thu, 06 Aug 2026 06:00:00 GMT",
-      "crawlDate": "2026-08-08",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Working with the American Psychological Association on youth mental health and AI。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260808_005",
-      "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
-      "originalTitle": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 07 Aug 2026 07:43:06 +0000",
-      "crawlDate": "2026-08-08",
+      "publishDate": "Sun, 09 Aug 2026 09:25:10 +0000",
+      "crawlDate": "2026-08-09",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/468324.html"
+        "url": "https://www.qbitai.com/2026/08/469010.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "180万刀，连亚马逊都烧不起Claude了。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260809_004",
+      "title": "GPT-5.6和Fable联手，解决了一道悬了25年的数学难题",
+      "originalTitle": "GPT-5.6和Fable联手，解决了一道悬了25年的数学难题",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Sun, 09 Aug 2026 09:16:58 +0000",
+      "crawlDate": "2026-08-09",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/08/468913.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "GPT-5.6和Fable联手，解决了一道悬了25年的数学难题。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -120,105 +97,59 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260808_q001",
-      "title": "From asking to doing: How the world is putting ChatGPT to work",
-      "originalTitle": "From asking to doing: How the world is putting ChatGPT to work",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Thu, 06 Aug 2026 00:00:00 GMT",
-      "crawlDate": "2026-08-08",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "From asking to doing: How the world is putting ChatGPT to work。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260808_q002",
-      "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
-      "originalTitle": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
+      "id": "20260809_q001",
+      "title": "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
+      "originalTitle": "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Fri, 07 Aug 2026 06:21:05 +0000",
-      "crawlDate": "2026-08-08",
+      "publishDate": "Sun, 09 Aug 2026 03:40:25 +0000",
+      "crawlDate": "2026-08-09",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/466738.html"
+        "url": "https://www.qbitai.com/2026/08/468782.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "AI批量轰炸苹果bug赏金计划，审核团队已下线。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260808_q003",
-      "title": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路",
-      "originalTitle": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路",
+      "id": "20260809_q002",
+      "title": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
+      "originalTitle": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Fri, 07 Aug 2026 05:30:08 +0000",
-      "crawlDate": "2026-08-08",
+      "publishDate": "Sun, 09 Aug 2026 03:25:00 +0000",
+      "crawlDate": "2026-08-09",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/467878.html"
+        "url": "https://www.qbitai.com/2026/08/468766.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260808_q004",
-      "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
-      "originalTitle": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
-      "category": "image-video",
-      "categoryName": "AI绘画/视频",
-      "publishDate": "Fri, 07 Aug 2026 03:23:54 +0000",
-      "crawlDate": "2026-08-08",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/467877.html"
-      },
-      "tags": [
-        "媒体",
-        "AI绘画/视频"
-      ],
-      "isHeadline": false,
-      "coreInsight": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260808_q005",
+      "id": "20260809_q003",
       "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
       "originalTitle": "TutorMoments: Do AI tutors know when to help and when to hold back?",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 07 Aug 2026 17:53:32 GMT",
-      "crawlDate": "2026-08-08",
+      "crawlDate": "2026-08-09",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -235,13 +166,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260808_q006",
+      "id": "20260809_q004",
       "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
       "originalTitle": "The Download: a censorship conspiracy theory and the first virus created by AI",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 07 Aug 2026 14:20:00 +0000",
-      "crawlDate": "2026-08-08",
+      "crawlDate": "2026-08-09",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -258,13 +189,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260808_q007",
+      "id": "20260809_q005",
       "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
       "originalTitle": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 07 Aug 2026 14:00:00 +0000",
-      "crawlDate": "2026-08-08",
+      "crawlDate": "2026-08-09",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -279,32 +210,9 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260808_q008",
-      "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
-      "originalTitle": "The Download: Google’s AI shake-up and Meta’s rogue model",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Thu, 06 Aug 2026 12:10:00 +0000",
-      "crawlDate": "2026-08-08",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/"
-      },
-      "tags": [
-        "媒体",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Download: Google’s AI shake-up and Meta’s rogue model。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 13,
+  "total": 9,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
