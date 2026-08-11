@@ -1,95 +1,118 @@
 {
-  "date": "20260810",
-  "updateTime": "2026-08-10T00:58:49.356Z",
+  "date": "20260811",
+  "updateTime": "2026-08-11T00:58:17.309Z",
   "headlines": [
     {
-      "id": "20260810_001",
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "originalTitle": "Responding to the next frontier of critical cyber capabilities",
+      "id": "20260811_001",
+      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "originalTitle": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
       "category": "company",
       "categoryName": "企业动态",
-      "publishDate": "Fri, 07 Aug 2026 15:20:00 GMT",
-      "crawlDate": "2026-08-10",
+      "publishDate": "Mon, 10 Aug 2026 14:00:00 GMT",
+      "crawlDate": "2026-08-11",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
+        "url": "https://openai.com/index/responsible-ai-infrastructure-texas"
       },
       "tags": [
         "官方",
         "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "Responding to the next frontier of critical cyber capabilities。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260810_002",
-      "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "originalTitle": "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "category": "application",
-      "categoryName": "应用落地",
-      "publishDate": "Fri, 07 Aug 2026 09:00:00 GMT",
-      "crawlDate": "2026-08-10",
+      "id": "20260811_002",
+      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "originalTitle": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Mon, 10 Aug 2026 12:00:00 GMT",
+      "crawlDate": "2026-08-11",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/hsp-gruppe"
+        "url": "https://openai.com/index/model-ml"
       },
       "tags": [
         "官方",
-        "应用落地"
+        "科研突破"
       ],
       "isHeadline": true,
-      "coreInsight": "How HSP GRUPPE builds AI capabilities for tax advisory。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Model ML completes finance work more efficiently with GPT-5.6 Sol。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260810_003",
-      "title": "180万刀，连亚马逊都烧不起Claude了",
-      "originalTitle": "180万刀，连亚马逊都烧不起Claude了",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sun, 09 Aug 2026 09:25:10 +0000",
-      "crawlDate": "2026-08-10",
+      "id": "20260811_003",
+      "title": "What building an AI-native finance function taught me",
+      "originalTitle": "What building an AI-native finance function taught me",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 10 Aug 2026 17:00:00 GMT",
+      "crawlDate": "2026-08-11",
       "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/469010.html"
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/building-an-ai-native-finance-function"
       },
       "tags": [
-        "媒体",
-        "大语言模型"
+        "官方",
+        "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "180万刀，连亚马逊都烧不起Claude了。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "What building an AI-native finance function taught me。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260810_004",
-      "title": "GPT-5.6和Fable联手，解决了一道悬了25年的数学难题",
-      "originalTitle": "GPT-5.6和Fable联手，解决了一道悬了25年的数学难题",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sun, 09 Aug 2026 09:16:58 +0000",
-      "crawlDate": "2026-08-10",
+      "id": "20260811_004",
+      "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "originalTitle": "Expanding Daybreak as the Cyber Defense Window Narrows",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Mon, 10 Aug 2026 10:00:00 GMT",
+      "crawlDate": "2026-08-11",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows"
+      },
+      "tags": [
+        "官方",
+        "科研突破"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Expanding Daybreak as the Cyber Defense Window Narrows。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260811_005",
+      "title": "PDF当死，ARA该立！论文是时候Agent原生了",
+      "originalTitle": "PDF当死，ARA该立！论文是时候Agent原生了",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 10 Aug 2026 13:53:22 +0000",
+      "crawlDate": "2026-08-11",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/468913.html"
+        "url": "https://www.qbitai.com/2026/08/469721.html"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "GPT-5.6和Fable联手，解决了一道悬了25年的数学难题。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "PDF当死，ARA该立！论文是时候Agent原生了。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -97,122 +120,237 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260810_q001",
-      "title": "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
-      "originalTitle": "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sun, 09 Aug 2026 03:40:25 +0000",
-      "crawlDate": "2026-08-10",
+      "id": "20260811_q001",
+      "title": "Putting frontier cyber models in more trusted hands",
+      "originalTitle": "Putting frontier cyber models in more trusted hands",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 10 Aug 2026 10:00:00 GMT",
+      "crawlDate": "2026-08-11",
       "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/468782.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260810_q002",
-      "title": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
-      "originalTitle": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sun, 09 Aug 2026 03:25:00 +0000",
-      "crawlDate": "2026-08-10",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/468766.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260810_q003",
-      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-      "originalTitle": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 07 Aug 2026 17:53:32 GMT",
-      "crawlDate": "2026-08-10",
-      "source": {
-        "name": "Hugging Face",
+        "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://huggingface.co/blog/allenai/tutormoments"
+        "url": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands"
       },
       "tags": [
         "官方",
-        "大语言模型"
+        "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "TutorMoments: Do AI tutors know when to help and when to hold back?。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Putting frontier cyber models in more trusted hands。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260810_q004",
-      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
-      "originalTitle": "The Download: a censorship conspiracy theory and the first virus created by AI",
+      "id": "20260811_q002",
+      "title": "AI倒查论文100年！99.2%的顶刊都有问题…",
+      "originalTitle": "AI倒查论文100年！99.2%的顶刊都有问题…",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Mon, 10 Aug 2026 13:58:46 +0000",
+      "crawlDate": "2026-08-11",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/08/469795.html"
+      },
+      "tags": [
+        "媒体",
+        "科研突破"
+      ],
+      "isHeadline": false,
+      "coreInsight": "AI倒查论文100年！99.2%的顶刊都有问题…。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260811_q003",
+      "title": "模型路线趋同之后，Physical AI的胜负手变了",
+      "originalTitle": "模型路线趋同之后，Physical AI的胜负手变了",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Fri, 07 Aug 2026 14:20:00 +0000",
-      "crawlDate": "2026-08-10",
+      "publishDate": "Mon, 10 Aug 2026 09:20:50 +0000",
+      "crawlDate": "2026-08-11",
       "source": {
-        "name": "MIT Technology Review",
+        "name": "量子位",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/"
+        "url": "https://www.qbitai.com/2026/08/469544.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: a censorship conspiracy theory and the first virus created by AI。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "模型路线趋同之后，Physical AI的胜负手变了。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260810_q005",
-      "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
-      "originalTitle": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 07 Aug 2026 14:00:00 +0000",
-      "crawlDate": "2026-08-10",
+      "id": "20260811_q004",
+      "title": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏",
+      "originalTitle": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Mon, 10 Aug 2026 05:37:51 +0000",
+      "crawlDate": "2026-08-11",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/08/469500.html"
+      },
+      "tags": [
+        "媒体",
+        "开发工具"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260811_q005",
+      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "originalTitle": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 10 Aug 2026 16:25:36 GMT",
+      "crawlDate": "2026-08-11",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260811_q006",
+      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "originalTitle": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 10 Aug 2026 00:00:00 GMT",
+      "crawlDate": "2026-08-11",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/muse-glimmer"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260811_q007",
+      "title": "Evolve your marketing with new AI tools",
+      "originalTitle": "Evolve your marketing with new AI tools",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 10 Aug 2026 14:30:00 +0000",
+      "crawlDate": "2026-08-11",
+      "source": {
+        "name": "Google AI",
+        "type": "官方",
+        "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Evolve your marketing with new AI tools。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260811_q008",
+      "title": "AI professors are negotiating the new realities of academic research",
+      "originalTitle": "AI professors are negotiating the new realities of academic research",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Mon, 10 Aug 2026 20:00:00 +0000",
+      "crawlDate": "2026-08-11",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/"
+        "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/"
+      },
+      "tags": [
+        "媒体",
+        "科研突破"
+      ],
+      "isHeadline": false,
+      "coreInsight": "AI professors are negotiating the new realities of academic research。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260811_q009",
+      "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
+      "originalTitle": "The Download: AI agents for science, and the “censorship-industrial complex”",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 10 Aug 2026 12:10:00 +0000",
+      "crawlDate": "2026-08-11",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The Download: AI agents for science, and the “censorship-industrial complex”。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260811_q010",
+      "title": "AI for science needs reasoning, not just data",
+      "originalTitle": "AI for science needs reasoning, not just data",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 10 Aug 2026 09:00:00 +0000",
+      "crawlDate": "2026-08-11",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "How ideas of a vast censorship network moved from the online fringe to Trump policy。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "AI for science needs reasoning, not just data。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 9,
+  "total": 15,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
