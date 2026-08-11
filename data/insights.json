@@ -1,6 +1,6 @@
 {
   "date": "20260811",
-  "updateTime": "2026-08-11T00:58:17.309Z",
+  "updateTime": "2026-08-11T13:06:29.724Z",
   "headlines": [
     {
       "id": "20260811_001",
@@ -96,23 +96,23 @@
     },
     {
       "id": "20260811_005",
-      "title": "PDF当死，ARA该立！论文是时候Agent原生了",
-      "originalTitle": "PDF当死，ARA该立！论文是时候Agent原生了",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Mon, 10 Aug 2026 13:53:22 +0000",
+      "title": "一家新能源大厂，如何撑起全球最大AI算力超级单体？",
+      "originalTitle": "一家新能源大厂，如何撑起全球最大AI算力超级单体？",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 11 Aug 2026 11:36:42 +0000",
       "crawlDate": "2026-08-11",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/469721.html"
+        "url": "https://www.qbitai.com/2026/08/470621.html"
       },
       "tags": [
         "媒体",
-        "Agent"
+        "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "PDF当死，ARA该立！论文是时候Agent原生了。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "一家新能源大厂，如何撑起全球最大AI算力超级单体？。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -144,75 +144,29 @@
     },
     {
       "id": "20260811_q002",
-      "title": "AI倒查论文100年！99.2%的顶刊都有问题…",
-      "originalTitle": "AI倒查论文100年！99.2%的顶刊都有问题…",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Mon, 10 Aug 2026 13:58:46 +0000",
-      "crawlDate": "2026-08-11",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/469795.html"
-      },
-      "tags": [
-        "媒体",
-        "科研突破"
-      ],
-      "isHeadline": false,
-      "coreInsight": "AI倒查论文100年！99.2%的顶刊都有问题…。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260811_q003",
-      "title": "模型路线趋同之后，Physical AI的胜负手变了",
-      "originalTitle": "模型路线趋同之后，Physical AI的胜负手变了",
+      "title": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
+      "originalTitle": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Mon, 10 Aug 2026 09:20:50 +0000",
+      "publishDate": "Tue, 11 Aug 2026 05:12:20 +0000",
       "crawlDate": "2026-08-11",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/469544.html"
+        "url": "https://www.qbitai.com/2026/08/470485.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "模型路线趋同之后，Physical AI的胜负手变了。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260811_q004",
-      "title": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏",
-      "originalTitle": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Mon, 10 Aug 2026 05:37:51 +0000",
-      "crawlDate": "2026-08-11",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/469500.html"
-      },
-      "tags": [
-        "媒体",
-        "开发工具"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Claude Code倒计时5天默认自动模式，多花的钱A社自己掏。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260811_q005",
+      "id": "20260811_q003",
       "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
       "originalTitle": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
       "category": "agent",
@@ -235,7 +189,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260811_q006",
+      "id": "20260811_q004",
       "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
       "originalTitle": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
       "category": "agent",
@@ -258,7 +212,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260811_q007",
+      "id": "20260811_q005",
       "title": "Evolve your marketing with new AI tools",
       "originalTitle": "Evolve your marketing with new AI tools",
       "category": "agent",
@@ -281,7 +235,30 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260811_q008",
+      "id": "20260811_q006",
+      "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
+      "originalTitle": "The Download: the next big thing in LLMs and how AI academic research is shifting",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Tue, 11 Aug 2026 12:10:00 +0000",
+      "crawlDate": "2026-08-11",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/"
+      },
+      "tags": [
+        "媒体",
+        "科研突破"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The Download: the next big thing in LLMs and how AI academic research is shifting。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260811_q007",
       "title": "AI professors are negotiating the new realities of academic research",
       "originalTitle": "AI professors are negotiating the new realities of academic research",
       "category": "research",
@@ -304,7 +281,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260811_q009",
+      "id": "20260811_q008",
       "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
       "originalTitle": "The Download: AI agents for science, and the “censorship-industrial complex”",
       "category": "agent",
@@ -325,32 +302,9 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260811_q010",
-      "title": "AI for science needs reasoning, not just data",
-      "originalTitle": "AI for science needs reasoning, not just data",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Mon, 10 Aug 2026 09:00:00 +0000",
-      "crawlDate": "2026-08-11",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "AI for science needs reasoning, not just data。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 15,
+  "total": 13,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
