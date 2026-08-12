@@ -1,9 +1,32 @@
 {
   "date": "20260812",
-  "updateTime": "2026-08-12T01:04:57.192Z",
+  "updateTime": "2026-08-12T13:10:17.732Z",
   "headlines": [
     {
       "id": "20260812_001",
+      "title": "From assistance to execution: How enterprises put AI to work",
+      "originalTitle": "From assistance to execution: How enterprises put AI to work",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Wed, 12 Aug 2026 06:00:00 GMT",
+      "crawlDate": "2026-08-12",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/how-enterprises-put-ai-to-work"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "From assistance to execution: How enterprises put AI to work。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260812_002",
       "title": "Testing ads in ChatGPT",
       "originalTitle": "Testing ads in ChatGPT",
       "category": "company",
@@ -26,7 +49,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260812_002",
+      "id": "20260812_003",
       "title": "Daybreak models are now available on AWS",
       "originalTitle": "Daybreak models are now available on AWS",
       "category": "company",
@@ -49,7 +72,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260812_003",
+      "id": "20260812_004",
       "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
       "originalTitle": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
       "category": "research",
@@ -72,47 +95,24 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260812_004",
-      "title": "一家新能源大厂，如何撑起全球最大AI算力超级单体？",
-      "originalTitle": "一家新能源大厂，如何撑起全球最大AI算力超级单体？",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 11 Aug 2026 11:36:42 +0000",
-      "crawlDate": "2026-08-12",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/470621.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "一家新能源大厂，如何撑起全球最大AI算力超级单体？。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
       "id": "20260812_005",
-      "title": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
-      "originalTitle": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 11 Aug 2026 05:12:20 +0000",
+      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "originalTitle": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 10 Aug 2026 16:25:36 GMT",
       "crawlDate": "2026-08-12",
       "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/470485.html"
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents"
       },
       "tags": [
-        "媒体",
-        "大语言模型"
+        "官方",
+        "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -144,52 +144,6 @@
     },
     {
       "id": "20260812_q002",
-      "title": "What building an AI-native finance function taught me",
-      "originalTitle": "What building an AI-native finance function taught me",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Mon, 10 Aug 2026 17:00:00 GMT",
-      "crawlDate": "2026-08-12",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/building-an-ai-native-finance-function"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "What building an AI-native finance function taught me。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260812_q003",
-      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-      "originalTitle": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Mon, 10 Aug 2026 16:25:36 GMT",
-      "crawlDate": "2026-08-12",
-      "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260812_q004",
       "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
       "originalTitle": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
       "category": "image-video",
@@ -212,7 +166,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260812_q005",
+      "id": "20260812_q003",
       "title": "Evolve your marketing with new AI tools",
       "originalTitle": "Evolve your marketing with new AI tools",
       "category": "agent",
@@ -235,53 +189,30 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260812_q006",
-      "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
-      "originalTitle": "The Download: the next big thing in LLMs and how AI academic research is shifting",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Tue, 11 Aug 2026 12:10:00 +0000",
+      "id": "20260812_q004",
+      "title": "The Download: our 35 young innovators and the “censorship-industrial complex”",
+      "originalTitle": "The Download: our 35 young innovators and the “censorship-industrial complex”",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 12 Aug 2026 12:10:00 +0000",
       "crawlDate": "2026-08-12",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/"
+        "url": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/"
       },
       "tags": [
         "媒体",
-        "科研突破"
+        "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: the next big thing in LLMs and how AI academic research is shifting。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260812_q007",
-      "title": "AI professors are negotiating the new realities of academic research",
-      "originalTitle": "AI professors are negotiating the new realities of academic research",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Mon, 10 Aug 2026 20:00:00 +0000",
-      "crawlDate": "2026-08-12",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/"
-      },
-      "tags": [
-        "媒体",
-        "科研突破"
-      ],
-      "isHeadline": false,
-      "coreInsight": "AI professors are negotiating the new realities of academic research。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: our 35 young innovators and the “censorship-industrial complex”。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 12,
+  "total": 9,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
