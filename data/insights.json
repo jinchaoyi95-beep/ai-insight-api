@@ -1,15 +1,15 @@
 {
-  "date": "20260812",
-  "updateTime": "2026-08-12T13:10:17.732Z",
+  "date": "20260813",
+  "updateTime": "2026-08-13T01:05:59.347Z",
   "headlines": [
     {
-      "id": "20260812_001",
+      "id": "20260813_001",
       "title": "From assistance to execution: How enterprises put AI to work",
       "originalTitle": "From assistance to execution: How enterprises put AI to work",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Wed, 12 Aug 2026 06:00:00 GMT",
-      "crawlDate": "2026-08-12",
+      "crawlDate": "2026-08-13",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +26,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260812_002",
+      "id": "20260813_002",
+      "title": "How RingCentral builds AI-native work from engineering to ops",
+      "originalTitle": "How RingCentral builds AI-native work from engineering to ops",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Wed, 12 Aug 2026 00:00:00 GMT",
+      "crawlDate": "2026-08-13",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/ringcentral"
+      },
+      "tags": [
+        "官方",
+        "开发工具"
+      ],
+      "isHeadline": true,
+      "coreInsight": "How RingCentral builds AI-native work from engineering to ops。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260813_003",
       "title": "Testing ads in ChatGPT",
       "originalTitle": "Testing ads in ChatGPT",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Tue, 11 Aug 2026 10:00:00 GMT",
-      "crawlDate": "2026-08-12",
+      "crawlDate": "2026-08-13",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,13 +72,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260812_003",
+      "id": "20260813_004",
       "title": "Daybreak models are now available on AWS",
       "originalTitle": "Daybreak models are now available on AWS",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Tue, 11 Aug 2026 10:00:00 GMT",
-      "crawlDate": "2026-08-12",
+      "crawlDate": "2026-08-13",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -72,47 +95,24 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260812_004",
-      "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-      "originalTitle": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Mon, 10 Aug 2026 12:00:00 GMT",
-      "crawlDate": "2026-08-12",
+      "id": "20260813_005",
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "originalTitle": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "category": "image-video",
+      "categoryName": "AI绘画/视频",
+      "publishDate": "Tue, 11 Aug 2026 17:00:00 +0000",
+      "crawlDate": "2026-08-13",
       "source": {
-        "name": "OpenAI Blog",
+        "name": "Google AI",
         "type": "官方",
-        "url": "https://openai.com/index/model-ml"
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/"
       },
       "tags": [
         "官方",
-        "科研突破"
+        "AI绘画/视频"
       ],
       "isHeadline": true,
-      "coreInsight": "Model ML completes finance work more efficiently with GPT-5.6 Sol。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260812_005",
-      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-      "originalTitle": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Mon, 10 Aug 2026 16:25:36 GMT",
-      "crawlDate": "2026-08-12",
-      "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -120,13 +120,13 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260812_q001",
+      "id": "20260813_q001",
       "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
       "originalTitle": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Mon, 10 Aug 2026 14:00:00 GMT",
-      "crawlDate": "2026-08-12",
+      "crawlDate": "2026-08-13",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -143,36 +143,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260812_q002",
-      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-      "originalTitle": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-      "category": "image-video",
-      "categoryName": "AI绘画/视频",
-      "publishDate": "Tue, 11 Aug 2026 17:00:00 +0000",
-      "crawlDate": "2026-08-12",
-      "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/"
-      },
-      "tags": [
-        "官方",
-        "AI绘画/视频"
-      ],
-      "isHeadline": false,
-      "coreInsight": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260812_q003",
+      "id": "20260813_q002",
       "title": "Evolve your marketing with new AI tools",
       "originalTitle": "Evolve your marketing with new AI tools",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Mon, 10 Aug 2026 14:30:00 +0000",
-      "crawlDate": "2026-08-12",
+      "crawlDate": "2026-08-13",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -189,13 +166,59 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260812_q004",
+      "id": "20260813_q003",
+      "title": "Scientists just created female clones of male mice",
+      "originalTitle": "Scientists just created female clones of male mice",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Wed, 12 Aug 2026 18:59:48 +0000",
+      "crawlDate": "2026-08-13",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/"
+      },
+      "tags": [
+        "媒体",
+        "应用落地"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Scientists just created female clones of male mice。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260813_q004",
+      "title": "Scaling AI agents with trustworthy data",
+      "originalTitle": "Scaling AI agents with trustworthy data",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Wed, 12 Aug 2026 16:51:57 +0000",
+      "crawlDate": "2026-08-13",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Scaling AI agents with trustworthy data。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260813_q005",
       "title": "The Download: our 35 young innovators and the “censorship-industrial complex”",
       "originalTitle": "The Download: our 35 young innovators and the “censorship-industrial complex”",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Wed, 12 Aug 2026 12:10:00 +0000",
-      "crawlDate": "2026-08-12",
+      "crawlDate": "2026-08-13",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -212,7 +235,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 9,
+  "total": 10,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
