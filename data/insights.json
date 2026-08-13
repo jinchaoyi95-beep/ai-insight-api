@@ -1,6 +1,6 @@
 {
   "date": "20260813",
-  "updateTime": "2026-08-13T01:05:59.347Z",
+  "updateTime": "2026-08-13T13:11:43.249Z",
   "headlines": [
     {
       "id": "20260813_001",
@@ -96,23 +96,23 @@
     },
     {
       "id": "20260813_005",
-      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-      "originalTitle": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
-      "category": "image-video",
-      "categoryName": "AI绘画/视频",
-      "publishDate": "Tue, 11 Aug 2026 17:00:00 +0000",
+      "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
+      "originalTitle": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Thu, 13 Aug 2026 12:34:42 +0000",
       "crawlDate": "2026-08-13",
       "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/08/472059.html"
       },
       "tags": [
-        "官方",
-        "AI绘画/视频"
+        "媒体",
+        "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -144,6 +144,75 @@
     },
     {
       "id": "20260813_q002",
+      "title": "具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施",
+      "originalTitle": "具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Thu, 13 Aug 2026 11:53:02 +0000",
+      "crawlDate": "2026-08-13",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/08/472060.html"
+      },
+      "tags": [
+        "媒体",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260813_q003",
+      "title": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表",
+      "originalTitle": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 13 Aug 2026 11:29:04 +0000",
+      "crawlDate": "2026-08-13",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/08/472016.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260813_q004",
+      "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "originalTitle": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "category": "image-video",
+      "categoryName": "AI绘画/视频",
+      "publishDate": "Tue, 11 Aug 2026 17:00:00 +0000",
+      "crawlDate": "2026-08-13",
+      "source": {
+        "name": "Google AI",
+        "type": "官方",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/"
+      },
+      "tags": [
+        "官方",
+        "AI绘画/视频"
+      ],
+      "isHeadline": false,
+      "coreInsight": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260813_q005",
       "title": "Evolve your marketing with new AI tools",
       "originalTitle": "Evolve your marketing with new AI tools",
       "category": "agent",
@@ -166,76 +235,53 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260813_q003",
-      "title": "Scientists just created female clones of male mice",
-      "originalTitle": "Scientists just created female clones of male mice",
-      "category": "application",
-      "categoryName": "应用落地",
-      "publishDate": "Wed, 12 Aug 2026 18:59:48 +0000",
-      "crawlDate": "2026-08-13",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/"
-      },
-      "tags": [
-        "媒体",
-        "应用落地"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Scientists just created female clones of male mice。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260813_q004",
-      "title": "Scaling AI agents with trustworthy data",
-      "originalTitle": "Scaling AI agents with trustworthy data",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Wed, 12 Aug 2026 16:51:57 +0000",
-      "crawlDate": "2026-08-13",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Scaling AI agents with trustworthy data。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260813_q005",
-      "title": "The Download: our 35 young innovators and the “censorship-industrial complex”",
-      "originalTitle": "The Download: our 35 young innovators and the “censorship-industrial complex”",
+      "id": "20260813_q006",
+      "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
+      "originalTitle": "The Download: kids’ thoughts on AI, and female clones of male mice",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Wed, 12 Aug 2026 12:10:00 +0000",
+      "publishDate": "Thu, 13 Aug 2026 12:10:00 +0000",
       "crawlDate": "2026-08-13",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/"
+        "url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: our 35 young innovators and the “censorship-industrial complex”。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: kids’ thoughts on AI, and female clones of male mice。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260813_q007",
+      "title": "How kids feel about AI, in their own words",
+      "originalTitle": "How kids feel about AI, in their own words",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 13 Aug 2026 09:00:00 +0000",
+      "crawlDate": "2026-08-13",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "How kids feel about AI, in their own words。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 10,
+  "total": 12,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
