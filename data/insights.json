@@ -1,15 +1,84 @@
 {
-  "date": "20260813",
-  "updateTime": "2026-08-13T13:11:43.249Z",
+  "date": "20260814",
+  "updateTime": "2026-08-14T01:04:55.101Z",
   "headlines": [
     {
-      "id": "20260813_001",
+      "id": "20260814_001",
+      "title": "The builder’s guide to GPT‑5.6",
+      "originalTitle": "The builder’s guide to GPT‑5.6",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Thu, 13 Aug 2026 11:00:00 GMT",
+      "crawlDate": "2026-08-14",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/builders-guide-to-gpt-5-6"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "The builder’s guide to GPT‑5.6。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260814_002",
+      "title": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "originalTitle": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Thu, 13 Aug 2026 10:00:00 GMT",
+      "crawlDate": "2026-08-14",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/previewing-ultrafast"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260814_003",
+      "title": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "originalTitle": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Thu, 13 Aug 2026 09:00:00 GMT",
+      "crawlDate": "2026-08-14",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/dali-rajic-chief-revenue-officer"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "OpenAI appoints Dali Rajic as Chief Revenue Officer。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260814_004",
       "title": "From assistance to execution: How enterprises put AI to work",
       "originalTitle": "From assistance to execution: How enterprises put AI to work",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Wed, 12 Aug 2026 06:00:00 GMT",
-      "crawlDate": "2026-08-13",
+      "crawlDate": "2026-08-14",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +95,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260813_002",
+      "id": "20260814_005",
       "title": "How RingCentral builds AI-native work from engineering to ops",
       "originalTitle": "How RingCentral builds AI-native work from engineering to ops",
       "category": "devtool",
       "categoryName": "开发工具",
       "publishDate": "Wed, 12 Aug 2026 00:00:00 GMT",
-      "crawlDate": "2026-08-13",
+      "crawlDate": "2026-08-14",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -47,61 +116,17 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
+    }
+  ],
+  "quickBrowse": [
     {
-      "id": "20260813_003",
-      "title": "Testing ads in ChatGPT",
-      "originalTitle": "Testing ads in ChatGPT",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 11 Aug 2026 10:00:00 GMT",
-      "crawlDate": "2026-08-13",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/testing-ads-in-chatgpt"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Testing ads in ChatGPT。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260813_004",
-      "title": "Daybreak models are now available on AWS",
-      "originalTitle": "Daybreak models are now available on AWS",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 11 Aug 2026 10:00:00 GMT",
-      "crawlDate": "2026-08-13",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Daybreak models are now available on AWS。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260813_005",
+      "id": "20260814_q001",
       "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
       "originalTitle": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Thu, 13 Aug 2026 12:34:42 +0000",
-      "crawlDate": "2026-08-13",
+      "crawlDate": "2026-08-14",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -111,45 +136,20 @@
         "媒体",
         "Agent"
       ],
-      "isHeadline": true,
-      "coreInsight": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
-    {
-      "id": "20260813_q001",
-      "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "originalTitle": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Mon, 10 Aug 2026 14:00:00 GMT",
-      "crawlDate": "2026-08-13",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/responsible-ai-infrastructure-texas"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
       "isHeadline": false,
-      "coreInsight": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260813_q002",
+      "id": "20260814_q002",
       "title": "具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施",
       "originalTitle": "具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Thu, 13 Aug 2026 11:53:02 +0000",
-      "crawlDate": "2026-08-13",
+      "crawlDate": "2026-08-14",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -166,13 +166,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260813_q003",
+      "id": "20260814_q003",
       "title": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表",
       "originalTitle": "Claude一举扫清2000阶以下哈达玛矩阵！AI开始清空数学待解列表",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Thu, 13 Aug 2026 11:29:04 +0000",
-      "crawlDate": "2026-08-13",
+      "crawlDate": "2026-08-14",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -189,13 +189,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260813_q004",
+      "id": "20260814_q004",
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "originalTitle": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Thu, 13 Aug 2026 17:16:04 GMT",
+      "crawlDate": "2026-08-14",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260814_q005",
       "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
       "originalTitle": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
       "category": "image-video",
       "categoryName": "AI绘画/视频",
       "publishDate": "Tue, 11 Aug 2026 17:00:00 +0000",
-      "crawlDate": "2026-08-13",
+      "crawlDate": "2026-08-14",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -212,76 +235,30 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260813_q005",
-      "title": "Evolve your marketing with new AI tools",
-      "originalTitle": "Evolve your marketing with new AI tools",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Mon, 10 Aug 2026 14:30:00 +0000",
-      "crawlDate": "2026-08-13",
-      "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Evolve your marketing with new AI tools。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260813_q006",
-      "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
-      "originalTitle": "The Download: kids’ thoughts on AI, and female clones of male mice",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 13 Aug 2026 12:10:00 +0000",
-      "crawlDate": "2026-08-13",
+      "id": "20260814_q006",
+      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
+      "originalTitle": "Flock is tightening its rules in response to a growing surveillance backlash",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Thu, 13 Aug 2026 13:41:10 +0000",
+      "crawlDate": "2026-08-14",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/"
+        "url": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "应用落地"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: kids’ thoughts on AI, and female clones of male mice。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260813_q007",
-      "title": "How kids feel about AI, in their own words",
-      "originalTitle": "How kids feel about AI, in their own words",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 13 Aug 2026 09:00:00 +0000",
-      "crawlDate": "2026-08-13",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "How kids feel about AI, in their own words。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Flock is tightening its rules in response to a growing surveillance backlash。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 12,
+  "total": 11,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
