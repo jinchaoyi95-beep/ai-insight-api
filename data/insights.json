@@ -1,155 +1,84 @@
 {
-  "date": "20260816",
-  "updateTime": "2026-08-16T12:39:23.386Z",
+  "date": "20260817",
+  "updateTime": "2026-08-17T12:43:44.850Z",
   "headlines": [
     {
-      "id": "20260816_001",
-      "title": "杭州95后小伙，5亿买走硅谷城堡",
-      "originalTitle": "杭州95后小伙，5亿买走硅谷城堡",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sun, 16 Aug 2026 11:51:08 +0000",
-      "crawlDate": "2026-08-16",
+      "id": "20260817_001",
+      "title": "New policy ideas for the Intelligence Age",
+      "originalTitle": "New policy ideas for the Intelligence Age",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 17 Aug 2026 03:15:00 GMT",
+      "crawlDate": "2026-08-17",
       "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/474245.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "杭州95后小伙，5亿买走硅谷城堡。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260816_002",
-      "title": "李飞飞最新访谈：AI咋能代替人呢？",
-      "originalTitle": "李飞飞最新访谈：AI咋能代替人呢？",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sun, 16 Aug 2026 10:45:47 +0000",
-      "crawlDate": "2026-08-16",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/474140.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "李飞飞最新访谈：AI咋能代替人呢？。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260816_003",
-      "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
-      "originalTitle": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Sun, 16 Aug 2026 05:37:39 +0000",
-      "crawlDate": "2026-08-16",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/473972.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260816_004",
-      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "originalTitle": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 13 Aug 2026 17:16:04 GMT",
-      "crawlDate": "2026-08-16",
-      "source": {
-        "name": "Hugging Face",
+        "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop"
+        "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age"
       },
       "tags": [
         "官方",
-        "Agent"
+        "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "New policy ideas for the Intelligence Age。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260816_005",
-      "title": "This scientist is helping build a missing map of childhood",
-      "originalTitle": "This scientist is helping build a missing map of childhood",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Fri, 14 Aug 2026 09:00:00 +0000",
-      "crawlDate": "2026-08-16",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/"
-      },
-      "tags": [
-        "媒体",
-        "科研突破"
-      ],
-      "isHeadline": true,
-      "coreInsight": "This scientist is helping build a missing map of childhood。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
-    {
-      "id": "20260816_q001",
-      "title": "“B站教AI”爆火后，北航90后副教授何静回应一切",
-      "originalTitle": "“B站教AI”爆火后，北航90后副教授何静回应一切",
+      "id": "20260817_002",
+      "title": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想",
+      "originalTitle": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Sun, 16 Aug 2026 10:36:47 +0000",
-      "crawlDate": "2026-08-16",
+      "publishDate": "Mon, 17 Aug 2026 08:36:07 +0000",
+      "crawlDate": "2026-08-17",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/474064.html"
+        "url": "https://www.qbitai.com/2026/08/474381.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
-      "isHeadline": false,
-      "coreInsight": "“B站教AI”爆火后，北航90后副教授何静回应一切。该技术值得关注，建议评估其落地可行性。",
+      "isHeadline": true,
+      "coreInsight": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260816_q002",
+      "id": "20260817_003",
+      "title": "Get closer to the game with Gemini and Pixel",
+      "originalTitle": "Get closer to the game with Gemini and Pixel",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 17 Aug 2026 08:00:00 +0000",
+      "crawlDate": "2026-08-17",
+      "source": {
+        "name": "Google AI",
+        "type": "官方",
+        "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Get closer to the game with Gemini and Pixel。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260817_004",
       "title": "Building an AI Text Detector From Scratch",
       "originalTitle": "Building an AI Text Detector From Scratch",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Sat, 15 Aug 2026 11:54:24 GMT",
-      "crawlDate": "2026-08-16",
+      "crawlDate": "2026-08-17",
       "source": {
         "name": "Sebastian Raschka",
         "type": "专家",
@@ -159,60 +88,62 @@
         "专家",
         "大语言模型"
       ],
-      "isHeadline": false,
+      "isHeadline": true,
       "coreInsight": "Building an AI Text Detector From Scratch。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260816_q003",
-      "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
-      "originalTitle": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 14 Aug 2026 12:17:21 +0000",
-      "crawlDate": "2026-08-16",
+      "id": "20260817_005",
+      "title": "The Download: dead robot friends and the “censorship-industrial complex”",
+      "originalTitle": "The Download: dead robot friends and the “censorship-industrial complex”",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Mon, 17 Aug 2026 12:10:00 +0000",
+      "crawlDate": "2026-08-17",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/"
+        "url": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/"
+      },
+      "tags": [
+        "媒体",
+        "应用落地"
+      ],
+      "isHeadline": true,
+      "coreInsight": "The Download: dead robot friends and the “censorship-industrial complex”。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    }
+  ],
+  "quickBrowse": [
+    {
+      "id": "20260817_q001",
+      "title": "How much hydrogen awaits us underground?",
+      "originalTitle": "How much hydrogen awaits us underground?",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 17 Aug 2026 09:00:00 +0000",
+      "crawlDate": "2026-08-17",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: Flock’s new rules, cloning’s future, and children’s cells。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260816_q004",
-      "title": "Job titles of the future: Space travel agent",
-      "originalTitle": "Job titles of the future: Space travel agent",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Fri, 14 Aug 2026 09:00:00 +0000",
-      "crawlDate": "2026-08-16",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Job titles of the future: Space travel agent。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "How much hydrogen awaits us underground?。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 9,
+  "total": 6,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
