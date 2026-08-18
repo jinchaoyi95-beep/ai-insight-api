@@ -1,38 +1,61 @@
 {
-  "date": "20260817",
-  "updateTime": "2026-08-17T12:43:44.850Z",
+  "date": "20260818",
+  "updateTime": "2026-08-18T00:39:04.452Z",
   "headlines": [
     {
-      "id": "20260817_001",
-      "title": "New policy ideas for the Intelligence Age",
-      "originalTitle": "New policy ideas for the Intelligence Age",
+      "id": "20260818_001",
+      "title": "The Defender’s Window",
+      "originalTitle": "The Defender’s Window",
       "category": "company",
       "categoryName": "企业动态",
-      "publishDate": "Mon, 17 Aug 2026 03:15:00 GMT",
-      "crawlDate": "2026-08-17",
+      "publishDate": "Mon, 17 Aug 2026 05:30:00 GMT",
+      "crawlDate": "2026-08-18",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age"
+        "url": "https://openai.com/index/the-defenders-window"
       },
       "tags": [
         "官方",
         "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "New policy ideas for the Intelligence Age。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Defender’s Window。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260817_002",
+      "id": "20260818_002",
+      "title": "OpenAI joins PORTS-Pike project",
+      "originalTitle": "OpenAI joins PORTS-Pike project",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 17 Aug 2026 05:00:00 GMT",
+      "crawlDate": "2026-08-18",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/openai-joins-ports-pike-project"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "OpenAI joins PORTS-Pike project。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260818_003",
       "title": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想",
       "originalTitle": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Mon, 17 Aug 2026 08:36:07 +0000",
-      "crawlDate": "2026-08-17",
+      "crawlDate": "2026-08-18",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -49,36 +72,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260817_003",
-      "title": "Get closer to the game with Gemini and Pixel",
-      "originalTitle": "Get closer to the game with Gemini and Pixel",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Mon, 17 Aug 2026 08:00:00 +0000",
-      "crawlDate": "2026-08-17",
-      "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Get closer to the game with Gemini and Pixel。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260817_004",
+      "id": "20260818_004",
       "title": "Building an AI Text Detector From Scratch",
       "originalTitle": "Building an AI Text Detector From Scratch",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Sat, 15 Aug 2026 11:54:24 GMT",
-      "crawlDate": "2026-08-17",
+      "crawlDate": "2026-08-18",
       "source": {
         "name": "Sebastian Raschka",
         "type": "专家",
@@ -95,13 +95,84 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260817_005",
+      "id": "20260818_005",
+      "title": "What Flock’s defenders are missing",
+      "originalTitle": "What Flock’s defenders are missing",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Mon, 17 Aug 2026 19:16:09 +0000",
+      "crawlDate": "2026-08-18",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/"
+      },
+      "tags": [
+        "媒体",
+        "应用落地"
+      ],
+      "isHeadline": true,
+      "coreInsight": "What Flock’s defenders are missing。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    }
+  ],
+  "quickBrowse": [
+    {
+      "id": "20260818_q001",
+      "title": "New policy ideas for the Intelligence Age",
+      "originalTitle": "New policy ideas for the Intelligence Age",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 17 Aug 2026 03:15:00 GMT",
+      "crawlDate": "2026-08-18",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "New policy ideas for the Intelligence Age。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260818_q002",
+      "title": "Get closer to the game with Gemini and Pixel",
+      "originalTitle": "Get closer to the game with Gemini and Pixel",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 17 Aug 2026 08:00:00 +0000",
+      "crawlDate": "2026-08-18",
+      "source": {
+        "name": "Google AI",
+        "type": "官方",
+        "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Get closer to the game with Gemini and Pixel。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260818_q003",
       "title": "The Download: dead robot friends and the “censorship-industrial complex”",
       "originalTitle": "The Download: dead robot friends and the “censorship-industrial complex”",
       "category": "application",
       "categoryName": "应用落地",
       "publishDate": "Mon, 17 Aug 2026 12:10:00 +0000",
-      "crawlDate": "2026-08-17",
+      "crawlDate": "2026-08-18",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -111,22 +182,20 @@
         "媒体",
         "应用落地"
       ],
-      "isHeadline": true,
+      "isHeadline": false,
       "coreInsight": "The Download: dead robot friends and the “censorship-industrial complex”。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
+    },
     {
-      "id": "20260817_q001",
+      "id": "20260818_q004",
       "title": "How much hydrogen awaits us underground?",
       "originalTitle": "How much hydrogen awaits us underground?",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Mon, 17 Aug 2026 09:00:00 +0000",
-      "crawlDate": "2026-08-17",
+      "crawlDate": "2026-08-18",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -143,7 +212,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 6,
+  "total": 9,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
