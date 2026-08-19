@@ -1,118 +1,118 @@
 {
-  "date": "20260818",
-  "updateTime": "2026-08-18T00:39:04.452Z",
+  "date": "20260819",
+  "updateTime": "2026-08-19T00:39:24.910Z",
   "headlines": [
     {
-      "id": "20260818_001",
-      "title": "The Defender’s Window",
-      "originalTitle": "The Defender’s Window",
+      "id": "20260819_001",
+      "title": "Strengthening democratic oversight in national security",
+      "originalTitle": "Strengthening democratic oversight in national security",
       "category": "company",
       "categoryName": "企业动态",
-      "publishDate": "Mon, 17 Aug 2026 05:30:00 GMT",
-      "crawlDate": "2026-08-18",
+      "publishDate": "Tue, 18 Aug 2026 19:00:00 GMT",
+      "crawlDate": "2026-08-19",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/the-defenders-window"
+        "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security"
       },
       "tags": [
         "官方",
         "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "The Defender’s Window。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Strengthening democratic oversight in national security。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260818_002",
-      "title": "OpenAI joins PORTS-Pike project",
-      "originalTitle": "OpenAI joins PORTS-Pike project",
+      "id": "20260819_002",
+      "title": "Partnering with CodeAI to prepare the first AI generation",
+      "originalTitle": "Partnering with CodeAI to prepare the first AI generation",
       "category": "company",
       "categoryName": "企业动态",
-      "publishDate": "Mon, 17 Aug 2026 05:00:00 GMT",
-      "crawlDate": "2026-08-18",
+      "publishDate": "Tue, 18 Aug 2026 11:00:00 GMT",
+      "crawlDate": "2026-08-19",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/openai-joins-ports-pike-project"
+        "url": "https://openai.com/index/partnering-with-codeai"
       },
       "tags": [
         "官方",
         "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "OpenAI joins PORTS-Pike project。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Partnering with CodeAI to prepare the first AI generation。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260818_003",
-      "title": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想",
-      "originalTitle": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想",
+      "id": "20260819_003",
+      "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "originalTitle": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Mon, 17 Aug 2026 08:36:07 +0000",
-      "crawlDate": "2026-08-18",
+      "publishDate": "Tue, 18 Aug 2026 11:00:00 GMT",
+      "crawlDate": "2026-08-19",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/chatgpt-for-teens"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Introducing ChatGPT for Teens: Built for learning, backed by protections。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260819_004",
+      "title": "How NVIDIA scales expertise with ChatGPT Work",
+      "originalTitle": "How NVIDIA scales expertise with ChatGPT Work",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 18 Aug 2026 00:00:00 GMT",
+      "crawlDate": "2026-08-19",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/nvidia/chatgpt-work"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "How NVIDIA scales expertise with ChatGPT Work。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260819_005",
+      "title": "人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
+      "originalTitle": "人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Tue, 18 Aug 2026 09:38:21 +0000",
+      "crawlDate": "2026-08-19",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/474381.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "菲尔兹奖得主：AI现在主要靠「抬杠」突破重大数学猜想。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260818_004",
-      "title": "Building an AI Text Detector From Scratch",
-      "originalTitle": "Building an AI Text Detector From Scratch",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sat, 15 Aug 2026 11:54:24 GMT",
-      "crawlDate": "2026-08-18",
-      "source": {
-        "name": "Sebastian Raschka",
-        "type": "专家",
-        "url": "https://magazine.sebastianraschka.com/p/ai-detector-from-scratch"
-      },
-      "tags": [
-        "专家",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Building an AI Text Detector From Scratch。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260818_005",
-      "title": "What Flock’s defenders are missing",
-      "originalTitle": "What Flock’s defenders are missing",
-      "category": "application",
-      "categoryName": "应用落地",
-      "publishDate": "Mon, 17 Aug 2026 19:16:09 +0000",
-      "crawlDate": "2026-08-18",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/"
+        "url": "https://www.qbitai.com/2026/08/474840.html"
       },
       "tags": [
         "媒体",
         "应用落地"
       ],
       "isHeadline": true,
-      "coreInsight": "What Flock’s defenders are missing。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "人人都能写好听的歌，阿里发布AI音乐模型HappyShrimp。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -120,36 +120,82 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260818_q001",
-      "title": "New policy ideas for the Intelligence Age",
-      "originalTitle": "New policy ideas for the Intelligence Age",
+      "id": "20260819_q001",
+      "title": "Pacing model development in an era of cyber-critical capabilities",
+      "originalTitle": "Pacing model development in an era of cyber-critical capabilities",
       "category": "company",
       "categoryName": "企业动态",
-      "publishDate": "Mon, 17 Aug 2026 03:15:00 GMT",
-      "crawlDate": "2026-08-18",
+      "publishDate": "Tue, 18 Aug 2026 11:00:00 GMT",
+      "crawlDate": "2026-08-19",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age"
+        "url": "https://openai.com/index/pacing-model-development-cyber-capabilities"
       },
       "tags": [
         "官方",
         "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "New policy ideas for the Intelligence Age。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Pacing model development in an era of cyber-critical capabilities。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260818_q002",
+      "id": "20260819_q002",
+      "title": "网易传媒发布”蜜蜂AI” ：从工具到伙伴，让AI更懂人",
+      "originalTitle": "网易传媒发布”蜜蜂AI” ：从工具到伙伴，让AI更懂人",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 18 Aug 2026 10:04:14 +0000",
+      "crawlDate": "2026-08-19",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/08/474857.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "网易传媒发布”蜜蜂AI” ：从工具到伙伴，让AI更懂人。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260819_q003",
+      "title": "How Much Memory Does Your Agent Actually Need?",
+      "originalTitle": "How Much Memory Does Your Agent Actually Need?",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Tue, 18 Aug 2026 18:09:38 GMT",
+      "crawlDate": "2026-08-19",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "How Much Memory Does Your Agent Actually Need?。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260819_q004",
       "title": "Get closer to the game with Gemini and Pixel",
       "originalTitle": "Get closer to the game with Gemini and Pixel",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Mon, 17 Aug 2026 08:00:00 +0000",
-      "crawlDate": "2026-08-18",
+      "crawlDate": "2026-08-19",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -166,53 +212,53 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260818_q003",
-      "title": "The Download: dead robot friends and the “censorship-industrial complex”",
-      "originalTitle": "The Download: dead robot friends and the “censorship-industrial complex”",
-      "category": "application",
-      "categoryName": "应用落地",
-      "publishDate": "Mon, 17 Aug 2026 12:10:00 +0000",
-      "crawlDate": "2026-08-18",
+      "id": "20260819_q005",
+      "title": "The Download: how people really use AI, and Flock’s design choices",
+      "originalTitle": "The Download: how people really use AI, and Flock’s design choices",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 18 Aug 2026 12:10:00 +0000",
+      "crawlDate": "2026-08-19",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/08/17/1142175/the-download-dead-robot-friends-censorship-industrial-complex/"
+        "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/"
       },
       "tags": [
         "媒体",
-        "应用落地"
+        "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: dead robot friends and the “censorship-industrial complex”。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: how people really use AI, and Flock’s design choices。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260818_q004",
-      "title": "How much hydrogen awaits us underground?",
-      "originalTitle": "How much hydrogen awaits us underground?",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Mon, 17 Aug 2026 09:00:00 +0000",
-      "crawlDate": "2026-08-18",
+      "id": "20260819_q006",
+      "title": "We still don’t know how people are really using AI",
+      "originalTitle": "We still don’t know how people are really using AI",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Tue, 18 Aug 2026 10:06:43 +0000",
+      "crawlDate": "2026-08-19",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/"
+        "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "科研突破"
       ],
       "isHeadline": false,
-      "coreInsight": "How much hydrogen awaits us underground?。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "We still don’t know how people are really using AI。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 9,
+  "total": 11,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
