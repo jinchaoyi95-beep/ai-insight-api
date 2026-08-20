@@ -1,6 +1,6 @@
 {
   "date": "20260820",
-  "updateTime": "2026-08-20T00:39:24.101Z",
+  "updateTime": "2026-08-20T12:50:10.064Z",
   "headlines": [
     {
       "id": "20260820_001",
@@ -96,23 +96,23 @@
     },
     {
       "id": "20260820_005",
-      "title": "IDC发布2026中国AI50强：360以“智能体+安全”双轮驱动入选",
-      "originalTitle": "IDC发布2026中国AI50强：360以“智能体+安全”双轮驱动入选",
+      "title": "闭源RSI的严父：18个Agent自主科研，Kimi K3靠Harness逼近Opus 5",
+      "originalTitle": "闭源RSI的严父：18个Agent自主科研，Kimi K3靠Harness逼近Opus 5",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Wed, 19 Aug 2026 08:34:36 +0000",
+      "publishDate": "Thu, 20 Aug 2026 09:46:23 +0000",
       "crawlDate": "2026-08-20",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/475901.html"
+        "url": "https://www.qbitai.com/2026/08/476199.html"
       },
       "tags": [
         "媒体",
         "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "IDC发布2026中国AI50强：360以“智能体+安全”双轮驱动入选。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "闭源RSI的严父：18个Agent自主科研，Kimi K3靠Harness逼近Opus 5。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -144,52 +144,75 @@
     },
     {
       "id": "20260820_q002",
-      "title": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会",
-      "originalTitle": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会",
+      "title": "这届“WRC必看”：全栈AI、20+超难家务，8.99万带回家",
+      "originalTitle": "这届“WRC必看”：全栈AI、20+超难家务，8.99万带回家",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Wed, 19 Aug 2026 10:12:09 +0000",
+      "publishDate": "Thu, 20 Aug 2026 10:17:47 +0000",
       "crawlDate": "2026-08-20",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/475907.html"
+        "url": "https://www.qbitai.com/2026/08/476280.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "这届“WRC必看”：全栈AI、20+超难家务，8.99万带回家。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260820_q003",
-      "title": "具身数据底座开卖，首发5100元：机器人训练数据有了新解法",
-      "originalTitle": "具身数据底座开卖，首发5100元：机器人训练数据有了新解法",
+      "title": "光帆AI技术正式落地韶音OpenFit 2 AI耳机，携手突破AI边界",
+      "originalTitle": "光帆AI技术正式落地韶音OpenFit 2 AI耳机，携手突破AI边界",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Wed, 19 Aug 2026 07:42:27 +0000",
+      "publishDate": "Thu, 20 Aug 2026 10:13:45 +0000",
       "crawlDate": "2026-08-20",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/475477.html"
+        "url": "https://www.qbitai.com/2026/08/476281.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "具身数据底座开卖，首发5100元：机器人训练数据有了新解法。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "光帆AI技术正式落地韶音OpenFit 2 AI耳机，携手突破AI边界。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260820_q004",
+      "title": "攻克行业级柔性操作难题！招商局狮子山人工智能实验室首次亮相WRC 2026",
+      "originalTitle": "攻克行业级柔性操作难题！招商局狮子山人工智能实验室首次亮相WRC 2026",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 20 Aug 2026 09:22:05 +0000",
+      "crawlDate": "2026-08-20",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/08/476129.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "攻克行业级柔性操作难题！招商局狮子山人工智能实验室首次亮相WRC 2026。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260820_q005",
       "title": "How Much Memory Does Your Agent Actually Need?",
       "originalTitle": "How Much Memory Does Your Agent Actually Need?",
       "category": "agent",
@@ -212,93 +235,70 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260820_q005",
-      "title": "Get closer to the game with Gemini and Pixel",
-      "originalTitle": "Get closer to the game with Gemini and Pixel",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Mon, 17 Aug 2026 08:00:00 +0000",
-      "crawlDate": "2026-08-20",
-      "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Get closer to the game with Gemini and Pixel。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
       "id": "20260820_q006",
-      "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
-      "originalTitle": "The Download: AI’s self-improvement problem, and what’s driving the heat",
+      "title": "The Download: polycrisis support networks and a hydrogen gold rush",
+      "originalTitle": "The Download: polycrisis support networks and a hydrogen gold rush",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Wed, 19 Aug 2026 12:10:00 +0000",
+      "publishDate": "Thu, 20 Aug 2026 12:10:00 +0000",
       "crawlDate": "2026-08-20",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes/"
+        "url": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: AI’s self-improvement problem, and what’s driving the heat。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: polycrisis support networks and a hydrogen gold rush。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260820_q007",
-      "title": "Child-monitoring apps might need a reboot",
-      "originalTitle": "Child-monitoring apps might need a reboot",
-      "category": "application",
-      "categoryName": "应用落地",
-      "publishDate": "Wed, 19 Aug 2026 09:00:00 +0000",
+      "title": "The next big thing in hydrogen could be underground",
+      "originalTitle": "The next big thing in hydrogen could be underground",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 20 Aug 2026 10:00:00 +0000",
       "crawlDate": "2026-08-20",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/08/19/1141623/child-monitoring-apps-need-reboot/"
+        "url": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/"
       },
       "tags": [
         "媒体",
-        "应用落地"
+        "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "Child-monitoring apps might need a reboot。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The next big thing in hydrogen could be underground。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260820_q008",
-      "title": "The Download: how people really use AI, and Flock’s design choices",
-      "originalTitle": "The Download: how people really use AI, and Flock’s design choices",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 18 Aug 2026 12:10:00 +0000",
+      "title": "Unlocking hidden revenue streams with market models",
+      "originalTitle": "Unlocking hidden revenue streams with market models",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 20 Aug 2026 09:47:22 +0000",
       "crawlDate": "2026-08-20",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design/"
+        "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/"
       },
       "tags": [
         "媒体",
-        "企业动态"
+        "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: how people really use AI, and Flock’s design choices。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Unlocking hidden revenue streams with market models。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
