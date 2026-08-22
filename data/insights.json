@@ -1,6 +1,6 @@
 {
   "date": "20260822",
-  "updateTime": "2026-08-22T00:39:04.537Z",
+  "updateTime": "2026-08-22T12:39:05.848Z",
   "headlines": [
     {
       "id": "20260822_001",
@@ -73,29 +73,6 @@
     },
     {
       "id": "20260822_004",
-      "title": "Replit expands access to software creation with GPT-5.6 Luna",
-      "originalTitle": "Replit expands access to software creation with GPT-5.6 Luna",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 19 Aug 2026 07:00:00 GMT",
-      "crawlDate": "2026-08-22",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/replit"
-      },
-      "tags": [
-        "官方",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Replit expands access to software creation with GPT-5.6 Luna。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260822_005",
       "title": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景",
       "originalTitle": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景",
       "category": "agent",
@@ -116,11 +93,9 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
+    },
     {
-      "id": "20260822_q001",
+      "id": "20260822_005",
       "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
       "originalTitle": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
       "category": "llm",
@@ -136,60 +111,39 @@
         "媒体",
         "大语言模型"
       ],
-      "isHeadline": false,
+      "isHeadline": true,
       "coreInsight": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    }
+  ],
+  "quickBrowse": [
+    {
+      "id": "20260822_q001",
+      "title": "How Claude Watermarks AI-Generated Text",
+      "originalTitle": "How Claude Watermarks AI-Generated Text",
+      "category": "image-video",
+      "categoryName": "AI绘画/视频",
+      "publishDate": "Sat, 22 Aug 2026 11:11:39 GMT",
+      "crawlDate": "2026-08-22",
+      "source": {
+        "name": "Sebastian Raschka",
+        "type": "专家",
+        "url": "https://magazine.sebastianraschka.com/p/claude-watermarking"
+      },
+      "tags": [
+        "专家",
+        "AI绘画/视频"
+      ],
+      "isHeadline": false,
+      "coreInsight": "How Claude Watermarks AI-Generated Text。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260822_q002",
-      "title": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作",
-      "originalTitle": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 21 Aug 2026 07:17:58 +0000",
-      "crawlDate": "2026-08-22",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/476596.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260822_q003",
-      "title": "科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进桌面",
-      "originalTitle": "科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进桌面",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 21 Aug 2026 06:40:34 +0000",
-      "crawlDate": "2026-08-22",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/476591.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进桌面。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260822_q004",
       "title": "The Download: threats from space mirrors and credit for AI drugs",
       "originalTitle": "The Download: threats from space mirrors and credit for AI drugs",
       "category": "llm",
@@ -212,7 +166,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260822_q005",
+      "id": "20260822_q003",
       "title": "Mother tongue",
       "originalTitle": "Mother tongue",
       "category": "llm",
@@ -235,7 +189,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260822_q006",
+      "id": "20260822_q004",
       "title": "When AI designs a drug, who gets the credit?",
       "originalTitle": "When AI designs a drug, who gets the credit?",
       "category": "llm",
@@ -258,7 +212,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 11,
+  "total": 9,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
