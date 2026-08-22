@@ -1,15 +1,61 @@
 {
-  "date": "20260820",
-  "updateTime": "2026-08-20T12:50:10.064Z",
+  "date": "20260822",
+  "updateTime": "2026-08-22T00:39:04.537Z",
   "headlines": [
     {
-      "id": "20260820_001",
+      "id": "20260822_001",
+      "title": "Introducing AI Futures",
+      "originalTitle": "Introducing AI Futures",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Thu, 20 Aug 2026 07:00:00 GMT",
+      "crawlDate": "2026-08-22",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/introducing-ai-futures"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Introducing AI Futures。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260822_002",
+      "title": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "originalTitle": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Thu, 20 Aug 2026 00:00:00 GMT",
+      "crawlDate": "2026-08-22",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/stampli"
+      },
+      "tags": [
+        "官方",
+        "开发工具"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Stampli cuts launch hours by 68% using ChatGPT Work。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260822_003",
       "title": "Offering Zero Data Retention for frontier models",
       "originalTitle": "Offering Zero Data Retention for frontier models",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Wed, 19 Aug 2026 19:00:00 GMT",
-      "crawlDate": "2026-08-20",
+      "crawlDate": "2026-08-22",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +72,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260820_002",
+      "id": "20260822_004",
       "title": "Replit expands access to software creation with GPT-5.6 Luna",
       "originalTitle": "Replit expands access to software creation with GPT-5.6 Luna",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Wed, 19 Aug 2026 07:00:00 GMT",
-      "crawlDate": "2026-08-20",
+      "crawlDate": "2026-08-22",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,70 +95,24 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260820_003",
-      "title": "ChatGPT Ads expands across Europe",
-      "originalTitle": "ChatGPT Ads expands across Europe",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 18 Aug 2026 22:00:00 GMT",
-      "crawlDate": "2026-08-20",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/chatgpt-ads-expands-across-europe"
-      },
-      "tags": [
-        "官方",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "ChatGPT Ads expands across Europe。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260820_004",
-      "title": "Strengthening democratic oversight in national security",
-      "originalTitle": "Strengthening democratic oversight in national security",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 18 Aug 2026 19:00:00 GMT",
-      "crawlDate": "2026-08-20",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/strengthening-democratic-oversight-in-national-security"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Strengthening democratic oversight in national security。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260820_005",
-      "title": "闭源RSI的严父：18个Agent自主科研，Kimi K3靠Harness逼近Opus 5",
-      "originalTitle": "闭源RSI的严父：18个Agent自主科研，Kimi K3靠Harness逼近Opus 5",
+      "id": "20260822_005",
+      "title": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景",
+      "originalTitle": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Thu, 20 Aug 2026 09:46:23 +0000",
-      "crawlDate": "2026-08-20",
+      "publishDate": "Fri, 21 Aug 2026 09:44:33 +0000",
+      "crawlDate": "2026-08-22",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/476199.html"
+        "url": "https://www.qbitai.com/2026/08/476733.html"
       },
       "tags": [
         "媒体",
         "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "闭源RSI的严父：18个Agent自主科研，Kimi K3靠Harness逼近Opus 5。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "明略科技携手海康机器人亮相世界机器人大会，以“Agent+具身”联合进入商业机器人场景。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -120,191 +120,145 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260820_q001",
-      "title": "Partnering with CodeAI to prepare the first AI generation",
-      "originalTitle": "Partnering with CodeAI to prepare the first AI generation",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 18 Aug 2026 11:00:00 GMT",
-      "crawlDate": "2026-08-20",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/partnering-with-codeai"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Partnering with CodeAI to prepare the first AI generation。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260820_q002",
-      "title": "这届“WRC必看”：全栈AI、20+超难家务，8.99万带回家",
-      "originalTitle": "这届“WRC必看”：全栈AI、20+超难家务，8.99万带回家",
+      "id": "20260822_q001",
+      "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
+      "originalTitle": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Thu, 20 Aug 2026 10:17:47 +0000",
-      "crawlDate": "2026-08-20",
+      "publishDate": "Fri, 21 Aug 2026 09:00:06 +0000",
+      "crawlDate": "2026-08-22",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/476280.html"
+        "url": "https://www.qbitai.com/2026/08/476628.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "这届“WRC必看”：全栈AI、20+超难家务，8.99万带回家。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260820_q003",
-      "title": "光帆AI技术正式落地韶音OpenFit 2 AI耳机，携手突破AI边界",
-      "originalTitle": "光帆AI技术正式落地韶音OpenFit 2 AI耳机，携手突破AI边界",
+      "id": "20260822_q002",
+      "title": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作",
+      "originalTitle": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Thu, 20 Aug 2026 10:13:45 +0000",
-      "crawlDate": "2026-08-20",
+      "publishDate": "Fri, 21 Aug 2026 07:17:58 +0000",
+      "crawlDate": "2026-08-22",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/476281.html"
+        "url": "https://www.qbitai.com/2026/08/476596.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "光帆AI技术正式落地韶音OpenFit 2 AI耳机，携手突破AI边界。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260820_q004",
-      "title": "攻克行业级柔性操作难题！招商局狮子山人工智能实验室首次亮相WRC 2026",
-      "originalTitle": "攻克行业级柔性操作难题！招商局狮子山人工智能实验室首次亮相WRC 2026",
+      "id": "20260822_q003",
+      "title": "科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进桌面",
+      "originalTitle": "科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进桌面",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Thu, 20 Aug 2026 09:22:05 +0000",
-      "crawlDate": "2026-08-20",
+      "publishDate": "Fri, 21 Aug 2026 06:40:34 +0000",
+      "crawlDate": "2026-08-22",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/476129.html"
+        "url": "https://www.qbitai.com/2026/08/476591.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "攻克行业级柔性操作难题！招商局狮子山人工智能实验室首次亮相WRC 2026。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进桌面。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260820_q005",
-      "title": "How Much Memory Does Your Agent Actually Need?",
-      "originalTitle": "How Much Memory Does Your Agent Actually Need?",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Tue, 18 Aug 2026 18:09:38 GMT",
-      "crawlDate": "2026-08-20",
-      "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "How Much Memory Does Your Agent Actually Need?。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260820_q006",
-      "title": "The Download: polycrisis support networks and a hydrogen gold rush",
-      "originalTitle": "The Download: polycrisis support networks and a hydrogen gold rush",
+      "id": "20260822_q004",
+      "title": "The Download: threats from space mirrors and credit for AI drugs",
+      "originalTitle": "The Download: threats from space mirrors and credit for AI drugs",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Thu, 20 Aug 2026 12:10:00 +0000",
-      "crawlDate": "2026-08-20",
+      "publishDate": "Fri, 21 Aug 2026 12:10:00 +0000",
+      "crawlDate": "2026-08-22",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/"
+        "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: polycrisis support networks and a hydrogen gold rush。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: threats from space mirrors and credit for AI drugs。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260820_q007",
-      "title": "The next big thing in hydrogen could be underground",
-      "originalTitle": "The next big thing in hydrogen could be underground",
+      "id": "20260822_q005",
+      "title": "Mother tongue",
+      "originalTitle": "Mother tongue",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Thu, 20 Aug 2026 10:00:00 +0000",
-      "crawlDate": "2026-08-20",
+      "publishDate": "Fri, 21 Aug 2026 09:00:00 +0000",
+      "crawlDate": "2026-08-22",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/08/20/1142512/geologic-hydrogen-hunt/"
+        "url": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "The next big thing in hydrogen could be underground。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Mother tongue。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260820_q008",
-      "title": "Unlocking hidden revenue streams with market models",
-      "originalTitle": "Unlocking hidden revenue streams with market models",
+      "id": "20260822_q006",
+      "title": "When AI designs a drug, who gets the credit?",
+      "originalTitle": "When AI designs a drug, who gets the credit?",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Thu, 20 Aug 2026 09:47:22 +0000",
-      "crawlDate": "2026-08-20",
+      "publishDate": "Fri, 21 Aug 2026 09:00:00 +0000",
+      "crawlDate": "2026-08-22",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/"
+        "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "Unlocking hidden revenue streams with market models。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "When AI designs a drug, who gets the credit?。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 13,
+  "total": 11,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
