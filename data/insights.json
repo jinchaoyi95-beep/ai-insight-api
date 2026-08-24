@@ -1,55 +1,78 @@
 {
   "date": "20260824",
-  "updateTime": "2026-08-24T00:41:09.978Z",
+  "updateTime": "2026-08-24T12:50:53.055Z",
   "headlines": [
     {
       "id": "20260824_001",
-      "title": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
-      "originalTitle": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的",
-      "category": "image-video",
-      "categoryName": "AI绘画/视频",
-      "publishDate": "Sun, 23 Aug 2026 09:56:12 +0000",
-      "crawlDate": "2026-08-24",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/478191.html"
-      },
-      "tags": [
-        "媒体",
-        "AI绘画/视频"
-      ],
-      "isHeadline": true,
-      "coreInsight": "匿名牛来大模型被扒出智谱血缘，也有人怀疑Cursor拿开源GLM训的。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260824_002",
-      "title": "英伟达AI服务器将涨价15%！1GW数据中心成本激增50亿美元",
-      "originalTitle": "英伟达AI服务器将涨价15%！1GW数据中心成本激增50亿美元",
+      "title": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
+      "originalTitle": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Sun, 23 Aug 2026 09:51:49 +0000",
+      "publishDate": "Mon, 24 Aug 2026 08:07:59 +0000",
       "crawlDate": "2026-08-24",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/478164.html"
+        "url": "https://www.qbitai.com/2026/08/478473.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "英伟达AI服务器将涨价15%！1GW数据中心成本激增50亿美元。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260824_002",
+      "title": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
+      "originalTitle": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 24 Aug 2026 07:04:36 +0000",
+      "crawlDate": "2026-08-24",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/08/478469.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260824_003",
+      "title": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”",
+      "originalTitle": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”",
+      "category": "image-video",
+      "categoryName": "AI绘画/视频",
+      "publishDate": "Mon, 24 Aug 2026 05:09:27 +0000",
+      "crawlDate": "2026-08-24",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/08/478427.html"
+      },
+      "tags": [
+        "媒体",
+        "AI绘画/视频"
+      ],
+      "isHeadline": true,
+      "coreInsight": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260824_004",
       "title": "How Claude Watermarks AI-Generated Text",
       "originalTitle": "How Claude Watermarks AI-Generated Text",
       "category": "image-video",
@@ -72,24 +95,24 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260824_004",
-      "title": "The Download: threats from space mirrors and credit for AI drugs",
-      "originalTitle": "The Download: threats from space mirrors and credit for AI drugs",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 21 Aug 2026 12:10:00 +0000",
+      "id": "20260824_005",
+      "title": "The Download: kids outlearning AI, and space travel agents",
+      "originalTitle": "The Download: kids outlearning AI, and space travel agents",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 24 Aug 2026 12:10:00 +0000",
       "crawlDate": "2026-08-24",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/"
+        "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "The Download: threats from space mirrors and credit for AI drugs。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: kids outlearning AI, and space travel agents。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -98,46 +121,23 @@
   "quickBrowse": [
     {
       "id": "20260824_q001",
-      "title": "Mother tongue",
-      "originalTitle": "Mother tongue",
+      "title": "Kids outlearn AI—and we still don’t know why",
+      "originalTitle": "Kids outlearn AI—and we still don’t know why",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Fri, 21 Aug 2026 09:00:00 +0000",
+      "publishDate": "Mon, 24 Aug 2026 09:00:00 +0000",
       "crawlDate": "2026-08-24",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/08/21/1141726/mother-tongue-fiction/"
+        "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "Mother tongue。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260824_q002",
-      "title": "When AI designs a drug, who gets the credit?",
-      "originalTitle": "When AI designs a drug, who gets the credit?",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 21 Aug 2026 09:00:00 +0000",
-      "crawlDate": "2026-08-24",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "When AI designs a drug, who gets the credit?。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Kids outlearn AI—and we still don’t know why。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
