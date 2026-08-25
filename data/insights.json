@@ -1,9 +1,32 @@
 {
   "date": "20260825",
-  "updateTime": "2026-08-25T00:40:30.927Z",
+  "updateTime": "2026-08-25T12:47:39.221Z",
   "headlines": [
     {
       "id": "20260825_001",
+      "title": "Disrupting a new covert influence campaign from Russia",
+      "originalTitle": "Disrupting a new covert influence campaign from Russia",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 25 Aug 2026 00:00:00 GMT",
+      "crawlDate": "2026-08-25",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Disrupting a new covert influence campaign from Russia。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260825_002",
       "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
       "originalTitle": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
       "category": "devtool",
@@ -26,93 +49,70 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260825_002",
-      "title": "AI重塑商业，信任决定未来商业能走多远丨Visa大中华区总裁张文翊",
-      "originalTitle": "AI重塑商业，信任决定未来商业能走多远丨Visa大中华区总裁张文翊",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Mon, 24 Aug 2026 13:32:13 +0000",
-      "crawlDate": "2026-08-25",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/478670.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "AI重塑商业，信任决定未来商业能走多远丨Visa大中华区总裁张文翊。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
       "id": "20260825_003",
-      "title": "一篇论文改写AI科研评价规则！中国公司拿出实践数据，双榜第一",
-      "originalTitle": "一篇论文改写AI科研评价规则！中国公司拿出实践数据，双榜第一",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Mon, 24 Aug 2026 13:21:22 +0000",
+      "title": "从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划",
+      "originalTitle": "从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Tue, 25 Aug 2026 09:31:16 +0000",
       "crawlDate": "2026-08-25",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/478568.html"
+        "url": "https://www.qbitai.com/2026/08/479314.html"
       },
       "tags": [
         "媒体",
-        "科研突破"
+        "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "一篇论文改写AI科研评价规则！中国公司拿出实践数据，双榜第一。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260825_004",
-      "title": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
-      "originalTitle": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
+      "title": "AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project",
+      "originalTitle": "AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Mon, 24 Aug 2026 08:07:59 +0000",
+      "publishDate": "Tue, 25 Aug 2026 05:48:05 +0000",
       "crawlDate": "2026-08-25",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/478473.html"
+        "url": "https://www.qbitai.com/2026/08/479096.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260825_005",
-      "title": "How Claude Watermarks AI-Generated Text",
-      "originalTitle": "How Claude Watermarks AI-Generated Text",
-      "category": "image-video",
-      "categoryName": "AI绘画/视频",
-      "publishDate": "Sat, 22 Aug 2026 11:11:39 GMT",
+      "title": "赛博义父Tibo最新访谈：专门实体按钮搞重置，“我想重置就重置”",
+      "originalTitle": "赛博义父Tibo最新访谈：专门实体按钮搞重置，“我想重置就重置”",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Tue, 25 Aug 2026 05:20:50 +0000",
       "crawlDate": "2026-08-25",
       "source": {
-        "name": "Sebastian Raschka",
-        "type": "专家",
-        "url": "https://magazine.sebastianraschka.com/p/claude-watermarking"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/08/478996.html"
       },
       "tags": [
-        "专家",
-        "AI绘画/视频"
+        "媒体",
+        "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "How Claude Watermarks AI-Generated Text。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "赛博义父Tibo最新访谈：专门实体按钮搞重置，“我想重置就重置”。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -121,98 +121,75 @@
   "quickBrowse": [
     {
       "id": "20260825_q001",
-      "title": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
-      "originalTitle": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
+      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
+      "originalTitle": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Mon, 24 Aug 2026 07:04:36 +0000",
+      "publishDate": "Tue, 25 Aug 2026 00:00:00 GMT",
       "crawlDate": "2026-08-25",
       "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/478469.html"
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/gradio-workflow-guide"
       },
       "tags": [
-        "媒体",
+        "官方",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Wire It, Run It, Deploy It: AI Workflows in Gradio。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260825_q002",
-      "title": "How to encourage smarter AI use in the classroom",
-      "originalTitle": "How to encourage smarter AI use in the classroom",
+      "title": "The Download: smarter AI in schools, and a robot “carnival” in Shanghai",
+      "originalTitle": "The Download: smarter AI in schools, and a robot “carnival” in Shanghai",
       "category": "application",
       "categoryName": "应用落地",
-      "publishDate": "Mon, 24 Aug 2026 14:20:19 +0000",
+      "publishDate": "Tue, 25 Aug 2026 12:10:00 +0000",
       "crawlDate": "2026-08-25",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/"
+        "url": "https://www.technologyreview.com/2026/08/25/1142909/the-download-smarter-ai-in-schools-robot-carnival-shanghai/"
       },
       "tags": [
         "媒体",
         "应用落地"
       ],
       "isHeadline": false,
-      "coreInsight": "How to encourage smarter AI use in the classroom。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: smarter AI in schools, and a robot “carnival” in Shanghai。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260825_q003",
-      "title": "The Download: kids outlearning AI, and space travel agents",
-      "originalTitle": "The Download: kids outlearning AI, and space travel agents",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Mon, 24 Aug 2026 12:10:00 +0000",
-      "crawlDate": "2026-08-25",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents/"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Download: kids outlearning AI, and space travel agents。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260825_q004",
-      "title": "Kids outlearn AI—and we still don’t know why",
-      "originalTitle": "Kids outlearn AI—and we still don’t know why",
+      "title": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
+      "originalTitle": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Mon, 24 Aug 2026 09:00:00 +0000",
+      "publishDate": "Tue, 25 Aug 2026 09:00:00 +0000",
       "crawlDate": "2026-08-25",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/"
+        "url": "https://www.technologyreview.com/2026/08/25/1141907/dispatch-shanghai-humanoid-robot-carnival/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "Kids outlearn AI—and we still don’t know why。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw.。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 9,
+  "total": 8,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
