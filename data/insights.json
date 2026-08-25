@@ -1,15 +1,84 @@
 {
-  "date": "20260824",
-  "updateTime": "2026-08-24T12:50:53.055Z",
+  "date": "20260825",
+  "updateTime": "2026-08-25T00:40:30.927Z",
   "headlines": [
     {
-      "id": "20260824_001",
+      "id": "20260825_001",
+      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "originalTitle": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Mon, 24 Aug 2026 12:00:00 GMT",
+      "crawlDate": "2026-08-25",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/gpt-5-6-in-kiro"
+      },
+      "tags": [
+        "官方",
+        "开发工具"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Advancing price-performance for developers with GPT‑5.6 in Kiro。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260825_002",
+      "title": "AI重塑商业，信任决定未来商业能走多远丨Visa大中华区总裁张文翊",
+      "originalTitle": "AI重塑商业，信任决定未来商业能走多远丨Visa大中华区总裁张文翊",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 24 Aug 2026 13:32:13 +0000",
+      "crawlDate": "2026-08-25",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/08/478670.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "AI重塑商业，信任决定未来商业能走多远丨Visa大中华区总裁张文翊。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260825_003",
+      "title": "一篇论文改写AI科研评价规则！中国公司拿出实践数据，双榜第一",
+      "originalTitle": "一篇论文改写AI科研评价规则！中国公司拿出实践数据，双榜第一",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Mon, 24 Aug 2026 13:21:22 +0000",
+      "crawlDate": "2026-08-25",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/08/478568.html"
+      },
+      "tags": [
+        "媒体",
+        "科研突破"
+      ],
+      "isHeadline": true,
+      "coreInsight": "一篇论文改写AI科研评价规则！中国公司拿出实践数据，双榜第一。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260825_004",
       "title": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
       "originalTitle": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Mon, 24 Aug 2026 08:07:59 +0000",
-      "crawlDate": "2026-08-24",
+      "crawlDate": "2026-08-25",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -26,59 +95,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260824_002",
-      "title": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
-      "originalTitle": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Mon, 24 Aug 2026 07:04:36 +0000",
-      "crawlDate": "2026-08-24",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/478469.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260824_003",
-      "title": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”",
-      "originalTitle": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”",
-      "category": "image-video",
-      "categoryName": "AI绘画/视频",
-      "publishDate": "Mon, 24 Aug 2026 05:09:27 +0000",
-      "crawlDate": "2026-08-24",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/478427.html"
-      },
-      "tags": [
-        "媒体",
-        "AI绘画/视频"
-      ],
-      "isHeadline": true,
-      "coreInsight": "阿里视频大模型Wan3.0正式上线，行业评价“稳定、真实、有质感”。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260824_004",
+      "id": "20260825_005",
       "title": "How Claude Watermarks AI-Generated Text",
       "originalTitle": "How Claude Watermarks AI-Generated Text",
       "category": "image-video",
       "categoryName": "AI绘画/视频",
       "publishDate": "Sat, 22 Aug 2026 11:11:39 GMT",
-      "crawlDate": "2026-08-24",
+      "crawlDate": "2026-08-25",
       "source": {
         "name": "Sebastian Raschka",
         "type": "专家",
@@ -93,15 +116,63 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    }
+  ],
+  "quickBrowse": [
+    {
+      "id": "20260825_q001",
+      "title": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
+      "originalTitle": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 24 Aug 2026 07:04:36 +0000",
+      "crawlDate": "2026-08-25",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/08/478469.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260824_005",
+      "id": "20260825_q002",
+      "title": "How to encourage smarter AI use in the classroom",
+      "originalTitle": "How to encourage smarter AI use in the classroom",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Mon, 24 Aug 2026 14:20:19 +0000",
+      "crawlDate": "2026-08-25",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/"
+      },
+      "tags": [
+        "媒体",
+        "应用落地"
+      ],
+      "isHeadline": false,
+      "coreInsight": "How to encourage smarter AI use in the classroom。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260825_q003",
       "title": "The Download: kids outlearning AI, and space travel agents",
       "originalTitle": "The Download: kids outlearning AI, and space travel agents",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Mon, 24 Aug 2026 12:10:00 +0000",
-      "crawlDate": "2026-08-24",
+      "crawlDate": "2026-08-25",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -111,22 +182,20 @@
         "媒体",
         "Agent"
       ],
-      "isHeadline": true,
+      "isHeadline": false,
       "coreInsight": "The Download: kids outlearning AI, and space travel agents。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
+    },
     {
-      "id": "20260824_q001",
+      "id": "20260825_q004",
       "title": "Kids outlearn AI—and we still don’t know why",
       "originalTitle": "Kids outlearn AI—and we still don’t know why",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Mon, 24 Aug 2026 09:00:00 +0000",
-      "crawlDate": "2026-08-24",
+      "crawlDate": "2026-08-25",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -143,7 +212,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 6,
+  "total": 9,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
