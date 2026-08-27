@@ -1,201 +1,107 @@
 {
-  "date": "20260826",
-  "updateTime": "2026-08-26T00:41:17.627Z",
+  "date": "20260827",
+  "updateTime": "2026-08-27T05:46:35.275Z",
   "headlines": [
     {
-      "id": "20260826_001",
-      "title": "The full stack behind abundant intelligence",
-      "originalTitle": "The full stack behind abundant intelligence",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 25 Aug 2026 07:05:00 GMT",
-      "crawlDate": "2026-08-26",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "The full stack behind abundant intelligence。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260826_002",
-      "title": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "originalTitle": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 25 Aug 2026 07:00:00 GMT",
-      "crawlDate": "2026-08-26",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/jalapeno-first-results"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260826_003",
-      "title": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "originalTitle": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "id": "20260827_001",
+      "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+      "originalTitle": "Bringing ChatGPT for Teachers to more U.S. school districts",
       "category": "devtool",
       "categoryName": "开发工具",
-      "publishDate": "Tue, 25 Aug 2026 00:00:00 GMT",
-      "crawlDate": "2026-08-26",
+      "publishDate": "Wed, 26 Aug 2026 10:00:00 GMT",
+      "crawlDate": "2026-08-27",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/introducing-admin-plugin"
+        "url": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts"
       },
       "tags": [
         "官方",
         "开发工具"
       ],
       "isHeadline": true,
-      "coreInsight": "Introducing the Admin plugin for ChatGPT Work and Codex。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Bringing ChatGPT for Teachers to more U.S. school districts。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260826_004",
-      "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "originalTitle": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Mon, 24 Aug 2026 12:00:00 GMT",
-      "crawlDate": "2026-08-26",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/gpt-5-6-in-kiro"
-      },
-      "tags": [
-        "官方",
-        "开发工具"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Advancing price-performance for developers with GPT‑5.6 in Kiro。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260826_005",
-      "title": "从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划",
-      "originalTitle": "从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Tue, 25 Aug 2026 09:31:16 +0000",
-      "crawlDate": "2026-08-26",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/479314.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "从开源走向共建：范式联合优必选等十余家具身巨头发布PhanthyMotus新计划。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
-    {
-      "id": "20260826_q001",
-      "title": "Disrupting a new covert influence campaign from Russia",
-      "originalTitle": "Disrupting a new covert influence campaign from Russia",
+      "id": "20260827_002",
+      "title": "Learning never stops: How AI makes learning continuous",
+      "originalTitle": "Learning never stops: How AI makes learning continuous",
       "category": "company",
       "categoryName": "企业动态",
-      "publishDate": "Tue, 25 Aug 2026 00:00:00 GMT",
-      "crawlDate": "2026-08-26",
+      "publishDate": "Wed, 26 Aug 2026 10:00:00 GMT",
+      "crawlDate": "2026-08-27",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia"
+        "url": "https://openai.com/index/learning-never-stops"
       },
       "tags": [
         "官方",
         "企业动态"
       ],
-      "isHeadline": false,
-      "coreInsight": "Disrupting a new covert influence campaign from Russia。该技术值得关注，建议评估其落地可行性。",
+      "isHeadline": true,
+      "coreInsight": "Learning never stops: How AI makes learning continuous。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260826_q002",
-      "title": "AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project",
-      "originalTitle": "AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project",
+      "id": "20260827_003",
+      "title": "The Hugging Face incident and the road ahead",
+      "originalTitle": "The Hugging Face incident and the road ahead",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 26 Aug 2026 00:00:00 GMT",
+      "crawlDate": "2026-08-27",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "The Hugging Face incident and the road ahead。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260827_004",
+      "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
+      "originalTitle": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Tue, 25 Aug 2026 05:48:05 +0000",
-      "crawlDate": "2026-08-26",
+      "publishDate": "Wed, 26 Aug 2026 00:00:00 GMT",
+      "crawlDate": "2026-08-27",
       "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/479096.html"
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/train-multi-vector-encoder"
       },
       "tags": [
-        "媒体",
+        "官方",
         "大语言模型"
       ],
-      "isHeadline": false,
-      "coreInsight": "AI4S开始进入「项目时代」：紫东太初把AI从做Task推向做Project。该技术值得关注，建议评估其落地可行性。",
+      "isHeadline": true,
+      "coreInsight": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260826_q003",
-      "title": "赛博义父Tibo最新访谈：专门实体按钮搞重置，“我想重置就重置”",
-      "originalTitle": "赛博义父Tibo最新访谈：专门实体按钮搞重置，“我想重置就重置”",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Tue, 25 Aug 2026 05:20:50 +0000",
-      "crawlDate": "2026-08-26",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/478996.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "赛博义父Tibo最新访谈：专门实体按钮搞重置，“我想重置就重置”。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260826_q004",
+      "id": "20260827_005",
       "title": "Granite 4.2 LLMs: How They're Built",
       "originalTitle": "Granite 4.2 LLMs: How They're Built",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 25 Aug 2026 15:14:14 GMT",
-      "crawlDate": "2026-08-26",
+      "crawlDate": "2026-08-27",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -205,60 +111,131 @@
         "官方",
         "大语言模型"
       ],
-      "isHeadline": false,
+      "isHeadline": true,
       "coreInsight": "Granite 4.2 LLMs: How They're Built。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
+    }
+  ],
+  "quickBrowse": [
     {
-      "id": "20260826_q005",
-      "title": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-      "originalTitle": "Wire It, Run It, Deploy It: AI Workflows in Gradio",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 25 Aug 2026 00:00:00 GMT",
-      "crawlDate": "2026-08-26",
+      "id": "20260827_q001",
+      "title": "How loveholidays is making everyone a builder with Codex",
+      "originalTitle": "How loveholidays is making everyone a builder with Codex",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 26 Aug 2026 00:00:00 GMT",
+      "crawlDate": "2026-08-27",
       "source": {
-        "name": "Hugging Face",
+        "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://huggingface.co/blog/gradio-workflow-guide"
+        "url": "https://openai.com/index/loveholidays"
       },
       "tags": [
         "官方",
-        "大语言模型"
+        "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "Wire It, Run It, Deploy It: AI Workflows in Gradio。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "How loveholidays is making everyone a builder with Codex。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260826_q006",
-      "title": "Addressing a sticking point in sustainable adhesives",
-      "originalTitle": "Addressing a sticking point in sustainable adhesives",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 25 Aug 2026 21:00:00 +0000",
-      "crawlDate": "2026-08-26",
+      "id": "20260827_q002",
+      "title": "The full stack behind abundant intelligence",
+      "originalTitle": "The full stack behind abundant intelligence",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 25 Aug 2026 07:05:00 GMT",
+      "crawlDate": "2026-08-27",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/the-full-stack-behind-abundant-intelligence"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The full stack behind abundant intelligence。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260827_q003",
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "originalTitle": "The inside story on why OpenAI agents hacked Hugging Face",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Wed, 26 Aug 2026 19:00:00 +0000",
+      "crawlDate": "2026-08-27",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/"
+        "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The inside story on why OpenAI agents hacked Hugging Face。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260827_q004",
+      "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+      "originalTitle": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 26 Aug 2026 12:10:00 +0000",
+      "crawlDate": "2026-08-27",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "Addressing a sticking point in sustainable adhesives。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260827_q005",
+      "title": "Raised on AI",
+      "originalTitle": "Raised on AI",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 26 Aug 2026 09:00:00 +0000",
+      "crawlDate": "2026-08-27",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Raised on AI。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 11,
+  "total": 10,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
