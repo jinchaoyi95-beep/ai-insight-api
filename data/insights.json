@@ -1,9 +1,32 @@
 {
   "date": "20260828",
-  "updateTime": "2026-08-28T07:56:02.888Z",
+  "updateTime": "2026-08-28T21:46:13.703Z",
   "headlines": [
     {
       "id": "20260828_001",
+      "title": "Supporting Thailand’s next generation of AI startups",
+      "originalTitle": "Supporting Thailand’s next generation of AI startups",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Fri, 28 Aug 2026 02:00:00 GMT",
+      "crawlDate": "2026-08-28",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Supporting Thailand’s next generation of AI startups。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260828_002",
       "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
       "originalTitle": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
       "category": "research",
@@ -26,7 +49,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260828_002",
+      "id": "20260828_003",
       "title": "Expanding OpenAI’s presence in Brazil",
       "originalTitle": "Expanding OpenAI’s presence in Brazil",
       "category": "company",
@@ -49,7 +72,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260828_003",
+      "id": "20260828_004",
       "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
       "originalTitle": "Bringing ChatGPT for Teachers to more U.S. school districts",
       "category": "devtool",
@@ -72,7 +95,32 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260828_004",
+      "id": "20260828_005",
+      "title": "《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板",
+      "originalTitle": "《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 28 Aug 2026 11:13:35 +0000",
+      "crawlDate": "2026-08-28",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/08/480666.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    }
+  ],
+  "quickBrowse": [
+    {
+      "id": "20260828_q001",
       "title": "Learning never stops: How AI makes learning continuous",
       "originalTitle": "Learning never stops: How AI makes learning continuous",
       "category": "company",
@@ -88,79 +136,31 @@
         "官方",
         "企业动态"
       ],
-      "isHeadline": true,
+      "isHeadline": false,
       "coreInsight": "Learning never stops: How AI makes learning continuous。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260828_005",
-      "title": "Łukasz Kaiser领衔，2026 奇点智能技术大会北京站正式官宣",
-      "originalTitle": "Łukasz Kaiser领衔，2026 奇点智能技术大会北京站正式官宣",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 28 Aug 2026 06:22:20 +0000",
-      "crawlDate": "2026-08-28",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/480482.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Łukasz Kaiser领衔，2026 奇点智能技术大会北京站正式官宣。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
-    {
-      "id": "20260828_q001",
-      "title": "The Hugging Face incident and the road ahead",
-      "originalTitle": "The Hugging Face incident and the road ahead",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Wed, 26 Aug 2026 00:00:00 GMT",
-      "crawlDate": "2026-08-28",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/hugging-face-incident-and-the-road-ahead"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Hugging Face incident and the road ahead。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
       "id": "20260828_q002",
-      "title": "Claude开始接管物理世界！能用机械臂阻拦5000万美元打款了",
-      "originalTitle": "Claude开始接管物理世界！能用机械臂阻拦5000万美元打款了",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 28 Aug 2026 06:13:59 +0000",
+      "title": "刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%",
+      "originalTitle": "刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Fri, 28 Aug 2026 09:45:19 +0000",
       "crawlDate": "2026-08-28",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/480487.html"
+        "url": "https://www.qbitai.com/2026/08/480600.html"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "Claude开始接管物理世界！能用机械臂阻拦5000万美元打款了。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -190,29 +190,6 @@
     },
     {
       "id": "20260828_q004",
-      "title": "Granite 4.2 LLMs: How They're Built",
-      "originalTitle": "Granite 4.2 LLMs: How They're Built",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 25 Aug 2026 15:14:14 GMT",
-      "crawlDate": "2026-08-28",
-      "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/ibm-granite/granite-4-2"
-      },
-      "tags": [
-        "官方",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Granite 4.2 LLMs: How They're Built。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260828_q005",
       "title": "3 new ways to plan and book travel in Search",
       "originalTitle": "3 new ways to plan and book travel in Search",
       "category": "company",
@@ -230,6 +207,29 @@
       ],
       "isHeadline": false,
       "coreInsight": "3 new ways to plan and book travel in Search。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260828_q005",
+      "title": "The Download: a secretive antiaging drug and joining virtual power plants",
+      "originalTitle": "The Download: a secretive antiaging drug and joining virtual power plants",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 28 Aug 2026 12:35:27 +0000",
+      "crawlDate": "2026-08-28",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The Download: a secretive antiaging drug and joining virtual power plants。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -256,32 +256,9 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260828_q007",
-      "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
-      "originalTitle": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 27 Aug 2026 12:10:00 +0000",
-      "crawlDate": "2026-08-28",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 12,
+  "total": 11,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
