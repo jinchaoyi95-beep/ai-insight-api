@@ -1,15 +1,15 @@
 {
-  "date": "20260827",
-  "updateTime": "2026-08-27T21:53:15.753Z",
+  "date": "20260828",
+  "updateTime": "2026-08-28T07:56:02.888Z",
   "headlines": [
     {
-      "id": "20260827_001",
+      "id": "20260828_001",
       "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
       "originalTitle": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
       "category": "research",
       "categoryName": "科研突破",
       "publishDate": "Thu, 27 Aug 2026 09:00:00 GMT",
-      "crawlDate": "2026-08-27",
+      "crawlDate": "2026-08-28",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +26,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260827_002",
+      "id": "20260828_002",
       "title": "Expanding OpenAI’s presence in Brazil",
       "originalTitle": "Expanding OpenAI’s presence in Brazil",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Thu, 27 Aug 2026 03:00:00 GMT",
-      "crawlDate": "2026-08-27",
+      "crawlDate": "2026-08-28",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,13 +49,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260827_003",
+      "id": "20260828_003",
       "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
       "originalTitle": "Bringing ChatGPT for Teachers to more U.S. school districts",
       "category": "devtool",
       "categoryName": "开发工具",
       "publishDate": "Wed, 26 Aug 2026 10:00:00 GMT",
-      "crawlDate": "2026-08-27",
+      "crawlDate": "2026-08-28",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -72,13 +72,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260827_004",
+      "id": "20260828_004",
       "title": "Learning never stops: How AI makes learning continuous",
       "originalTitle": "Learning never stops: How AI makes learning continuous",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Wed, 26 Aug 2026 10:00:00 GMT",
-      "crawlDate": "2026-08-27",
+      "crawlDate": "2026-08-28",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -95,24 +95,24 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260827_005",
-      "title": "MiniMax ARR暴涨500%，token暴涨2000%！这就是Agent红利吧",
-      "originalTitle": "MiniMax ARR暴涨500%，token暴涨2000%！这就是Agent红利吧",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 27 Aug 2026 12:16:10 +0000",
-      "crawlDate": "2026-08-27",
+      "id": "20260828_005",
+      "title": "Łukasz Kaiser领衔，2026 奇点智能技术大会北京站正式官宣",
+      "originalTitle": "Łukasz Kaiser领衔，2026 奇点智能技术大会北京站正式官宣",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 28 Aug 2026 06:22:20 +0000",
+      "crawlDate": "2026-08-28",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/480092.html"
+        "url": "https://www.qbitai.com/2026/08/480482.html"
       },
       "tags": [
         "媒体",
-        "Agent"
+        "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "MiniMax ARR暴涨500%，token暴涨2000%！这就是Agent红利吧。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Łukasz Kaiser领衔，2026 奇点智能技术大会北京站正式官宣。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -120,13 +120,13 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260827_q001",
+      "id": "20260828_q001",
       "title": "The Hugging Face incident and the road ahead",
       "originalTitle": "The Hugging Face incident and the road ahead",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Wed, 26 Aug 2026 00:00:00 GMT",
-      "crawlDate": "2026-08-27",
+      "crawlDate": "2026-08-28",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -143,59 +143,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260827_q002",
-      "title": "基元律动累计融资数千万美元，推出“中国版OpenRouter”",
-      "originalTitle": "基元律动累计融资数千万美元，推出“中国版OpenRouter”",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Thu, 27 Aug 2026 05:43:00 +0000",
-      "crawlDate": "2026-08-27",
+      "id": "20260828_q002",
+      "title": "Claude开始接管物理世界！能用机械臂阻拦5000万美元打款了",
+      "originalTitle": "Claude开始接管物理世界！能用机械臂阻拦5000万美元打款了",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 28 Aug 2026 06:13:59 +0000",
+      "crawlDate": "2026-08-28",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/480079.html"
+        "url": "https://www.qbitai.com/2026/08/480487.html"
       },
       "tags": [
         "媒体",
-        "企业动态"
+        "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "基元律动累计融资数千万美元，推出“中国版OpenRouter”。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Claude开始接管物理世界！能用机械臂阻拦5000万美元打款了。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260827_q003",
-      "title": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI",
-      "originalTitle": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 27 Aug 2026 02:46:35 +0000",
-      "crawlDate": "2026-08-27",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/480005.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "工业Agent不是“套壳”大模型！西门子百年经验灌进工业AI。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260827_q004",
+      "id": "20260828_q003",
       "title": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
       "originalTitle": "Training and Finetuning Multi-Vector Embedding Models with Sentence Transformers",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Wed, 26 Aug 2026 00:00:00 GMT",
-      "crawlDate": "2026-08-27",
+      "crawlDate": "2026-08-28",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -212,13 +189,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260827_q005",
+      "id": "20260828_q004",
       "title": "Granite 4.2 LLMs: How They're Built",
       "originalTitle": "Granite 4.2 LLMs: How They're Built",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 25 Aug 2026 15:14:14 GMT",
-      "crawlDate": "2026-08-27",
+      "crawlDate": "2026-08-28",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -235,13 +212,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260827_q006",
+      "id": "20260828_q005",
       "title": "3 new ways to plan and book travel in Search",
       "originalTitle": "3 new ways to plan and book travel in Search",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Thu, 27 Aug 2026 16:00:00 +0000",
-      "crawlDate": "2026-08-27",
+      "crawlDate": "2026-08-28",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -258,13 +235,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260827_q007",
+      "id": "20260828_q006",
       "title": "A startup claims it’s found a drug to make your blood young",
       "originalTitle": "A startup claims it’s found a drug to make your blood young",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Thu, 27 Aug 2026 19:48:13 +0000",
-      "crawlDate": "2026-08-27",
+      "crawlDate": "2026-08-28",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -281,13 +258,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260827_q008",
+      "id": "20260828_q007",
       "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
       "originalTitle": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Thu, 27 Aug 2026 12:10:00 +0000",
-      "crawlDate": "2026-08-27",
+      "crawlDate": "2026-08-28",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -304,7 +281,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 13,
+  "total": 12,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
