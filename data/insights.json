@@ -1,15 +1,15 @@
 {
-  "date": "20260829",
-  "updateTime": "2026-08-29T04:47:46.107Z",
+  "date": "20260830",
+  "updateTime": "2026-08-30T02:26:48.522Z",
   "headlines": [
     {
-      "id": "20260829_001",
+      "id": "20260830_001",
       "title": "Our decision on Cursor following its acquisition by SpaceX",
       "originalTitle": "Our decision on Cursor following its acquisition by SpaceX",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 28 Aug 2026 06:00:00 GMT",
-      "crawlDate": "2026-08-29",
+      "crawlDate": "2026-08-30",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +26,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260829_002",
+      "id": "20260830_002",
       "title": "Supporting Thailand’s next generation of AI startups",
       "originalTitle": "Supporting Thailand’s next generation of AI startups",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 28 Aug 2026 02:00:00 GMT",
-      "crawlDate": "2026-08-29",
+      "crawlDate": "2026-08-30",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,13 +49,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260829_003",
+      "id": "20260830_003",
       "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
       "originalTitle": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
       "category": "research",
       "categoryName": "科研突破",
       "publishDate": "Thu, 27 Aug 2026 09:00:00 GMT",
-      "crawlDate": "2026-08-29",
+      "crawlDate": "2026-08-30",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -72,47 +72,47 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260829_004",
-      "title": "《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板",
-      "originalTitle": "《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板",
+      "id": "20260830_004",
+      "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
+      "originalTitle": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Fri, 28 Aug 2026 11:13:35 +0000",
-      "crawlDate": "2026-08-29",
+      "publishDate": "Sat, 29 Aug 2026 13:11:08 +0000",
+      "crawlDate": "2026-08-30",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/480666.html"
+        "url": "https://www.qbitai.com/2026/08/481372.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260829_005",
-      "title": "刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%",
-      "originalTitle": "刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Fri, 28 Aug 2026 09:45:19 +0000",
-      "crawlDate": "2026-08-29",
+      "id": "20260830_005",
+      "title": "去年归国的徐梦迪，成了清华姚班班主任",
+      "originalTitle": "去年归国的徐梦迪，成了清华姚班班主任",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Sat, 29 Aug 2026 13:01:34 +0000",
+      "crawlDate": "2026-08-30",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/480600.html"
+        "url": "https://www.qbitai.com/2026/08/481318.html"
       },
       "tags": [
         "媒体",
-        "Agent"
+        "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "刚刚，港股AGI第一股杀疯了！Agent业务半年进账近5亿，Token收入Q2暴涨500%。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "去年归国的徐梦迪，成了清华姚班班主任。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -120,13 +120,13 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260829_q001",
+      "id": "20260830_q001",
       "title": "Expanding OpenAI’s presence in Brazil",
       "originalTitle": "Expanding OpenAI’s presence in Brazil",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Thu, 27 Aug 2026 03:00:00 GMT",
-      "crawlDate": "2026-08-29",
+      "crawlDate": "2026-08-30",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -143,36 +143,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260829_q002",
-      "title": "Learning never stops: How AI makes learning continuous",
-      "originalTitle": "Learning never stops: How AI makes learning continuous",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Wed, 26 Aug 2026 10:00:00 GMT",
-      "crawlDate": "2026-08-29",
+      "id": "20260830_q002",
+      "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
+      "originalTitle": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Sat, 29 Aug 2026 12:50:31 +0000",
+      "crawlDate": "2026-08-30",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/learning-never-stops"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/08/481223.html"
       },
       "tags": [
-        "官方",
-        "企业动态"
+        "媒体",
+        "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "Learning never stops: How AI makes learning continuous。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260829_q003",
+      "id": "20260830_q003",
       "title": "3 new ways to plan and book travel in Search",
       "originalTitle": "3 new ways to plan and book travel in Search",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Thu, 27 Aug 2026 16:00:00 +0000",
-      "crawlDate": "2026-08-29",
+      "crawlDate": "2026-08-30",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -189,13 +189,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260829_q004",
+      "id": "20260830_q004",
       "title": "The Download: a secretive antiaging drug and joining virtual power plants",
       "originalTitle": "The Download: a secretive antiaging drug and joining virtual power plants",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 28 Aug 2026 12:35:27 +0000",
-      "crawlDate": "2026-08-29",
+      "crawlDate": "2026-08-30",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -212,13 +212,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260829_q005",
+      "id": "20260830_q005",
       "title": "A startup claims it’s found a drug to make your blood young",
       "originalTitle": "A startup claims it’s found a drug to make your blood young",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Thu, 27 Aug 2026 19:48:13 +0000",
-      "crawlDate": "2026-08-29",
+      "crawlDate": "2026-08-30",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
