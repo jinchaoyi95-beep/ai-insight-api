@@ -1,118 +1,118 @@
 {
-  "date": "20260830",
-  "updateTime": "2026-08-30T02:26:48.522Z",
+  "date": "20260901",
+  "updateTime": "2026-09-01T16:10:48.060Z",
   "headlines": [
     {
-      "id": "20260830_001",
-      "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "originalTitle": "Our decision on Cursor following its acquisition by SpaceX",
+      "id": "20260901_001",
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "originalTitle": "OpenAI supports California’s bill to advance youth AI safety",
       "category": "company",
       "categoryName": "企业动态",
-      "publishDate": "Fri, 28 Aug 2026 06:00:00 GMT",
-      "crawlDate": "2026-08-30",
+      "publishDate": "Mon, 31 Aug 2026 07:00:00 GMT",
+      "crawlDate": "2026-09-01",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex"
+        "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety"
       },
       "tags": [
         "官方",
         "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "Our decision on Cursor following its acquisition by SpaceX。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "OpenAI supports California’s bill to advance youth AI safety。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260830_002",
-      "title": "Supporting Thailand’s next generation of AI startups",
-      "originalTitle": "Supporting Thailand’s next generation of AI startups",
+      "id": "20260901_002",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "originalTitle": "Polimill builds Japan's next-generation public AI infrastructure",
       "category": "company",
       "categoryName": "企业动态",
-      "publishDate": "Fri, 28 Aug 2026 02:00:00 GMT",
-      "crawlDate": "2026-08-30",
+      "publishDate": "Mon, 31 Aug 2026 07:00:00 GMT",
+      "crawlDate": "2026-09-01",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand"
+        "url": "https://openai.com/index/polimill"
       },
       "tags": [
         "官方",
         "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "Supporting Thailand’s next generation of AI startups。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Polimill builds Japan's next-generation public AI infrastructure。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260830_003",
-      "title": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "originalTitle": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Thu, 27 Aug 2026 09:00:00 GMT",
-      "crawlDate": "2026-08-30",
+      "id": "20260901_003",
+      "title": "A milestone in expanding access to AI",
+      "originalTitle": "A milestone in expanding access to AI",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 31 Aug 2026 04:00:00 GMT",
+      "crawlDate": "2026-09-01",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training"
+        "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
       },
       "tags": [
         "官方",
-        "科研突破"
+        "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "A milestone in expanding access to AI。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260830_004",
-      "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
-      "originalTitle": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sat, 29 Aug 2026 13:11:08 +0000",
-      "crawlDate": "2026-08-30",
+      "id": "20260901_004",
+      "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
+      "originalTitle": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
+      "category": "image-video",
+      "categoryName": "AI绘画/视频",
+      "publishDate": "Tue, 01 Sep 2026 12:02:39 +0000",
+      "crawlDate": "2026-09-01",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/481372.html"
+        "url": "https://www.qbitai.com/2026/09/482512.html"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "AI绘画/视频"
       ],
       "isHeadline": true,
-      "coreInsight": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260830_005",
-      "title": "去年归国的徐梦迪，成了清华姚班班主任",
-      "originalTitle": "去年归国的徐梦迪，成了清华姚班班主任",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sat, 29 Aug 2026 13:01:34 +0000",
-      "crawlDate": "2026-08-30",
+      "id": "20260901_005",
+      "title": "GitHub最热架构图Agent，开发者故事看哭了",
+      "originalTitle": "GitHub最热架构图Agent，开发者故事看哭了",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Tue, 01 Sep 2026 08:26:54 +0000",
+      "crawlDate": "2026-09-01",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/481318.html"
+        "url": "https://www.qbitai.com/2026/09/482469.html"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "去年归国的徐梦迪，成了清华姚班班主任。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "GitHub最热架构图Agent，开发者故事看哭了。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -120,122 +120,145 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260830_q001",
-      "title": "Expanding OpenAI’s presence in Brazil",
-      "originalTitle": "Expanding OpenAI’s presence in Brazil",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Thu, 27 Aug 2026 03:00:00 GMT",
-      "crawlDate": "2026-08-30",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/expanding-our-presence-in-brazil"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Expanding OpenAI’s presence in Brazil。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260830_q002",
-      "title": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
-      "originalTitle": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员",
+      "id": "20260901_q001",
+      "title": "A社化身A割！Claude官宣永久提额25%，结果到手反而少17%",
+      "originalTitle": "A社化身A割！Claude官宣永久提额25%，结果到手反而少17%",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Sat, 29 Aug 2026 12:50:31 +0000",
-      "crawlDate": "2026-08-30",
+      "publishDate": "Tue, 01 Sep 2026 08:15:40 +0000",
+      "crawlDate": "2026-09-01",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/08/481223.html"
+        "url": "https://www.qbitai.com/2026/09/482406.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "Claude开始训练Claude！4美元一小时，跑赢150美元人类研究员。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "A社化身A割！Claude官宣永久提额25%，结果到手反而少17%。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260830_q003",
-      "title": "3 new ways to plan and book travel in Search",
-      "originalTitle": "3 new ways to plan and book travel in Search",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Thu, 27 Aug 2026 16:00:00 +0000",
-      "crawlDate": "2026-08-30",
+      "id": "20260901_q002",
+      "title": "自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning",
+      "originalTitle": "自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 01 Sep 2026 05:12:30 +0000",
+      "crawlDate": "2026-09-01",
       "source": {
-        "name": "Google AI",
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/09/482337.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260901_q003",
+      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "originalTitle": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 01 Sep 2026 00:00:00 GMT",
+      "crawlDate": "2026-09-01",
+      "source": {
+        "name": "Hugging Face",
         "type": "官方",
-        "url": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/"
+        "url": "https://huggingface.co/blog/webgpu-kernels"
       },
       "tags": [
         "官方",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260901_q004",
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "originalTitle": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "category": "image-video",
+      "categoryName": "AI绘画/视频",
+      "publishDate": "Tue, 01 Sep 2026 16:00:00 +0000",
+      "crawlDate": "2026-09-01",
+      "source": {
+        "name": "Google AI",
+        "type": "官方",
+        "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/"
+      },
+      "tags": [
+        "官方",
+        "AI绘画/视频"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Try Google Pics: Easy image creation and editing in Google Workspace。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260901_q005",
+      "title": "Making the AI-powered case for legacy modernization",
+      "originalTitle": "Making the AI-powered case for legacy modernization",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 01 Sep 2026 14:00:00 +0000",
+      "crawlDate": "2026-09-01",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Making the AI-powered case for legacy modernization。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260901_q006",
+      "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
+      "originalTitle": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 01 Sep 2026 12:10:00 +0000",
+      "crawlDate": "2026-09-01",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/"
+      },
+      "tags": [
+        "媒体",
         "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "3 new ways to plan and book travel in Search。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260830_q004",
-      "title": "The Download: a secretive antiaging drug and joining virtual power plants",
-      "originalTitle": "The Download: a secretive antiaging drug and joining virtual power plants",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 28 Aug 2026 12:35:27 +0000",
-      "crawlDate": "2026-08-30",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Download: a secretive antiaging drug and joining virtual power plants。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260830_q005",
-      "title": "A startup claims it’s found a drug to make your blood young",
-      "originalTitle": "A startup claims it’s found a drug to make your blood young",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 27 Aug 2026 19:48:13 +0000",
-      "crawlDate": "2026-08-30",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "A startup claims it’s found a drug to make your blood young。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: engineered microbes for crops, and OpenAI’s culture problem。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 10,
+  "total": 11,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
