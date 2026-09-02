@@ -1,6 +1,6 @@
 {
   "date": "20260902",
-  "updateTime": "2026-09-02T01:59:21.951Z",
+  "updateTime": "2026-09-02T16:05:53.389Z",
   "headlines": [
     {
       "id": "20260902_001",
@@ -96,23 +96,23 @@
     },
     {
       "id": "20260902_005",
-      "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
-      "originalTitle": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
-      "category": "image-video",
-      "categoryName": "AI绘画/视频",
-      "publishDate": "Tue, 01 Sep 2026 12:02:39 +0000",
+      "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
+      "originalTitle": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Wed, 02 Sep 2026 06:20:17 +0000",
       "crawlDate": "2026-09-02",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/482512.html"
+        "url": "https://www.qbitai.com/2026/09/483104.html"
       },
       "tags": [
         "媒体",
-        "AI绘画/视频"
+        "科研突破"
       ],
       "isHeadline": true,
-      "coreInsight": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -144,46 +144,46 @@
     },
     {
       "id": "20260902_q002",
-      "title": "GitHub最热架构图Agent，开发者故事看哭了",
-      "originalTitle": "GitHub最热架构图Agent，开发者故事看哭了",
+      "title": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
+      "originalTitle": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Tue, 01 Sep 2026 08:26:54 +0000",
+      "publishDate": "Wed, 02 Sep 2026 06:06:50 +0000",
       "crawlDate": "2026-09-02",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/482469.html"
+        "url": "https://www.qbitai.com/2026/09/483097.html"
       },
       "tags": [
         "媒体",
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "GitHub最热架构图Agent，开发者故事看哭了。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260902_q003",
-      "title": "A社化身A割！Claude官宣永久提额25%，结果到手反而少17%",
-      "originalTitle": "A社化身A割！Claude官宣永久提额25%，结果到手反而少17%",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 01 Sep 2026 08:15:40 +0000",
+      "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
+      "originalTitle": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Wed, 02 Sep 2026 02:48:06 +0000",
       "crawlDate": "2026-09-02",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/482406.html"
+        "url": "https://www.qbitai.com/2026/09/482967.html"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "A社化身A割！Claude官宣永久提额25%，结果到手反而少17%。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -236,6 +236,29 @@
     },
     {
       "id": "20260902_q006",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "originalTitle": "Proactive cyber defense for governments and enterprises",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Wed, 02 Sep 2026 15:40:00 +0000",
+      "crawlDate": "2026-09-02",
+      "source": {
+        "name": "Google AI",
+        "type": "官方",
+        "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/"
+      },
+      "tags": [
+        "官方",
+        "开发工具"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Proactive cyber defense for governments and enterprises。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260902_q007",
       "title": "The latest AI news we announced in August 2026",
       "originalTitle": "The latest AI news we announced in August 2026",
       "category": "company",
@@ -258,7 +281,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260902_q007",
+      "id": "20260902_q008",
       "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
       "originalTitle": "Try Google Pics: Easy image creation and editing in Google Workspace",
       "category": "image-video",
@@ -281,70 +304,47 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260902_q008",
-      "title": "How AI plotted an interstellar journey to Alpha Centauri",
-      "originalTitle": "How AI plotted an interstellar journey to Alpha Centauri",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 01 Sep 2026 19:10:36 +0000",
-      "crawlDate": "2026-09-02",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "How AI plotted an interstellar journey to Alpha Centauri。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
       "id": "20260902_q009",
-      "title": "Making the AI-powered case for legacy modernization",
-      "originalTitle": "Making the AI-powered case for legacy modernization",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 01 Sep 2026 14:00:00 +0000",
+      "title": "Facilitating AI integration with simplicity at scale",
+      "originalTitle": "Facilitating AI integration with simplicity at scale",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Wed, 02 Sep 2026 14:00:00 +0000",
       "crawlDate": "2026-09-02",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/"
+        "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "开发工具"
       ],
       "isHeadline": false,
-      "coreInsight": "Making the AI-powered case for legacy modernization。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Facilitating AI integration with simplicity at scale。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260902_q010",
-      "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
-      "originalTitle": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 01 Sep 2026 12:10:00 +0000",
+      "title": "The Download: AI puzzles and a path to our nearest star system",
+      "originalTitle": "The Download: AI puzzles and a path to our nearest star system",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Wed, 02 Sep 2026 12:10:00 +0000",
       "crawlDate": "2026-09-02",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/"
+        "url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/"
       },
       "tags": [
         "媒体",
-        "企业动态"
+        "开发工具"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: engineered microbes for crops, and OpenAI’s culture problem。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: AI puzzles and a path to our nearest star system。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
