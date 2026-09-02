@@ -1,84 +1,107 @@
 {
-  "date": "20260901",
-  "updateTime": "2026-09-01T16:10:48.060Z",
+  "date": "20260902",
+  "updateTime": "2026-09-02T01:59:21.951Z",
   "headlines": [
     {
-      "id": "20260901_001",
-      "title": "OpenAI supports California’s bill to advance youth AI safety",
-      "originalTitle": "OpenAI supports California’s bill to advance youth AI safety",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Mon, 31 Aug 2026 07:00:00 GMT",
-      "crawlDate": "2026-09-01",
+      "id": "20260902_001",
+      "title": "How AI-native companies turn workflows into operating capability",
+      "originalTitle": "How AI-native companies turn workflows into operating capability",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Tue, 01 Sep 2026 17:00:00 GMT",
+      "crawlDate": "2026-09-02",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety"
+        "url": "https://openai.com/index/ai-native-company-workflows"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "How AI-native companies turn workflows into operating capability。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260902_002",
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "originalTitle": "Path to Astra: critical capabilities and frontier safeguards",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 01 Sep 2026 13:00:00 GMT",
+      "crawlDate": "2026-09-02",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/path-to-astra"
       },
       "tags": [
         "官方",
         "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "OpenAI supports California’s bill to advance youth AI safety。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Path to Astra: critical capabilities and frontier safeguards。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260901_002",
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "originalTitle": "Polimill builds Japan's next-generation public AI infrastructure",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Mon, 31 Aug 2026 07:00:00 GMT",
-      "crawlDate": "2026-09-01",
+      "id": "20260902_003",
+      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "originalTitle": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Tue, 01 Sep 2026 12:00:00 GMT",
+      "crawlDate": "2026-09-02",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/polimill"
+        "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
+      },
+      "tags": [
+        "官方",
+        "科研突破"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260902_004",
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "originalTitle": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 01 Sep 2026 01:00:00 GMT",
+      "crawlDate": "2026-09-02",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/gilbert-tobin"
       },
       "tags": [
         "官方",
         "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "Polimill builds Japan's next-generation public AI infrastructure。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "How law firm Gilbert + Tobin governs and scales AI with OpenAI。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260901_003",
-      "title": "A milestone in expanding access to AI",
-      "originalTitle": "A milestone in expanding access to AI",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Mon, 31 Aug 2026 04:00:00 GMT",
-      "crawlDate": "2026-09-01",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
-      },
-      "tags": [
-        "官方",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "A milestone in expanding access to AI。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260901_004",
+      "id": "20260902_005",
       "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
       "originalTitle": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
       "category": "image-video",
       "categoryName": "AI绘画/视频",
       "publishDate": "Tue, 01 Sep 2026 12:02:39 +0000",
-      "crawlDate": "2026-09-01",
+      "crawlDate": "2026-09-02",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -93,15 +116,40 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    }
+  ],
+  "quickBrowse": [
+    {
+      "id": "20260902_q001",
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "originalTitle": "OpenAI supports California’s bill to advance youth AI safety",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 31 Aug 2026 07:00:00 GMT",
+      "crawlDate": "2026-09-02",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "OpenAI supports California’s bill to advance youth AI safety。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260901_005",
+      "id": "20260902_q002",
       "title": "GitHub最热架构图Agent，开发者故事看哭了",
       "originalTitle": "GitHub最热架构图Agent，开发者故事看哭了",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Tue, 01 Sep 2026 08:26:54 +0000",
-      "crawlDate": "2026-09-01",
+      "crawlDate": "2026-09-02",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -111,22 +159,20 @@
         "媒体",
         "Agent"
       ],
-      "isHeadline": true,
+      "isHeadline": false,
       "coreInsight": "GitHub最热架构图Agent，开发者故事看哭了。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
+    },
     {
-      "id": "20260901_q001",
+      "id": "20260902_q003",
       "title": "A社化身A割！Claude官宣永久提额25%，结果到手反而少17%",
       "originalTitle": "A社化身A割！Claude官宣永久提额25%，结果到手反而少17%",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 01 Sep 2026 08:15:40 +0000",
-      "crawlDate": "2026-09-01",
+      "crawlDate": "2026-09-02",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -143,36 +189,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260901_q002",
-      "title": "自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning",
-      "originalTitle": "自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning",
+      "id": "20260902_q004",
+      "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+      "originalTitle": "BenchMIRT: What are LLM benchmarks actually measuring?",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Tue, 01 Sep 2026 05:12:30 +0000",
-      "crawlDate": "2026-09-01",
+      "publishDate": "Tue, 01 Sep 2026 21:39:07 GMT",
+      "crawlDate": "2026-09-02",
       "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/482337.html"
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/allenai/benchmirt"
       },
       "tags": [
-        "媒体",
+        "官方",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "自进化WAM来了！清华AIR联手域变换提出具身In-Context Causal Learning。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "BenchMIRT: What are LLM benchmarks actually measuring?。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260901_q003",
+      "id": "20260902_q005",
       "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
       "originalTitle": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 01 Sep 2026 00:00:00 GMT",
-      "crawlDate": "2026-09-01",
+      "crawlDate": "2026-09-02",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -189,13 +235,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260901_q004",
+      "id": "20260902_q006",
+      "title": "The latest AI news we announced in August 2026",
+      "originalTitle": "The latest AI news we announced in August 2026",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 01 Sep 2026 20:45:00 +0000",
+      "crawlDate": "2026-09-02",
+      "source": {
+        "name": "Google AI",
+        "type": "官方",
+        "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The latest AI news we announced in August 2026。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260902_q007",
       "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
       "originalTitle": "Try Google Pics: Easy image creation and editing in Google Workspace",
       "category": "image-video",
       "categoryName": "AI绘画/视频",
       "publishDate": "Tue, 01 Sep 2026 16:00:00 +0000",
-      "crawlDate": "2026-09-01",
+      "crawlDate": "2026-09-02",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -212,13 +281,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260901_q005",
+      "id": "20260902_q008",
+      "title": "How AI plotted an interstellar journey to Alpha Centauri",
+      "originalTitle": "How AI plotted an interstellar journey to Alpha Centauri",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 01 Sep 2026 19:10:36 +0000",
+      "crawlDate": "2026-09-02",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "How AI plotted an interstellar journey to Alpha Centauri。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260902_q009",
       "title": "Making the AI-powered case for legacy modernization",
       "originalTitle": "Making the AI-powered case for legacy modernization",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 01 Sep 2026 14:00:00 +0000",
-      "crawlDate": "2026-09-01",
+      "crawlDate": "2026-09-02",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -235,13 +327,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260901_q006",
+      "id": "20260902_q010",
       "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
       "originalTitle": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Tue, 01 Sep 2026 12:10:00 +0000",
-      "crawlDate": "2026-09-01",
+      "crawlDate": "2026-09-02",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -258,7 +350,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 11,
+  "total": 15,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
