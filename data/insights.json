@@ -1,15 +1,38 @@
 {
-  "date": "20260902",
-  "updateTime": "2026-09-02T16:05:53.389Z",
+  "date": "20260903",
+  "updateTime": "2026-09-03T02:04:19.230Z",
   "headlines": [
     {
-      "id": "20260902_001",
+      "id": "20260903_001",
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "originalTitle": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 02 Sep 2026 12:00:00 GMT",
+      "crawlDate": "2026-09-03",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/atv-big-air-tour"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260903_002",
       "title": "How AI-native companies turn workflows into operating capability",
       "originalTitle": "How AI-native companies turn workflows into operating capability",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Tue, 01 Sep 2026 17:00:00 GMT",
-      "crawlDate": "2026-09-02",
+      "crawlDate": "2026-09-03",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +49,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260902_002",
+      "id": "20260903_003",
       "title": "Path to Astra: critical capabilities and frontier safeguards",
       "originalTitle": "Path to Astra: critical capabilities and frontier safeguards",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Tue, 01 Sep 2026 13:00:00 GMT",
-      "crawlDate": "2026-09-02",
+      "crawlDate": "2026-09-03",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,13 +72,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260902_003",
+      "id": "20260903_004",
       "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
       "originalTitle": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
       "category": "research",
       "categoryName": "科研突破",
       "publishDate": "Tue, 01 Sep 2026 12:00:00 GMT",
-      "crawlDate": "2026-09-02",
+      "crawlDate": "2026-09-03",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -72,13 +95,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260902_004",
+      "id": "20260903_005",
       "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
       "originalTitle": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Tue, 01 Sep 2026 01:00:00 GMT",
-      "crawlDate": "2026-09-02",
+      "crawlDate": "2026-09-03",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -93,15 +116,17 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
+    }
+  ],
+  "quickBrowse": [
     {
-      "id": "20260902_005",
+      "id": "20260903_q001",
       "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
       "originalTitle": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
       "category": "research",
       "categoryName": "科研突破",
       "publishDate": "Wed, 02 Sep 2026 06:20:17 +0000",
-      "crawlDate": "2026-09-02",
+      "crawlDate": "2026-09-03",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -111,45 +136,20 @@
         "媒体",
         "科研突破"
       ],
-      "isHeadline": true,
-      "coreInsight": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
-    {
-      "id": "20260902_q001",
-      "title": "OpenAI supports California’s bill to advance youth AI safety",
-      "originalTitle": "OpenAI supports California’s bill to advance youth AI safety",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Mon, 31 Aug 2026 07:00:00 GMT",
-      "crawlDate": "2026-09-02",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
       "isHeadline": false,
-      "coreInsight": "OpenAI supports California’s bill to advance youth AI safety。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260902_q002",
+      "id": "20260903_q002",
       "title": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
       "originalTitle": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Wed, 02 Sep 2026 06:06:50 +0000",
-      "crawlDate": "2026-09-02",
+      "crawlDate": "2026-09-03",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -166,36 +166,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260902_q003",
-      "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
-      "originalTitle": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Wed, 02 Sep 2026 02:48:06 +0000",
-      "crawlDate": "2026-09-02",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/482967.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260902_q004",
+      "id": "20260903_q003",
       "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
       "originalTitle": "BenchMIRT: What are LLM benchmarks actually measuring?",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 01 Sep 2026 21:39:07 GMT",
-      "crawlDate": "2026-09-02",
+      "crawlDate": "2026-09-03",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -212,13 +189,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260902_q005",
+      "id": "20260903_q004",
       "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
       "originalTitle": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 01 Sep 2026 00:00:00 GMT",
-      "crawlDate": "2026-09-02",
+      "crawlDate": "2026-09-03",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -235,13 +212,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260902_q006",
+      "id": "20260903_q005",
       "title": "Proactive cyber defense for governments and enterprises",
       "originalTitle": "Proactive cyber defense for governments and enterprises",
       "category": "devtool",
       "categoryName": "开发工具",
       "publishDate": "Wed, 02 Sep 2026 15:40:00 +0000",
-      "crawlDate": "2026-09-02",
+      "crawlDate": "2026-09-03",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -258,13 +235,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260902_q007",
+      "id": "20260903_q006",
       "title": "The latest AI news we announced in August 2026",
       "originalTitle": "The latest AI news we announced in August 2026",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Tue, 01 Sep 2026 20:45:00 +0000",
-      "crawlDate": "2026-09-02",
+      "crawlDate": "2026-09-03",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -281,13 +258,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260902_q008",
+      "id": "20260903_q007",
       "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
       "originalTitle": "Try Google Pics: Easy image creation and editing in Google Workspace",
       "category": "image-video",
       "categoryName": "AI绘画/视频",
       "publishDate": "Tue, 01 Sep 2026 16:00:00 +0000",
-      "crawlDate": "2026-09-02",
+      "crawlDate": "2026-09-03",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -304,13 +281,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260902_q009",
+      "id": "20260903_q008",
       "title": "Facilitating AI integration with simplicity at scale",
       "originalTitle": "Facilitating AI integration with simplicity at scale",
       "category": "devtool",
       "categoryName": "开发工具",
       "publishDate": "Wed, 02 Sep 2026 14:00:00 +0000",
-      "crawlDate": "2026-09-02",
+      "crawlDate": "2026-09-03",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -327,13 +304,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260902_q010",
+      "id": "20260903_q009",
       "title": "The Download: AI puzzles and a path to our nearest star system",
       "originalTitle": "The Download: AI puzzles and a path to our nearest star system",
       "category": "devtool",
       "categoryName": "开发工具",
       "publishDate": "Wed, 02 Sep 2026 12:10:00 +0000",
-      "crawlDate": "2026-09-02",
+      "crawlDate": "2026-09-03",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -345,6 +322,29 @@
       ],
       "isHeadline": false,
       "coreInsight": "The Download: AI puzzles and a path to our nearest star system。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260903_q010",
+      "title": "How AI plotted an interstellar journey to Alpha Centauri",
+      "originalTitle": "How AI plotted an interstellar journey to Alpha Centauri",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 01 Sep 2026 19:10:36 +0000",
+      "crawlDate": "2026-09-03",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "How AI plotted an interstellar journey to Alpha Centauri。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
