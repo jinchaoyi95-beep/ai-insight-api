@@ -1,6 +1,6 @@
 {
   "date": "20260904",
-  "updateTime": "2026-09-04T02:03:21.489Z",
+  "updateTime": "2026-09-04T15:53:15.386Z",
   "headlines": [
     {
       "id": "20260904_001",
@@ -73,46 +73,46 @@
     },
     {
       "id": "20260904_004",
-      "title": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
-      "originalTitle": "新版GPT Image 2.5已经能伪造GPT-6发布会了",
-      "category": "image-video",
-      "categoryName": "AI绘画/视频",
-      "publishDate": "Thu, 03 Sep 2026 21:57:08 +0000",
+      "title": "Give Your Coding Agents a Memory You Own",
+      "originalTitle": "Give Your Coding Agents a Memory You Own",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Thu, 03 Sep 2026 00:00:00 GMT",
       "crawlDate": "2026-09-04",
       "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/483948.html"
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/funes"
       },
       "tags": [
-        "媒体",
-        "AI绘画/视频"
+        "官方",
+        "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "新版GPT Image 2.5已经能伪造GPT-6发布会了。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Give Your Coding Agents a Memory You Own。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260904_005",
-      "title": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
-      "originalTitle": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Thu, 03 Sep 2026 21:50:07 +0000",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "originalTitle": "Proactive cyber defense for governments and enterprises",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Wed, 02 Sep 2026 15:40:00 +0000",
       "crawlDate": "2026-09-04",
       "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/483898.html"
+        "name": "Google AI",
+        "type": "官方",
+        "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/"
       },
       "tags": [
-        "媒体",
-        "企业动态"
+        "官方",
+        "开发工具"
       ],
       "isHeadline": true,
-      "coreInsight": "刚刚，GPT-6正式发布！OpenAI：欢迎来到AGI时代。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Proactive cyber defense for governments and enterprises。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -167,52 +167,75 @@
     },
     {
       "id": "20260904_q003",
-      "title": "Give Your Coding Agents a Memory You Own",
-      "originalTitle": "Give Your Coding Agents a Memory You Own",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 03 Sep 2026 00:00:00 GMT",
+      "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
+      "originalTitle": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 04 Sep 2026 09:23:24 +0000",
       "crawlDate": "2026-09-04",
       "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/funes"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/09/484547.html"
       },
       "tags": [
-        "官方",
-        "Agent"
+        "媒体",
+        "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "Give Your Coding Agents a Memory You Own。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260904_q004",
-      "title": "Proactive cyber defense for governments and enterprises",
-      "originalTitle": "Proactive cyber defense for governments and enterprises",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Wed, 02 Sep 2026 15:40:00 +0000",
+      "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+      "originalTitle": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 04 Sep 2026 09:19:29 +0000",
       "crawlDate": "2026-09-04",
       "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/09/484437.html"
       },
       "tags": [
-        "官方",
-        "开发工具"
+        "媒体",
+        "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "Proactive cyber defense for governments and enterprises。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260904_q005",
+      "title": "金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源",
+      "originalTitle": "金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 04 Sep 2026 07:09:43 +0000",
+      "crawlDate": "2026-09-04",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/09/484203.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260904_q006",
       "title": "The latest AI news we announced in August 2026",
       "originalTitle": "The latest AI news we announced in August 2026",
       "category": "company",
@@ -235,7 +258,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260904_q006",
+      "id": "20260904_q007",
       "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
       "originalTitle": "Try Google Pics: Easy image creation and editing in Google Workspace",
       "category": "image-video",
@@ -258,7 +281,53 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260904_q007",
+      "id": "20260904_q008",
+      "title": "The Download: selling battlefield drone data and AI reshaping language",
+      "originalTitle": "The Download: selling battlefield drone data and AI reshaping language",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Fri, 04 Sep 2026 12:10:00 +0000",
+      "crawlDate": "2026-09-04",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/"
+      },
+      "tags": [
+        "媒体",
+        "科研突破"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The Download: selling battlefield drone data and AI reshaping language。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260904_q009",
+      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "originalTitle": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 04 Sep 2026 09:25:19 +0000",
+      "crawlDate": "2026-09-04",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Data from drones in Ukraine is fueling a new Wild West marketplace。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260904_q010",
       "title": "The Download: rethinking child safety and fossil-fueled farming",
       "originalTitle": "The Download: rethinking child safety and fossil-fueled farming",
       "category": "application",
@@ -279,32 +348,9 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260904_q008",
-      "title": "Scaling agentic AI pilots across the enterprise",
-      "originalTitle": "Scaling agentic AI pilots across the enterprise",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 03 Sep 2026 09:30:32 +0000",
-      "crawlDate": "2026-09-04",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Scaling agentic AI pilots across the enterprise。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 13,
+  "total": 15,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
