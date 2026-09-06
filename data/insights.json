@@ -1,118 +1,95 @@
 {
-  "date": "20260904",
-  "updateTime": "2026-09-04T15:53:15.386Z",
+  "date": "20260906",
+  "updateTime": "2026-09-06T15:03:02.056Z",
   "headlines": [
     {
-      "id": "20260904_001",
-      "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "originalTitle": "Daybreak for Frontline Defenders: $1B to protect essential services",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Thu, 03 Sep 2026 13:15:00 GMT",
-      "crawlDate": "2026-09-04",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/daybreak-for-frontline-defenders"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Daybreak for Frontline Defenders: $1B to protect essential services。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260904_002",
-      "title": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
-      "originalTitle": "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+      "id": "20260906_001",
+      "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
+      "originalTitle": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Thu, 03 Sep 2026 12:00:00 GMT",
-      "crawlDate": "2026-09-04",
+      "publishDate": "Sun, 06 Sep 2026 04:40:15 +0000",
+      "crawlDate": "2026-09-06",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/legora-financial-statement-review-with-astra"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/09/484890.html"
       },
       "tags": [
-        "官方",
+        "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "Legora reviewed 41 documents in minutes with GPT-6 Astra。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "B站首届AI创造公开赛收官，超八成参赛者为一人团队。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260904_003",
-      "title": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "originalTitle": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 03 Sep 2026 12:00:00 GMT",
-      "crawlDate": "2026-09-04",
+      "id": "20260906_002",
+      "title": "GPT-6带火循环Transformer，阿里早已布局",
+      "originalTitle": "GPT-6带火循环Transformer，阿里早已布局",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Sat, 05 Sep 2026 15:07:08 +0000",
+      "crawlDate": "2026-09-06",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/playco-game-prototyping-with-astra"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/09/484726.html"
       },
       "tags": [
-        "官方",
+        "媒体",
+        "科研突破"
+      ],
+      "isHeadline": true,
+      "coreInsight": "GPT-6带火循环Transformer，阿里早已布局。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260906_003",
+      "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
+      "originalTitle": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Sat, 05 Sep 2026 14:46:15 +0000",
+      "crawlDate": "2026-09-06",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/09/484683.html"
+      },
+      "tags": [
+        "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "Playco cut manual fixes 50% prototyping games with GPT-6 Astra。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260904_004",
-      "title": "Give Your Coding Agents a Memory You Own",
-      "originalTitle": "Give Your Coding Agents a Memory You Own",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 03 Sep 2026 00:00:00 GMT",
-      "crawlDate": "2026-09-04",
+      "id": "20260906_004",
+      "title": "Architecting memory and storage in the AI era",
+      "originalTitle": "Architecting memory and storage in the AI era",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Fri, 04 Sep 2026 18:39:19 +0000",
+      "crawlDate": "2026-09-06",
       "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/funes"
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/"
       },
       "tags": [
-        "官方",
-        "Agent"
+        "媒体",
+        "科研突破"
       ],
       "isHeadline": true,
-      "coreInsight": "Give Your Coding Agents a Memory You Own。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260904_005",
-      "title": "Proactive cyber defense for governments and enterprises",
-      "originalTitle": "Proactive cyber defense for governments and enterprises",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Wed, 02 Sep 2026 15:40:00 +0000",
-      "crawlDate": "2026-09-04",
-      "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/"
-      },
-      "tags": [
-        "官方",
-        "开发工具"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Proactive cyber defense for governments and enterprises。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Architecting memory and storage in the AI era。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -120,174 +97,36 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260904_q001",
-      "title": "Safety overview: GPT-6 Astra",
-      "originalTitle": "Safety overview: GPT-6 Astra",
+      "id": "20260906_q001",
+      "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
+      "originalTitle": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Thu, 03 Sep 2026 00:00:00 GMT",
-      "crawlDate": "2026-09-04",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/safety-overview-gpt-6-astra"
-      },
-      "tags": [
-        "官方",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Safety overview: GPT-6 Astra。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260904_q002",
-      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "originalTitle": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 02 Sep 2026 12:00:00 GMT",
-      "crawlDate": "2026-09-04",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/atv-big-air-tour"
-      },
-      "tags": [
-        "官方",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260904_q003",
-      "title": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
-      "originalTitle": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 04 Sep 2026 09:23:24 +0000",
-      "crawlDate": "2026-09-04",
+      "publishDate": "Sat, 05 Sep 2026 04:24:25 +0000",
+      "crawlDate": "2026-09-06",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/484547.html"
+        "url": "https://www.qbitai.com/2026/09/484649.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "趋境科技与摩尔线程达成战略合作，高品质 AI Token 国产异构方案性价比超越国际先进算力。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260904_q004",
-      "title": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
-      "originalTitle": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 04 Sep 2026 09:19:29 +0000",
-      "crawlDate": "2026-09-04",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/484437.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "机器人不能停下来等模型：星尘发布 SmoothRL，让在线强化学习跟上大模型的异步推理。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260904_q005",
-      "title": "金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源",
-      "originalTitle": "金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 04 Sep 2026 07:09:43 +0000",
-      "crawlDate": "2026-09-04",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/484203.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "金融AI的年度大考交卷了：2万名选手、30+家机构、百亿级数据开源。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260904_q006",
-      "title": "The latest AI news we announced in August 2026",
-      "originalTitle": "The latest AI news we announced in August 2026",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 01 Sep 2026 20:45:00 +0000",
-      "crawlDate": "2026-09-04",
-      "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The latest AI news we announced in August 2026。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260904_q007",
-      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
-      "originalTitle": "Try Google Pics: Easy image creation and editing in Google Workspace",
-      "category": "image-video",
-      "categoryName": "AI绘画/视频",
-      "publishDate": "Tue, 01 Sep 2026 16:00:00 +0000",
-      "crawlDate": "2026-09-04",
-      "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/"
-      },
-      "tags": [
-        "官方",
-        "AI绘画/视频"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Try Google Pics: Easy image creation and editing in Google Workspace。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260904_q008",
+      "id": "20260906_q002",
       "title": "The Download: selling battlefield drone data and AI reshaping language",
       "originalTitle": "The Download: selling battlefield drone data and AI reshaping language",
       "category": "research",
       "categoryName": "科研突破",
       "publishDate": "Fri, 04 Sep 2026 12:10:00 +0000",
-      "crawlDate": "2026-09-04",
+      "crawlDate": "2026-09-06",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -304,13 +143,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260904_q009",
+      "id": "20260906_q003",
       "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
       "originalTitle": "Data from drones in Ukraine is fueling a new Wild West marketplace",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 04 Sep 2026 09:25:19 +0000",
-      "crawlDate": "2026-09-04",
+      "crawlDate": "2026-09-06",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -325,32 +164,9 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260904_q010",
-      "title": "The Download: rethinking child safety and fossil-fueled farming",
-      "originalTitle": "The Download: rethinking child safety and fossil-fueled farming",
-      "category": "application",
-      "categoryName": "应用落地",
-      "publishDate": "Thu, 03 Sep 2026 12:10:00 +0000",
-      "crawlDate": "2026-09-04",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/"
-      },
-      "tags": [
-        "媒体",
-        "应用落地"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Download: rethinking child safety and fossil-fueled farming。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 15,
+  "total": 7,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
