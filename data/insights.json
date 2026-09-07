@@ -1,84 +1,178 @@
 {
-  "date": "20260906",
-  "updateTime": "2026-09-06T15:03:02.056Z",
+  "date": "20260907",
+  "updateTime": "2026-09-07T17:23:57.951Z",
   "headlines": [
     {
-      "id": "20260906_001",
-      "title": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
-      "originalTitle": "B站首届AI创造公开赛收官，超八成参赛者为一人团队",
+      "id": "20260907_001",
+      "title": "Supporting independent journalism in Ukraine",
+      "originalTitle": "Supporting independent journalism in Ukraine",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 07 Sep 2026 00:00:00 GMT",
+      "crawlDate": "2026-09-07",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Supporting independent journalism in Ukraine。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260907_002",
+      "title": "An Alien Mind",
+      "originalTitle": "An Alien Mind",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Sun, 06 Sep 2026 04:40:15 +0000",
-      "crawlDate": "2026-09-06",
+      "publishDate": "Sun, 06 Sep 2026 09:00:00 GMT",
+      "crawlDate": "2026-09-07",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/an-alien-mind"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "An Alien Mind。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260907_003",
+      "title": "Research acceleration: The view inside OpenAI",
+      "originalTitle": "Research acceleration: The view inside OpenAI",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Sun, 06 Sep 2026 08:00:00 GMT",
+      "crawlDate": "2026-09-07",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/research-acceleration-view-inside-openai"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Research acceleration: The view inside OpenAI。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260907_004",
+      "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
+      "originalTitle": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 07 Sep 2026 09:04:06 +0000",
+      "crawlDate": "2026-09-07",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/484890.html"
+        "url": "https://www.qbitai.com/2026/09/485431.html"
+      },
+      "tags": [
+        "媒体",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260907_005",
+      "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
+      "originalTitle": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 07 Sep 2026 08:36:30 +0000",
+      "crawlDate": "2026-09-07",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/09/485108.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "B站首届AI创造公开赛收官，超八成参赛者为一人团队。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
+    }
+  ],
+  "quickBrowse": [
     {
-      "id": "20260906_002",
-      "title": "GPT-6带火循环Transformer，阿里早已布局",
-      "originalTitle": "GPT-6带火循环Transformer，阿里早已布局",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Sat, 05 Sep 2026 15:07:08 +0000",
-      "crawlDate": "2026-09-06",
+      "id": "20260907_q001",
+      "title": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
+      "originalTitle": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 07 Sep 2026 06:53:26 +0000",
+      "crawlDate": "2026-09-07",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/484726.html"
+        "url": "https://www.qbitai.com/2026/09/485064.html"
       },
       "tags": [
         "媒体",
-        "科研突破"
+        "Agent"
       ],
-      "isHeadline": true,
-      "coreInsight": "GPT-6带火循环Transformer，阿里早已布局。该技术值得关注，建议评估其落地可行性。",
+      "isHeadline": false,
+      "coreInsight": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260906_003",
-      "title": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
-      "originalTitle": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sat, 05 Sep 2026 14:46:15 +0000",
-      "crawlDate": "2026-09-06",
+      "id": "20260907_q002",
+      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+      "originalTitle": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 07 Sep 2026 12:10:00 +0000",
+      "crawlDate": "2026-09-07",
       "source": {
-        "name": "量子位",
+        "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/484683.html"
+        "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "Agent"
       ],
-      "isHeadline": true,
-      "coreInsight": "押中SpaceX的硅谷老将，把票投给了一家中国世界模型公司。该技术值得关注，建议评估其落地可行性。",
+      "isHeadline": false,
+      "coreInsight": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260906_004",
+      "id": "20260907_q003",
       "title": "Architecting memory and storage in the AI era",
       "originalTitle": "Architecting memory and storage in the AI era",
       "category": "research",
       "categoryName": "科研突破",
       "publishDate": "Fri, 04 Sep 2026 18:39:19 +0000",
-      "crawlDate": "2026-09-06",
+      "crawlDate": "2026-09-07",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -88,85 +182,14 @@
         "媒体",
         "科研突破"
       ],
-      "isHeadline": true,
+      "isHeadline": false,
       "coreInsight": "Architecting memory and storage in the AI era。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "quickBrowse": [
-    {
-      "id": "20260906_q001",
-      "title": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
-      "originalTitle": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sat, 05 Sep 2026 04:24:25 +0000",
-      "crawlDate": "2026-09-06",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/484649.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "陶哲轩吐槽GPT-6孪生素数新突破：令人无语的一幕。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260906_q002",
-      "title": "The Download: selling battlefield drone data and AI reshaping language",
-      "originalTitle": "The Download: selling battlefield drone data and AI reshaping language",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Fri, 04 Sep 2026 12:10:00 +0000",
-      "crawlDate": "2026-09-06",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/09/04/1143457/the-download-ukraine-selling-drone-data-ai-reshaping-language/"
-      },
-      "tags": [
-        "媒体",
-        "科研突破"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Download: selling battlefield drone data and AI reshaping language。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260906_q003",
-      "title": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-      "originalTitle": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 04 Sep 2026 09:25:19 +0000",
-      "crawlDate": "2026-09-06",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Data from drones in Ukraine is fueling a new Wild West marketplace。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "total": 7,
+  "total": 8,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
