@@ -1,118 +1,118 @@
 {
-  "date": "20260908",
-  "updateTime": "2026-09-08T02:04:26.479Z",
+  "date": "20260909",
+  "updateTime": "2026-09-09T02:09:07.493Z",
   "headlines": [
     {
-      "id": "20260908_001",
-      "title": "Supporting independent journalism in Ukraine",
-      "originalTitle": "Supporting independent journalism in Ukraine",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Mon, 07 Sep 2026 00:00:00 GMT",
-      "crawlDate": "2026-09-08",
+      "id": "20260909_001",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "originalTitle": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Tue, 08 Sep 2026 17:00:00 GMT",
+      "crawlDate": "2026-09-09",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/supporting-independent-journalism-in-ukraine"
+        "url": "https://openai.com/index/codex-quantum-computing-experiments"
       },
       "tags": [
         "官方",
-        "企业动态"
+        "科研突破"
       ],
       "isHeadline": true,
-      "coreInsight": "Supporting independent journalism in Ukraine。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "How GPT-5.6 Sol helps run quantum computing experiments。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260908_002",
-      "title": "An Alien Mind",
-      "originalTitle": "An Alien Mind",
+      "id": "20260909_002",
+      "title": "The Work Now Within Reach",
+      "originalTitle": "The Work Now Within Reach",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Sun, 06 Sep 2026 09:00:00 GMT",
-      "crawlDate": "2026-09-08",
+      "publishDate": "Tue, 08 Sep 2026 13:00:00 GMT",
+      "crawlDate": "2026-09-09",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/an-alien-mind"
+        "url": "https://openai.com/index/the-work-now-within-reach"
       },
       "tags": [
         "官方",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "An Alien Mind。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Work Now Within Reach。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260908_003",
-      "title": "Research acceleration: The view inside OpenAI",
-      "originalTitle": "Research acceleration: The view inside OpenAI",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Sun, 06 Sep 2026 08:00:00 GMT",
-      "crawlDate": "2026-09-08",
+      "id": "20260909_003",
+      "title": "Introducing ChatGPT Images 2.5",
+      "originalTitle": "Introducing ChatGPT Images 2.5",
+      "category": "image-video",
+      "categoryName": "AI绘画/视频",
+      "publishDate": "Tue, 08 Sep 2026 11:30:00 GMT",
+      "crawlDate": "2026-09-09",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/research-acceleration-view-inside-openai"
+        "url": "https://openai.com/index/introducing-chatgpt-images-2-5"
       },
       "tags": [
         "官方",
-        "Agent"
+        "AI绘画/视频"
       ],
       "isHeadline": true,
-      "coreInsight": "Research acceleration: The view inside OpenAI。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Introducing ChatGPT Images 2.5。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260908_004",
-      "title": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
-      "originalTitle": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Mon, 07 Sep 2026 09:04:06 +0000",
-      "crawlDate": "2026-09-08",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/485431.html"
-      },
-      "tags": [
-        "媒体",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "GPT-6不只Astra！Sol内测结果曝光，速度快6倍。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260908_005",
-      "title": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
-      "originalTitle": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3",
+      "id": "20260909_004",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "originalTitle": "On the Navier–Stokes Millennium Prize Problem",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Mon, 07 Sep 2026 08:36:30 +0000",
-      "crawlDate": "2026-09-08",
+      "publishDate": "Tue, 08 Sep 2026 10:00:00 GMT",
+      "crawlDate": "2026-09-09",
       "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/485108.html"
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/navier-stokes-solution"
       },
       "tags": [
-        "媒体",
+        "官方",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "菲尔兹奖得主入局大模型！4B手机Qwen+云端GLM刷爆ARC-AGI 3。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "On the Navier–Stokes Millennium Prize Problem。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260909_005",
+      "title": "Funding grants for new research into AI and teen development",
+      "originalTitle": "Funding grants for new research into AI and teen development",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Tue, 08 Sep 2026 09:00:00 GMT",
+      "crawlDate": "2026-09-09",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/teen-development-research-grants"
+      },
+      "tags": [
+        "官方",
+        "科研突破"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Funding grants for new research into AI and teen development。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -120,53 +120,145 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260908_q001",
-      "title": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
-      "originalTitle": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Mon, 07 Sep 2026 06:53:26 +0000",
-      "crawlDate": "2026-09-08",
+      "id": "20260909_q001",
+      "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
+      "originalTitle": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 08 Sep 2026 06:05:30 +0000",
+      "crawlDate": "2026-09-09",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/485064.html"
+        "url": "https://www.qbitai.com/2026/09/485854.html"
       },
       "tags": [
         "媒体",
-        "Agent"
+        "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "国内首份办公Agent用户行为报告发布：北京用户量全国居首，海外用户占比超12%。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260908_q002",
-      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
-      "originalTitle": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Mon, 07 Sep 2026 12:10:00 +0000",
-      "crawlDate": "2026-09-08",
+      "id": "20260909_q002",
+      "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
+      "originalTitle": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 08 Sep 2026 03:22:17 +0000",
+      "crawlDate": "2026-09-09",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/09/485784.html"
+      },
+      "tags": [
+        "媒体",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260909_q003",
+      "title": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递",
+      "originalTitle": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 08 Sep 2026 02:42:24 +0000",
+      "crawlDate": "2026-09-09",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/09/485630.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "深入马来西亚AI现场！WAIC CONNECT MALAYSIA首日亮点全速递。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260909_q004",
+      "title": "The Download: our 35 Innovators Under 35 this year",
+      "originalTitle": "The Download: our 35 Innovators Under 35 this year",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 08 Sep 2026 12:10:00 +0000",
+      "crawlDate": "2026-09-09",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/"
+        "url": "https://www.technologyreview.com/2026/09/08/1143615/the-download-35-innovators-under-35-spiderwebs-measuring-nature/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The Download: our 35 Innovators Under 35 this year。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260909_q005",
+      "title": "This founder is teaching chips how to recycle (their energy)",
+      "originalTitle": "This founder is teaching chips how to recycle (their energy)",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 08 Sep 2026 10:36:00 +0000",
+      "crawlDate": "2026-09-09",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "This founder is teaching chips how to recycle (their energy)。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260909_q006",
+      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "originalTitle": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Tue, 08 Sep 2026 10:34:00 +0000",
+      "crawlDate": "2026-09-09",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/"
       },
       "tags": [
         "媒体",
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "This AI entrepreneur is developing agents that can plan ahead for the unexpected。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 7,
+  "total": 11,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
