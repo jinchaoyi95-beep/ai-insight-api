@@ -1,9 +1,55 @@
 {
   "date": "20260910",
-  "updateTime": "2026-09-10T02:06:32.312Z",
+  "updateTime": "2026-09-10T15:57:01.136Z",
   "headlines": [
     {
       "id": "20260910_001",
+      "title": "Now everyone can put data to work",
+      "originalTitle": "Now everyone can put data to work",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Thu, 10 Sep 2026 15:00:00 GMT",
+      "crawlDate": "2026-09-10",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/put-data-to-work"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Now everyone can put data to work。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260910_002",
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "originalTitle": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Thu, 10 Sep 2026 07:00:00 GMT",
+      "crawlDate": "2026-09-10",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/expanding-ai-access-us-government"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Expanding AI access and cyber defense for federal, state, local, and tribal governments。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260910_003",
       "title": "The AI policy window is open. We need to act.",
       "originalTitle": "The AI policy window is open. We need to act.",
       "category": "llm",
@@ -26,7 +72,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260910_002",
+      "id": "20260910_004",
       "title": "GPT-6 Astra: The next generation in intelligence for work",
       "originalTitle": "GPT-6 Astra: The next generation in intelligence for work",
       "category": "company",
@@ -49,7 +95,32 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260910_003",
+      "id": "20260910_005",
+      "title": "ECCV上，顶尖学者们开始研究如何让AI做生意了",
+      "originalTitle": "ECCV上，顶尖学者们开始研究如何让AI做生意了",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 10 Sep 2026 10:17:46 +0000",
+      "crawlDate": "2026-09-10",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/09/486934.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "ECCV上，顶尖学者们开始研究如何让AI做生意了。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    }
+  ],
+  "quickBrowse": [
+    {
+      "id": "20260910_q001",
       "title": "Paul Christiano joins OpenAI Foundation Board",
       "originalTitle": "Paul Christiano joins OpenAI Foundation Board",
       "category": "company",
@@ -65,148 +136,77 @@
         "官方",
         "企业动态"
       ],
-      "isHeadline": true,
+      "isHeadline": false,
       "coreInsight": "Paul Christiano joins OpenAI Foundation Board。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260910_004",
-      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "originalTitle": "How GPT-5.6 Sol helps run quantum computing experiments",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Tue, 08 Sep 2026 17:00:00 GMT",
-      "crawlDate": "2026-09-10",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/codex-quantum-computing-experiments"
-      },
-      "tags": [
-        "官方",
-        "科研突破"
-      ],
-      "isHeadline": true,
-      "coreInsight": "How GPT-5.6 Sol helps run quantum computing experiments。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260910_005",
-      "title": "The Work Now Within Reach",
-      "originalTitle": "The Work Now Within Reach",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 08 Sep 2026 13:00:00 GMT",
-      "crawlDate": "2026-09-10",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/the-work-now-within-reach"
-      },
-      "tags": [
-        "官方",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "The Work Now Within Reach。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
-    {
-      "id": "20260910_q001",
-      "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
-      "originalTitle": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 10 Sep 2026 01:39:13 +0000",
-      "crawlDate": "2026-09-10",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/486436.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
       "id": "20260910_q002",
-      "title": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
-      "originalTitle": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计",
+      "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
+      "originalTitle": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Wed, 09 Sep 2026 19:24:22 +0000",
+      "publishDate": "Thu, 10 Sep 2026 08:17:05 +0000",
       "crawlDate": "2026-09-10",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/486450.html"
+        "url": "https://www.qbitai.com/2026/09/486900.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "刚刚，苹果首款折叠屏发布！15999元起，AI参与设计。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260910_q003",
-      "title": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
-      "originalTitle": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 09 Sep 2026 09:57:54 +0000",
+      "title": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
+      "originalTitle": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
+      "category": "image-video",
+      "categoryName": "AI绘画/视频",
+      "publishDate": "Thu, 10 Sep 2026 07:57:55 +0000",
       "crawlDate": "2026-09-10",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/486370.html"
+        "url": "https://www.qbitai.com/2026/09/486747.html"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "AI绘画/视频"
       ],
       "isHeadline": false,
-      "coreInsight": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260910_q004",
-      "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
-      "originalTitle": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 09 Sep 2026 05:02:30 +0000",
+      "title": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
+      "originalTitle": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线",
+      "category": "image-video",
+      "categoryName": "AI绘画/视频",
+      "publishDate": "Thu, 10 Sep 2026 07:25:39 +0000",
       "crawlDate": "2026-09-10",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/486288.html"
+        "url": "https://www.qbitai.com/2026/09/486684.html"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "AI绘画/视频"
       ],
       "isHeadline": false,
-      "coreInsight": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "AGI时代的第一个生图模型，ChatGPT Images 2.5上线。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -282,52 +282,75 @@
     },
     {
       "id": "20260910_q008",
-      "title": "The Download: OpenAI’s turning point for math and a battery record",
-      "originalTitle": "The Download: OpenAI’s turning point for math and a battery record",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Wed, 09 Sep 2026 12:10:00 +0000",
-      "crawlDate": "2026-09-10",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Download: OpenAI’s turning point for math and a battery record。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260910_q009",
-      "title": "Batteries just broke another record in the US",
-      "originalTitle": "Batteries just broke another record in the US",
+      "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
+      "originalTitle": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Wed, 09 Sep 2026 09:00:00 +0000",
+      "publishDate": "Thu, 10 Sep 2026 12:10:00 +0000",
       "crawlDate": "2026-09-10",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/"
+        "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "Batteries just broke another record in the US。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260910_q009",
+      "title": "Powering AI is an architecture problem",
+      "originalTitle": "Powering AI is an architecture problem",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 10 Sep 2026 11:00:00 +0000",
+      "crawlDate": "2026-09-10",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Powering AI is an architecture problem。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260910_q010",
+      "title": "This road map could help us decide whether to deploy solar geoengineering",
+      "originalTitle": "This road map could help us decide whether to deploy solar geoengineering",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 10 Sep 2026 11:00:00 +0000",
+      "crawlDate": "2026-09-10",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "This road map could help us decide whether to deploy solar geoengineering。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 14,
+  "total": 15,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
