@@ -1,6 +1,6 @@
 {
   "date": "20260911",
-  "updateTime": "2026-09-11T02:03:46.408Z",
+  "updateTime": "2026-09-11T16:00:23.352Z",
   "headlines": [
     {
       "id": "20260911_001",
@@ -96,23 +96,23 @@
     },
     {
       "id": "20260911_005",
-      "title": "Introducing the Agents API",
-      "originalTitle": "Introducing the Agents API",
-      "category": "agent",
-      "categoryName": "Agent",
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "originalTitle": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "category": "llm",
+      "categoryName": "大语言模型",
       "publishDate": "Thu, 10 Sep 2026 00:00:00 GMT",
       "crawlDate": "2026-09-11",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/introducing-the-agents-api"
+        "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api"
       },
       "tags": [
         "官方",
-        "Agent"
+        "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "Introducing the Agents API。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Build more natural voice experiences with GPT‑Live‑1 in the API。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -121,75 +121,52 @@
   "quickBrowse": [
     {
       "id": "20260911_q001",
-      "title": "ECCV上，顶尖学者们开始研究如何让AI做生意了",
-      "originalTitle": "ECCV上，顶尖学者们开始研究如何让AI做生意了",
+      "title": "不简单，“吃货快乐榜”也全面AI化了",
+      "originalTitle": "不简单，“吃货快乐榜”也全面AI化了",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Thu, 10 Sep 2026 10:17:46 +0000",
+      "publishDate": "Fri, 11 Sep 2026 08:59:28 +0000",
       "crawlDate": "2026-09-11",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/486934.html"
+        "url": "https://www.qbitai.com/2026/09/487282.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "ECCV上，顶尖学者们开始研究如何让AI做生意了。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "不简单，“吃货快乐榜”也全面AI化了。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260911_q002",
-      "title": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
-      "originalTitle": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口",
+      "title": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
+      "originalTitle": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Thu, 10 Sep 2026 08:17:05 +0000",
+      "publishDate": "Fri, 11 Sep 2026 06:19:03 +0000",
       "crawlDate": "2026-09-11",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/486900.html"
+        "url": "https://www.qbitai.com/2026/09/487273.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "全球首个3D原生城市世界模型ABot-Earth 0.7发布，构建AI理解真实世界的入口。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260911_q003",
-      "title": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
-      "originalTitle": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源",
-      "category": "image-video",
-      "categoryName": "AI绘画/视频",
-      "publishDate": "Thu, 10 Sep 2026 07:57:55 +0000",
-      "crawlDate": "2026-09-11",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/486747.html"
-      },
-      "tags": [
-        "媒体",
-        "AI绘画/视频"
-      ],
-      "isHeadline": false,
-      "coreInsight": "全球首个可仿真的人–场景交互重建框架 HSImul3R：让人类视频真正成为机器人技能来源。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260911_q004",
       "title": "3 ways to prep for your next big race with Search",
       "originalTitle": "3 ways to prep for your next big race with Search",
       "category": "llm",
@@ -212,7 +189,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260911_q005",
+      "id": "20260911_q004",
       "title": "Get ready for the game with new football features in Search",
       "originalTitle": "Get ready for the game with new football features in Search",
       "category": "llm",
@@ -235,7 +212,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260911_q006",
+      "id": "20260911_q005",
       "title": "Recreating a 70-year love story frame by frame",
       "originalTitle": "Recreating a 70-year love story frame by frame",
       "category": "company",
@@ -258,7 +235,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260911_q007",
+      "id": "20260911_q006",
       "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
       "originalTitle": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
       "category": "research",
@@ -276,6 +253,29 @@
       ],
       "isHeadline": false,
       "coreInsight": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260911_q007",
+      "title": "The Download: biotech’s future and cheaper, cleaner steel",
+      "originalTitle": "The Download: biotech’s future and cheaper, cleaner steel",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 11 Sep 2026 12:10:00 +0000",
+      "crawlDate": "2026-09-11",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The Download: biotech’s future and cheaper, cleaner steel。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -302,55 +302,9 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260911_q009",
-      "title": "Powering AI is an architecture problem",
-      "originalTitle": "Powering AI is an architecture problem",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 10 Sep 2026 11:00:00 +0000",
-      "crawlDate": "2026-09-11",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Powering AI is an architecture problem。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260911_q010",
-      "title": "This road map could help us decide whether to deploy solar geoengineering",
-      "originalTitle": "This road map could help us decide whether to deploy solar geoengineering",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 10 Sep 2026 11:00:00 +0000",
-      "crawlDate": "2026-09-11",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "This road map could help us decide whether to deploy solar geoengineering。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 15,
+  "total": 13,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
