@@ -1,15 +1,84 @@
 {
-  "date": "20260911",
-  "updateTime": "2026-09-11T16:00:23.352Z",
+  "date": "20260912",
+  "updateTime": "2026-09-12T15:08:27.005Z",
   "headlines": [
     {
-      "id": "20260911_001",
+      "id": "20260912_001",
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "originalTitle": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Mon, 14 Sep 2026 00:00:00 GMT",
+      "crawlDate": "2026-09-12",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+      },
+      "tags": [
+        "官方",
+        "应用落地"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Perplexity trusts GPT-6 Astra with end-to-end systems。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260912_002",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "originalTitle": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Fri, 11 Sep 2026 10:00:00 GMT",
+      "crawlDate": "2026-09-12",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Rapidly scaling online storage to serve over 1 billion ChatGPT users。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260912_003",
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "originalTitle": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Fri, 11 Sep 2026 16:00:00 GMT",
+      "crawlDate": "2026-09-12",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/cognition-devin-testing-with-astra"
+      },
+      "tags": [
+        "官方",
+        "开发工具"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Cognition helps Devin test its own work with GPT‑6 Astra。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260912_004",
       "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
       "originalTitle": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
       "category": "research",
       "categoryName": "科研突破",
       "publishDate": "Thu, 10 Sep 2026 16:00:00 GMT",
-      "crawlDate": "2026-09-11",
+      "crawlDate": "2026-09-12",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +95,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260911_002",
+      "id": "20260912_005",
       "title": "Now everyone can put data to work",
       "originalTitle": "Now everyone can put data to work",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Thu, 10 Sep 2026 15:00:00 GMT",
-      "crawlDate": "2026-09-11",
+      "crawlDate": "2026-09-12",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -47,132 +116,63 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260911_003",
-      "title": "Introducing ChatGPT for Financial Services",
-      "originalTitle": "Introducing ChatGPT for Financial Services",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Thu, 10 Sep 2026 07:00:00 GMT",
-      "crawlDate": "2026-09-11",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/introducing-chatgpt-financial-services"
-      },
-      "tags": [
-        "官方",
-        "科研突破"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Introducing ChatGPT for Financial Services。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260911_004",
-      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "originalTitle": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Thu, 10 Sep 2026 07:00:00 GMT",
-      "crawlDate": "2026-09-11",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/expanding-ai-access-us-government"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Expanding AI access and cyber defense for federal, state, local, and tribal governments。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260911_005",
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "originalTitle": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 10 Sep 2026 00:00:00 GMT",
-      "crawlDate": "2026-09-11",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api"
-      },
-      "tags": [
-        "官方",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Build more natural voice experiences with GPT‑Live‑1 in the API。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
   "quickBrowse": [
     {
-      "id": "20260911_q001",
-      "title": "不简单，“吃货快乐榜”也全面AI化了",
-      "originalTitle": "不简单，“吃货快乐榜”也全面AI化了",
+      "id": "20260912_q001",
+      "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
+      "originalTitle": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Fri, 11 Sep 2026 08:59:28 +0000",
-      "crawlDate": "2026-09-11",
+      "publishDate": "Sat, 12 Sep 2026 08:49:02 +0000",
+      "crawlDate": "2026-09-12",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/487282.html"
+        "url": "https://www.qbitai.com/2026/09/487796.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "不简单，“吃货快乐榜”也全面AI化了。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260911_q002",
-      "title": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
-      "originalTitle": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济",
+      "id": "20260912_q002",
+      "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
+      "originalTitle": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Fri, 11 Sep 2026 06:19:03 +0000",
-      "crawlDate": "2026-09-11",
+      "publishDate": "Sat, 12 Sep 2026 07:33:54 +0000",
+      "crawlDate": "2026-09-12",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/487273.html"
+        "url": "https://www.qbitai.com/2026/09/487701.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "墨芯人工智能亮相2026 Inclusion·外滩大会：以专用稀疏推理芯片提升算力效能，共创AI新经济。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260911_q003",
+      "id": "20260912_q003",
       "title": "3 ways to prep for your next big race with Search",
       "originalTitle": "3 ways to prep for your next big race with Search",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Thu, 10 Sep 2026 16:00:00 +0000",
-      "crawlDate": "2026-09-11",
+      "crawlDate": "2026-09-12",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -189,13 +189,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260911_q004",
+      "id": "20260912_q004",
       "title": "Get ready for the game with new football features in Search",
       "originalTitle": "Get ready for the game with new football features in Search",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Wed, 09 Sep 2026 16:00:00 +0000",
-      "crawlDate": "2026-09-11",
+      "crawlDate": "2026-09-12",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -212,13 +212,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260911_q005",
+      "id": "20260912_q005",
       "title": "Recreating a 70-year love story frame by frame",
       "originalTitle": "Recreating a 70-year love story frame by frame",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Wed, 09 Sep 2026 16:00:00 +0000",
-      "crawlDate": "2026-09-11",
+      "crawlDate": "2026-09-12",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -235,36 +235,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260911_q006",
-      "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
-      "originalTitle": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Wed, 09 Sep 2026 11:14:25 GMT",
-      "crawlDate": "2026-09-11",
+      "id": "20260912_q006",
+      "title": "Roundtables: AI’s apocalypse crisis",
+      "originalTitle": "Roundtables: AI’s apocalypse crisis",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 11 Sep 2026 20:05:06 +0000",
+      "crawlDate": "2026-09-12",
       "source": {
-        "name": "Sebastian Raschka",
-        "type": "专家",
-        "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and"
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/"
       },
       "tags": [
-        "专家",
-        "科研突破"
+        "媒体",
+        "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Roundtables: AI’s apocalypse crisis。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260911_q007",
+      "id": "20260912_q007",
       "title": "The Download: biotech’s future and cheaper, cleaner steel",
       "originalTitle": "The Download: biotech’s future and cheaper, cleaner steel",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 11 Sep 2026 12:10:00 +0000",
-      "crawlDate": "2026-09-11",
+      "crawlDate": "2026-09-12",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -279,32 +279,9 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260911_q008",
-      "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
-      "originalTitle": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 10 Sep 2026 12:10:00 +0000",
-      "crawlDate": "2026-09-11",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 13,
+  "total": 12,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
