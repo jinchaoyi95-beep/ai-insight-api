@@ -1,15 +1,15 @@
 {
-  "date": "20260912",
-  "updateTime": "2026-09-12T15:08:27.005Z",
+  "date": "20260913",
+  "updateTime": "2026-09-13T15:44:24.555Z",
   "headlines": [
     {
-      "id": "20260912_001",
+      "id": "20260913_001",
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "originalTitle": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "category": "application",
       "categoryName": "应用落地",
       "publishDate": "Mon, 14 Sep 2026 00:00:00 GMT",
-      "crawlDate": "2026-09-12",
+      "crawlDate": "2026-09-13",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +26,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260912_002",
+      "id": "20260913_002",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
       "originalTitle": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 11 Sep 2026 10:00:00 GMT",
-      "crawlDate": "2026-09-12",
+      "crawlDate": "2026-09-13",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,13 +49,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260912_003",
+      "id": "20260913_003",
       "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
       "originalTitle": "Cognition helps Devin test its own work with GPT‑6 Astra",
       "category": "devtool",
       "categoryName": "开发工具",
       "publishDate": "Fri, 11 Sep 2026 16:00:00 GMT",
-      "crawlDate": "2026-09-12",
+      "crawlDate": "2026-09-13",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -72,13 +72,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260912_004",
+      "id": "20260913_004",
       "title": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
       "originalTitle": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
       "category": "research",
       "categoryName": "科研突破",
       "publishDate": "Thu, 10 Sep 2026 16:00:00 GMT",
-      "crawlDate": "2026-09-12",
+      "crawlDate": "2026-09-13",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -95,24 +95,24 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260912_005",
-      "title": "Now everyone can put data to work",
-      "originalTitle": "Now everyone can put data to work",
+      "id": "20260913_005",
+      "title": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你",
+      "originalTitle": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Thu, 10 Sep 2026 15:00:00 GMT",
-      "crawlDate": "2026-09-12",
+      "publishDate": "Sun, 13 Sep 2026 06:40:25 +0000",
+      "crawlDate": "2026-09-13",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/put-data-to-work"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/09/488447.html"
       },
       "tags": [
-        "官方",
+        "媒体",
         "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "Now everyone can put data to work。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -120,59 +120,36 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260912_q001",
-      "title": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
-      "originalTitle": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sat, 12 Sep 2026 08:49:02 +0000",
-      "crawlDate": "2026-09-12",
+      "id": "20260913_q001",
+      "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
+      "originalTitle": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Sun, 13 Sep 2026 03:13:00 +0000",
+      "crawlDate": "2026-09-13",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/487796.html"
+        "url": "https://www.qbitai.com/2026/09/488380.html"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "A社承认Claude安全对齐存在缺陷，但“尚无解决方案”。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260912_q002",
-      "title": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
-      "originalTitle": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sat, 12 Sep 2026 07:33:54 +0000",
-      "crawlDate": "2026-09-12",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/487701.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "AI数学的最后一道高墙，塌了！GPT-6 Astra刷穿FrontierMath Tier 4。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260912_q003",
+      "id": "20260913_q002",
       "title": "3 ways to prep for your next big race with Search",
       "originalTitle": "3 ways to prep for your next big race with Search",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Thu, 10 Sep 2026 16:00:00 +0000",
-      "crawlDate": "2026-09-12",
+      "crawlDate": "2026-09-13",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -189,59 +166,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260912_q004",
-      "title": "Get ready for the game with new football features in Search",
-      "originalTitle": "Get ready for the game with new football features in Search",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 09 Sep 2026 16:00:00 +0000",
-      "crawlDate": "2026-09-12",
-      "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/products-and-platforms/products/search/football-features-google-search/"
-      },
-      "tags": [
-        "官方",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Get ready for the game with new football features in Search。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260912_q005",
-      "title": "Recreating a 70-year love story frame by frame",
-      "originalTitle": "Recreating a 70-year love story frame by frame",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Wed, 09 Sep 2026 16:00:00 +0000",
-      "crawlDate": "2026-09-12",
-      "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Recreating a 70-year love story frame by frame。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260912_q006",
-      "title": "Roundtables: AI’s apocalypse crisis",
-      "originalTitle": "Roundtables: AI’s apocalypse crisis",
+      "id": "20260913_q003",
+      "title": "Roundtables: Could AI really kill us all?",
+      "originalTitle": "Roundtables: Could AI really kill us all?",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 11 Sep 2026 20:05:06 +0000",
-      "crawlDate": "2026-09-12",
+      "crawlDate": "2026-09-13",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -252,19 +183,19 @@
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "Roundtables: AI’s apocalypse crisis。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Roundtables: Could AI really kill us all?。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260912_q007",
+      "id": "20260913_q004",
       "title": "The Download: biotech’s future and cheaper, cleaner steel",
       "originalTitle": "The Download: biotech’s future and cheaper, cleaner steel",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 11 Sep 2026 12:10:00 +0000",
-      "crawlDate": "2026-09-12",
+      "crawlDate": "2026-09-13",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -281,7 +212,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 12,
+  "total": 9,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
