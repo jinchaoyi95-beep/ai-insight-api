@@ -1,9 +1,32 @@
 {
   "date": "20260914",
-  "updateTime": "2026-09-14T02:23:03.157Z",
+  "updateTime": "2026-09-14T17:50:25.350Z",
   "headlines": [
     {
       "id": "20260914_001",
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "originalTitle": "How Fyxer built an AI executive assistant people trust",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 14 Sep 2026 12:00:00 GMT",
+      "crawlDate": "2026-09-14",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/fyxer"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "How Fyxer built an AI executive assistant people trust。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260914_002",
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "originalTitle": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "category": "application",
@@ -26,147 +49,77 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260914_002",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "originalTitle": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Fri, 11 Sep 2026 10:00:00 GMT",
-      "crawlDate": "2026-09-14",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Rapidly scaling online storage to serve over 1 billion ChatGPT users。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
       "id": "20260914_003",
-      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "originalTitle": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Fri, 11 Sep 2026 16:00:00 GMT",
+      "title": "DevFest is back",
+      "originalTitle": "DevFest is back",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 14 Sep 2026 16:00:00 +0000",
       "crawlDate": "2026-09-14",
       "source": {
-        "name": "OpenAI Blog",
+        "name": "Google AI",
         "type": "官方",
-        "url": "https://openai.com/index/cognition-devin-testing-with-astra"
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/"
       },
       "tags": [
         "官方",
-        "开发工具"
+        "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "Cognition helps Devin test its own work with GPT‑6 Astra。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "DevFest is back。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260914_004",
-      "title": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你",
-      "originalTitle": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你",
+      "title": "AI agents blew the whistle on their cheating colleagues",
+      "originalTitle": "AI agents blew the whistle on their cheating colleagues",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Sun, 13 Sep 2026 06:40:25 +0000",
+      "publishDate": "Mon, 14 Sep 2026 16:00:00 +0000",
       "crawlDate": "2026-09-14",
       "source": {
-        "name": "量子位",
+        "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/488447.html"
+        "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/"
       },
       "tags": [
         "媒体",
         "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "今年外滩最特别Agent：能干活，能陪聊，还会朋友圈拉黑你。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "AI agents blew the whistle on their cheating colleagues。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260914_005",
-      "title": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
-      "originalTitle": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Sun, 13 Sep 2026 03:13:00 +0000",
+      "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
+      "originalTitle": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 14 Sep 2026 12:10:00 +0000",
       "crawlDate": "2026-09-14",
       "source": {
-        "name": "量子位",
+        "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/488380.html"
+        "url": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/"
       },
       "tags": [
         "媒体",
-        "企业动态"
+        "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "OpenAI年内不上市了！奥特曼支持对手Dario呼吁：AI该踩刹车了。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: AI’s real extinction threat and age-reversal tech for eyes。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "quickBrowse": [
-    {
-      "id": "20260914_q001",
-      "title": "Roundtables: Could AI really kill us all?",
-      "originalTitle": "Roundtables: Could AI really kill us all?",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 11 Sep 2026 20:05:06 +0000",
-      "crawlDate": "2026-09-14",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Roundtables: Could AI really kill us all?。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260914_q002",
-      "title": "The Download: biotech’s future and cheaper, cleaner steel",
-      "originalTitle": "The Download: biotech’s future and cheaper, cleaner steel",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 11 Sep 2026 12:10:00 +0000",
-      "crawlDate": "2026-09-14",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Download: biotech’s future and cheaper, cleaner steel。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "total": 7,
+  "quickBrowse": [],
+  "total": 5,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
