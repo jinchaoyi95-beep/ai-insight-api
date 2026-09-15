@@ -1,15 +1,15 @@
 {
-  "date": "20260914",
-  "updateTime": "2026-09-14T17:50:25.350Z",
+  "date": "20260915",
+  "updateTime": "2026-09-15T02:28:23.313Z",
   "headlines": [
     {
-      "id": "20260914_001",
+      "id": "20260915_001",
       "title": "How Fyxer built an AI executive assistant people trust",
       "originalTitle": "How Fyxer built an AI executive assistant people trust",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Mon, 14 Sep 2026 12:00:00 GMT",
-      "crawlDate": "2026-09-14",
+      "crawlDate": "2026-09-15",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +26,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260914_002",
+      "id": "20260915_002",
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "originalTitle": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "category": "application",
       "categoryName": "应用落地",
       "publishDate": "Mon, 14 Sep 2026 00:00:00 GMT",
-      "crawlDate": "2026-09-14",
+      "crawlDate": "2026-09-15",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,13 +49,59 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260914_003",
+      "id": "20260915_003",
+      "title": "首届蚂蚁灵波具身大模型挑战赛正式启动",
+      "originalTitle": "首届蚂蚁灵波具身大模型挑战赛正式启动",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 14 Sep 2026 09:47:07 +0000",
+      "crawlDate": "2026-09-15",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/09/489105.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "首届蚂蚁灵波具身大模型挑战赛正式启动。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260915_004",
+      "title": "全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证",
+      "originalTitle": "全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 14 Sep 2026 09:46:40 +0000",
+      "crawlDate": "2026-09-15",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/09/489106.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "全国唯一！商汤大装置临港AIDC获“算效+算电”双5A认证。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260915_005",
       "title": "DevFest is back",
       "originalTitle": "DevFest is back",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Mon, 14 Sep 2026 16:00:00 +0000",
-      "crawlDate": "2026-09-14",
+      "crawlDate": "2026-09-15",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -70,15 +116,86 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    }
+  ],
+  "quickBrowse": [
+    {
+      "id": "20260915_q001",
+      "title": "分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”",
+      "originalTitle": "分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 14 Sep 2026 08:17:22 +0000",
+      "crawlDate": "2026-09-15",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/09/489023.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "分子之心QuantaMind登Science Advances，让AI给分子世界”拍电影”。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260914_004",
+      "id": "20260915_q002",
+      "title": "端侧AI从「能跑」到「会进化」，元空智能跑进惠普预装",
+      "originalTitle": "端侧AI从「能跑」到「会进化」，元空智能跑进惠普预装",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 14 Sep 2026 08:08:29 +0000",
+      "crawlDate": "2026-09-15",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/09/488933.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "端侧AI从「能跑」到「会进化」，元空智能跑进惠普预装。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260915_q003",
+      "title": "The AI industry has taken a doomer turn. What now?",
+      "originalTitle": "The AI industry has taken a doomer turn. What now?",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 14 Sep 2026 17:54:22 +0000",
+      "crawlDate": "2026-09-15",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/"
+      },
+      "tags": [
+        "媒体",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The AI industry has taken a doomer turn. What now?。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260915_q004",
       "title": "AI agents blew the whistle on their cheating colleagues",
       "originalTitle": "AI agents blew the whistle on their cheating colleagues",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Mon, 14 Sep 2026 16:00:00 +0000",
-      "crawlDate": "2026-09-14",
+      "crawlDate": "2026-09-15",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -88,38 +205,14 @@
         "媒体",
         "Agent"
       ],
-      "isHeadline": true,
+      "isHeadline": false,
       "coreInsight": "AI agents blew the whistle on their cheating colleagues。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260914_005",
-      "title": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
-      "originalTitle": "The Download: AI’s real extinction threat and age-reversal tech for eyes",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Mon, 14 Sep 2026 12:10:00 +0000",
-      "crawlDate": "2026-09-14",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "The Download: AI’s real extinction threat and age-reversal tech for eyes。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "quickBrowse": [],
-  "total": 5,
+  "total": 9,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
