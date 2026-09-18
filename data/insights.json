@@ -1,15 +1,61 @@
 {
-  "date": "20260917",
-  "updateTime": "2026-09-17T02:26:24.982Z",
+  "date": "20260918",
+  "updateTime": "2026-09-18T02:11:36.066Z",
   "headlines": [
     {
-      "id": "20260917_001",
+      "id": "20260918_001",
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "originalTitle": "How Cooley is accelerating IPO work with ChatGPT",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 17 Sep 2026 12:00:00 GMT",
+      "crawlDate": "2026-09-18",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/cooley-gopublic"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "How Cooley is accelerating IPO work with ChatGPT。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260918_002",
+      "title": "Introducing Astra for Law",
+      "originalTitle": "Introducing Astra for Law",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Thu, 17 Sep 2026 00:00:00 GMT",
+      "crawlDate": "2026-09-18",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/astra-for-law"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Introducing Astra for Law。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260918_003",
       "title": "Helping older adults use AI in everyday life",
       "originalTitle": "Helping older adults use AI in everyday life",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Wed, 16 Sep 2026 16:00:00 GMT",
-      "crawlDate": "2026-09-17",
+      "crawlDate": "2026-09-18",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +72,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260917_002",
+      "id": "20260918_004",
       "title": "Reimagining advertising with AI",
       "originalTitle": "Reimagining advertising with AI",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Wed, 16 Sep 2026 13:00:00 GMT",
-      "crawlDate": "2026-09-17",
+      "crawlDate": "2026-09-18",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,13 +95,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260917_003",
+      "id": "20260918_005",
       "title": "How to connect AI usage to business value",
       "originalTitle": "How to connect AI usage to business value",
       "category": "devtool",
       "categoryName": "开发工具",
       "publishDate": "Wed, 16 Sep 2026 12:00:00 GMT",
-      "crawlDate": "2026-09-17",
+      "crawlDate": "2026-09-18",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -70,155 +116,132 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260917_004",
-      "title": "Our framework for reporting model misalignment",
-      "originalTitle": "Our framework for reporting model misalignment",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Wed, 16 Sep 2026 17:00:00 GMT",
-      "crawlDate": "2026-09-17",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/model-misalignment-reporting-framework"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Our framework for reporting model misalignment。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260917_005",
-      "title": "How workers are unlocking new ways of working",
-      "originalTitle": "How workers are unlocking new ways of working",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Wed, 16 Sep 2026 09:00:00 GMT",
-      "crawlDate": "2026-09-17",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/unlocking-new-ways-of-working"
-      },
-      "tags": [
-        "官方",
-        "科研突破"
-      ],
-      "isHeadline": true,
-      "coreInsight": "How workers are unlocking new ways of working。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
   "quickBrowse": [
     {
-      "id": "20260917_q001",
-      "title": "通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队",
-      "originalTitle": "通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 16 Sep 2026 13:08:20 +0000",
-      "crawlDate": "2026-09-17",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/490839.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260917_q002",
-      "title": "AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生",
-      "originalTitle": "AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 16 Sep 2026 08:51:02 +0000",
-      "crawlDate": "2026-09-17",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/490760.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "AI大模型工场2026 AI产业生态大会今日举办，大咖同台共探智能生长与产业共生。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260917_q003",
-      "title": "高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代",
-      "originalTitle": "高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代",
+      "id": "20260918_q001",
+      "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
+      "originalTitle": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Wed, 16 Sep 2026 08:18:44 +0000",
-      "crawlDate": "2026-09-17",
+      "publishDate": "Fri, 18 Sep 2026 00:34:34 +0000",
+      "crawlDate": "2026-09-18",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/490756.html"
+        "url": "https://www.qbitai.com/2026/09/491711.html"
       },
       "tags": [
         "媒体",
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "高通技术公司携手中兴努比亚和豆包手机助手，共同推动智能手机迈入个人AI新时代。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260917_q004",
-      "title": "基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用",
-      "originalTitle": "基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用",
-      "category": "application",
-      "categoryName": "应用落地",
-      "publishDate": "Wed, 16 Sep 2026 08:09:53 +0000",
-      "crawlDate": "2026-09-17",
+      "id": "20260918_q002",
+      "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
+      "originalTitle": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 17 Sep 2026 12:03:24 +0000",
+      "crawlDate": "2026-09-18",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/490750.html"
+        "url": "https://www.qbitai.com/2026/09/491649.html"
       },
       "tags": [
         "媒体",
-        "应用落地"
+        "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "基元律动与无问芯穹达成战略合作，推进高质量Token供给与应用。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "从“会回答”到“会办事”，vivo如何解AI手机这道题？。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260917_q005",
+      "id": "20260918_q003",
+      "title": "Claude Code团队讲究啊，这都往外说",
+      "originalTitle": "Claude Code团队讲究啊，这都往外说",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Thu, 17 Sep 2026 11:56:13 +0000",
+      "crawlDate": "2026-09-18",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/09/491596.html"
+      },
+      "tags": [
+        "媒体",
+        "开发工具"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Claude Code团队讲究啊，这都往外说。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260918_q004",
+      "title": "图形学宗师童欣加盟Meshy，要做“AI for Fun”的头号玩家",
+      "originalTitle": "图形学宗师童欣加盟Meshy，要做“AI for Fun”的头号玩家",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 17 Sep 2026 09:42:12 +0000",
+      "crawlDate": "2026-09-18",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/09/491522.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "图形学宗师童欣加盟Meshy，要做“AI for Fun”的头号玩家。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260918_q005",
+      "title": "央企做了个通用Agent，直接杀进IDC实测前三！",
+      "originalTitle": "央企做了个通用Agent，直接杀进IDC实测前三！",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Thu, 17 Sep 2026 09:39:19 +0000",
+      "crawlDate": "2026-09-18",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/09/491454.html"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "央企做了个通用Agent，直接杀进IDC实测前三！。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260918_q006",
       "title": "Your Agent Aced the Task. Will It Do It Again?",
       "originalTitle": "Your Agent Aced the Task. Will It Do It Again?",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Tue, 15 Sep 2026 16:00:44 GMT",
-      "crawlDate": "2026-09-17",
+      "crawlDate": "2026-09-18",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -235,13 +258,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260917_q006",
+      "id": "20260918_q007",
       "title": "AI for Societal Impact",
       "originalTitle": "AI for Societal Impact",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 15 Sep 2026 16:00:00 +0000",
-      "crawlDate": "2026-09-17",
+      "crawlDate": "2026-09-18",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -258,13 +281,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260917_q007",
+      "id": "20260918_q008",
       "title": "Building AI to accelerate science and improve lives",
       "originalTitle": "Building AI to accelerate science and improve lives",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 15 Sep 2026 16:00:00 +0000",
-      "crawlDate": "2026-09-17",
+      "crawlDate": "2026-09-18",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -281,36 +304,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260917_q008",
-      "title": "AI for everyone in every language",
-      "originalTitle": "AI for everyone in every language",
+      "id": "20260918_q009",
+      "title": "The Download: mice with part-human brains and climate tech innovators",
+      "originalTitle": "The Download: mice with part-human brains and climate tech innovators",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Tue, 15 Sep 2026 16:00:00 +0000",
-      "crawlDate": "2026-09-17",
+      "publishDate": "Thu, 17 Sep 2026 12:10:00 +0000",
+      "crawlDate": "2026-09-18",
       "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/"
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/"
       },
       "tags": [
-        "官方",
+        "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "AI for everyone in every language。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: mice with part-human brains and climate tech innovators。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260917_q009",
+      "id": "20260918_q010",
       "title": "Meet a mouse whose brain cortex is made up of human cells",
       "originalTitle": "Meet a mouse whose brain cortex is made up of human cells",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Wed, 16 Sep 2026 15:00:00 +0000",
-      "crawlDate": "2026-09-17",
+      "crawlDate": "2026-09-18",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -322,29 +345,6 @@
       ],
       "isHeadline": false,
       "coreInsight": "Meet a mouse whose brain cortex is made up of human cells。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260917_q010",
-      "title": "Building the materials foundation for AI",
-      "originalTitle": "Building the materials foundation for AI",
-      "category": "application",
-      "categoryName": "应用落地",
-      "publishDate": "Wed, 16 Sep 2026 12:47:34 +0000",
-      "crawlDate": "2026-09-17",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/"
-      },
-      "tags": [
-        "媒体",
-        "应用落地"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Building the materials foundation for AI。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
