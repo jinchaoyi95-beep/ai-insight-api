@@ -1,15 +1,15 @@
 {
-  "date": "20260918",
-  "updateTime": "2026-09-18T02:11:36.066Z",
+  "date": "20260919",
+  "updateTime": "2026-09-19T02:14:57.874Z",
   "headlines": [
     {
-      "id": "20260918_001",
+      "id": "20260919_001",
       "title": "How Cooley is accelerating IPO work with ChatGPT",
       "originalTitle": "How Cooley is accelerating IPO work with ChatGPT",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Thu, 17 Sep 2026 12:00:00 GMT",
-      "crawlDate": "2026-09-18",
+      "crawlDate": "2026-09-19",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +26,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260918_002",
+      "id": "20260919_002",
       "title": "Introducing Astra for Law",
       "originalTitle": "Introducing Astra for Law",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Thu, 17 Sep 2026 00:00:00 GMT",
-      "crawlDate": "2026-09-18",
+      "crawlDate": "2026-09-19",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,13 +49,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260918_003",
+      "id": "20260919_003",
       "title": "Helping older adults use AI in everyday life",
       "originalTitle": "Helping older adults use AI in everyday life",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Wed, 16 Sep 2026 16:00:00 GMT",
-      "crawlDate": "2026-09-18",
+      "crawlDate": "2026-09-19",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -72,13 +72,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260918_004",
+      "id": "20260919_004",
       "title": "Reimagining advertising with AI",
       "originalTitle": "Reimagining advertising with AI",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Wed, 16 Sep 2026 13:00:00 GMT",
-      "crawlDate": "2026-09-18",
+      "crawlDate": "2026-09-19",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -95,24 +95,24 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260918_005",
-      "title": "How to connect AI usage to business value",
-      "originalTitle": "How to connect AI usage to business value",
-      "category": "devtool",
-      "categoryName": "开发工具",
+      "id": "20260919_005",
+      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "originalTitle": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "category": "agent",
+      "categoryName": "Agent",
       "publishDate": "Wed, 16 Sep 2026 12:00:00 GMT",
-      "crawlDate": "2026-09-18",
+      "crawlDate": "2026-09-19",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value"
+        "url": "https://openai.com/index/hex-gpt-6-astra"
       },
       "tags": [
         "官方",
-        "开发工具"
+        "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "How to connect AI usage to business value。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Hex turns complex analysis into visual reports with GPT‑6 Astra。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -120,237 +120,145 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260918_q001",
-      "title": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
-      "originalTitle": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Fri, 18 Sep 2026 00:34:34 +0000",
-      "crawlDate": "2026-09-18",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/491711.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "刚刚，Claude Code大重构！内部3万Agent管理技术免费开放。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260918_q002",
-      "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
-      "originalTitle": "从“会回答”到“会办事”，vivo如何解AI手机这道题？",
+      "id": "20260919_q001",
+      "title": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
+      "originalTitle": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Thu, 17 Sep 2026 12:03:24 +0000",
-      "crawlDate": "2026-09-18",
+      "publishDate": "Fri, 18 Sep 2026 15:58:21 +0000",
+      "crawlDate": "2026-09-19",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/491649.html"
+        "url": "https://www.qbitai.com/2026/09/492426.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "从“会回答”到“会办事”，vivo如何解AI手机这道题？。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "无问芯穹与华环电子签署战略合作，共同探索国产异构算力AI基础设施新方向。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260918_q003",
-      "title": "Claude Code团队讲究啊，这都往外说",
-      "originalTitle": "Claude Code团队讲究啊，这都往外说",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Thu, 17 Sep 2026 11:56:13 +0000",
-      "crawlDate": "2026-09-18",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/491596.html"
-      },
-      "tags": [
-        "媒体",
-        "开发工具"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Claude Code团队讲究啊，这都往外说。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260918_q004",
-      "title": "图形学宗师童欣加盟Meshy，要做“AI for Fun”的头号玩家",
-      "originalTitle": "图形学宗师童欣加盟Meshy，要做“AI for Fun”的头号玩家",
+      "id": "20260919_q002",
+      "title": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布",
+      "originalTitle": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Thu, 17 Sep 2026 09:42:12 +0000",
-      "crawlDate": "2026-09-18",
+      "publishDate": "Fri, 18 Sep 2026 15:50:20 +0000",
+      "crawlDate": "2026-09-19",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/491522.html"
+        "url": "https://www.qbitai.com/2026/09/492421.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "图形学宗师童欣加盟Meshy，要做“AI for Fun”的头号玩家。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "达卯科技算电协同2.0平台入选2026国际数字能源展重大成果发布。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260918_q005",
-      "title": "央企做了个通用Agent，直接杀进IDC实测前三！",
-      "originalTitle": "央企做了个通用Agent，直接杀进IDC实测前三！",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 17 Sep 2026 09:39:19 +0000",
-      "crawlDate": "2026-09-18",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/491454.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "央企做了个通用Agent，直接杀进IDC实测前三！。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260918_q006",
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
-      "originalTitle": "Your Agent Aced the Task. Will It Do It Again?",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Tue, 15 Sep 2026 16:00:44 GMT",
-      "crawlDate": "2026-09-18",
-      "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Your Agent Aced the Task. Will It Do It Again?。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260918_q007",
-      "title": "AI for Societal Impact",
-      "originalTitle": "AI for Societal Impact",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 15 Sep 2026 16:00:00 +0000",
-      "crawlDate": "2026-09-18",
+      "id": "20260919_q003",
+      "title": "New experts join Google’s AI & Economy team",
+      "originalTitle": "New experts join Google’s AI & Economy team",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Fri, 18 Sep 2026 14:00:00 +0000",
+      "crawlDate": "2026-09-19",
       "source": {
         "name": "Google AI",
         "type": "官方",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/"
+        "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/"
       },
       "tags": [
         "官方",
-        "大语言模型"
+        "科研突破"
       ],
       "isHeadline": false,
-      "coreInsight": "AI for Societal Impact。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "New experts join Google’s AI & Economy team。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260918_q008",
-      "title": "Building AI to accelerate science and improve lives",
-      "originalTitle": "Building AI to accelerate science and improve lives",
+      "id": "20260919_q004",
+      "title": "The Download: AI’s extinction risk and bioweapons threat",
+      "originalTitle": "The Download: AI’s extinction risk and bioweapons threat",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Tue, 15 Sep 2026 16:00:00 +0000",
-      "crawlDate": "2026-09-18",
-      "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/"
-      },
-      "tags": [
-        "官方",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Building AI to accelerate science and improve lives。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260918_q009",
-      "title": "The Download: mice with part-human brains and climate tech innovators",
-      "originalTitle": "The Download: mice with part-human brains and climate tech innovators",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 17 Sep 2026 12:10:00 +0000",
-      "crawlDate": "2026-09-18",
+      "publishDate": "Fri, 18 Sep 2026 12:10:00 +0000",
+      "crawlDate": "2026-09-19",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/"
+        "url": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: mice with part-human brains and climate tech innovators。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: AI’s extinction risk and bioweapons threat。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260918_q010",
-      "title": "Meet a mouse whose brain cortex is made up of human cells",
-      "originalTitle": "Meet a mouse whose brain cortex is made up of human cells",
+      "id": "20260919_q005",
+      "title": "Could AI really kill us all? Your questions, answered.",
+      "originalTitle": "Could AI really kill us all? Your questions, answered.",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Wed, 16 Sep 2026 15:00:00 +0000",
-      "crawlDate": "2026-09-18",
+      "publishDate": "Fri, 18 Sep 2026 11:29:22 +0000",
+      "crawlDate": "2026-09-19",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/"
+        "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "Meet a mouse whose brain cortex is made up of human cells。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Could AI really kill us all? Your questions, answered.。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260919_q006",
+      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+      "originalTitle": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Fri, 18 Sep 2026 09:00:00 +0000",
+      "crawlDate": "2026-09-19",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/"
+      },
+      "tags": [
+        "媒体",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The specter of AI-enabled bioweapons is a wake-up call for biotech。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 15,
+  "total": 11,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
