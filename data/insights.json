@@ -1,118 +1,118 @@
 {
-  "date": "20260920",
-  "updateTime": "2026-09-20T15:35:07.081Z",
+  "date": "20260921",
+  "updateTime": "2026-09-21T17:57:09.721Z",
   "headlines": [
     {
-      "id": "20260920_001",
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "originalTitle": "Introducing the Australian Youth Safety Blueprint",
+      "id": "20260921_001",
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "originalTitle": "Advisory Group on Mathematics and Artificial Intelligence",
       "category": "company",
       "categoryName": "企业动态",
-      "publishDate": "Fri, 18 Sep 2026 12:00:00 GMT",
-      "crawlDate": "2026-09-20",
+      "publishDate": "Mon, 21 Sep 2026 12:00:00 GMT",
+      "crawlDate": "2026-09-21",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/australian-youth-safety-blueprint"
+        "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai"
       },
       "tags": [
         "官方",
         "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "Introducing the Australian Youth Safety Blueprint。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Advisory Group on Mathematics and Artificial Intelligence。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260920_002",
-      "title": "刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！",
-      "originalTitle": "刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！",
-      "category": "image-video",
-      "categoryName": "AI绘画/视频",
-      "publishDate": "Sun, 20 Sep 2026 14:30:26 +0000",
-      "crawlDate": "2026-09-20",
+      "id": "20260921_002",
+      "title": "Building standards for the next phase of AI",
+      "originalTitle": "Building standards for the next phase of AI",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 21 Sep 2026 10:00:00 GMT",
+      "crawlDate": "2026-09-21",
       "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/492973.html"
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/building-standards-next-phase-ai"
       },
       "tags": [
-        "媒体",
-        "AI绘画/视频"
+        "官方",
+        "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "刚刚，剪映发了个大的：AI生视频和AI剪辑的壁，被打破了！。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Building standards for the next phase of AI。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260920_003",
-      "title": "华为首发企业AI白皮书：AI让员工更快了，怎样让整个企业受益？",
-      "originalTitle": "华为首发企业AI白皮书：AI让员工更快了，怎样让整个企业受益？",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sun, 20 Sep 2026 14:23:52 +0000",
-      "crawlDate": "2026-09-20",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/493068.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "华为首发企业AI白皮书：AI让员工更快了，怎样让整个企业受益？。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260920_004",
-      "title": "一张3090就能跑！全栈国产模型，把AI办公搬到企业本地",
-      "originalTitle": "一张3090就能跑！全栈国产模型，把AI办公搬到企业本地",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sun, 20 Sep 2026 12:22:41 +0000",
-      "crawlDate": "2026-09-20",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/492946.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "一张3090就能跑！全栈国产模型，把AI办公搬到企业本地。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260920_005",
-      "title": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！",
-      "originalTitle": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！",
+      "id": "20260921_003",
+      "title": "How V7 gives AI agents institutional memory",
+      "originalTitle": "How V7 gives AI agents institutional memory",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Sun, 20 Sep 2026 08:01:13 +0000",
-      "crawlDate": "2026-09-20",
+      "publishDate": "Mon, 21 Sep 2026 00:00:00 GMT",
+      "crawlDate": "2026-09-21",
       "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/492912.html"
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/v7"
       },
       "tags": [
-        "媒体",
+        "官方",
         "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "谷歌AI首次“越狱”：竟然自己破解密码入侵三家公司！。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "How V7 gives AI agents institutional memory。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260921_004",
+      "title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
+      "originalTitle": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 21 Sep 2026 08:21:55 +0000",
+      "crawlDate": "2026-09-21",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/09/493241.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260921_005",
+      "title": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
+      "originalTitle": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 21 Sep 2026 07:52:46 +0000",
+      "crawlDate": "2026-09-21",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/09/493235.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -120,122 +120,145 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260920_q001",
-      "title": "APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策",
-      "originalTitle": "APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sun, 20 Sep 2026 08:30:32 +0000",
-      "crawlDate": "2026-09-20",
+      "id": "20260921_q001",
+      "title": "Expanding OpenAI Academy with new learning paths",
+      "originalTitle": "Expanding OpenAI Academy with new learning paths",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 21 Sep 2026 07:00:00 GMT",
+      "crawlDate": "2026-09-21",
       "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/492939.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "APUS 开源国内首批Jev跨平台复现：国产模型实现秒级决策。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260920_q002",
-      "title": "New experts join Google’s AI & Economy team",
-      "originalTitle": "New experts join Google’s AI & Economy team",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Fri, 18 Sep 2026 14:00:00 +0000",
-      "crawlDate": "2026-09-20",
-      "source": {
-        "name": "Google AI",
+        "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/"
+        "url": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths"
       },
       "tags": [
         "官方",
-        "科研突破"
-      ],
-      "isHeadline": false,
-      "coreInsight": "New experts join Google’s AI & Economy team。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260920_q003",
-      "title": "The Download: AI’s extinction risk and bioweapons threat",
-      "originalTitle": "The Download: AI’s extinction risk and bioweapons threat",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 18 Sep 2026 12:10:00 +0000",
-      "crawlDate": "2026-09-20",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Download: AI’s extinction risk and bioweapons threat。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260920_q004",
-      "title": "Could AI really kill us all? Your questions, answered.",
-      "originalTitle": "Could AI really kill us all? Your questions, answered.",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 18 Sep 2026 11:29:22 +0000",
-      "crawlDate": "2026-09-20",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Could AI really kill us all? Your questions, answered.。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260920_q005",
-      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
-      "originalTitle": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Fri, 18 Sep 2026 09:00:00 +0000",
-      "crawlDate": "2026-09-20",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/"
-      },
-      "tags": [
-        "媒体",
         "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "The specter of AI-enabled bioweapons is a wake-up call for biotech。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Expanding OpenAI Academy with new learning paths。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260921_q002",
+      "title": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
+      "originalTitle": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 21 Sep 2026 07:31:26 +0000",
+      "crawlDate": "2026-09-21",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/09/493231.html"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260921_q003",
+      "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
+      "originalTitle": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 21 Sep 2026 06:22:37 +0000",
+      "crawlDate": "2026-09-21",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/09/493218.html"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260921_q004",
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "originalTitle": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 21 Sep 2026 13:44:34 GMT",
+      "crawlDate": "2026-09-21",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260921_q005",
+      "title": "The Download: investigating deaths at the US border’s “virtual wall”",
+      "originalTitle": "The Download: investigating deaths at the US border’s “virtual wall”",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 21 Sep 2026 12:20:00 +0000",
+      "crawlDate": "2026-09-21",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The Download: investigating deaths at the US border’s “virtual wall”。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260921_q006",
+      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
+      "originalTitle": "4 ways to address the failures we found along the US border’s “virtual wall”",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 21 Sep 2026 12:00:00 +0000",
+      "crawlDate": "2026-09-21",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "4 ways to address the failures we found along the US border’s “virtual wall”。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 10,
+  "total": 11,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
