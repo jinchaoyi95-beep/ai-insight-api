@@ -1,15 +1,15 @@
 {
-  "date": "20260921",
-  "updateTime": "2026-09-21T17:57:09.721Z",
+  "date": "20260922",
+  "updateTime": "2026-09-22T16:26:21.659Z",
   "headlines": [
     {
-      "id": "20260921_001",
+      "id": "20260922_001",
       "title": "Advisory Group on Mathematics and Artificial Intelligence",
       "originalTitle": "Advisory Group on Mathematics and Artificial Intelligence",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Mon, 21 Sep 2026 12:00:00 GMT",
-      "crawlDate": "2026-09-21",
+      "crawlDate": "2026-09-22",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +26,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260921_002",
+      "id": "20260922_002",
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "originalTitle": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "category": "image-video",
+      "categoryName": "AI绘画/视频",
+      "publishDate": "Mon, 21 Sep 2026 12:00:00 GMT",
+      "crawlDate": "2026-09-22",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra"
+      },
+      "tags": [
+        "官方",
+        "AI绘画/视频"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Higgsfield AI ships new video features in a day with GPT-6 Astra。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260922_003",
       "title": "Building standards for the next phase of AI",
       "originalTitle": "Building standards for the next phase of AI",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Mon, 21 Sep 2026 10:00:00 GMT",
-      "crawlDate": "2026-09-21",
+      "crawlDate": "2026-09-22",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,13 +72,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260921_003",
+      "id": "20260922_004",
       "title": "How V7 gives AI agents institutional memory",
       "originalTitle": "How V7 gives AI agents institutional memory",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Mon, 21 Sep 2026 00:00:00 GMT",
-      "crawlDate": "2026-09-21",
+      "crawlDate": "2026-09-22",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -72,47 +95,24 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260921_004",
-      "title": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
-      "originalTitle": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了",
+      "id": "20260922_005",
+      "title": "直播预告：未来两三年，哪些工业AI场景会率先爆发？",
+      "originalTitle": "直播预告：未来两三年，哪些工业AI场景会率先爆发？",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Mon, 21 Sep 2026 08:21:55 +0000",
-      "crawlDate": "2026-09-21",
+      "publishDate": "Tue, 22 Sep 2026 14:28:59 +0000",
+      "crawlDate": "2026-09-22",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/493241.html"
+        "url": "https://www.qbitai.com/2026/09/494420.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "啊啊啊GPT-6 Astra这么不安全！这次马斯克都瘫坐了。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260921_005",
-      "title": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
-      "originalTitle": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Mon, 21 Sep 2026 07:52:46 +0000",
-      "crawlDate": "2026-09-21",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/493235.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "长三角安全人工智能安徽省实验室发布星界、星驭、星鉴三大AI安全解决方案。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "直播预告：未来两三年，哪些工业AI场景会率先爆发？。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -120,13 +120,13 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260921_q001",
+      "id": "20260922_q001",
       "title": "Expanding OpenAI Academy with new learning paths",
       "originalTitle": "Expanding OpenAI Academy with new learning paths",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Mon, 21 Sep 2026 07:00:00 GMT",
-      "crawlDate": "2026-09-21",
+      "crawlDate": "2026-09-22",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -143,59 +143,105 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260921_q002",
-      "title": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
-      "originalTitle": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Mon, 21 Sep 2026 07:31:26 +0000",
-      "crawlDate": "2026-09-21",
+      "id": "20260922_q002",
+      "title": "讲真，我没看出这图是AI做的，更没想到是国产AI做的",
+      "originalTitle": "讲真，我没看出这图是AI做的，更没想到是国产AI做的",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 22 Sep 2026 13:57:10 +0000",
+      "crawlDate": "2026-09-22",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/493231.html"
+        "url": "https://www.qbitai.com/2026/09/494263.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "讲真，我没看出这图是AI做的，更没想到是国产AI做的。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260922_q003",
+      "title": "WebArena作者Shuyan Zhou入职Meta超级智能实验室",
+      "originalTitle": "WebArena作者Shuyan Zhou入职Meta超级智能实验室",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 22 Sep 2026 11:58:53 +0000",
+      "crawlDate": "2026-09-22",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/09/493653.html"
+      },
+      "tags": [
+        "媒体",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "WebArena作者Shuyan Zhou入职Meta超级智能实验室。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260922_q004",
+      "title": "基元律动韩凯：从多模型调度到反馈闭环，探索Agent持续进化",
+      "originalTitle": "基元律动韩凯：从多模型调度到反馈闭环，探索Agent持续进化",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Tue, 22 Sep 2026 10:06:34 +0000",
+      "crawlDate": "2026-09-22",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/09/494120.html"
       },
       "tags": [
         "媒体",
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "国产数据库跑出AI新能力！OceanBase登顶国际Data Agent榜单。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "基元律动韩凯：从多模型调度到反馈闭环，探索Agent持续进化。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260921_q003",
-      "title": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
-      "originalTitle": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Mon, 21 Sep 2026 06:22:37 +0000",
-      "crawlDate": "2026-09-21",
+      "id": "20260922_q005",
+      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "originalTitle": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 22 Sep 2026 00:00:00 GMT",
+      "crawlDate": "2026-09-22",
       "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/493218.html"
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/omlx"
       },
       "tags": [
-        "媒体",
-        "Agent"
+        "官方",
+        "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "GPT-6 Astra开进机器人身体！清华联手无问芯穹等开源RPent。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260921_q004",
+      "id": "20260922_q006",
       "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
       "originalTitle": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Mon, 21 Sep 2026 13:44:34 GMT",
-      "crawlDate": "2026-09-21",
+      "crawlDate": "2026-09-22",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -212,53 +258,76 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260921_q005",
-      "title": "The Download: investigating deaths at the US border’s “virtual wall”",
-      "originalTitle": "The Download: investigating deaths at the US border’s “virtual wall”",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Mon, 21 Sep 2026 12:20:00 +0000",
-      "crawlDate": "2026-09-21",
+      "id": "20260922_q007",
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "originalTitle": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Tue, 22 Sep 2026 13:42:05 +0000",
+      "crawlDate": "2026-09-22",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/"
+        "url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "应用落地"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: investigating deaths at the US border’s “virtual wall”。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Roundtables: The Deadly Failures of The Virtual Border Wall。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260921_q006",
-      "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
-      "originalTitle": "4 ways to address the failures we found along the US border’s “virtual wall”",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Mon, 21 Sep 2026 12:00:00 +0000",
-      "crawlDate": "2026-09-21",
+      "id": "20260922_q008",
+      "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
+      "originalTitle": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Tue, 22 Sep 2026 12:10:00 +0000",
+      "crawlDate": "2026-09-22",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/"
+        "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "科研突破"
       ],
       "isHeadline": false,
-      "coreInsight": "4 ways to address the failures we found along the US border’s “virtual wall”。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260922_q009",
+      "title": "Don’t be fooled by this summer of AI hype ",
+      "originalTitle": "Don’t be fooled by this summer of AI hype ",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 22 Sep 2026 11:04:51 +0000",
+      "crawlDate": "2026-09-22",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/"
+      },
+      "tags": [
+        "媒体",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Don’t be fooled by this summer of AI hype 。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 11,
+  "total": 14,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
