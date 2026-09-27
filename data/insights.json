@@ -1,6 +1,6 @@
 {
   "date": "20260927",
-  "updateTime": "2026-09-27T02:31:50.106Z",
+  "updateTime": "2026-09-27T16:32:35.674Z",
   "headlines": [
     {
       "id": "20260927_001",
@@ -27,100 +27,52 @@
     },
     {
       "id": "20260927_002",
-      "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
-      "originalTitle": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
+      "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
+      "originalTitle": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Sat, 26 Sep 2026 09:07:41 +0000",
+      "publishDate": "Sun, 27 Sep 2026 14:20:35 +0000",
       "crawlDate": "2026-09-27",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/498271.html"
+        "url": "https://www.qbitai.com/2026/09/498633.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260927_003",
-      "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
-      "originalTitle": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Sat, 26 Sep 2026 09:01:00 +0000",
+      "title": "啥题啊能干崩OpenAI最强模型训练…",
+      "originalTitle": "啥题啊能干崩OpenAI最强模型训练…",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Sun, 27 Sep 2026 09:44:16 +0000",
       "crawlDate": "2026-09-27",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/497624.html"
+        "url": "https://www.qbitai.com/2026/09/498546.html"
       },
       "tags": [
         "媒体",
-        "开发工具"
+        "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "啥题啊能干崩OpenAI最强模型训练…。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260927_004",
-      "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
-      "originalTitle": "在云栖大会，我终于看懂了米哈游千亿AI野心",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sat, 26 Sep 2026 07:18:05 +0000",
-      "crawlDate": "2026-09-27",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/497613.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "在云栖大会，我终于看懂了米哈游千亿AI野心。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
-    {
-      "id": "20260927_q001",
-      "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
-      "originalTitle": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sat, 26 Sep 2026 07:12:05 +0000",
-      "crawlDate": "2026-09-27",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/497425.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260927_q002",
       "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
       "originalTitle": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
       "category": "llm",
@@ -136,14 +88,39 @@
         "媒体",
         "大语言模型"
       ],
-      "isHeadline": false,
+      "isHeadline": true,
       "coreInsight": "The Download: the Pentagon’s AI-powered lie detector and young organ limits。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260927_q003",
+      "id": "20260927_005",
+      "title": "Young organs may not be a fountain of youth for recipients",
+      "originalTitle": "Young organs may not be a fountain of youth for recipients",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Fri, 25 Sep 2026 09:00:00 +0000",
+      "crawlDate": "2026-09-27",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/"
+      },
+      "tags": [
+        "媒体",
+        "开发工具"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Young organs may not be a fountain of youth for recipients。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    }
+  ],
+  "quickBrowse": [
+    {
+      "id": "20260927_q001",
       "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
       "originalTitle": "The Pentagon wants $30 million to build an AI-powered lie detector",
       "category": "llm",
@@ -164,32 +141,9 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260927_q004",
-      "title": "Young organs may not be a fountain of youth for recipients",
-      "originalTitle": "Young organs may not be a fountain of youth for recipients",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Fri, 25 Sep 2026 09:00:00 +0000",
-      "crawlDate": "2026-09-27",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/"
-      },
-      "tags": [
-        "媒体",
-        "开发工具"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Young organs may not be a fountain of youth for recipients。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 8,
+  "total": 6,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
