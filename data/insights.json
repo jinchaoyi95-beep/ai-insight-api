@@ -1,15 +1,15 @@
 {
-  "date": "20260927",
-  "updateTime": "2026-09-27T16:32:35.674Z",
+  "date": "20260928",
+  "updateTime": "2026-09-28T02:35:19.218Z",
   "headlines": [
     {
-      "id": "20260927_001",
+      "id": "20260928_001",
       "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
       "originalTitle": "Proaction boosts sales 60% and saves 75+ hours with Codex",
       "category": "devtool",
       "categoryName": "开发工具",
       "publishDate": "Fri, 25 Sep 2026 19:00:00 GMT",
-      "crawlDate": "2026-09-27",
+      "crawlDate": "2026-09-28",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +26,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260927_002",
+      "id": "20260928_002",
       "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
       "originalTitle": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Sun, 27 Sep 2026 14:20:35 +0000",
-      "crawlDate": "2026-09-27",
+      "crawlDate": "2026-09-28",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -49,13 +49,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260927_003",
+      "id": "20260928_003",
       "title": "啥题啊能干崩OpenAI最强模型训练…",
       "originalTitle": "啥题啊能干崩OpenAI最强模型训练…",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Sun, 27 Sep 2026 09:44:16 +0000",
-      "crawlDate": "2026-09-27",
+      "crawlDate": "2026-09-28",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -72,13 +72,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260927_004",
+      "id": "20260928_004",
       "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
       "originalTitle": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 25 Sep 2026 12:10:00 +0000",
-      "crawlDate": "2026-09-27",
+      "crawlDate": "2026-09-28",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -95,13 +95,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260927_005",
+      "id": "20260928_005",
       "title": "Young organs may not be a fountain of youth for recipients",
       "originalTitle": "Young organs may not be a fountain of youth for recipients",
       "category": "devtool",
       "categoryName": "开发工具",
       "publishDate": "Fri, 25 Sep 2026 09:00:00 +0000",
-      "crawlDate": "2026-09-27",
+      "crawlDate": "2026-09-28",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -120,13 +120,13 @@
   ],
   "quickBrowse": [
     {
-      "id": "20260927_q001",
+      "id": "20260928_q001",
       "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
       "originalTitle": "The Pentagon wants $30 million to build an AI-powered lie detector",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 25 Sep 2026 09:16:25 +0000",
-      "crawlDate": "2026-09-27",
+      "crawlDate": "2026-09-28",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
