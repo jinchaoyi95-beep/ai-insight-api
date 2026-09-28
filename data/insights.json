@@ -1,32 +1,78 @@
 {
   "date": "20260928",
-  "updateTime": "2026-09-28T02:35:19.218Z",
+  "updateTime": "2026-09-28T19:21:09.739Z",
   "headlines": [
     {
       "id": "20260928_001",
-      "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "originalTitle": "Proaction boosts sales 60% and saves 75+ hours with Codex",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Fri, 25 Sep 2026 19:00:00 GMT",
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "originalTitle": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 28 Sep 2026 07:00:00 GMT",
       "crawlDate": "2026-09-28",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/proaction"
+        "url": "https://openai.com/index/lenfest-ai-collaborative-expansion"
       },
       "tags": [
         "官方",
-        "开发工具"
+        "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "Proaction boosts sales 60% and saves 75+ hours with Codex。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Lenfest Institute grows landmark program with expanded OpenAI support。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20260928_002",
+      "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
+      "originalTitle": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 28 Sep 2026 12:43:53 +0000",
+      "crawlDate": "2026-09-28",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/09/498877.html"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260928_003",
+      "title": "HC归来，华为正重新定义AIDC基础设施",
+      "originalTitle": "HC归来，华为正重新定义AIDC基础设施",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 28 Sep 2026 11:18:27 +0000",
+      "crawlDate": "2026-09-28",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/09/498787.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "HC归来，华为正重新定义AIDC基础设施。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260928_004",
       "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
       "originalTitle": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
       "category": "llm",
@@ -49,70 +95,24 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260928_003",
-      "title": "啥题啊能干崩OpenAI最强模型训练…",
-      "originalTitle": "啥题啊能干崩OpenAI最强模型训练…",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Sun, 27 Sep 2026 09:44:16 +0000",
-      "crawlDate": "2026-09-28",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/498546.html"
-      },
-      "tags": [
-        "媒体",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "啥题啊能干崩OpenAI最强模型训练…。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260928_004",
-      "title": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
-      "originalTitle": "The Download: the Pentagon’s AI-powered lie detector and young organ limits",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 25 Sep 2026 12:10:00 +0000",
-      "crawlDate": "2026-09-28",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "The Download: the Pentagon’s AI-powered lie detector and young organ limits。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
       "id": "20260928_005",
-      "title": "Young organs may not be a fountain of youth for recipients",
-      "originalTitle": "Young organs may not be a fountain of youth for recipients",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Fri, 25 Sep 2026 09:00:00 +0000",
+      "title": "Holo4: powering generalist computer-use agents",
+      "originalTitle": "Holo4: powering generalist computer-use agents",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 28 Sep 2026 09:44:05 GMT",
       "crawlDate": "2026-09-28",
       "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/"
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/Hcompany/holo4"
       },
       "tags": [
-        "媒体",
-        "开发工具"
+        "官方",
+        "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "Young organs may not be a fountain of youth for recipients。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Holo4: powering generalist computer-use agents。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -121,29 +121,98 @@
   "quickBrowse": [
     {
       "id": "20260928_q001",
-      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-      "originalTitle": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "originalTitle": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Fri, 25 Sep 2026 09:16:25 +0000",
+      "publishDate": "Mon, 28 Sep 2026 19:00:00 +0000",
+      "crawlDate": "2026-09-28",
+      "source": {
+        "name": "Google AI",
+        "type": "官方",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260928_q002",
+      "title": "When can we say AI made a scientific discovery?",
+      "originalTitle": "When can we say AI made a scientific discovery?",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 28 Sep 2026 17:03:16 +0000",
       "crawlDate": "2026-09-28",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/"
+        "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "The Pentagon wants $30 million to build an AI-powered lie detector。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "When can we say AI made a scientific discovery?。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260928_q003",
+      "title": "The Download: rogue agent liability and the AI Hype Index",
+      "originalTitle": "The Download: rogue agent liability and the AI Hype Index",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 28 Sep 2026 12:10:00 +0000",
+      "crawlDate": "2026-09-28",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The Download: rogue agent liability and the AI Hype Index。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260928_q004",
+      "title": "Who’s liable when AI agents go rogue?",
+      "originalTitle": "Who’s liable when AI agents go rogue?",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 28 Sep 2026 08:06:22 +0000",
+      "crawlDate": "2026-09-28",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Who’s liable when AI agents go rogue?。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 6,
+  "total": 9,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
