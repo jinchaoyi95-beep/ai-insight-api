@@ -1,15 +1,38 @@
 {
-  "date": "20260928",
-  "updateTime": "2026-09-28T19:21:09.739Z",
+  "date": "20260929",
+  "updateTime": "2026-09-29T03:17:42.855Z",
   "headlines": [
     {
-      "id": "20260928_001",
+      "id": "20260929_001",
+      "title": "How we will do better for Australia",
+      "originalTitle": "How we will do better for Australia",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 28 Sep 2026 19:00:00 GMT",
+      "crawlDate": "2026-09-29",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/how-we-will-do-better-for-australia"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "How we will do better for Australia。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260929_002",
       "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
       "originalTitle": "The Lenfest Institute grows landmark program with expanded OpenAI support",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Mon, 28 Sep 2026 07:00:00 GMT",
-      "crawlDate": "2026-09-28",
+      "crawlDate": "2026-09-29",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +49,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260928_002",
+      "id": "20260929_003",
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "originalTitle": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 28 Sep 2026 00:00:00 GMT",
+      "crawlDate": "2026-09-29",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/basis-tax-workbook-with-astra"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Basis completes a tax workbook 2x faster with GPT-6 Astra。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260929_004",
       "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
       "originalTitle": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Mon, 28 Sep 2026 12:43:53 +0000",
-      "crawlDate": "2026-09-28",
+      "crawlDate": "2026-09-29",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -49,13 +95,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260928_003",
+      "id": "20260929_005",
       "title": "HC归来，华为正重新定义AIDC基础设施",
       "originalTitle": "HC归来，华为正重新定义AIDC基础设施",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Mon, 28 Sep 2026 11:18:27 +0000",
-      "crawlDate": "2026-09-28",
+      "crawlDate": "2026-09-29",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -70,15 +116,17 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
+    }
+  ],
+  "quickBrowse": [
     {
-      "id": "20260928_004",
+      "id": "20260929_q001",
       "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
       "originalTitle": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Sun, 27 Sep 2026 14:20:35 +0000",
-      "crawlDate": "2026-09-28",
+      "crawlDate": "2026-09-29",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -88,20 +136,20 @@
         "媒体",
         "大语言模型"
       ],
-      "isHeadline": true,
+      "isHeadline": false,
       "coreInsight": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260928_005",
+      "id": "20260929_q002",
       "title": "Holo4: powering generalist computer-use agents",
       "originalTitle": "Holo4: powering generalist computer-use agents",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Mon, 28 Sep 2026 09:44:05 GMT",
-      "crawlDate": "2026-09-28",
+      "crawlDate": "2026-09-29",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -111,22 +159,20 @@
         "官方",
         "Agent"
       ],
-      "isHeadline": true,
+      "isHeadline": false,
       "coreInsight": "Holo4: powering generalist computer-use agents。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
+    },
     {
-      "id": "20260928_q001",
+      "id": "20260929_q003",
       "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
       "originalTitle": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Mon, 28 Sep 2026 19:00:00 +0000",
-      "crawlDate": "2026-09-28",
+      "crawlDate": "2026-09-29",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -143,13 +189,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260928_q002",
+      "id": "20260929_q004",
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "originalTitle": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Mon, 28 Sep 2026 22:17:07 +0000",
+      "crawlDate": "2026-09-29",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/"
+      },
+      "tags": [
+        "媒体",
+        "应用落地"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Roundtables: The Deadly Failures of The Virtual Border Wall。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20260929_q005",
       "title": "When can we say AI made a scientific discovery?",
       "originalTitle": "When can we say AI made a scientific discovery?",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Mon, 28 Sep 2026 17:03:16 +0000",
-      "crawlDate": "2026-09-28",
+      "crawlDate": "2026-09-29",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -166,13 +235,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260928_q003",
+      "id": "20260929_q006",
       "title": "The Download: rogue agent liability and the AI Hype Index",
       "originalTitle": "The Download: rogue agent liability and the AI Hype Index",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Mon, 28 Sep 2026 12:10:00 +0000",
-      "crawlDate": "2026-09-28",
+      "crawlDate": "2026-09-29",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -187,32 +256,9 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260928_q004",
-      "title": "Who’s liable when AI agents go rogue?",
-      "originalTitle": "Who’s liable when AI agents go rogue?",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Mon, 28 Sep 2026 08:06:22 +0000",
-      "crawlDate": "2026-09-28",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Who’s liable when AI agents go rogue?。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 9,
+  "total": 11,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
