@@ -1,15 +1,61 @@
 {
-  "date": "20260930",
-  "updateTime": "2026-09-30T17:42:32.811Z",
+  "date": "20261001",
+  "updateTime": "2026-10-01T18:08:21.015Z",
   "headlines": [
     {
-      "id": "20260930_001",
+      "id": "20261001_001",
+      "title": "The eternal complement",
+      "originalTitle": "The eternal complement",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 01 Oct 2026 17:00:00 GMT",
+      "crawlDate": "2026-10-01",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/the-eternal-complement"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "The eternal complement。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261001_002",
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "originalTitle": "How Albertsons Companies is reimagining retail from the inside out",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Thu, 01 Oct 2026 16:00:00 GMT",
+      "crawlDate": "2026-10-01",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/albertsons-reimagining-retail"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "How Albertsons Companies is reimagining retail from the inside out。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261001_003",
       "title": "Disrupting a coordinated model-distillation campaign",
       "originalTitle": "Disrupting a coordinated model-distillation campaign",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Wed, 30 Sep 2026 10:30:00 GMT",
-      "crawlDate": "2026-09-30",
+      "crawlDate": "2026-10-01",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,59 +72,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260930_002",
-      "title": "Helping small businesses put AI to work",
-      "originalTitle": "Helping small businesses put AI to work",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Wed, 30 Sep 2026 10:00:00 GMT",
-      "crawlDate": "2026-09-30",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Helping small businesses put AI to work。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260930_003",
-      "title": "Introducing GPT-6.1 Sol",
-      "originalTitle": "Introducing GPT-6.1 Sol",
+      "id": "20261001_004",
+      "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
+      "originalTitle": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Tue, 29 Sep 2026 10:00:00 GMT",
-      "crawlDate": "2026-09-30",
+      "publishDate": "Thu, 01 Oct 2026 15:02:14 +0000",
+      "crawlDate": "2026-10-01",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/introducing-gpt-6-1-sol"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/10/499663.html"
       },
       "tags": [
-        "官方",
+        "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "Introducing GPT-6.1 Sol。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260930_004",
+      "id": "20261001_005",
       "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
       "originalTitle": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Wed, 30 Sep 2026 14:03:43 +0000",
-      "crawlDate": "2026-09-30",
+      "crawlDate": "2026-10-01",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -93,40 +116,40 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260930_005",
-      "title": "直播回顾：工业AI的下一个机会在哪？",
-      "originalTitle": "直播回顾：工业AI的下一个机会在哪？",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 30 Sep 2026 12:11:24 +0000",
-      "crawlDate": "2026-09-30",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/499605.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "直播回顾：工业AI的下一个机会在哪？。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
   "quickBrowse": [
     {
-      "id": "20260930_q001",
+      "id": "20261001_q001",
+      "title": "Helping small businesses put AI to work",
+      "originalTitle": "Helping small businesses put AI to work",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 30 Sep 2026 10:00:00 GMT",
+      "crawlDate": "2026-10-01",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Helping small businesses put AI to work。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261001_q002",
       "title": "DevDay 2026 Recap",
       "originalTitle": "DevDay 2026 Recap",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Tue, 29 Sep 2026 10:00:00 GMT",
-      "crawlDate": "2026-09-30",
+      "crawlDate": "2026-10-01",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -143,105 +166,59 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260930_q002",
-      "title": "Introducing dots",
-      "originalTitle": "Introducing dots",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 29 Sep 2026 00:00:00 GMT",
-      "crawlDate": "2026-09-30",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/introducing-dots"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Introducing dots。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260930_q003",
-      "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
-      "originalTitle": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Wed, 30 Sep 2026 07:58:37 +0000",
-      "crawlDate": "2026-09-30",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/499592.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260930_q004",
-      "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
-      "originalTitle": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
+      "id": "20261001_q003",
+      "title": "直播回顾：工业AI的下一个机会在哪？",
+      "originalTitle": "直播回顾：工业AI的下一个机会在哪？",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Wed, 30 Sep 2026 07:54:54 +0000",
-      "crawlDate": "2026-09-30",
+      "publishDate": "Wed, 30 Sep 2026 12:11:24 +0000",
+      "crawlDate": "2026-10-01",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/09/499493.html"
+        "url": "https://www.qbitai.com/2026/09/499605.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "直播回顾：工业AI的下一个机会在哪？。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260930_q005",
-      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "originalTitle": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Tue, 29 Sep 2026 13:07:00 GMT",
-      "crawlDate": "2026-09-30",
+      "id": "20261001_q004",
+      "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "originalTitle": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 01 Oct 2026 15:01:43 GMT",
+      "crawlDate": "2026-10-01",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
-        "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source"
+        "url": "https://huggingface.co/blog/allenai/olmocore3"
       },
       "tags": [
         "官方",
-        "Agent"
+        "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260930_q006",
+      "id": "20261001_q005",
       "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
       "originalTitle": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Mon, 28 Sep 2026 19:00:00 +0000",
-      "crawlDate": "2026-09-30",
+      "crawlDate": "2026-10-01",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -258,76 +235,53 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260930_q007",
-      "title": "The Download: OpenAI’s chief research officer explains its hacking response",
-      "originalTitle": "The Download: OpenAI’s chief research officer explains its hacking response",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Wed, 30 Sep 2026 12:10:00 +0000",
-      "crawlDate": "2026-09-30",
+      "id": "20261001_q006",
+      "title": "The Download: AI “mind-reading” and creative uses for small batteries",
+      "originalTitle": "The Download: AI “mind-reading” and creative uses for small batteries",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Thu, 01 Oct 2026 12:10:00 +0000",
+      "crawlDate": "2026-10-01",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/"
+        "url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/"
       },
       "tags": [
         "媒体",
-        "Agent"
+        "开发工具"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: OpenAI’s chief research officer explains its hacking response。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: AI “mind-reading” and creative uses for small batteries。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20260930_q008",
-      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-      "originalTitle": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Wed, 30 Sep 2026 10:40:30 +0000",
-      "crawlDate": "2026-09-30",
+      "id": "20261001_q007",
+      "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
+      "originalTitle": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
+      "category": "image-video",
+      "categoryName": "AI绘画/视频",
+      "publishDate": "Thu, 01 Oct 2026 10:32:24 +0000",
+      "crawlDate": "2026-10-01",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/"
+        "url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/"
       },
       "tags": [
         "媒体",
-        "Agent"
+        "AI绘画/视频"
       ],
       "isHeadline": false,
-      "coreInsight": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20260930_q009",
-      "title": "The Download: climate tech companies to watch and AI’s discovery problem",
-      "originalTitle": "The Download: climate tech companies to watch and AI’s discovery problem",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 29 Sep 2026 12:10:00 +0000",
-      "crawlDate": "2026-09-30",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Download: climate tech companies to watch and AI’s discovery problem。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 14,
+  "total": 12,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
