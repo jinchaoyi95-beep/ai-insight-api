@@ -1,6 +1,6 @@
 {
   "date": "20261003",
-  "updateTime": "2026-10-03T02:55:30.882Z",
+  "updateTime": "2026-10-03T15:50:32.974Z",
   "headlines": [
     {
       "id": "20261003_001",
@@ -121,6 +121,29 @@
   "quickBrowse": [
     {
       "id": "20261003_q001",
+      "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+      "originalTitle": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Sat, 03 Oct 2026 04:41:24 +0000",
+      "crawlDate": "2026-10-03",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/10/501368.html"
+      },
+      "tags": [
+        "媒体",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261003_q002",
       "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
       "originalTitle": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
       "category": "agent",
@@ -143,7 +166,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261003_q002",
+      "id": "20261003_q003",
       "title": "丘成桐新论文致谢了GPT和Claude",
       "originalTitle": "丘成桐新论文致谢了GPT和Claude",
       "category": "research",
@@ -161,29 +184,6 @@
       ],
       "isHeadline": false,
       "coreInsight": "丘成桐新论文致谢了GPT和Claude。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261003_q003",
-      "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
-      "originalTitle": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 01 Oct 2026 15:02:14 +0000",
-      "crawlDate": "2026-10-03",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/499663.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
