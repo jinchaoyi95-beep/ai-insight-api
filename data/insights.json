@@ -1,15 +1,15 @@
 {
-  "date": "20261004",
-  "updateTime": "2026-10-04T16:32:59.283Z",
+  "date": "20261005",
+  "updateTime": "2026-10-05T03:02:29.144Z",
   "headlines": [
     {
-      "id": "20261004_001",
+      "id": "20261005_001",
       "title": "A model guide for the GPT-6 family",
       "originalTitle": "A model guide for the GPT-6 family",
       "category": "devtool",
       "categoryName": "开发工具",
       "publishDate": "Fri, 02 Oct 2026 16:15:00 GMT",
-      "crawlDate": "2026-10-04",
+      "crawlDate": "2026-10-05",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,59 +26,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261004_002",
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "originalTitle": "Chatham scales its capital markets expertise with OpenAI",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Fri, 02 Oct 2026 00:00:00 GMT",
-      "crawlDate": "2026-10-04",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/chatham-financial"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Chatham scales its capital markets expertise with OpenAI。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261004_003",
-      "title": "The eternal complement",
-      "originalTitle": "The eternal complement",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 01 Oct 2026 17:00:00 GMT",
-      "crawlDate": "2026-10-04",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/the-eternal-complement"
-      },
-      "tags": [
-        "官方",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "The eternal complement。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261004_004",
+      "id": "20261005_002",
       "title": "AI算力硬合作，马斯克还是更相信中国制造",
       "originalTitle": "AI算力硬合作，马斯克还是更相信中国制造",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Sun, 04 Oct 2026 06:12:22 +0000",
-      "crawlDate": "2026-10-04",
+      "crawlDate": "2026-10-05",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -95,13 +49,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261004_005",
+      "id": "20261005_003",
+      "title": "最火AI岗位FDE：月薪5万，都干这些…",
+      "originalTitle": "最火AI岗位FDE：月薪5万，都干这些…",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Sun, 04 Oct 2026 06:05:35 +0000",
+      "crawlDate": "2026-10-05",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/10/501506.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "最火AI岗位FDE：月薪5万，都干这些…。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261005_004",
       "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
       "originalTitle": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Sat, 03 Oct 2026 04:41:24 +0000",
-      "crawlDate": "2026-10-04",
+      "crawlDate": "2026-10-05",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -116,40 +93,40 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261005_005",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "originalTitle": "The Agent Said It Was Done. The Database Disagreed.",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Sat, 03 Oct 2026 22:56:48 GMT",
+      "crawlDate": "2026-10-05",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/microsoft/thinkingbox"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "The Agent Said It Was Done. The Database Disagreed.。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
   "quickBrowse": [
     {
-      "id": "20261004_q001",
-      "title": "最火AI岗位FDE：月薪5万，都干这些…",
-      "originalTitle": "最火AI岗位FDE：月薪5万，都干这些…",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sun, 04 Oct 2026 06:05:35 +0000",
-      "crawlDate": "2026-10-04",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/501506.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "最火AI岗位FDE：月薪5万，都干这些…。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261004_q002",
+      "id": "20261005_q001",
       "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
       "originalTitle": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Sun, 04 Oct 2026 00:53:29 +0000",
-      "crawlDate": "2026-10-04",
+      "crawlDate": "2026-10-05",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -166,36 +143,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261004_q003",
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "originalTitle": "The Agent Said It Was Done. The Database Disagreed.",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Sat, 03 Oct 2026 22:56:48 GMT",
-      "crawlDate": "2026-10-04",
-      "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/microsoft/thinkingbox"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Agent Said It Was Done. The Database Disagreed.。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261004_q004",
+      "id": "20261005_q002",
       "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
       "originalTitle": "AutoSynthData: Generating Training Data for Enterprise Agents",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Fri, 02 Oct 2026 04:01:31 GMT",
-      "crawlDate": "2026-10-04",
+      "crawlDate": "2026-10-05",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -212,13 +166,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261004_q005",
+      "id": "20261005_q003",
       "title": "The latest AI news we announced in September 2026",
       "originalTitle": "The latest AI news we announced in September 2026",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 02 Oct 2026 15:00:00 +0000",
-      "crawlDate": "2026-10-04",
+      "crawlDate": "2026-10-05",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -235,13 +189,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261004_q006",
+      "id": "20261005_q004",
       "title": "Redefining enterprise intelligence with autonomous AI",
       "originalTitle": "Redefining enterprise intelligence with autonomous AI",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 02 Oct 2026 15:49:04 +0000",
-      "crawlDate": "2026-10-04",
+      "crawlDate": "2026-10-05",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -258,13 +212,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261004_q007",
+      "id": "20261005_q005",
       "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
       "originalTitle": "The Download: a biological de-aging contest and why LLMs don’t reason",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 02 Oct 2026 12:10:00 +0000",
-      "crawlDate": "2026-10-04",
+      "crawlDate": "2026-10-05",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -281,13 +235,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261004_q008",
+      "id": "20261005_q006",
       "title": "A new contest pits competitors against each other in a race to biological youth",
       "originalTitle": "A new contest pits competitors against each other in a race to biological youth",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 02 Oct 2026 09:00:00 +0000",
-      "crawlDate": "2026-10-04",
+      "crawlDate": "2026-10-05",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -304,7 +258,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 13,
+  "total": 11,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
