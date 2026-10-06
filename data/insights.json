@@ -1,38 +1,84 @@
 {
-  "date": "20261005",
-  "updateTime": "2026-10-05T03:02:29.144Z",
+  "date": "20261006",
+  "updateTime": "2026-10-06T03:51:33.288Z",
   "headlines": [
     {
-      "id": "20261005_001",
-      "title": "A model guide for the GPT-6 family",
-      "originalTitle": "A model guide for the GPT-6 family",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Fri, 02 Oct 2026 16:15:00 GMT",
-      "crawlDate": "2026-10-05",
+      "id": "20261006_001",
+      "title": "Our approach to EU text provenance rules",
+      "originalTitle": "Our approach to EU text provenance rules",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Mon, 05 Oct 2026 15:00:00 GMT",
+      "crawlDate": "2026-10-06",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/practical-guide-building-gpt-6"
+        "url": "https://openai.com/index/eu-text-provenance"
       },
       "tags": [
         "官方",
-        "开发工具"
+        "科研突破"
       ],
       "isHeadline": true,
-      "coreInsight": "A model guide for the GPT-6 family。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Our approach to EU text provenance rules。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261005_002",
+      "id": "20261006_002",
+      "title": "Building advertising for the way people use AI",
+      "originalTitle": "Building advertising for the way people use AI",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 05 Oct 2026 10:00:00 GMT",
+      "crawlDate": "2026-10-06",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Building advertising for the way people use AI。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261006_003",
+      "title": "刚刚，Hinton发了首篇RSI论文",
+      "originalTitle": "刚刚，Hinton发了首篇RSI论文",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Mon, 05 Oct 2026 04:42:52 +0000",
+      "crawlDate": "2026-10-06",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/10/501705.html"
+      },
+      "tags": [
+        "媒体",
+        "科研突破"
+      ],
+      "isHeadline": true,
+      "coreInsight": "刚刚，Hinton发了首篇RSI论文。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261006_004",
       "title": "AI算力硬合作，马斯克还是更相信中国制造",
       "originalTitle": "AI算力硬合作，马斯克还是更相信中国制造",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Sun, 04 Oct 2026 06:12:22 +0000",
-      "crawlDate": "2026-10-05",
+      "crawlDate": "2026-10-06",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -49,13 +95,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261005_003",
+      "id": "20261006_005",
       "title": "最火AI岗位FDE：月薪5万，都干这些…",
       "originalTitle": "最火AI岗位FDE：月薪5万，都干这些…",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Sun, 04 Oct 2026 06:05:35 +0000",
-      "crawlDate": "2026-10-05",
+      "crawlDate": "2026-10-06",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -70,38 +116,17 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
+    }
+  ],
+  "quickBrowse": [
     {
-      "id": "20261005_004",
-      "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
-      "originalTitle": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Sat, 03 Oct 2026 04:41:24 +0000",
-      "crawlDate": "2026-10-05",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/501368.html"
-      },
-      "tags": [
-        "媒体",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261005_005",
+      "id": "20261006_q001",
       "title": "The Agent Said It Was Done. The Database Disagreed.",
       "originalTitle": "The Agent Said It Was Done. The Database Disagreed.",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Sat, 03 Oct 2026 22:56:48 GMT",
-      "crawlDate": "2026-10-05",
+      "crawlDate": "2026-10-06",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -111,154 +136,83 @@
         "官方",
         "Agent"
       ],
-      "isHeadline": true,
+      "isHeadline": false,
       "coreInsight": "The Agent Said It Was Done. The Database Disagreed.。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
+    },
     {
-      "id": "20261005_q001",
-      "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
-      "originalTitle": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sun, 04 Oct 2026 00:53:29 +0000",
-      "crawlDate": "2026-10-05",
+      "id": "20261006_q002",
+      "title": "Connecting AI agents to enterprise knowledge",
+      "originalTitle": "Connecting AI agents to enterprise knowledge",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 05 Oct 2026 15:47:52 +0000",
+      "crawlDate": "2026-10-06",
       "source": {
-        "name": "量子位",
+        "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/501451.html"
+        "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/"
       },
       "tags": [
         "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261005_q002",
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "originalTitle": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Fri, 02 Oct 2026 04:01:31 GMT",
-      "crawlDate": "2026-10-05",
-      "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata"
-      },
-      "tags": [
-        "官方",
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "AutoSynthData: Generating Training Data for Enterprise Agents。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Connecting AI agents to enterprise knowledge。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261005_q003",
-      "title": "The latest AI news we announced in September 2026",
-      "originalTitle": "The latest AI news we announced in September 2026",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Fri, 02 Oct 2026 15:00:00 +0000",
-      "crawlDate": "2026-10-05",
-      "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The latest AI news we announced in September 2026。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261005_q004",
-      "title": "Redefining enterprise intelligence with autonomous AI",
-      "originalTitle": "Redefining enterprise intelligence with autonomous AI",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 02 Oct 2026 15:49:04 +0000",
-      "crawlDate": "2026-10-05",
+      "id": "20261006_q003",
+      "title": "Bringing predictive analytics to the agentic AI era ",
+      "originalTitle": "Bringing predictive analytics to the agentic AI era ",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 05 Oct 2026 13:29:32 +0000",
+      "crawlDate": "2026-10-06",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/"
+        "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Bringing predictive analytics to the agentic AI era 。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261006_q004",
+      "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
+      "originalTitle": "The Download: AI’s popularity paradox and EmTech Future 2026",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 05 Oct 2026 12:10:00 +0000",
+      "crawlDate": "2026-10-06",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "Redefining enterprise intelligence with autonomous AI。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261005_q005",
-      "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
-      "originalTitle": "The Download: a biological de-aging contest and why LLMs don’t reason",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 02 Oct 2026 12:10:00 +0000",
-      "crawlDate": "2026-10-05",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Download: a biological de-aging contest and why LLMs don’t reason。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261005_q006",
-      "title": "A new contest pits competitors against each other in a race to biological youth",
-      "originalTitle": "A new contest pits competitors against each other in a race to biological youth",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 02 Oct 2026 09:00:00 +0000",
-      "crawlDate": "2026-10-05",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "A new contest pits competitors against each other in a race to biological youth。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: AI’s popularity paradox and EmTech Future 2026。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 11,
+  "total": 9,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
