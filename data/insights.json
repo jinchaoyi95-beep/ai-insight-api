@@ -1,9 +1,32 @@
 {
   "date": "20261006",
-  "updateTime": "2026-10-06T03:51:33.288Z",
+  "updateTime": "2026-10-06T18:01:04.681Z",
   "headlines": [
     {
       "id": "20261006_001",
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "originalTitle": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 06 Oct 2026 16:00:00 GMT",
+      "crawlDate": "2026-10-06",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/atlassian-partnership"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261006_002",
       "title": "Our approach to EU text provenance rules",
       "originalTitle": "Our approach to EU text provenance rules",
       "category": "research",
@@ -26,7 +49,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261006_002",
+      "id": "20261006_003",
       "title": "Building advertising for the way people use AI",
       "originalTitle": "Building advertising for the way people use AI",
       "category": "company",
@@ -49,7 +72,30 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261006_003",
+      "id": "20261006_004",
+      "title": "不er，咋陶哲轩也成AI减速派了？？",
+      "originalTitle": "不er，咋陶哲轩也成AI减速派了？？",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 06 Oct 2026 07:59:17 +0000",
+      "crawlDate": "2026-10-06",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/10/501736.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "不er，咋陶哲轩也成AI减速派了？？。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261006_005",
       "title": "刚刚，Hinton发了首篇RSI论文",
       "originalTitle": "刚刚，Hinton发了首篇RSI论文",
       "category": "research",
@@ -70,57 +116,57 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261006_004",
-      "title": "AI算力硬合作，马斯克还是更相信中国制造",
-      "originalTitle": "AI算力硬合作，马斯克还是更相信中国制造",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sun, 04 Oct 2026 06:12:22 +0000",
-      "crawlDate": "2026-10-06",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/501605.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "AI算力硬合作，马斯克还是更相信中国制造。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261006_005",
-      "title": "最火AI岗位FDE：月薪5万，都干这些…",
-      "originalTitle": "最火AI岗位FDE：月薪5万，都干这些…",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sun, 04 Oct 2026 06:05:35 +0000",
-      "crawlDate": "2026-10-06",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/501506.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "最火AI岗位FDE：月薪5万，都干这些…。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
   "quickBrowse": [
     {
       "id": "20261006_q001",
+      "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
+      "originalTitle": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 06 Oct 2026 06:45:40 +0000",
+      "crawlDate": "2026-10-06",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/10/501726.html"
+      },
+      "tags": [
+        "媒体",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "OpenAI「疯狂28天」首日，这都发了些啥啊…。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261006_q002",
+      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "originalTitle": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 06 Oct 2026 06:44:39 GMT",
+      "crawlDate": "2026-10-06",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/tiiuae/falcon-emirati"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261006_q003",
       "title": "The Agent Said It Was Done. The Database Disagreed.",
       "originalTitle": "The Agent Said It Was Done. The Database Disagreed.",
       "category": "agent",
@@ -143,70 +189,24 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261006_q002",
-      "title": "Connecting AI agents to enterprise knowledge",
-      "originalTitle": "Connecting AI agents to enterprise knowledge",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Mon, 05 Oct 2026 15:47:52 +0000",
-      "crawlDate": "2026-10-06",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Connecting AI agents to enterprise knowledge。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261006_q003",
-      "title": "Bringing predictive analytics to the agentic AI era ",
-      "originalTitle": "Bringing predictive analytics to the agentic AI era ",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Mon, 05 Oct 2026 13:29:32 +0000",
-      "crawlDate": "2026-10-06",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Bringing predictive analytics to the agentic AI era 。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
       "id": "20261006_q004",
-      "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
-      "originalTitle": "The Download: AI’s popularity paradox and EmTech Future 2026",
+      "title": "The Download: 10 climate tech companies to watch",
+      "originalTitle": "The Download: 10 climate tech companies to watch",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Mon, 05 Oct 2026 12:10:00 +0000",
+      "publishDate": "Tue, 06 Oct 2026 12:10:00 +0000",
       "crawlDate": "2026-10-06",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/"
+        "url": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: AI’s popularity paradox and EmTech Future 2026。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: 10 climate tech companies to watch。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
