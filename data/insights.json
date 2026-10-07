@@ -1,15 +1,84 @@
 {
-  "date": "20261006",
-  "updateTime": "2026-10-06T18:01:04.681Z",
+  "date": "20261007",
+  "updateTime": "2026-10-07T03:19:34.667Z",
   "headlines": [
     {
-      "id": "20261006_001",
+      "id": "20261007_001",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "originalTitle": "How Jump Trading is scaling quant research with ChatGPT",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Tue, 06 Oct 2026 12:00:00 GMT",
+      "crawlDate": "2026-10-07",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/jump-trading"
+      },
+      "tags": [
+        "官方",
+        "科研突破"
+      ],
+      "isHeadline": true,
+      "coreInsight": "How Jump Trading is scaling quant research with ChatGPT。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261007_002",
+      "title": "Sharing AI progress in mathematics",
+      "originalTitle": "Sharing AI progress in mathematics",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Tue, 06 Oct 2026 12:00:00 GMT",
+      "crawlDate": "2026-10-07",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/sharing-ai-progress-in-mathematics"
+      },
+      "tags": [
+        "官方",
+        "科研突破"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Sharing AI progress in mathematics。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261007_003",
+      "title": "Advancing computer use with Ironclad",
+      "originalTitle": "Advancing computer use with Ironclad",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Tue, 06 Oct 2026 10:00:00 GMT",
+      "crawlDate": "2026-10-07",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/advancing-computer-use-with-ironclad"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Advancing computer use with Ironclad。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261007_004",
       "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
       "originalTitle": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Tue, 06 Oct 2026 16:00:00 GMT",
-      "crawlDate": "2026-10-06",
+      "crawlDate": "2026-10-07",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,59 +95,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261006_002",
-      "title": "Our approach to EU text provenance rules",
-      "originalTitle": "Our approach to EU text provenance rules",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Mon, 05 Oct 2026 15:00:00 GMT",
-      "crawlDate": "2026-10-06",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/eu-text-provenance"
-      },
-      "tags": [
-        "官方",
-        "科研突破"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Our approach to EU text provenance rules。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261006_003",
-      "title": "Building advertising for the way people use AI",
-      "originalTitle": "Building advertising for the way people use AI",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Mon, 05 Oct 2026 10:00:00 GMT",
-      "crawlDate": "2026-10-06",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Building advertising for the way people use AI。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261006_004",
+      "id": "20261007_005",
       "title": "不er，咋陶哲轩也成AI减速派了？？",
       "originalTitle": "不er，咋陶哲轩也成AI减速派了？？",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 06 Oct 2026 07:59:17 +0000",
-      "crawlDate": "2026-10-06",
+      "crawlDate": "2026-10-07",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -93,40 +116,63 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
+    }
+  ],
+  "quickBrowse": [
     {
-      "id": "20261006_005",
-      "title": "刚刚，Hinton发了首篇RSI论文",
-      "originalTitle": "刚刚，Hinton发了首篇RSI论文",
+      "id": "20261007_q001",
+      "title": "Our approach to EU text provenance rules",
+      "originalTitle": "Our approach to EU text provenance rules",
       "category": "research",
       "categoryName": "科研突破",
-      "publishDate": "Mon, 05 Oct 2026 04:42:52 +0000",
-      "crawlDate": "2026-10-06",
+      "publishDate": "Mon, 05 Oct 2026 15:00:00 GMT",
+      "crawlDate": "2026-10-07",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/eu-text-provenance"
+      },
+      "tags": [
+        "官方",
+        "科研突破"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Our approach to EU text provenance rules。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261007_q002",
+      "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+      "originalTitle": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Wed, 07 Oct 2026 01:05:13 +0000",
+      "crawlDate": "2026-10-07",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/501705.html"
+        "url": "https://www.qbitai.com/2026/10/501749.html"
       },
       "tags": [
         "媒体",
         "科研突破"
       ],
-      "isHeadline": true,
-      "coreInsight": "刚刚，Hinton发了首篇RSI论文。该技术值得关注，建议评估其落地可行性。",
+      "isHeadline": false,
+      "coreInsight": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
+    },
     {
-      "id": "20261006_q001",
+      "id": "20261007_q003",
       "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
       "originalTitle": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Tue, 06 Oct 2026 06:45:40 +0000",
-      "crawlDate": "2026-10-06",
+      "crawlDate": "2026-10-07",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -143,13 +189,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261006_q002",
+      "id": "20261007_q004",
       "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
       "originalTitle": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 06 Oct 2026 06:44:39 GMT",
-      "crawlDate": "2026-10-06",
+      "crawlDate": "2026-10-07",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -166,36 +212,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261006_q003",
-      "title": "The Agent Said It Was Done. The Database Disagreed.",
-      "originalTitle": "The Agent Said It Was Done. The Database Disagreed.",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Sat, 03 Oct 2026 22:56:48 GMT",
-      "crawlDate": "2026-10-06",
-      "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/microsoft/thinkingbox"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Agent Said It Was Done. The Database Disagreed.。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261006_q004",
+      "id": "20261007_q005",
       "title": "The Download: 10 climate tech companies to watch",
       "originalTitle": "The Download: 10 climate tech companies to watch",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 06 Oct 2026 12:10:00 +0000",
-      "crawlDate": "2026-10-06",
+      "crawlDate": "2026-10-07",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -212,7 +235,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 9,
+  "total": 10,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
