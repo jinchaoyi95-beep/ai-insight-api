@@ -1,9 +1,78 @@
 {
   "date": "20261007",
-  "updateTime": "2026-10-07T03:19:34.667Z",
+  "updateTime": "2026-10-07T18:33:02.348Z",
   "headlines": [
     {
       "id": "20261007_001",
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "originalTitle": "Helping teens learn, plan, and shape the future of AI",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Wed, 07 Oct 2026 12:00:00 GMT",
+      "crawlDate": "2026-10-07",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/teens-learn-and-plan"
+      },
+      "tags": [
+        "官方",
+        "应用落地"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Helping teens learn, plan, and shape the future of AI。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261007_002",
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "originalTitle": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 07 Oct 2026 07:00:00 GMT",
+      "crawlDate": "2026-10-07",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/radisson"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Radisson Hotel Group brings hotel discovery into ChatGPT。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261007_003",
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "originalTitle": "GPT-6 and Intelligent UI for everyone",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 07 Oct 2026 00:00:00 GMT",
+      "crawlDate": "2026-10-07",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/gpt-6-for-everyone"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "GPT-6 and Intelligent UI for everyone。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261007_004",
       "title": "How Jump Trading is scaling quant research with ChatGPT",
       "originalTitle": "How Jump Trading is scaling quant research with ChatGPT",
       "category": "research",
@@ -26,7 +95,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261007_002",
+      "id": "20261007_005",
       "title": "Sharing AI progress in mathematics",
       "originalTitle": "Sharing AI progress in mathematics",
       "category": "research",
@@ -47,103 +116,80 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261007_003",
-      "title": "Advancing computer use with Ironclad",
-      "originalTitle": "Advancing computer use with Ironclad",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Tue, 06 Oct 2026 10:00:00 GMT",
-      "crawlDate": "2026-10-07",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/advancing-computer-use-with-ironclad"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Advancing computer use with Ironclad。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261007_004",
-      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "originalTitle": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 06 Oct 2026 16:00:00 GMT",
-      "crawlDate": "2026-10-07",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/atlassian-partnership"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261007_005",
-      "title": "不er，咋陶哲轩也成AI减速派了？？",
-      "originalTitle": "不er，咋陶哲轩也成AI减速派了？？",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 06 Oct 2026 07:59:17 +0000",
-      "crawlDate": "2026-10-07",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/501736.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "不er，咋陶哲轩也成AI减速派了？？。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
   "quickBrowse": [
     {
       "id": "20261007_q001",
-      "title": "Our approach to EU text provenance rules",
-      "originalTitle": "Our approach to EU text provenance rules",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Mon, 05 Oct 2026 15:00:00 GMT",
+      "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
+      "originalTitle": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
+      "category": "image-video",
+      "categoryName": "AI绘画/视频",
+      "publishDate": "Wed, 07 Oct 2026 11:34:47 +0000",
       "crawlDate": "2026-10-07",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/eu-text-provenance"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/10/501803.html"
       },
       "tags": [
-        "官方",
-        "科研突破"
+        "媒体",
+        "AI绘画/视频"
       ],
       "isHeadline": false,
-      "coreInsight": "Our approach to EU text provenance rules。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20261007_q002",
+      "title": "晕…这年头还有说人话的AI不",
+      "originalTitle": "晕…这年头还有说人话的AI不",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 07 Oct 2026 08:41:13 +0000",
+      "crawlDate": "2026-10-07",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/10/501796.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "晕…这年头还有说人话的AI不。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261007_q003",
+      "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
+      "originalTitle": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 07 Oct 2026 06:39:36 +0000",
+      "crawlDate": "2026-10-07",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/10/501791.html"
+      },
+      "tags": [
+        "媒体",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261007_q004",
       "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
       "originalTitle": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
       "category": "research",
@@ -166,53 +212,30 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261007_q003",
-      "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
-      "originalTitle": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 06 Oct 2026 06:45:40 +0000",
+      "id": "20261007_q005",
+      "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
+      "originalTitle": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 07 Oct 2026 12:10:00 +0000",
       "crawlDate": "2026-10-07",
       "source": {
-        "name": "量子位",
+        "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/501726.html"
+        "url": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/"
       },
       "tags": [
         "媒体",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "OpenAI「疯狂28天」首日，这都发了些啥啊…。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261007_q004",
-      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-      "originalTitle": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 06 Oct 2026 06:44:39 GMT",
-      "crawlDate": "2026-10-07",
-      "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/tiiuae/falcon-emirati"
-      },
-      "tags": [
-        "官方",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261007_q005",
+      "id": "20261007_q006",
       "title": "The Download: 10 climate tech companies to watch",
       "originalTitle": "The Download: 10 climate tech companies to watch",
       "category": "llm",
@@ -235,7 +258,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 10,
+  "total": 11,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
