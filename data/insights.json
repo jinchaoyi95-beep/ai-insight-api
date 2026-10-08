@@ -1,15 +1,15 @@
 {
-  "date": "20261007",
-  "updateTime": "2026-10-07T18:33:02.348Z",
+  "date": "20261008",
+  "updateTime": "2026-10-08T03:34:52.381Z",
   "headlines": [
     {
-      "id": "20261007_001",
+      "id": "20261008_001",
       "title": "Helping teens learn, plan, and shape the future of AI",
       "originalTitle": "Helping teens learn, plan, and shape the future of AI",
       "category": "application",
       "categoryName": "应用落地",
       "publishDate": "Wed, 07 Oct 2026 12:00:00 GMT",
-      "crawlDate": "2026-10-07",
+      "crawlDate": "2026-10-08",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +26,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261007_002",
+      "id": "20261008_002",
       "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
       "originalTitle": "Radisson Hotel Group brings hotel discovery into ChatGPT",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Wed, 07 Oct 2026 07:00:00 GMT",
-      "crawlDate": "2026-10-07",
+      "crawlDate": "2026-10-08",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,13 +49,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261007_003",
+      "id": "20261008_003",
       "title": "GPT-6 and Intelligent UI for everyone",
       "originalTitle": "GPT-6 and Intelligent UI for everyone",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Wed, 07 Oct 2026 00:00:00 GMT",
-      "crawlDate": "2026-10-07",
+      "crawlDate": "2026-10-08",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -72,13 +72,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261007_004",
+      "id": "20261008_004",
       "title": "How Jump Trading is scaling quant research with ChatGPT",
       "originalTitle": "How Jump Trading is scaling quant research with ChatGPT",
       "category": "research",
       "categoryName": "科研突破",
       "publishDate": "Tue, 06 Oct 2026 12:00:00 GMT",
-      "crawlDate": "2026-10-07",
+      "crawlDate": "2026-10-08",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -95,13 +95,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261007_005",
+      "id": "20261008_005",
       "title": "Sharing AI progress in mathematics",
       "originalTitle": "Sharing AI progress in mathematics",
       "category": "research",
       "categoryName": "科研突破",
       "publishDate": "Tue, 06 Oct 2026 12:00:00 GMT",
-      "crawlDate": "2026-10-07",
+      "crawlDate": "2026-10-08",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -120,105 +120,82 @@
   ],
   "quickBrowse": [
     {
-      "id": "20261007_q001",
-      "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
-      "originalTitle": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
-      "category": "image-video",
-      "categoryName": "AI绘画/视频",
-      "publishDate": "Wed, 07 Oct 2026 11:34:47 +0000",
-      "crawlDate": "2026-10-07",
+      "id": "20261008_q001",
+      "title": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
+      "originalTitle": "大模型原生智能体手机STEPX Neo将于10月13日正式发布",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Thu, 08 Oct 2026 02:15:37 +0000",
+      "crawlDate": "2026-10-08",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/501803.html"
+        "url": "https://www.qbitai.com/2026/10/501915.html"
       },
       "tags": [
         "媒体",
-        "AI绘画/视频"
+        "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "大模型原生智能体手机STEPX Neo将于10月13日正式发布。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261007_q002",
-      "title": "晕…这年头还有说人话的AI不",
-      "originalTitle": "晕…这年头还有说人话的AI不",
+      "id": "20261008_q002",
+      "title": "GPT-6今起免费用！拒答变少，话变多了",
+      "originalTitle": "GPT-6今起免费用！拒答变少，话变多了",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Wed, 07 Oct 2026 08:41:13 +0000",
-      "crawlDate": "2026-10-07",
+      "publishDate": "Thu, 08 Oct 2026 01:07:19 +0000",
+      "crawlDate": "2026-10-08",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/501796.html"
+        "url": "https://www.qbitai.com/2026/10/501834.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "晕…这年头还有说人话的AI不。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "GPT-6今起免费用！拒答变少，话变多了。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261007_q003",
-      "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
-      "originalTitle": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
+      "id": "20261008_q003",
+      "title": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
+      "originalTitle": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊",
       "category": "company",
       "categoryName": "企业动态",
-      "publishDate": "Wed, 07 Oct 2026 06:39:36 +0000",
-      "crawlDate": "2026-10-07",
+      "publishDate": "Thu, 08 Oct 2026 01:04:00 +0000",
+      "crawlDate": "2026-10-08",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/501791.html"
+        "url": "https://www.qbitai.com/2026/10/501832.html"
       },
       "tags": [
         "媒体",
         "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Claude新模型发布！跑分暴击GPT-6 Luna，价格比梁文谷还便宜，OpenAI只能送重置卡挽尊。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261007_q004",
-      "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
-      "originalTitle": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Wed, 07 Oct 2026 01:05:13 +0000",
-      "crawlDate": "2026-10-07",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/501749.html"
-      },
-      "tags": [
-        "媒体",
-        "科研突破"
-      ],
-      "isHeadline": false,
-      "coreInsight": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261007_q005",
+      "id": "20261008_q004",
       "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
       "originalTitle": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Wed, 07 Oct 2026 12:10:00 +0000",
-      "crawlDate": "2026-10-07",
+      "crawlDate": "2026-10-08",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -235,13 +212,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261007_q006",
+      "id": "20261008_q005",
       "title": "The Download: 10 climate tech companies to watch",
       "originalTitle": "The Download: 10 climate tech companies to watch",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 06 Oct 2026 12:10:00 +0000",
-      "crawlDate": "2026-10-07",
+      "crawlDate": "2026-10-08",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -258,7 +235,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 11,
+  "total": 10,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
