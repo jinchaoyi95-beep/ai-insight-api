@@ -1,15 +1,15 @@
 {
-  "date": "20261008",
-  "updateTime": "2026-10-08T18:32:09.255Z",
+  "date": "20261009",
+  "updateTime": "2026-10-09T03:40:03.169Z",
   "headlines": [
     {
-      "id": "20261008_001",
+      "id": "20261009_001",
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
       "originalTitle": "How Oracle turns days of work into minutes with ChatGPT and Codex",
       "category": "devtool",
       "categoryName": "开发工具",
       "publishDate": "Thu, 08 Oct 2026 16:00:00 GMT",
-      "crawlDate": "2026-10-08",
+      "crawlDate": "2026-10-09",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +26,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261008_002",
+      "id": "20261009_002",
       "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
       "originalTitle": "Pollo AI turns creative ideas into campaigns with OpenAI",
       "category": "image-video",
       "categoryName": "AI绘画/视频",
       "publishDate": "Thu, 08 Oct 2026 12:00:00 GMT",
-      "crawlDate": "2026-10-08",
+      "crawlDate": "2026-10-09",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,13 +49,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261008_003",
+      "id": "20261009_003",
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "originalTitle": "LegalOn halves Codex costs while maintaining development speed",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Thu, 08 Oct 2026 12:00:00 GMT",
+      "crawlDate": "2026-10-09",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/legalon-halves-codex-costs"
+      },
+      "tags": [
+        "官方",
+        "开发工具"
+      ],
+      "isHeadline": true,
+      "coreInsight": "LegalOn halves Codex costs while maintaining development speed。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261009_004",
       "title": "Disrupting AI-enabled “false front” operations",
       "originalTitle": "Disrupting AI-enabled “false front” operations",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Thu, 08 Oct 2026 00:00:00 GMT",
-      "crawlDate": "2026-10-08",
+      "crawlDate": "2026-10-09",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -72,13 +95,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261008_004",
+      "id": "20261009_005",
       "title": "Helping teens learn, plan, and shape the future of AI",
       "originalTitle": "Helping teens learn, plan, and shape the future of AI",
       "category": "application",
       "categoryName": "应用落地",
       "publishDate": "Wed, 07 Oct 2026 12:00:00 GMT",
-      "crawlDate": "2026-10-08",
+      "crawlDate": "2026-10-09",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -93,86 +116,132 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261008_005",
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "originalTitle": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Wed, 07 Oct 2026 07:00:00 GMT",
-      "crawlDate": "2026-10-08",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/radisson"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Radisson Hotel Group brings hotel discovery into ChatGPT。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
   "quickBrowse": [
     {
-      "id": "20261008_q001",
-      "title": "浪子回头！Manus重启北京办公室大举招聘",
-      "originalTitle": "浪子回头！Manus重启北京办公室大举招聘",
+      "id": "20261009_q001",
+      "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+      "originalTitle": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Thu, 08 Oct 2026 09:30:17 +0000",
-      "crawlDate": "2026-10-08",
+      "publishDate": "Fri, 09 Oct 2026 02:37:22 +0000",
+      "crawlDate": "2026-10-09",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/502009.html"
+        "url": "https://www.qbitai.com/2026/10/502106.html"
       },
       "tags": [
         "媒体",
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "浪子回头！Manus重启北京办公室大举招聘。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261008_q002",
-      "title": "ChatGPT踢到铁板了！能破解千禧数学难题，但论文复现率低至13.98%？",
-      "originalTitle": "ChatGPT踢到铁板了！能破解千禧数学难题，但论文复现率低至13.98%？",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Thu, 08 Oct 2026 09:28:44 +0000",
-      "crawlDate": "2026-10-08",
+      "id": "20261009_q002",
+      "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
+      "originalTitle": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Fri, 09 Oct 2026 02:03:48 +0000",
+      "crawlDate": "2026-10-09",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/501995.html"
+        "url": "https://www.qbitai.com/2026/10/502096.html"
       },
       "tags": [
         "媒体",
-        "科研突破"
+        "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "ChatGPT踢到铁板了！能破解千禧数学难题，但论文复现率低至13.98%？。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261008_q003",
+      "id": "20261009_q003",
+      "title": "陶哲轩带头宣战！人类数学家联合抵制OpenAI",
+      "originalTitle": "陶哲轩带头宣战！人类数学家联合抵制OpenAI",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Fri, 09 Oct 2026 00:35:57 +0000",
+      "crawlDate": "2026-10-09",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/10/502089.html"
+      },
+      "tags": [
+        "媒体",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "陶哲轩带头宣战！人类数学家联合抵制OpenAI。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261009_q004",
+      "title": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude",
+      "originalTitle": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Fri, 09 Oct 2026 00:16:56 +0000",
+      "crawlDate": "2026-10-09",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/10/502083.html"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261009_q005",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "originalTitle": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 09 Oct 2026 00:08:24 +0000",
+      "crawlDate": "2026-10-09",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Roundtables: A Conversation With the Creator of AI-Designed Viruses。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261009_q006",
       "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
       "originalTitle": "The Download: AI roadblocks for humanoids and portable rubber dams",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Thu, 08 Oct 2026 12:10:00 +0000",
-      "crawlDate": "2026-10-08",
+      "crawlDate": "2026-10-09",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -187,32 +256,9 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261008_q004",
-      "title": "AI breakthroughs in robotics won’t change your life any time soon",
-      "originalTitle": "AI breakthroughs in robotics won’t change your life any time soon",
-      "category": "image-video",
-      "categoryName": "AI绘画/视频",
-      "publishDate": "Thu, 08 Oct 2026 09:00:00 +0000",
-      "crawlDate": "2026-10-08",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/"
-      },
-      "tags": [
-        "媒体",
-        "AI绘画/视频"
-      ],
-      "isHeadline": false,
-      "coreInsight": "AI breakthroughs in robotics won’t change your life any time soon。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 9,
+  "total": 11,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
