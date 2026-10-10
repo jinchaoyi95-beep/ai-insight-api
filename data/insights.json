@@ -1,15 +1,61 @@
 {
-  "date": "20261009",
-  "updateTime": "2026-10-09T03:40:03.169Z",
+  "date": "20261010",
+  "updateTime": "2026-10-10T03:21:46.973Z",
   "headlines": [
     {
-      "id": "20261009_001",
+      "id": "20261010_001",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "originalTitle": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "crawlDate": "2026-10-10",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/sophos"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261010_002",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "originalTitle": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Fri, 09 Oct 2026 07:00:00 GMT",
+      "crawlDate": "2026-10-10",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/asana-browser-agent"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261010_003",
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
       "originalTitle": "How Oracle turns days of work into minutes with ChatGPT and Codex",
       "category": "devtool",
       "categoryName": "开发工具",
       "publishDate": "Thu, 08 Oct 2026 16:00:00 GMT",
-      "crawlDate": "2026-10-09",
+      "crawlDate": "2026-10-10",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +72,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261009_002",
+      "id": "20261010_004",
       "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
       "originalTitle": "Pollo AI turns creative ideas into campaigns with OpenAI",
       "category": "image-video",
       "categoryName": "AI绘画/视频",
       "publishDate": "Thu, 08 Oct 2026 12:00:00 GMT",
-      "crawlDate": "2026-10-09",
+      "crawlDate": "2026-10-10",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,13 +95,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261009_003",
+      "id": "20261010_005",
       "title": "LegalOn halves Codex costs while maintaining development speed",
       "originalTitle": "LegalOn halves Codex costs while maintaining development speed",
       "category": "devtool",
       "categoryName": "开发工具",
       "publishDate": "Thu, 08 Oct 2026 12:00:00 GMT",
-      "crawlDate": "2026-10-09",
+      "crawlDate": "2026-10-10",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -70,195 +116,126 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261009_004",
-      "title": "Disrupting AI-enabled “false front” operations",
-      "originalTitle": "Disrupting AI-enabled “false front” operations",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Thu, 08 Oct 2026 00:00:00 GMT",
-      "crawlDate": "2026-10-09",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Disrupting AI-enabled “false front” operations。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261009_005",
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "originalTitle": "Helping teens learn, plan, and shape the future of AI",
-      "category": "application",
-      "categoryName": "应用落地",
-      "publishDate": "Wed, 07 Oct 2026 12:00:00 GMT",
-      "crawlDate": "2026-10-09",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/teens-learn-and-plan"
-      },
-      "tags": [
-        "官方",
-        "应用落地"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Helping teens learn, plan, and shape the future of AI。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
   "quickBrowse": [
     {
-      "id": "20261009_q001",
-      "title": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
-      "originalTitle": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业",
+      "id": "20261010_q001",
+      "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
+      "originalTitle": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Fri, 09 Oct 2026 02:37:22 +0000",
-      "crawlDate": "2026-10-09",
+      "publishDate": "Fri, 09 Oct 2026 08:53:08 +0000",
+      "crawlDate": "2026-10-10",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/502106.html"
+        "url": "https://www.qbitai.com/2026/10/502422.html"
       },
       "tags": [
         "媒体",
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "openJiuwen发布并开源企业级AgentOS，加速智能体规模落地企业。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261009_q002",
-      "title": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
-      "originalTitle": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Fri, 09 Oct 2026 02:03:48 +0000",
-      "crawlDate": "2026-10-09",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/502096.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "代码造世界，扩散绘现实：AgentGarten让智能体在实时试炼场中边玩边进化。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261009_q003",
-      "title": "陶哲轩带头宣战！人类数学家联合抵制OpenAI",
-      "originalTitle": "陶哲轩带头宣战！人类数学家联合抵制OpenAI",
+      "id": "20261010_q002",
+      "title": "《柳叶刀》研究表明：AI 有望改善医患关系",
+      "originalTitle": "《柳叶刀》研究表明：AI 有望改善医患关系",
       "category": "company",
       "categoryName": "企业动态",
-      "publishDate": "Fri, 09 Oct 2026 00:35:57 +0000",
-      "crawlDate": "2026-10-09",
+      "publishDate": "Fri, 09 Oct 2026 06:28:55 +0000",
+      "crawlDate": "2026-10-10",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/502089.html"
+        "url": "https://www.qbitai.com/2026/10/502359.html"
       },
       "tags": [
         "媒体",
         "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "陶哲轩带头宣战！人类数学家联合抵制OpenAI。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "《柳叶刀》研究表明：AI 有望改善医患关系。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261009_q004",
-      "title": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude",
-      "originalTitle": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Fri, 09 Oct 2026 00:16:56 +0000",
-      "crawlDate": "2026-10-09",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/502083.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "不等Gemini 4了！谷歌发布办公Agent，支持调用Claude。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261009_q005",
-      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
-      "originalTitle": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "id": "20261010_q003",
+      "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
+      "originalTitle": "The Download: AI’s refusal problem and weight-loss drug side effects",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Fri, 09 Oct 2026 00:08:24 +0000",
-      "crawlDate": "2026-10-09",
+      "publishDate": "Fri, 09 Oct 2026 12:10:00 +0000",
+      "crawlDate": "2026-10-10",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
+        "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "Roundtables: A Conversation With the Creator of AI-Designed Viruses。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: AI’s refusal problem and weight-loss drug side effects。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261009_q006",
-      "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
-      "originalTitle": "The Download: AI roadblocks for humanoids and portable rubber dams",
+      "id": "20261010_q004",
+      "title": "We’re putting too much faith in AI’s ability to say no",
+      "originalTitle": "We’re putting too much faith in AI’s ability to say no",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Thu, 08 Oct 2026 12:10:00 +0000",
-      "crawlDate": "2026-10-09",
+      "publishDate": "Fri, 09 Oct 2026 09:00:00 +0000",
+      "crawlDate": "2026-10-10",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/"
+        "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: AI roadblocks for humanoids and portable rubber dams。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "We’re putting too much faith in AI’s ability to say no。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261010_q005",
+      "title": "Job titles of the future: Delivery drone air traffic controller",
+      "originalTitle": "Job titles of the future: Delivery drone air traffic controller",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 09 Oct 2026 09:00:00 +0000",
+      "crawlDate": "2026-10-10",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Job titles of the future: Delivery drone air traffic controller。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 11,
+  "total": 10,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
