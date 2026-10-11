@@ -1,15 +1,15 @@
 {
-  "date": "20261010",
-  "updateTime": "2026-10-10T03:21:46.973Z",
+  "date": "20261011",
+  "updateTime": "2026-10-11T02:54:56.849Z",
   "headlines": [
     {
-      "id": "20261010_001",
+      "id": "20261011_001",
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "originalTitle": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "crawlDate": "2026-10-10",
+      "crawlDate": "2026-10-11",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +26,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261010_002",
+      "id": "20261011_002",
       "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
       "originalTitle": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "crawlDate": "2026-10-10",
+      "crawlDate": "2026-10-11",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,13 +49,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261010_003",
+      "id": "20261011_003",
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
       "originalTitle": "How Oracle turns days of work into minutes with ChatGPT and Codex",
       "category": "devtool",
       "categoryName": "开发工具",
       "publishDate": "Thu, 08 Oct 2026 16:00:00 GMT",
-      "crawlDate": "2026-10-10",
+      "crawlDate": "2026-10-11",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -72,13 +72,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261010_004",
+      "id": "20261011_004",
       "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
       "originalTitle": "Pollo AI turns creative ideas into campaigns with OpenAI",
       "category": "image-video",
       "categoryName": "AI绘画/视频",
       "publishDate": "Thu, 08 Oct 2026 12:00:00 GMT",
-      "crawlDate": "2026-10-10",
+      "crawlDate": "2026-10-11",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -95,13 +95,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261010_005",
+      "id": "20261011_005",
       "title": "LegalOn halves Codex costs while maintaining development speed",
       "originalTitle": "LegalOn halves Codex costs while maintaining development speed",
       "category": "devtool",
       "categoryName": "开发工具",
       "publishDate": "Thu, 08 Oct 2026 12:00:00 GMT",
-      "crawlDate": "2026-10-10",
+      "crawlDate": "2026-10-11",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -120,13 +120,13 @@
   ],
   "quickBrowse": [
     {
-      "id": "20261010_q001",
+      "id": "20261011_q001",
       "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
       "originalTitle": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Fri, 09 Oct 2026 08:53:08 +0000",
-      "crawlDate": "2026-10-10",
+      "crawlDate": "2026-10-11",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -143,36 +143,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261010_q002",
-      "title": "《柳叶刀》研究表明：AI 有望改善医患关系",
-      "originalTitle": "《柳叶刀》研究表明：AI 有望改善医患关系",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Fri, 09 Oct 2026 06:28:55 +0000",
-      "crawlDate": "2026-10-10",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/502359.html"
-      },
-      "tags": [
-        "媒体",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "《柳叶刀》研究表明：AI 有望改善医患关系。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261010_q003",
+      "id": "20261011_q002",
       "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
       "originalTitle": "The Download: AI’s refusal problem and weight-loss drug side effects",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 09 Oct 2026 12:10:00 +0000",
-      "crawlDate": "2026-10-10",
+      "crawlDate": "2026-10-11",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -189,13 +166,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261010_q004",
+      "id": "20261011_q003",
       "title": "We’re putting too much faith in AI’s ability to say no",
       "originalTitle": "We’re putting too much faith in AI’s ability to say no",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 09 Oct 2026 09:00:00 +0000",
-      "crawlDate": "2026-10-10",
+      "crawlDate": "2026-10-11",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -212,13 +189,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261010_q005",
+      "id": "20261011_q004",
       "title": "Job titles of the future: Delivery drone air traffic controller",
       "originalTitle": "Job titles of the future: Delivery drone air traffic controller",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 09 Oct 2026 09:00:00 +0000",
-      "crawlDate": "2026-10-10",
+      "crawlDate": "2026-10-11",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -235,7 +212,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 10,
+  "total": 9,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
