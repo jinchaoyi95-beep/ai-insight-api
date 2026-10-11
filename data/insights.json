@@ -1,6 +1,6 @@
 {
   "date": "20261011",
-  "updateTime": "2026-10-11T02:54:56.849Z",
+  "updateTime": "2026-10-11T17:26:36.360Z",
   "headlines": [
     {
       "id": "20261011_001",
@@ -50,69 +50,46 @@
     },
     {
       "id": "20261011_003",
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "originalTitle": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Thu, 08 Oct 2026 16:00:00 GMT",
+      "title": "硅谷AI现状：谁有算力谁是爹",
+      "originalTitle": "硅谷AI现状：谁有算力谁是爹",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Sun, 11 Oct 2026 05:22:38 +0000",
       "crawlDate": "2026-10-11",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/oracle"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/10/502585.html"
       },
       "tags": [
-        "官方",
-        "开发工具"
+        "媒体",
+        "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "How Oracle turns days of work into minutes with ChatGPT and Codex。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "硅谷AI现状：谁有算力谁是爹。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20261011_004",
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "originalTitle": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "category": "image-video",
-      "categoryName": "AI绘画/视频",
-      "publishDate": "Thu, 08 Oct 2026 12:00:00 GMT",
+      "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
+      "originalTitle": "下架8个月，GPT-4o的拯救行动居然还在继续",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Sun, 11 Oct 2026 05:18:04 +0000",
       "crawlDate": "2026-10-11",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/pollo-ai"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/10/502550.html"
       },
       "tags": [
-        "官方",
-        "AI绘画/视频"
+        "媒体",
+        "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "Pollo AI turns creative ideas into campaigns with OpenAI。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261011_005",
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "originalTitle": "LegalOn halves Codex costs while maintaining development speed",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Thu, 08 Oct 2026 12:00:00 GMT",
-      "crawlDate": "2026-10-11",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/legalon-halves-codex-costs"
-      },
-      "tags": [
-        "官方",
-        "开发工具"
-      ],
-      "isHeadline": true,
-      "coreInsight": "LegalOn halves Codex costs while maintaining development speed。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "下架8个月，GPT-4o的拯救行动居然还在继续。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -121,23 +98,23 @@
   "quickBrowse": [
     {
       "id": "20261011_q001",
-      "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
-      "originalTitle": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Fri, 09 Oct 2026 08:53:08 +0000",
+      "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
+      "originalTitle": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Sat, 10 Oct 2026 10:30:36 +0000",
       "crawlDate": "2026-10-11",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/502422.html"
+        "url": "https://www.qbitai.com/2026/10/502541.html"
       },
       "tags": [
         "媒体",
-        "Agent"
+        "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -212,7 +189,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 9,
+  "total": 8,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
