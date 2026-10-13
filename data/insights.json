@@ -1,95 +1,118 @@
 {
-  "date": "20261011",
-  "updateTime": "2026-10-11T17:26:36.360Z",
+  "date": "20261013",
+  "updateTime": "2026-10-13T18:58:11.686Z",
   "headlines": [
     {
-      "id": "20261011_001",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "originalTitle": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "crawlDate": "2026-10-11",
+      "id": "20261013_001",
+      "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
+      "originalTitle": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Tue, 13 Oct 2026 11:05:39 +0000",
+      "crawlDate": "2026-10-13",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/sophos"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/10/503107.html"
       },
       "tags": [
-        "官方",
-        "企业动态"
+        "媒体",
+        "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "魔法原子具身Agent框架拿下MolmoSpaces全球第一。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261011_002",
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "originalTitle": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "id": "20261013_002",
+      "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
+      "originalTitle": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 13 Oct 2026 09:33:37 +0000",
+      "crawlDate": "2026-10-13",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/10/503093.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261013_003",
+      "title": "Claude团队又搞事：实测AI全自主复制进智能家电",
+      "originalTitle": "Claude团队又搞事：实测AI全自主复制进智能家电",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 13 Oct 2026 06:19:10 +0000",
+      "crawlDate": "2026-10-13",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/10/502920.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Claude团队又搞事：实测AI全自主复制进智能家电。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261013_004",
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "originalTitle": "Run fast, private agents on-device with LFM2.5-24B-A2B",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Fri, 09 Oct 2026 07:00:00 GMT",
-      "crawlDate": "2026-10-11",
+      "publishDate": "Tue, 13 Oct 2026 17:05:48 GMT",
+      "crawlDate": "2026-10-13",
       "source": {
-        "name": "OpenAI Blog",
+        "name": "Hugging Face",
         "type": "官方",
-        "url": "https://openai.com/index/asana-browser-agent"
+        "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
       },
       "tags": [
         "官方",
         "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Run fast, private agents on-device with LFM2.5-24B-A2B。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261011_003",
-      "title": "硅谷AI现状：谁有算力谁是爹",
-      "originalTitle": "硅谷AI现状：谁有算力谁是爹",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sun, 11 Oct 2026 05:22:38 +0000",
-      "crawlDate": "2026-10-11",
+      "id": "20261013_005",
+      "title": "The Download: open model trade-offs and geothermal power’s promise",
+      "originalTitle": "The Download: open model trade-offs and geothermal power’s promise",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 13 Oct 2026 12:00:00 +0000",
+      "crawlDate": "2026-10-13",
       "source": {
-        "name": "量子位",
+        "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/502585.html"
+        "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "硅谷AI现状：谁有算力谁是爹。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261011_004",
-      "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
-      "originalTitle": "下架8个月，GPT-4o的拯救行动居然还在继续",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sun, 11 Oct 2026 05:18:04 +0000",
-      "crawlDate": "2026-10-11",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/502550.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "下架8个月，GPT-4o的拯救行动居然还在继续。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: open model trade-offs and geothermal power’s promise。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -97,99 +120,53 @@
   ],
   "quickBrowse": [
     {
-      "id": "20261011_q001",
-      "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
-      "originalTitle": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sat, 10 Oct 2026 10:30:36 +0000",
-      "crawlDate": "2026-10-11",
+      "id": "20261013_q001",
+      "title": "Open models have real benefits. Do they outweigh the risks?",
+      "originalTitle": "Open models have real benefits. Do they outweigh the risks?",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 13 Oct 2026 10:00:00 +0000",
+      "crawlDate": "2026-10-13",
       "source": {
-        "name": "量子位",
+        "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/502541.html"
+        "url": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Open models have real benefits. Do they outweigh the risks?。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261011_q002",
-      "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
-      "originalTitle": "The Download: AI’s refusal problem and weight-loss drug side effects",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 09 Oct 2026 12:10:00 +0000",
-      "crawlDate": "2026-10-11",
+      "id": "20261013_q002",
+      "title": "AI labs are buying data from dead startups to train their models",
+      "originalTitle": "AI labs are buying data from dead startups to train their models",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Tue, 13 Oct 2026 09:00:00 +0000",
+      "crawlDate": "2026-10-13",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/"
+        "url": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "开发工具"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: AI’s refusal problem and weight-loss drug side effects。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261011_q003",
-      "title": "We’re putting too much faith in AI’s ability to say no",
-      "originalTitle": "We’re putting too much faith in AI’s ability to say no",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 09 Oct 2026 09:00:00 +0000",
-      "crawlDate": "2026-10-11",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "We’re putting too much faith in AI’s ability to say no。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261011_q004",
-      "title": "Job titles of the future: Delivery drone air traffic controller",
-      "originalTitle": "Job titles of the future: Delivery drone air traffic controller",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 09 Oct 2026 09:00:00 +0000",
-      "crawlDate": "2026-10-11",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Job titles of the future: Delivery drone air traffic controller。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "AI labs are buying data from dead startups to train their models。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 8,
+  "total": 7,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
