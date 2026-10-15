@@ -1,15 +1,61 @@
 {
-  "date": "20261014",
-  "updateTime": "2026-10-14T16:41:42.455Z",
+  "date": "20261015",
+  "updateTime": "2026-10-15T02:22:18.114Z",
   "headlines": [
     {
-      "id": "20261014_001",
+      "id": "20261015_001",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "originalTitle": "Amp puts AI agents to work beyond code with OpenAI models",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Wed, 14 Oct 2026 12:00:00 GMT",
+      "crawlDate": "2026-10-15",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/amp-beyond-coding"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Amp puts AI agents to work beyond code with OpenAI models。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261015_002",
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "originalTitle": "SentinelOne cuts malware analysis from weeks to hours",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 14 Oct 2026 12:00:00 GMT",
+      "crawlDate": "2026-10-15",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/sentinelone"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "SentinelOne cuts malware analysis from weeks to hours。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261015_003",
       "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
       "originalTitle": "How Third Moment Research runs 10,000 agents for 36+ hours",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Wed, 14 Oct 2026 07:00:00 GMT",
-      "crawlDate": "2026-10-14",
+      "crawlDate": "2026-10-15",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,59 +72,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261014_002",
-      "title": "The EU’s next chapter in AI is agentic",
-      "originalTitle": "The EU’s next chapter in AI is agentic",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Wed, 14 Oct 2026 00:00:00 GMT",
-      "crawlDate": "2026-10-14",
+      "id": "20261015_004",
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "originalTitle": "How Block is building AI-powered security with OpenAI technology",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 14 Oct 2026 07:00:00 GMT",
+      "crawlDate": "2026-10-15",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
+        "url": "https://openai.com/index/block-ai-powered-security"
       },
       "tags": [
         "官方",
-        "Agent"
+        "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "The EU’s next chapter in AI is agentic。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "How Block is building AI-powered security with OpenAI technology。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261014_003",
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "originalTitle": "Higgsfield takes AI video from 1 minute to over 10",
-      "category": "image-video",
-      "categoryName": "AI绘画/视频",
-      "publishDate": "Tue, 13 Oct 2026 12:00:00 GMT",
-      "crawlDate": "2026-10-14",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/higgsfield-longer-videos-voice"
-      },
-      "tags": [
-        "官方",
-        "AI绘画/视频"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Higgsfield takes AI video from 1 minute to over 10。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261014_004",
+      "id": "20261015_005",
       "title": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
       "originalTitle": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Wed, 14 Oct 2026 07:03:44 +0000",
-      "crawlDate": "2026-10-14",
+      "crawlDate": "2026-10-15",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -93,40 +116,40 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261014_005",
-      "title": "The Download: faking blood and the future of batteries",
-      "originalTitle": "The Download: faking blood and the future of batteries",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 14 Oct 2026 12:10:00 +0000",
-      "crawlDate": "2026-10-14",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "The Download: faking blood and the future of batteries。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
   "quickBrowse": [
     {
-      "id": "20261014_q001",
+      "id": "20261015_q001",
+      "title": "The EU’s next chapter in AI is agentic",
+      "originalTitle": "The EU’s next chapter in AI is agentic",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Wed, 14 Oct 2026 00:00:00 GMT",
+      "crawlDate": "2026-10-15",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The EU’s next chapter in AI is agentic。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261015_q002",
       "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
       "originalTitle": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Wed, 14 Oct 2026 08:01:18 +0000",
-      "crawlDate": "2026-10-14",
+      "crawlDate": "2026-10-15",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -143,13 +166,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261014_q002",
+      "id": "20261015_q003",
       "title": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
       "originalTitle": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Wed, 14 Oct 2026 06:45:38 +0000",
-      "crawlDate": "2026-10-14",
+      "crawlDate": "2026-10-15",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -166,13 +189,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261014_q003",
+      "id": "20261015_q004",
       "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
       "originalTitle": "Run fast, private agents on-device with LFM2.5-24B-A2B",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Tue, 13 Oct 2026 17:05:48 GMT",
-      "crawlDate": "2026-10-14",
+      "crawlDate": "2026-10-15",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -189,13 +212,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261014_q004",
+      "id": "20261015_q005",
+      "title": "The Download: faking blood and the future of batteries",
+      "originalTitle": "The Download: faking blood and the future of batteries",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 14 Oct 2026 12:10:00 +0000",
+      "crawlDate": "2026-10-15",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The Download: faking blood and the future of batteries。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261015_q006",
       "title": "The Download: open model trade-offs and geothermal power’s promise",
       "originalTitle": "The Download: open model trade-offs and geothermal power’s promise",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Tue, 13 Oct 2026 12:00:00 +0000",
-      "crawlDate": "2026-10-14",
+      "crawlDate": "2026-10-15",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -212,7 +258,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 9,
+  "total": 11,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
