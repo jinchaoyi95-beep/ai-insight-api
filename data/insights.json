@@ -1,15 +1,84 @@
 {
-  "date": "20261015",
-  "updateTime": "2026-10-15T02:22:18.114Z",
+  "date": "20261016",
+  "updateTime": "2026-10-16T16:12:26.195Z",
   "headlines": [
     {
-      "id": "20261015_001",
+      "id": "20261016_001",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "originalTitle": "Bringing GPT-Rosalind to academic research labs",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Thu, 15 Oct 2026 19:00:00 GMT",
+      "crawlDate": "2026-10-16",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/introducing-the-rosalind-academic-plan"
+      },
+      "tags": [
+        "官方",
+        "科研突破"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Bringing GPT-Rosalind to academic research labs。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261016_002",
+      "title": "Teaching students to think and learn through questions",
+      "originalTitle": "Teaching students to think and learn through questions",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Thu, 15 Oct 2026 13:00:00 GMT",
+      "crawlDate": "2026-10-16",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
+      },
+      "tags": [
+        "官方",
+        "科研突破"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Teaching students to think and learn through questions。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261016_003",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "originalTitle": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Thu, 15 Oct 2026 00:00:00 GMT",
+      "crawlDate": "2026-10-16",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/sullivan-cromwell"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Sullivan & Cromwell brings legal expertise into agreement review。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261016_004",
       "title": "Amp puts AI agents to work beyond code with OpenAI models",
       "originalTitle": "Amp puts AI agents to work beyond code with OpenAI models",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Wed, 14 Oct 2026 12:00:00 GMT",
-      "crawlDate": "2026-10-15",
+      "crawlDate": "2026-10-16",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +95,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261015_002",
+      "id": "20261016_005",
       "title": "SentinelOne cuts malware analysis from weeks to hours",
       "originalTitle": "SentinelOne cuts malware analysis from weeks to hours",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Wed, 14 Oct 2026 12:00:00 GMT",
-      "crawlDate": "2026-10-15",
+      "crawlDate": "2026-10-16",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -47,218 +116,195 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261015_003",
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "originalTitle": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Wed, 14 Oct 2026 07:00:00 GMT",
-      "crawlDate": "2026-10-15",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/third-moment-research"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "How Third Moment Research runs 10,000 agents for 36+ hours。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261015_004",
-      "title": "How Block is building AI-powered security with OpenAI technology",
-      "originalTitle": "How Block is building AI-powered security with OpenAI technology",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Wed, 14 Oct 2026 07:00:00 GMT",
-      "crawlDate": "2026-10-15",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/block-ai-powered-security"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "How Block is building AI-powered security with OpenAI technology。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261015_005",
-      "title": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
-      "originalTitle": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 14 Oct 2026 07:03:44 +0000",
-      "crawlDate": "2026-10-15",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/503211.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
   "quickBrowse": [
     {
-      "id": "20261015_q001",
-      "title": "The EU’s next chapter in AI is agentic",
-      "originalTitle": "The EU’s next chapter in AI is agentic",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Wed, 14 Oct 2026 00:00:00 GMT",
-      "crawlDate": "2026-10-15",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The EU’s next chapter in AI is agentic。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261015_q002",
-      "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
-      "originalTitle": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Wed, 14 Oct 2026 08:01:18 +0000",
-      "crawlDate": "2026-10-15",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/503244.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261015_q003",
-      "title": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
-      "originalTitle": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Wed, 14 Oct 2026 06:45:38 +0000",
-      "crawlDate": "2026-10-15",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/503201.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "STEPX首款大模型原生智能体手机STEPX Neo正式发布。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261015_q004",
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "originalTitle": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Tue, 13 Oct 2026 17:05:48 GMT",
-      "crawlDate": "2026-10-15",
-      "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Run fast, private agents on-device with LFM2.5-24B-A2B。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261015_q005",
-      "title": "The Download: faking blood and the future of batteries",
-      "originalTitle": "The Download: faking blood and the future of batteries",
+      "id": "20261016_q001",
+      "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
+      "originalTitle": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Wed, 14 Oct 2026 12:10:00 +0000",
-      "crawlDate": "2026-10-15",
+      "publishDate": "Thu, 15 Oct 2026 09:43:29 +0000",
+      "crawlDate": "2026-10-16",
       "source": {
-        "name": "MIT Technology Review",
+        "name": "量子位",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/10/14/1146452/the-download-military-fake-blood-future-batteries/"
+        "url": "https://www.qbitai.com/2026/10/503640.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: faking blood and the future of batteries。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261015_q006",
-      "title": "The Download: open model trade-offs and geothermal power’s promise",
-      "originalTitle": "The Download: open model trade-offs and geothermal power’s promise",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 13 Oct 2026 12:00:00 +0000",
-      "crawlDate": "2026-10-15",
+      "id": "20261016_q002",
+      "title": "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架",
+      "originalTitle": "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Thu, 15 Oct 2026 08:48:31 +0000",
+      "crawlDate": "2026-10-16",
       "source": {
-        "name": "MIT Technology Review",
+        "name": "量子位",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/10/13/1146382/the-download-open-models-trade-offs-geothermal-power/"
+        "url": "https://www.qbitai.com/2026/10/503614.html"
       },
       "tags": [
         "媒体",
-        "企业动态"
+        "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: open model trade-offs and geothermal power’s promise。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261016_q003",
+      "title": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
+      "originalTitle": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Thu, 15 Oct 2026 08:16:19 +0000",
+      "crawlDate": "2026-10-16",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/10/503611.html"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261016_q004",
+      "title": "这个双十一，百灵新模型干起活来不烧心",
+      "originalTitle": "这个双十一，百灵新模型干起活来不烧心",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 15 Oct 2026 07:35:24 +0000",
+      "crawlDate": "2026-10-16",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/10/503532.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "这个双十一，百灵新模型干起活来不烧心。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261016_q005",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "originalTitle": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 16 Oct 2026 01:44:47 GMT",
+      "crawlDate": "2026-10-16",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261016_q006",
+      "title": "The Download: failed social media bans, and extending pets’ lives",
+      "originalTitle": "The Download: failed social media bans, and extending pets’ lives",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 16 Oct 2026 12:10:00 +0000",
+      "crawlDate": "2026-10-16",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The Download: failed social media bans, and extending pets’ lives。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261016_q007",
+      "title": "This implant can restore sight for patients with macular degeneration",
+      "originalTitle": "This implant can restore sight for patients with macular degeneration",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Fri, 16 Oct 2026 09:00:00 +0000",
+      "crawlDate": "2026-10-16",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/"
+      },
+      "tags": [
+        "媒体",
+        "应用落地"
+      ],
+      "isHeadline": false,
+      "coreInsight": "This implant can restore sight for patients with macular degeneration。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261016_q008",
+      "title": "Love is infrastructure",
+      "originalTitle": "Love is infrastructure",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 16 Oct 2026 09:00:00 +0000",
+      "crawlDate": "2026-10-16",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Love is infrastructure。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 11,
+  "total": 13,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
