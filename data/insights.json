@@ -1,6 +1,6 @@
 {
   "date": "20261017",
-  "updateTime": "2026-10-17T02:08:33.804Z",
+  "updateTime": "2026-10-17T15:06:08.599Z",
   "headlines": [
     {
       "id": "20261017_001",
@@ -96,23 +96,23 @@
     },
     {
       "id": "20261017_005",
-      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-      "originalTitle": "Sullivan & Cromwell brings legal expertise into agreement review",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Thu, 15 Oct 2026 00:00:00 GMT",
+      "title": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
+      "originalTitle": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 16 Oct 2026 12:54:54 +0000",
       "crawlDate": "2026-10-17",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/sullivan-cromwell"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/10/503880.html"
       },
       "tags": [
-        "官方",
-        "企业动态"
+        "媒体",
+        "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "Sullivan & Cromwell brings legal expertise into agreement review。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "清华特奖得主AI创业再+1：GeoPT一作入局物理世界模型。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -121,6 +121,52 @@
   "quickBrowse": [
     {
       "id": "20261017_q001",
+      "title": "说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历",
+      "originalTitle": "说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Fri, 16 Oct 2026 08:07:33 +0000",
+      "crawlDate": "2026-10-17",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/10/503861.html"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "说真话就能拿10万？网易叭哥说重金求“真需求”，不卡专业学历。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261017_q002",
+      "title": "范式智能联合睿思智联推出开源一站式  生产级 AI 部署平台 “模域ModelSphere”",
+      "originalTitle": "范式智能联合睿思智联推出开源一站式  生产级 AI 部署平台 “模域ModelSphere”",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 16 Oct 2026 07:16:11 +0000",
+      "crawlDate": "2026-10-17",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/10/503829.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "范式智能联合睿思智联推出开源一站式  生产级 AI 部署平台 “模域ModelSphere”。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261017_q003",
       "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
       "originalTitle": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
       "category": "llm",
@@ -143,7 +189,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261017_q002",
+      "id": "20261017_q004",
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
       "originalTitle": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
       "category": "llm",
@@ -166,7 +212,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261017_q003",
+      "id": "20261017_q005",
       "title": "The Download: failed social media bans, and extending pets’ lives",
       "originalTitle": "The Download: failed social media bans, and extending pets’ lives",
       "category": "llm",
@@ -189,7 +235,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261017_q004",
+      "id": "20261017_q006",
       "title": "This implant can restore sight for patients with macular degeneration",
       "originalTitle": "This implant can restore sight for patients with macular degeneration",
       "category": "application",
@@ -212,7 +258,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 9,
+  "total": 11,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
