@@ -1,118 +1,118 @@
 {
-  "date": "20261019",
-  "updateTime": "2026-10-19T18:25:51.761Z",
+  "date": "20261020",
+  "updateTime": "2026-10-20T16:27:39.995Z",
   "headlines": [
     {
-      "id": "20261019_001",
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "originalTitle": "How Itaú is building generative AI for its entire customer base",
-      "category": "application",
-      "categoryName": "应用落地",
-      "publishDate": "Fri, 16 Oct 2026 19:00:00 GMT",
-      "crawlDate": "2026-10-19",
+      "id": "20261020_001",
+      "title": "Advancing coding in low‑resource programming languages",
+      "originalTitle": "Advancing coding in low‑resource programming languages",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 19 Oct 2026 12:00:00 GMT",
+      "crawlDate": "2026-10-20",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/itau-generative-ai"
+        "url": "https://openai.com/index/low-resource-programming-languages"
       },
       "tags": [
         "官方",
-        "应用落地"
+        "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "How Itaú is building generative AI for its entire customer base。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Advancing coding in low‑resource programming languages。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261019_002",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "originalTitle": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Fri, 16 Oct 2026 00:00:00 GMT",
-      "crawlDate": "2026-10-19",
+      "id": "20261020_002",
+      "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
+      "originalTitle": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 20 Oct 2026 01:09:43 +0000",
+      "crawlDate": "2026-10-20",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/stack-overflow-chatgpt-plugin"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/10/504314.html"
       },
       "tags": [
-        "官方",
-        "Agent"
+        "媒体",
+        "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "Stack Overflow for Agents triples signups with ChatGPT plugin。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261019_003",
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "originalTitle": "Bringing GPT-Rosalind to academic research labs",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Thu, 15 Oct 2026 19:00:00 GMT",
-      "crawlDate": "2026-10-19",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/introducing-the-rosalind-academic-plan"
-      },
-      "tags": [
-        "官方",
-        "科研突破"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Bringing GPT-Rosalind to academic research labs。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261019_004",
-      "title": "Teaching students to think and learn through questions",
-      "originalTitle": "Teaching students to think and learn through questions",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Thu, 15 Oct 2026 13:00:00 GMT",
-      "crawlDate": "2026-10-19",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
-      },
-      "tags": [
-        "官方",
-        "科研突破"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Teaching students to think and learn through questions。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261019_005",
-      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "originalTitle": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "id": "20261020_003",
+      "title": "通研院孵化的团队，也盯上了RSI",
+      "originalTitle": "通研院孵化的团队，也盯上了RSI",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Fri, 16 Oct 2026 01:44:47 GMT",
-      "crawlDate": "2026-10-19",
+      "publishDate": "Mon, 19 Oct 2026 14:31:12 +0000",
+      "crawlDate": "2026-10-20",
       "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/10/504294.html"
       },
       "tags": [
-        "官方",
+        "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "通研院孵化的团队，也盯上了RSI。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261020_004",
+      "title": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
+      "originalTitle": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 19 Oct 2026 10:27:39 +0000",
+      "crawlDate": "2026-10-20",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/10/504266.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261020_005",
+      "title": "The Download: the claim shaking up AI and the internet’s agent problem",
+      "originalTitle": "The Download: the claim shaking up AI and the internet’s agent problem",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Tue, 20 Oct 2026 12:10:00 +0000",
+      "crawlDate": "2026-10-20",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "The Download: the claim shaking up AI and the internet’s agent problem。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -120,214 +120,76 @@
   ],
   "quickBrowse": [
     {
-      "id": "20261019_q001",
-      "title": "The latest AI news we announced in September 2026",
-      "originalTitle": "The latest AI news we announced in September 2026",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Fri, 02 Oct 2026 15:00:00 +0000",
-      "crawlDate": "2026-10-19",
+      "id": "20261020_q001",
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "originalTitle": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 20 Oct 2026 16:09:19 GMT",
+      "crawlDate": "2026-10-20",
       "source": {
-        "name": "Google AI",
+        "name": "Hugging Face",
         "type": "官方",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/"
+        "url": "https://huggingface.co/blog/allenai/fairstress"
       },
       "tags": [
         "官方",
-        "企业动态"
+        "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "The latest AI news we announced in September 2026。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "FairStress: A deeper evaluation of fairness in LLM decision-making。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261019_q002",
-      "title": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
-      "originalTitle": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Wed, 09 Sep 2026 11:14:25 GMT",
-      "crawlDate": "2026-10-19",
-      "source": {
-        "name": "Sebastian Raschka",
-        "type": "专家",
-        "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and"
-      },
-      "tags": [
-        "专家",
-        "科研突破"
-      ],
-      "isHeadline": false,
-      "coreInsight": "GPT-6 Astra, Looped Transformers, and Hidden Reasoning。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261019_q003",
-      "title": "How Claude Watermarks AI-Generated Text",
-      "originalTitle": "How Claude Watermarks AI-Generated Text",
-      "category": "image-video",
-      "categoryName": "AI绘画/视频",
-      "publishDate": "Sat, 22 Aug 2026 11:11:39 GMT",
-      "crawlDate": "2026-10-19",
-      "source": {
-        "name": "Sebastian Raschka",
-        "type": "专家",
-        "url": "https://magazine.sebastianraschka.com/p/claude-watermarking"
-      },
-      "tags": [
-        "专家",
-        "AI绘画/视频"
-      ],
-      "isHeadline": false,
-      "coreInsight": "How Claude Watermarks AI-Generated Text。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261019_q004",
-      "title": "Harness Engineering for Self-Improvement",
-      "originalTitle": "Harness Engineering for Self-Improvement",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Sat, 04 Jul 2026 00:00:00 +0000",
-      "crawlDate": "2026-10-19",
-      "source": {
-        "name": "Lil Log",
-        "type": "专家",
-        "url": "https://lilianweng.github.io/posts/2026-07-04-harness/"
-      },
-      "tags": [
-        "专家",
-        "科研突破"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Harness Engineering for Self-Improvement。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261019_q005",
-      "title": "Scaling Laws, Carefully",
-      "originalTitle": "Scaling Laws, Carefully",
-      "category": "application",
-      "categoryName": "应用落地",
-      "publishDate": "Wed, 24 Jun 2026 00:00:00 +0000",
-      "crawlDate": "2026-10-19",
-      "source": {
-        "name": "Lil Log",
-        "type": "专家",
-        "url": "https://lilianweng.github.io/posts/2026-06-24-scaling-laws/"
-      },
-      "tags": [
-        "专家",
-        "应用落地"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Scaling Laws, Carefully。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261019_q006",
-      "title": "Why We Think",
-      "originalTitle": "Why We Think",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Thu, 01 May 2025 00:00:00 +0000",
-      "crawlDate": "2026-10-19",
-      "source": {
-        "name": "Lil Log",
-        "type": "专家",
-        "url": "https://lilianweng.github.io/posts/2025-05-01-thinking/"
-      },
-      "tags": [
-        "专家",
-        "科研突破"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Why We Think。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261019_q007",
-      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
-      "originalTitle": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Mon, 19 Oct 2026 17:45:55 +0000",
-      "crawlDate": "2026-10-19",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/"
-      },
-      "tags": [
-        "媒体",
-        "科研突破"
-      ],
-      "isHeadline": false,
-      "coreInsight": "“We were looking at it wrong”: The explosive claim that’s upended the AI world。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261019_q008",
-      "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
-      "originalTitle": "The Download: preserving the Arctic permafrost, and playful AI agents",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Mon, 19 Oct 2026 12:10:00 +0000",
-      "crawlDate": "2026-10-19",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Download: preserving the Arctic permafrost, and playful AI agents。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261019_q009",
-      "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
-      "originalTitle": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
+      "id": "20261020_q002",
+      "title": "The new economics of enterprise AI",
+      "originalTitle": "The new economics of enterprise AI",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Mon, 19 Oct 2026 09:22:17 +0000",
-      "crawlDate": "2026-10-19",
+      "publishDate": "Tue, 20 Oct 2026 15:20:25 +0000",
+      "crawlDate": "2026-10-20",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/"
+        "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The new economics of enterprise AI。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261020_q003",
+      "title": "AI adoption by industry shows what other sectors can learn",
+      "originalTitle": "AI adoption by industry shows what other sectors can learn",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Tue, 20 Oct 2026 12:00:00 +0000",
+      "crawlDate": "2026-10-20",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/"
+      },
+      "tags": [
+        "媒体",
+        "开发工具"
+      ],
+      "isHeadline": false,
+      "coreInsight": "AI adoption by industry shows what other sectors can learn。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 14,
+  "total": 8,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
