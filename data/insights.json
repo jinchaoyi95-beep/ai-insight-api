@@ -1,15 +1,84 @@
 {
-  "date": "20261020",
-  "updateTime": "2026-10-20T16:27:39.995Z",
+  "date": "20261021",
+  "updateTime": "2026-10-21T02:31:28.602Z",
   "headlines": [
     {
-      "id": "20261020_001",
+      "id": "20261021_001",
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "originalTitle": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 20 Oct 2026 10:00:00 GMT",
+      "crawlDate": "2026-10-21",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/ted-taylor-restaurant"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Franchisee reconciles cash in 94% less time with ChatGPT Work。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261021_002",
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "originalTitle": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Tue, 20 Oct 2026 07:00:00 GMT",
+      "crawlDate": "2026-10-21",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/terminal-x"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Terminal X matches senior investor judgment 88.6% with GPT-6.1。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261021_003",
+      "title": "OpenAI acquires Orchestra Bio",
+      "originalTitle": "OpenAI acquires Orchestra Bio",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 20 Oct 2026 00:00:00 GMT",
+      "crawlDate": "2026-10-21",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/openai-to-acquire-orchestra-bio"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "OpenAI acquires Orchestra Bio。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261021_004",
       "title": "Advancing coding in low‑resource programming languages",
       "originalTitle": "Advancing coding in low‑resource programming languages",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Mon, 19 Oct 2026 12:00:00 GMT",
-      "crawlDate": "2026-10-20",
+      "crawlDate": "2026-10-21",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,36 +95,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261020_002",
-      "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
-      "originalTitle": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 20 Oct 2026 01:09:43 +0000",
-      "crawlDate": "2026-10-20",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/504314.html"
-      },
-      "tags": [
-        "媒体",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261020_003",
+      "id": "20261021_005",
       "title": "通研院孵化的团队，也盯上了RSI",
       "originalTitle": "通研院孵化的团队，也盯上了RSI",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Mon, 19 Oct 2026 14:31:12 +0000",
-      "crawlDate": "2026-10-20",
+      "crawlDate": "2026-10-21",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -70,15 +116,40 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    }
+  ],
+  "quickBrowse": [
+    {
+      "id": "20261021_q001",
+      "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
+      "originalTitle": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 20 Oct 2026 01:09:43 +0000",
+      "crawlDate": "2026-10-21",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/10/504314.html"
+      },
+      "tags": [
+        "媒体",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261020_004",
+      "id": "20261021_q002",
       "title": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
       "originalTitle": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Mon, 19 Oct 2026 10:27:39 +0000",
-      "crawlDate": "2026-10-20",
+      "crawlDate": "2026-10-21",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -88,45 +159,20 @@
         "媒体",
         "大语言模型"
       ],
-      "isHeadline": true,
+      "isHeadline": false,
       "coreInsight": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261020_005",
-      "title": "The Download: the claim shaking up AI and the internet’s agent problem",
-      "originalTitle": "The Download: the claim shaking up AI and the internet’s agent problem",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Tue, 20 Oct 2026 12:10:00 +0000",
-      "crawlDate": "2026-10-20",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem/"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "The Download: the claim shaking up AI and the internet’s agent problem。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
-    {
-      "id": "20261020_q001",
+      "id": "20261021_q003",
       "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
       "originalTitle": "FairStress: A deeper evaluation of fairness in LLM decision-making",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 20 Oct 2026 16:09:19 GMT",
-      "crawlDate": "2026-10-20",
+      "crawlDate": "2026-10-21",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -143,53 +189,53 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261020_q002",
-      "title": "The new economics of enterprise AI",
-      "originalTitle": "The new economics of enterprise AI",
+      "id": "20261021_q004",
+      "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
+      "originalTitle": "It’s a bird, it’s a plane … it’s a robo-puffin?",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Tue, 20 Oct 2026 15:20:25 +0000",
-      "crawlDate": "2026-10-20",
+      "publishDate": "Tue, 20 Oct 2026 21:00:00 +0000",
+      "crawlDate": "2026-10-21",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/"
+        "url": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "The new economics of enterprise AI。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "It’s a bird, it’s a plane … it’s a robo-puffin?。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261020_q003",
-      "title": "AI adoption by industry shows what other sectors can learn",
-      "originalTitle": "AI adoption by industry shows what other sectors can learn",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Tue, 20 Oct 2026 12:00:00 +0000",
-      "crawlDate": "2026-10-20",
+      "id": "20261021_q005",
+      "title": "Melt it, spin it, use it again",
+      "originalTitle": "Melt it, spin it, use it again",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 20 Oct 2026 21:00:00 +0000",
+      "crawlDate": "2026-10-21",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/"
+        "url": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/"
       },
       "tags": [
         "媒体",
-        "开发工具"
+        "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "AI adoption by industry shows what other sectors can learn。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Melt it, spin it, use it again。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 8,
+  "total": 10,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
