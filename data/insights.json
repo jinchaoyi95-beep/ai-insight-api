@@ -1,118 +1,118 @@
 {
   "date": "20261021",
-  "updateTime": "2026-10-21T02:31:28.602Z",
+  "updateTime": "2026-10-21T16:44:39.712Z",
   "headlines": [
     {
       "id": "20261021_001",
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "originalTitle": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 20 Oct 2026 10:00:00 GMT",
+      "title": "OpenAI models are coming to Google Cloud",
+      "originalTitle": "OpenAI models are coming to Google Cloud",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 21 Oct 2026 12:00:00 GMT",
       "crawlDate": "2026-10-21",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/ted-taylor-restaurant"
+        "url": "https://openai.com/index/openai-models-google-cloud"
       },
       "tags": [
         "官方",
-        "大语言模型"
+        "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "Franchisee reconciles cash in 94% less time with ChatGPT Work。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "OpenAI models are coming to Google Cloud。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20261021_002",
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "originalTitle": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "originalTitle": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Tue, 20 Oct 2026 07:00:00 GMT",
+      "publishDate": "Wed, 21 Oct 2026 07:00:00 GMT",
       "crawlDate": "2026-10-21",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/terminal-x"
+        "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities"
       },
       "tags": [
         "官方",
         "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "Terminal X matches senior investor judgment 88.6% with GPT-6.1。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20261021_003",
-      "title": "OpenAI acquires Orchestra Bio",
-      "originalTitle": "OpenAI acquires Orchestra Bio",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 20 Oct 2026 00:00:00 GMT",
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "originalTitle": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 21 Oct 2026 13:00:00 GMT",
       "crawlDate": "2026-10-21",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/openai-to-acquire-orchestra-bio"
+        "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries"
       },
       "tags": [
         "官方",
-        "企业动态"
+        "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "OpenAI acquires Orchestra Bio。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20261021_004",
-      "title": "Advancing coding in low‑resource programming languages",
-      "originalTitle": "Advancing coding in low‑resource programming languages",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Mon, 19 Oct 2026 12:00:00 GMT",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "originalTitle": "Using thousands of AI agents to uncover new leads in biological data",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Wed, 21 Oct 2026 04:50:00 GMT",
       "crawlDate": "2026-10-21",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/low-resource-programming-languages"
+        "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data"
       },
       "tags": [
         "官方",
-        "企业动态"
+        "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "Advancing coding in low‑resource programming languages。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Using thousands of AI agents to uncover new leads in biological data。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20261021_005",
-      "title": "通研院孵化的团队，也盯上了RSI",
-      "originalTitle": "通研院孵化的团队，也盯上了RSI",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Mon, 19 Oct 2026 14:31:12 +0000",
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "originalTitle": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 21 Oct 2026 07:00:00 GMT",
       "crawlDate": "2026-10-21",
       "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/504294.html"
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/building-chatgpt-ad-stack"
       },
       "tags": [
-        "媒体",
-        "大语言模型"
+        "官方",
+        "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "通研院孵化的团队，也盯上了RSI。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "How we built ChatGPT’s novel ad stack for user trust and relevance。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -121,121 +121,144 @@
   "quickBrowse": [
     {
       "id": "20261021_q001",
-      "title": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
-      "originalTitle": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 20 Oct 2026 01:09:43 +0000",
+      "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
+      "originalTitle": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Wed, 21 Oct 2026 11:30:59 +0000",
       "crawlDate": "2026-10-21",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/504314.html"
+        "url": "https://www.qbitai.com/2026/10/504734.html"
       },
       "tags": [
         "媒体",
-        "企业动态"
+        "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "Claude新模型曝光！能跳出思维定势，修Bug治标又治本。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20261021_q002",
-      "title": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
-      "originalTitle": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行",
+      "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+      "originalTitle": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Mon, 19 Oct 2026 10:27:39 +0000",
+      "publishDate": "Wed, 21 Oct 2026 09:45:22 +0000",
       "crawlDate": "2026-10-21",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/504266.html"
+        "url": "https://www.qbitai.com/2026/10/504730.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "2026物理AI与世界模型大会医疗健康世界模型分会场在南京举行。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20261021_q003",
-      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-      "originalTitle": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "originalTitle": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Tue, 20 Oct 2026 16:09:19 GMT",
+      "publishDate": "Wed, 21 Oct 2026 16:04:43 GMT",
       "crawlDate": "2026-10-21",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
-        "url": "https://huggingface.co/blog/allenai/fairstress"
+        "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1"
       },
       "tags": [
         "官方",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "FairStress: A deeper evaluation of fairness in LLM decision-making。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20261021_q004",
-      "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
-      "originalTitle": "It’s a bird, it’s a plane … it’s a robo-puffin?",
+      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+      "originalTitle": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Tue, 20 Oct 2026 21:00:00 +0000",
+      "publishDate": "Wed, 21 Oct 2026 12:51:24 GMT",
       "crawlDate": "2026-10-21",
       "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/"
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/nvidia/kumo-forecast"
       },
       "tags": [
-        "媒体",
+        "官方",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "It’s a bird, it’s a plane … it’s a robo-puffin?。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20261021_q005",
-      "title": "Melt it, spin it, use it again",
-      "originalTitle": "Melt it, spin it, use it again",
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "originalTitle": "Southeast Asia’s digital economy to hit $368 billion",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Tue, 20 Oct 2026 21:00:00 +0000",
+      "publishDate": "Wed, 21 Oct 2026 04:00:00 +0000",
+      "crawlDate": "2026-10-21",
+      "source": {
+        "name": "Google AI",
+        "type": "官方",
+        "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Southeast Asia’s digital economy to hit $368 billion。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261021_q006",
+      "title": "The Download: introducing the Impossible issue",
+      "originalTitle": "The Download: introducing the Impossible issue",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 21 Oct 2026 12:10:00 +0000",
       "crawlDate": "2026-10-21",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/10/20/1145276/melt-it-spin-it-use-it-again/"
+        "url": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "Melt it, spin it, use it again。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: introducing the Impossible issue。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 10,
+  "total": 11,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
