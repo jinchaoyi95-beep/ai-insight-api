@@ -1,6 +1,6 @@
 {
   "date": "20261024",
-  "updateTime": "2026-10-24T02:31:32.367Z",
+  "updateTime": "2026-10-24T15:30:23.822Z",
   "headlines": [
     {
       "id": "20261024_001",
@@ -73,46 +73,46 @@
     },
     {
       "id": "20261024_004",
-      "title": "Does Your Model Run on AWS Trainium? Look It Up",
-      "originalTitle": "Does Your Model Run on AWS Trainium? Look It Up",
+      "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+      "originalTitle": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Fri, 23 Oct 2026 00:00:00 GMT",
+      "publishDate": "Fri, 23 Oct 2026 07:35:51 +0000",
       "crawlDate": "2026-10-24",
       "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/torch-neuronx-model-support"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/10/504901.html"
       },
       "tags": [
-        "官方",
+        "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "Does Your Model Run on AWS Trainium? Look It Up。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20261024_005",
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "originalTitle": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 22 Oct 2026 22:24:34 GMT",
+      "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+      "originalTitle": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 22 Oct 2026 07:11:14 +0000",
       "crawlDate": "2026-10-24",
       "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/microsoft/thinkingbox-training"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/10/504832.html"
       },
       "tags": [
-        "官方",
-        "Agent"
+        "媒体",
+        "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -144,29 +144,75 @@
     },
     {
       "id": "20261024_q002",
-      "title": "Southeast Asia’s digital economy to hit $368 billion",
-      "originalTitle": "Southeast Asia’s digital economy to hit $368 billion",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 21 Oct 2026 04:00:00 +0000",
+      "title": "谁在给OpenAI供应具身数据？",
+      "originalTitle": "谁在给OpenAI供应具身数据？",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Thu, 22 Oct 2026 07:05:59 +0000",
       "crawlDate": "2026-10-24",
       "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/10/504800.html"
       },
       "tags": [
-        "官方",
-        "大语言模型"
+        "媒体",
+        "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "Southeast Asia’s digital economy to hit $368 billion。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "谁在给OpenAI供应具身数据？。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20261024_q003",
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "originalTitle": "Does Your Model Run on AWS Trainium? Look It Up",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 23 Oct 2026 00:00:00 GMT",
+      "crawlDate": "2026-10-24",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/torch-neuronx-model-support"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Does Your Model Run on AWS Trainium? Look It Up。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261024_q004",
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "originalTitle": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Thu, 22 Oct 2026 22:24:34 GMT",
+      "crawlDate": "2026-10-24",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/microsoft/thinkingbox-training"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261024_q005",
       "title": "The Download: testing six tech promises and biotech’s blind spots",
       "originalTitle": "The Download: testing six tech promises and biotech’s blind spots",
       "category": "llm",
@@ -189,7 +235,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261024_q004",
+      "id": "20261024_q006",
       "title": "Designing an AI serving harness built to last",
       "originalTitle": "Designing an AI serving harness built to last",
       "category": "llm",
@@ -212,7 +258,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 9,
+  "total": 11,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
