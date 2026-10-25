@@ -1,15 +1,15 @@
 {
-  "date": "20261024",
-  "updateTime": "2026-10-24T15:30:23.822Z",
+  "date": "20261025",
+  "updateTime": "2026-10-25T02:18:51.870Z",
   "headlines": [
     {
-      "id": "20261024_001",
+      "id": "20261025_001",
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
       "originalTitle": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 23 Oct 2026 17:00:00 GMT",
-      "crawlDate": "2026-10-24",
+      "crawlDate": "2026-10-25",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +26,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261024_002",
+      "id": "20261025_002",
       "title": "Securing our frontier model training environment",
       "originalTitle": "Securing our frontier model training environment",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 23 Oct 2026 10:00:00 GMT",
-      "crawlDate": "2026-10-24",
+      "crawlDate": "2026-10-25",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,13 +49,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261024_003",
+      "id": "20261025_003",
       "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
       "originalTitle": "OpenAI and Poland’s NASK partner to advance AI safety and security",
       "category": "research",
       "categoryName": "科研突破",
       "publishDate": "Fri, 23 Oct 2026 00:00:00 GMT",
-      "crawlDate": "2026-10-24",
+      "crawlDate": "2026-10-25",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -72,13 +72,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261024_004",
+      "id": "20261025_004",
       "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
       "originalTitle": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 23 Oct 2026 07:35:51 +0000",
-      "crawlDate": "2026-10-24",
+      "crawlDate": "2026-10-25",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -95,13 +95,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261024_005",
+      "id": "20261025_005",
       "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
       "originalTitle": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Thu, 22 Oct 2026 07:11:14 +0000",
-      "crawlDate": "2026-10-24",
+      "crawlDate": "2026-10-25",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -120,13 +120,13 @@
   ],
   "quickBrowse": [
     {
-      "id": "20261024_q001",
+      "id": "20261025_q001",
       "title": "What FDE means at OpenAI",
       "originalTitle": "What FDE means at OpenAI",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Thu, 22 Oct 2026 06:00:00 GMT",
-      "crawlDate": "2026-10-24",
+      "crawlDate": "2026-10-25",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -143,13 +143,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261024_q002",
+      "id": "20261025_q002",
       "title": "谁在给OpenAI供应具身数据？",
       "originalTitle": "谁在给OpenAI供应具身数据？",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Thu, 22 Oct 2026 07:05:59 +0000",
-      "crawlDate": "2026-10-24",
+      "crawlDate": "2026-10-25",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -166,13 +166,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261024_q003",
+      "id": "20261025_q003",
       "title": "Does Your Model Run on AWS Trainium? Look It Up",
       "originalTitle": "Does Your Model Run on AWS Trainium? Look It Up",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 23 Oct 2026 00:00:00 GMT",
-      "crawlDate": "2026-10-24",
+      "crawlDate": "2026-10-25",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -189,13 +189,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261024_q004",
+      "id": "20261025_q004",
       "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
       "originalTitle": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Thu, 22 Oct 2026 22:24:34 GMT",
-      "crawlDate": "2026-10-24",
+      "crawlDate": "2026-10-25",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -212,13 +212,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261024_q005",
+      "id": "20261025_q005",
       "title": "The Download: testing six tech promises and biotech’s blind spots",
       "originalTitle": "The Download: testing six tech promises and biotech’s blind spots",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 23 Oct 2026 12:10:00 +0000",
-      "crawlDate": "2026-10-24",
+      "crawlDate": "2026-10-25",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -235,13 +235,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261024_q006",
+      "id": "20261025_q006",
       "title": "Designing an AI serving harness built to last",
       "originalTitle": "Designing an AI serving harness built to last",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Thu, 22 Oct 2026 21:17:29 +0000",
-      "crawlDate": "2026-10-24",
+      "crawlDate": "2026-10-25",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
