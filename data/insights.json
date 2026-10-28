@@ -1,15 +1,38 @@
 {
-  "date": "20261027",
-  "updateTime": "2026-10-27T17:35:16.699Z",
+  "date": "20261028",
+  "updateTime": "2026-10-28T03:03:10.448Z",
   "headlines": [
     {
-      "id": "20261027_001",
+      "id": "20261028_001",
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "originalTitle": "Retell uses OpenAI models to help power 100M monthly calls",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Tue, 27 Oct 2026 15:00:00 GMT",
+      "crawlDate": "2026-10-28",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/retell-ai"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Retell uses OpenAI models to help power 100M monthly calls。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261028_002",
       "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
       "originalTitle": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Tue, 27 Oct 2026 07:00:00 GMT",
-      "crawlDate": "2026-10-27",
+      "crawlDate": "2026-10-28",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +49,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261027_002",
+      "id": "20261028_003",
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "originalTitle": "How Check Point accelerates vulnerability research with Daybreak",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Tue, 27 Oct 2026 00:00:00 GMT",
+      "crawlDate": "2026-10-28",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/check-point-daybreak"
+      },
+      "tags": [
+        "官方",
+        "科研突破"
+      ],
+      "isHeadline": true,
+      "coreInsight": "How Check Point accelerates vulnerability research with Daybreak。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261028_004",
       "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
       "originalTitle": "Greptile takes bug detection beyond code review with GPT-6 Astra",
       "category": "devtool",
       "categoryName": "开发工具",
       "publishDate": "Mon, 26 Oct 2026 22:00:00 GMT",
-      "crawlDate": "2026-10-27",
+      "crawlDate": "2026-10-28",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,13 +95,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261027_003",
+      "id": "20261028_005",
       "title": "Working with academic communities to build scientific understanding",
       "originalTitle": "Working with academic communities to build scientific understanding",
       "category": "research",
       "categoryName": "科研突破",
       "publishDate": "Mon, 26 Oct 2026 14:30:00 GMT",
-      "crawlDate": "2026-10-27",
+      "crawlDate": "2026-10-28",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -70,132 +116,132 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261027_004",
-      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "originalTitle": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Mon, 26 Oct 2026 13:45:00 GMT",
-      "crawlDate": "2026-10-27",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261027_005",
-      "title": "ChatGPT’s expanding world of work",
-      "originalTitle": "ChatGPT’s expanding world of work",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Mon, 26 Oct 2026 10:00:00 GMT",
-      "crawlDate": "2026-10-27",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/chatgpt-expanding-world-of-work"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "ChatGPT’s expanding world of work。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
   "quickBrowse": [
     {
-      "id": "20261027_q001",
-      "title": "印奇把4D雷达也端到端了",
-      "originalTitle": "印奇把4D雷达也端到端了",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 27 Oct 2026 10:40:12 +0000",
-      "crawlDate": "2026-10-27",
+      "id": "20261028_q001",
+      "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
+      "originalTitle": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Tue, 27 Oct 2026 03:23:55 +0000",
+      "crawlDate": "2026-10-28",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/505852.html"
+        "url": "https://www.qbitai.com/2026/10/505580.html"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261028_q002",
+      "title": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
+      "originalTitle": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 26 Oct 2026 16:06:31 +0000",
+      "crawlDate": "2026-10-28",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/10/505551.html"
+      },
+      "tags": [
+        "媒体",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "刚刚，Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261028_q003",
+      "title": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
+      "originalTitle": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 26 Oct 2026 09:46:13 +0000",
+      "crawlDate": "2026-10-28",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/10/505539.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "印奇把4D雷达也端到端了。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "AI时代，一个人能有多大能量？天禧AI × 观猹大会现场实测个人AI跨端协同新体验。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261027_q002",
-      "title": "乔布斯的皮克斯，狂赞中国物理AI数据终端",
-      "originalTitle": "乔布斯的皮克斯，狂赞中国物理AI数据终端",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 27 Oct 2026 09:54:51 +0000",
-      "crawlDate": "2026-10-27",
+      "id": "20261028_q004",
+      "title": "OpenAI开始断网训练最强模型：“安全起见”",
+      "originalTitle": "OpenAI开始断网训练最强模型：“安全起见”",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 26 Oct 2026 09:37:57 +0000",
+      "crawlDate": "2026-10-28",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/505830.html"
+        "url": "https://www.qbitai.com/2026/10/505529.html"
+      },
+      "tags": [
+        "媒体",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "OpenAI开始断网训练最强模型：“安全起见”。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261028_q005",
+      "title": "A社联创演讲：AI奇点已来",
+      "originalTitle": "A社联创演讲：AI奇点已来",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 26 Oct 2026 09:35:14 +0000",
+      "crawlDate": "2026-10-28",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/10/505521.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "乔布斯的皮克斯，狂赞中国物理AI数据终端。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "A社联创演讲：AI奇点已来。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261027_q003",
-      "title": "Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了",
-      "originalTitle": "Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 27 Oct 2026 08:46:12 +0000",
-      "crawlDate": "2026-10-27",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/505799.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261027_q004",
+      "id": "20261028_q006",
       "title": "Can we trust LLMs to judge whether a research idea is novel?",
       "originalTitle": "Can we trust LLMs to judge whether a research idea is novel?",
       "category": "research",
       "categoryName": "科研突破",
       "publishDate": "Tue, 27 Oct 2026 16:12:42 GMT",
-      "crawlDate": "2026-10-27",
+      "crawlDate": "2026-10-28",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -212,13 +258,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261027_q005",
+      "id": "20261028_q007",
       "title": "Our newest AI Quest: Mapping the human brain",
       "originalTitle": "Our newest AI Quest: Mapping the human brain",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Mon, 26 Oct 2026 16:00:00 +0000",
-      "crawlDate": "2026-10-27",
+      "crawlDate": "2026-10-28",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -235,13 +281,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261027_q006",
+      "id": "20261028_q008",
       "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
       "originalTitle": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Tue, 27 Oct 2026 12:10:00 +0000",
-      "crawlDate": "2026-10-27",
+      "crawlDate": "2026-10-28",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -258,13 +304,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261027_q007",
+      "id": "20261028_q009",
       "title": "How solid-state transformers could help power the AI boom",
       "originalTitle": "How solid-state transformers could help power the AI boom",
       "category": "devtool",
       "categoryName": "开发工具",
       "publishDate": "Tue, 27 Oct 2026 09:00:00 +0000",
-      "crawlDate": "2026-10-27",
+      "crawlDate": "2026-10-28",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -281,7 +327,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 12,
+  "total": 14,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
