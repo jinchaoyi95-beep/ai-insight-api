@@ -1,9 +1,78 @@
 {
   "date": "20261029",
-  "updateTime": "2026-10-29T03:29:45.111Z",
+  "updateTime": "2026-10-29T18:07:02.103Z",
   "headlines": [
     {
       "id": "20261029_001",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "originalTitle": "An updated Model Spec for more capable and beneficial AI",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Thu, 29 Oct 2026 17:00:00 GMT",
+      "crawlDate": "2026-10-29",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/updated-model-spec"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "An updated Model Spec for more capable and beneficial AI。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261029_002",
+      "title": "How we detect frontier model misalignment",
+      "originalTitle": "How we detect frontier model misalignment",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Thu, 29 Oct 2026 09:00:00 GMT",
+      "crawlDate": "2026-10-29",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "How we detect frontier model misalignment。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261029_003",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "originalTitle": "How Ropes & Gray is developing AI for transactional diligence",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Thu, 29 Oct 2026 07:00:00 GMT",
+      "crawlDate": "2026-10-29",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/ropes-gray-ai-diligence"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "How Ropes & Gray is developing AI for transactional diligence。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261029_004",
       "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
       "originalTitle": "OpenAI and ServiceNow expand partnership across enterprise workflows",
       "category": "agent",
@@ -26,7 +95,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261029_002",
+      "id": "20261029_005",
       "title": "The future of the firm",
       "originalTitle": "The future of the firm",
       "category": "llm",
@@ -47,195 +116,103 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261029_003",
-      "title": "Legora is building the agentic operating system for legal work",
-      "originalTitle": "Legora is building the agentic operating system for legal work",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Wed, 28 Oct 2026 09:30:00 GMT",
-      "crawlDate": "2026-10-29",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/legora"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Legora is building the agentic operating system for legal work。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261029_004",
-      "title": "Can we trust LLMs to judge whether a research idea is novel?",
-      "originalTitle": "Can we trust LLMs to judge whether a research idea is novel?",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Tue, 27 Oct 2026 16:12:42 GMT",
-      "crawlDate": "2026-10-29",
-      "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/allenai/novelty-bench"
-      },
-      "tags": [
-        "官方",
-        "科研突破"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Can we trust LLMs to judge whether a research idea is novel?。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261029_005",
-      "title": "Our newest AI Quest: Mapping the human brain",
-      "originalTitle": "Our newest AI Quest: Mapping the human brain",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Mon, 26 Oct 2026 16:00:00 +0000",
-      "crawlDate": "2026-10-29",
-      "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Our newest AI Quest: Mapping the human brain。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
   "quickBrowse": [
     {
       "id": "20261029_q001",
-      "title": "Retell uses OpenAI models to help power 100M monthly calls",
-      "originalTitle": "Retell uses OpenAI models to help power 100M monthly calls",
+      "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
+      "originalTitle": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Tue, 27 Oct 2026 15:00:00 GMT",
+      "publishDate": "Thu, 29 Oct 2026 02:18:28 +0000",
       "crawlDate": "2026-10-29",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/retell-ai"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/10/505934.html"
       },
       "tags": [
-        "官方",
+        "媒体",
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "Retell uses OpenAI models to help power 100M monthly calls。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20261029_q002",
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "originalTitle": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Tue, 27 Oct 2026 07:00:00 GMT",
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "originalTitle": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 29 Oct 2026 00:00:00 GMT",
       "crawlDate": "2026-10-29",
       "source": {
-        "name": "OpenAI Blog",
+        "name": "Hugging Face",
         "type": "官方",
-        "url": "https://openai.com/index/oracle-apps-in-chatgpt"
+        "url": "https://huggingface.co/blog/announcing-project-protostar"
       },
       "tags": [
         "官方",
-        "Agent"
+        "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20261029_q003",
-      "title": "Creating AI value with enterprise context",
-      "originalTitle": "Creating AI value with enterprise context",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Wed, 28 Oct 2026 20:32:02 +0000",
+      "title": "The Download: AI agent tracking and climate feedback loops",
+      "originalTitle": "The Download: AI agent tracking and climate feedback loops",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Thu, 29 Oct 2026 12:10:00 +0000",
       "crawlDate": "2026-10-29",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/"
+        "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/"
       },
       "tags": [
         "媒体",
-        "开发工具"
+        "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "Creating AI value with enterprise context。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: AI agent tracking and climate feedback loops。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20261029_q004",
-      "title": "The Download: dead startups fueling AI and interspecies communication",
-      "originalTitle": "The Download: dead startups fueling AI and interspecies communication",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 28 Oct 2026 12:10:00 +0000",
+      "title": "We urgently need to monitor AI agents’ actions in real time",
+      "originalTitle": "We urgently need to monitor AI agents’ actions in real time",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Thu, 29 Oct 2026 10:11:12 +0000",
       "crawlDate": "2026-10-29",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/"
+        "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: dead startups fueling AI and interspecies communication。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261029_q005",
-      "title": "Pairing industrial AI autonomy and human control",
-      "originalTitle": "Pairing industrial AI autonomy and human control",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 28 Oct 2026 12:00:00 +0000",
-      "crawlDate": "2026-10-29",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Pairing industrial AI autonomy and human control。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "We urgently need to monitor AI agents’ actions in real time。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 10,
+  "total": 9,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
