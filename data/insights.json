@@ -1,15 +1,15 @@
 {
-  "date": "20261029",
-  "updateTime": "2026-10-29T18:07:02.103Z",
+  "date": "20261030",
+  "updateTime": "2026-10-30T03:32:28.574Z",
   "headlines": [
     {
-      "id": "20261029_001",
+      "id": "20261030_001",
       "title": "An updated Model Spec for more capable and beneficial AI",
       "originalTitle": "An updated Model Spec for more capable and beneficial AI",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Thu, 29 Oct 2026 17:00:00 GMT",
-      "crawlDate": "2026-10-29",
+      "crawlDate": "2026-10-30",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +26,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261029_002",
+      "id": "20261030_002",
       "title": "How we detect frontier model misalignment",
       "originalTitle": "How we detect frontier model misalignment",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Thu, 29 Oct 2026 09:00:00 GMT",
-      "crawlDate": "2026-10-29",
+      "crawlDate": "2026-10-30",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,13 +49,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261029_003",
+      "id": "20261030_003",
       "title": "How Ropes & Gray is developing AI for transactional diligence",
       "originalTitle": "How Ropes & Gray is developing AI for transactional diligence",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Thu, 29 Oct 2026 07:00:00 GMT",
-      "crawlDate": "2026-10-29",
+      "crawlDate": "2026-10-30",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -72,13 +72,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261029_004",
+      "id": "20261030_004",
       "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
       "originalTitle": "OpenAI and ServiceNow expand partnership across enterprise workflows",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Wed, 28 Oct 2026 13:15:00 GMT",
-      "crawlDate": "2026-10-29",
+      "crawlDate": "2026-10-30",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -95,13 +95,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261029_005",
+      "id": "20261030_005",
       "title": "The future of the firm",
       "originalTitle": "The future of the firm",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Wed, 28 Oct 2026 10:00:00 GMT",
-      "crawlDate": "2026-10-29",
+      "crawlDate": "2026-10-30",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -120,13 +120,13 @@
   ],
   "quickBrowse": [
     {
-      "id": "20261029_q001",
+      "id": "20261030_q001",
       "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
       "originalTitle": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Thu, 29 Oct 2026 02:18:28 +0000",
-      "crawlDate": "2026-10-29",
+      "crawlDate": "2026-10-30",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -143,13 +143,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261029_q002",
+      "id": "20261030_q002",
       "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
       "originalTitle": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Thu, 29 Oct 2026 00:00:00 GMT",
-      "crawlDate": "2026-10-29",
+      "crawlDate": "2026-10-30",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -166,13 +166,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261029_q003",
+      "id": "20261030_q003",
       "title": "The Download: AI agent tracking and climate feedback loops",
       "originalTitle": "The Download: AI agent tracking and climate feedback loops",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Thu, 29 Oct 2026 12:10:00 +0000",
-      "crawlDate": "2026-10-29",
+      "crawlDate": "2026-10-30",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -189,13 +189,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261029_q004",
+      "id": "20261030_q004",
       "title": "We urgently need to monitor AI agents’ actions in real time",
       "originalTitle": "We urgently need to monitor AI agents’ actions in real time",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Thu, 29 Oct 2026 10:11:12 +0000",
-      "crawlDate": "2026-10-29",
+      "crawlDate": "2026-10-30",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
