@@ -1,38 +1,61 @@
 {
-  "date": "20261030",
-  "updateTime": "2026-10-30T03:32:28.574Z",
+  "date": "20261031",
+  "updateTime": "2026-10-31T03:16:57.364Z",
   "headlines": [
     {
-      "id": "20261030_001",
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "originalTitle": "An updated Model Spec for more capable and beneficial AI",
+      "id": "20261031_001",
+      "title": "Making it easier for websites to express AI training preferences",
+      "originalTitle": "Making it easier for websites to express AI training preferences",
       "category": "company",
       "categoryName": "企业动态",
-      "publishDate": "Thu, 29 Oct 2026 17:00:00 GMT",
-      "crawlDate": "2026-10-30",
+      "publishDate": "Fri, 30 Oct 2026 09:30:00 GMT",
+      "crawlDate": "2026-10-31",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/updated-model-spec"
+        "url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
       },
       "tags": [
         "官方",
         "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "An updated Model Spec for more capable and beneficial AI。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Making it easier for websites to express AI training preferences。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261030_002",
+      "id": "20261031_002",
+      "title": "Community safety report and new protections for teens",
+      "originalTitle": "Community safety report and new protections for teens",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Fri, 30 Oct 2026 09:00:00 GMT",
+      "crawlDate": "2026-10-31",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Community safety report and new protections for teens。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261031_003",
       "title": "How we detect frontier model misalignment",
       "originalTitle": "How we detect frontier model misalignment",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Thu, 29 Oct 2026 09:00:00 GMT",
-      "crawlDate": "2026-10-30",
+      "crawlDate": "2026-10-31",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,107 +72,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261030_003",
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
-      "originalTitle": "How Ropes & Gray is developing AI for transactional diligence",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Thu, 29 Oct 2026 07:00:00 GMT",
-      "crawlDate": "2026-10-30",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/ropes-gray-ai-diligence"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "How Ropes & Gray is developing AI for transactional diligence。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261030_004",
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "originalTitle": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Wed, 28 Oct 2026 13:15:00 GMT",
-      "crawlDate": "2026-10-30",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/openai-servicenow-partnership-expansion"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "OpenAI and ServiceNow expand partnership across enterprise workflows。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261030_005",
-      "title": "The future of the firm",
-      "originalTitle": "The future of the firm",
+      "id": "20261031_004",
+      "title": "Claude新模型曝光：新Fable，新Opus…",
+      "originalTitle": "Claude新模型曝光：新Fable，新Opus…",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Wed, 28 Oct 2026 10:00:00 GMT",
-      "crawlDate": "2026-10-30",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/the-future-of-the-firm"
-      },
-      "tags": [
-        "官方",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "The future of the firm。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
-    {
-      "id": "20261030_q001",
-      "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
-      "originalTitle": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 29 Oct 2026 02:18:28 +0000",
-      "crawlDate": "2026-10-30",
+      "publishDate": "Fri, 30 Oct 2026 05:50:44 +0000",
+      "crawlDate": "2026-10-31",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/505934.html"
+        "url": "https://www.qbitai.com/2026/10/506674.html"
       },
       "tags": [
         "媒体",
-        "Agent"
+        "大语言模型"
       ],
-      "isHeadline": false,
-      "coreInsight": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍。该技术值得关注，建议评估其落地可行性。",
+      "isHeadline": true,
+      "coreInsight": "Claude新模型曝光：新Fable，新Opus…。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261030_q002",
+      "id": "20261031_005",
       "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
       "originalTitle": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Thu, 29 Oct 2026 00:00:00 GMT",
-      "crawlDate": "2026-10-30",
+      "crawlDate": "2026-10-31",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -159,20 +111,91 @@
         "官方",
         "大语言模型"
       ],
-      "isHeadline": false,
+      "isHeadline": true,
       "coreInsight": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    }
+  ],
+  "quickBrowse": [
+    {
+      "id": "20261031_q001",
+      "title": "Fair use benefits everyone",
+      "originalTitle": "Fair use benefits everyone",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Fri, 30 Oct 2026 00:00:00 GMT",
+      "crawlDate": "2026-10-31",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/fair-use-benefits-everyone"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Fair use benefits everyone。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261030_q003",
+      "id": "20261031_q002",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "originalTitle": "An updated Model Spec for more capable and beneficial AI",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Thu, 29 Oct 2026 17:00:00 GMT",
+      "crawlDate": "2026-10-31",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/updated-model-spec"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "An updated Model Spec for more capable and beneficial AI。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261031_q003",
+      "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+      "originalTitle": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 30 Oct 2026 11:30:00 +0000",
+      "crawlDate": "2026-10-31",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261031_q004",
       "title": "The Download: AI agent tracking and climate feedback loops",
       "originalTitle": "The Download: AI agent tracking and climate feedback loops",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Thu, 29 Oct 2026 12:10:00 +0000",
-      "crawlDate": "2026-10-30",
+      "crawlDate": "2026-10-31",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -184,29 +207,6 @@
       ],
       "isHeadline": false,
       "coreInsight": "The Download: AI agent tracking and climate feedback loops。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261030_q004",
-      "title": "We urgently need to monitor AI agents’ actions in real time",
-      "originalTitle": "We urgently need to monitor AI agents’ actions in real time",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 29 Oct 2026 10:11:12 +0000",
-      "crawlDate": "2026-10-30",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "We urgently need to monitor AI agents’ actions in real time。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
