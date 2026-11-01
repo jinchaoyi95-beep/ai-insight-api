@@ -1,6 +1,6 @@
 {
   "date": "20261101",
-  "updateTime": "2026-11-01T03:16:04.601Z",
+  "updateTime": "2026-11-01T17:42:33.200Z",
   "headlines": [
     {
       "id": "20261101_001",
@@ -50,69 +50,46 @@
     },
     {
       "id": "20261101_003",
-      "title": "How we detect frontier model misalignment",
-      "originalTitle": "How we detect frontier model misalignment",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 29 Oct 2026 09:00:00 GMT",
-      "crawlDate": "2026-11-01",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "How we detect frontier model misalignment。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261101_004",
-      "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
-      "originalTitle": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
+      "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
+      "originalTitle": "Claude紧急叫停！暗改Harness禁止逆向游戏",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Sat, 31 Oct 2026 05:11:19 +0000",
+      "publishDate": "Sun, 01 Nov 2026 13:09:55 +0000",
       "crawlDate": "2026-11-01",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/506866.html"
+        "url": "https://www.qbitai.com/2026/11/507038.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Claude紧急叫停！暗改Harness禁止逆向游戏。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261101_005",
-      "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
-      "originalTitle": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
-      "category": "application",
-      "categoryName": "应用落地",
-      "publishDate": "Sat, 31 Oct 2026 05:05:29 +0000",
+      "id": "20261101_004",
+      "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+      "originalTitle": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Sun, 01 Nov 2026 08:02:37 +0000",
       "crawlDate": "2026-11-01",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/506855.html"
+        "url": "https://www.qbitai.com/2026/11/507031.html"
       },
       "tags": [
         "媒体",
-        "应用落地"
+        "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -144,52 +121,6 @@
     },
     {
       "id": "20261101_q002",
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "originalTitle": "An updated Model Spec for more capable and beneficial AI",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Thu, 29 Oct 2026 17:00:00 GMT",
-      "crawlDate": "2026-11-01",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/updated-model-spec"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "An updated Model Spec for more capable and beneficial AI。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261101_q003",
-      "title": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！",
-      "originalTitle": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 30 Oct 2026 11:05:06 +0000",
-      "crawlDate": "2026-11-01",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/506785.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261101_q004",
       "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
       "originalTitle": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
       "category": "llm",
@@ -210,32 +141,9 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261101_q005",
-      "title": "The Download: AI agent tracking and climate feedback loops",
-      "originalTitle": "The Download: AI agent tracking and climate feedback loops",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 29 Oct 2026 12:10:00 +0000",
-      "crawlDate": "2026-11-01",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Download: AI agent tracking and climate feedback loops。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 10,
+  "total": 6,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
