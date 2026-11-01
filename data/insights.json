@@ -1,15 +1,15 @@
 {
-  "date": "20261031",
-  "updateTime": "2026-10-31T03:16:57.364Z",
+  "date": "20261101",
+  "updateTime": "2026-11-01T03:16:04.601Z",
   "headlines": [
     {
-      "id": "20261031_001",
+      "id": "20261101_001",
       "title": "Making it easier for websites to express AI training preferences",
       "originalTitle": "Making it easier for websites to express AI training preferences",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 30 Oct 2026 09:30:00 GMT",
-      "crawlDate": "2026-10-31",
+      "crawlDate": "2026-11-01",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +26,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261031_002",
+      "id": "20261101_002",
       "title": "Community safety report and new protections for teens",
       "originalTitle": "Community safety report and new protections for teens",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 30 Oct 2026 09:00:00 GMT",
-      "crawlDate": "2026-10-31",
+      "crawlDate": "2026-11-01",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,13 +49,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261031_003",
+      "id": "20261101_003",
       "title": "How we detect frontier model misalignment",
       "originalTitle": "How we detect frontier model misalignment",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Thu, 29 Oct 2026 09:00:00 GMT",
-      "crawlDate": "2026-10-31",
+      "crawlDate": "2026-11-01",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -72,47 +72,47 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261031_004",
-      "title": "Claude新模型曝光：新Fable，新Opus…",
-      "originalTitle": "Claude新模型曝光：新Fable，新Opus…",
+      "id": "20261101_004",
+      "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
+      "originalTitle": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Fri, 30 Oct 2026 05:50:44 +0000",
-      "crawlDate": "2026-10-31",
+      "publishDate": "Sat, 31 Oct 2026 05:11:19 +0000",
+      "crawlDate": "2026-11-01",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/10/506674.html"
+        "url": "https://www.qbitai.com/2026/10/506866.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "Claude新模型曝光：新Fable，新Opus…。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261031_005",
-      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-      "originalTitle": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 29 Oct 2026 00:00:00 GMT",
-      "crawlDate": "2026-10-31",
+      "id": "20261101_005",
+      "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
+      "originalTitle": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Sat, 31 Oct 2026 05:05:29 +0000",
+      "crawlDate": "2026-11-01",
       "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/announcing-project-protostar"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/10/506855.html"
       },
       "tags": [
-        "官方",
-        "大语言模型"
+        "媒体",
+        "应用落地"
       ],
       "isHeadline": true,
-      "coreInsight": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -120,13 +120,13 @@
   ],
   "quickBrowse": [
     {
-      "id": "20261031_q001",
+      "id": "20261101_q001",
       "title": "Fair use benefits everyone",
       "originalTitle": "Fair use benefits everyone",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 30 Oct 2026 00:00:00 GMT",
-      "crawlDate": "2026-10-31",
+      "crawlDate": "2026-11-01",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -143,13 +143,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261031_q002",
+      "id": "20261101_q002",
       "title": "An updated Model Spec for more capable and beneficial AI",
       "originalTitle": "An updated Model Spec for more capable and beneficial AI",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Thu, 29 Oct 2026 17:00:00 GMT",
-      "crawlDate": "2026-10-31",
+      "crawlDate": "2026-11-01",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -166,13 +166,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261031_q003",
+      "id": "20261101_q003",
+      "title": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！",
+      "originalTitle": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 30 Oct 2026 11:05:06 +0000",
+      "crawlDate": "2026-11-01",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/10/506785.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261101_q004",
       "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
       "originalTitle": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 30 Oct 2026 11:30:00 +0000",
-      "crawlDate": "2026-10-31",
+      "crawlDate": "2026-11-01",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -189,13 +212,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261031_q004",
+      "id": "20261101_q005",
       "title": "The Download: AI agent tracking and climate feedback loops",
       "originalTitle": "The Download: AI agent tracking and climate feedback loops",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Thu, 29 Oct 2026 12:10:00 +0000",
-      "crawlDate": "2026-10-31",
+      "crawlDate": "2026-11-01",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -212,7 +235,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 9,
+  "total": 10,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
