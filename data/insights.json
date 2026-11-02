@@ -1,15 +1,15 @@
 {
-  "date": "20261101",
-  "updateTime": "2026-11-01T17:42:33.200Z",
+  "date": "20261102",
+  "updateTime": "2026-11-02T03:24:32.430Z",
   "headlines": [
     {
-      "id": "20261101_001",
+      "id": "20261102_001",
       "title": "Making it easier for websites to express AI training preferences",
       "originalTitle": "Making it easier for websites to express AI training preferences",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 30 Oct 2026 09:30:00 GMT",
-      "crawlDate": "2026-11-01",
+      "crawlDate": "2026-11-02",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +26,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261101_002",
+      "id": "20261102_002",
       "title": "Community safety report and new protections for teens",
       "originalTitle": "Community safety report and new protections for teens",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 30 Oct 2026 09:00:00 GMT",
-      "crawlDate": "2026-11-01",
+      "crawlDate": "2026-11-02",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,13 +49,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261101_003",
+      "id": "20261102_003",
       "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
       "originalTitle": "Claude紧急叫停！暗改Harness禁止逆向游戏",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Sun, 01 Nov 2026 13:09:55 +0000",
-      "crawlDate": "2026-11-01",
+      "crawlDate": "2026-11-02",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -72,13 +72,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261101_004",
+      "id": "20261102_004",
       "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
       "originalTitle": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Sun, 01 Nov 2026 08:02:37 +0000",
-      "crawlDate": "2026-11-01",
+      "crawlDate": "2026-11-02",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -97,36 +97,13 @@
   ],
   "quickBrowse": [
     {
-      "id": "20261101_q001",
-      "title": "Fair use benefits everyone",
-      "originalTitle": "Fair use benefits everyone",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Fri, 30 Oct 2026 00:00:00 GMT",
-      "crawlDate": "2026-11-01",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/fair-use-benefits-everyone"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Fair use benefits everyone。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261101_q002",
+      "id": "20261102_q001",
       "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
       "originalTitle": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 30 Oct 2026 11:30:00 +0000",
-      "crawlDate": "2026-11-01",
+      "crawlDate": "2026-11-02",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -143,7 +120,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 6,
+  "total": 5,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
