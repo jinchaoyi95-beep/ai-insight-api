@@ -1,95 +1,118 @@
 {
   "date": "20261102",
-  "updateTime": "2026-11-02T03:24:32.430Z",
+  "updateTime": "2026-11-02T21:27:58.705Z",
   "headlines": [
     {
       "id": "20261102_001",
-      "title": "Making it easier for websites to express AI training preferences",
-      "originalTitle": "Making it easier for websites to express AI training preferences",
+      "title": "Introducing the Grid Protectors Program",
+      "originalTitle": "Introducing the Grid Protectors Program",
       "category": "company",
       "categoryName": "企业动态",
-      "publishDate": "Fri, 30 Oct 2026 09:30:00 GMT",
+      "publishDate": "Mon, 02 Nov 2026 15:00:00 GMT",
       "crawlDate": "2026-11-02",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/helping-websites-express-ai-training-preferences"
+        "url": "https://openai.com/index/grid-protectors-program"
       },
       "tags": [
         "官方",
         "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "Making it easier for websites to express AI training preferences。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Introducing the Grid Protectors Program。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20261102_002",
-      "title": "Community safety report and new protections for teens",
-      "originalTitle": "Community safety report and new protections for teens",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Fri, 30 Oct 2026 09:00:00 GMT",
+      "title": "LifeVal",
+      "originalTitle": "LifeVal",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 02 Nov 2026 09:00:00 GMT",
       "crawlDate": "2026-11-02",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
+        "url": "https://openai.com/index/lifeval"
       },
       "tags": [
         "官方",
-        "企业动态"
+        "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "Community safety report and new protections for teens。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "LifeVal。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20261102_003",
-      "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
-      "originalTitle": "Claude紧急叫停！暗改Harness禁止逆向游戏",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sun, 01 Nov 2026 13:09:55 +0000",
+      "title": "Qodo builds context into AI code review with Codex",
+      "originalTitle": "Qodo builds context into AI code review with Codex",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Mon, 02 Nov 2026 00:00:00 GMT",
       "crawlDate": "2026-11-02",
       "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/507038.html"
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/qodo-codex-plugin"
       },
       "tags": [
-        "媒体",
-        "大语言模型"
+        "官方",
+        "开发工具"
       ],
       "isHeadline": true,
-      "coreInsight": "Claude紧急叫停！暗改Harness禁止逆向游戏。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Qodo builds context into AI code review with Codex。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20261102_004",
-      "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
-      "originalTitle": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+      "title": "顶级AI翻车的活儿，被这个新出的免费国产AI接住了！",
+      "originalTitle": "顶级AI翻车的活儿，被这个新出的免费国产AI接住了！",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Sun, 01 Nov 2026 08:02:37 +0000",
+      "publishDate": "Mon, 02 Nov 2026 13:36:41 +0000",
       "crawlDate": "2026-11-02",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/507031.html"
+        "url": "https://www.qbitai.com/2026/11/507277.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "顶级AI翻车的活儿，被这个新出的免费国产AI接住了！。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261102_005",
+      "title": "OpenAI重写大模型法则，第一条：忠于人类！！",
+      "originalTitle": "OpenAI重写大模型法则，第一条：忠于人类！！",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 02 Nov 2026 07:27:54 +0000",
+      "crawlDate": "2026-11-02",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/11/507225.html"
+      },
+      "tags": [
+        "媒体",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "OpenAI重写大模型法则，第一条：忠于人类！！。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -98,29 +121,144 @@
   "quickBrowse": [
     {
       "id": "20261102_q001",
-      "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
-      "originalTitle": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
+      "title": "央视严选「中国AI创业十骏」：唯一AI制药公司是清华系",
+      "originalTitle": "央视严选「中国AI创业十骏」：唯一AI制药公司是清华系",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Fri, 30 Oct 2026 11:30:00 +0000",
+      "publishDate": "Mon, 02 Nov 2026 06:28:07 +0000",
       "crawlDate": "2026-11-02",
       "source": {
-        "name": "MIT Technology Review",
+        "name": "量子位",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/"
+        "url": "https://www.qbitai.com/2026/11/507150.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "央视严选「中国AI创业十骏」：唯一AI制药公司是清华系。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261102_q002",
+      "title": "小米开源了个150元的AI小玩意，火到配件都涨价了",
+      "originalTitle": "小米开源了个150元的AI小玩意，火到配件都涨价了",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 02 Nov 2026 06:08:04 +0000",
+      "crawlDate": "2026-11-02",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/11/507107.html"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "小米开源了个150元的AI小玩意，火到配件都涨价了。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261102_q003",
+      "title": "The latest AI news we announced in October 2026",
+      "originalTitle": "The latest AI news we announced in October 2026",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 02 Nov 2026 17:45:00 +0000",
+      "crawlDate": "2026-11-02",
+      "source": {
+        "name": "Google AI",
+        "type": "官方",
+        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The latest AI news we announced in October 2026。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261102_q004",
+      "title": "Raising the quality of insights in agentic analytics",
+      "originalTitle": "Raising the quality of insights in agentic analytics",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 02 Nov 2026 17:00:00 +0000",
+      "crawlDate": "2026-11-02",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Raising the quality of insights in agentic analytics。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261102_q005",
+      "title": "Stop counting tokens, start counting what ships",
+      "originalTitle": "Stop counting tokens, start counting what ships",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 02 Nov 2026 13:10:32 +0000",
+      "crawlDate": "2026-11-02",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Stop counting tokens, start counting what ships。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261102_q006",
+      "title": "The Download: the agentic web arrives and the drive for safer roads",
+      "originalTitle": "The Download: the agentic web arrives and the drive for safer roads",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 02 Nov 2026 13:10:00 +0000",
+      "crawlDate": "2026-11-02",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The Download: the agentic web arrives and the drive for safer roads。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 5,
+  "total": 11,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
