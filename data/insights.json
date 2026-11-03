@@ -1,15 +1,132 @@
 {
-  "date": "20261102",
-  "updateTime": "2026-11-02T21:27:58.705Z",
+  "date": "20261103",
+  "updateTime": "2026-11-03T19:10:41.140Z",
   "headlines": [
     {
-      "id": "20261102_001",
+      "id": "20261103_001",
+      "title": "Accelerating engineering for the physical world",
+      "originalTitle": "Accelerating engineering for the physical world",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Tue, 03 Nov 2026 12:00:00 GMT",
+      "crawlDate": "2026-11-03",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world"
+      },
+      "tags": [
+        "官方",
+        "开发工具"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Accelerating engineering for the physical world。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261103_002",
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "originalTitle": "Heimstaden is changing residential real estate management with AI",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 03 Nov 2026 08:00:00 GMT",
+      "crawlDate": "2026-11-03",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/heimstaden"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Heimstaden is changing residential real estate management with AI。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261103_003",
+      "title": "Scaling Git at OpenAI",
+      "originalTitle": "Scaling Git at OpenAI",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 02 Nov 2026 15:30:00 GMT",
+      "crawlDate": "2026-11-03",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/scaling-git-at-openai"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Scaling Git at OpenAI。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261103_004",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "originalTitle": "Rewarding defenders with bigger bug bounties",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Mon, 02 Nov 2026 18:00:00 GMT",
+      "crawlDate": "2026-11-03",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
+      },
+      "tags": [
+        "官方",
+        "科研突破"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Rewarding defenders with bigger bug bounties。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261103_005",
+      "title": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
+      "originalTitle": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 03 Nov 2026 13:57:11 +0000",
+      "crawlDate": "2026-11-03",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/11/507507.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    }
+  ],
+  "quickBrowse": [
+    {
+      "id": "20261103_q001",
       "title": "Introducing the Grid Protectors Program",
       "originalTitle": "Introducing the Grid Protectors Program",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Mon, 02 Nov 2026 15:00:00 GMT",
-      "crawlDate": "2026-11-02",
+      "crawlDate": "2026-11-03",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -19,160 +136,89 @@
         "官方",
         "企业动态"
       ],
-      "isHeadline": true,
+      "isHeadline": false,
       "coreInsight": "Introducing the Grid Protectors Program。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261102_002",
-      "title": "LifeVal",
-      "originalTitle": "LifeVal",
+      "id": "20261103_q002",
+      "title": "模型谁都买得到，拉开差距的是AI生产力系统",
+      "originalTitle": "模型谁都买得到，拉开差距的是AI生产力系统",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Mon, 02 Nov 2026 09:00:00 GMT",
-      "crawlDate": "2026-11-02",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/lifeval"
-      },
-      "tags": [
-        "官方",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "LifeVal。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261102_003",
-      "title": "Qodo builds context into AI code review with Codex",
-      "originalTitle": "Qodo builds context into AI code review with Codex",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Mon, 02 Nov 2026 00:00:00 GMT",
-      "crawlDate": "2026-11-02",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/qodo-codex-plugin"
-      },
-      "tags": [
-        "官方",
-        "开发工具"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Qodo builds context into AI code review with Codex。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261102_004",
-      "title": "顶级AI翻车的活儿，被这个新出的免费国产AI接住了！",
-      "originalTitle": "顶级AI翻车的活儿，被这个新出的免费国产AI接住了！",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Mon, 02 Nov 2026 13:36:41 +0000",
-      "crawlDate": "2026-11-02",
+      "publishDate": "Tue, 03 Nov 2026 11:13:49 +0000",
+      "crawlDate": "2026-11-03",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/507277.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "顶级AI翻车的活儿，被这个新出的免费国产AI接住了！。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261102_005",
-      "title": "OpenAI重写大模型法则，第一条：忠于人类！！",
-      "originalTitle": "OpenAI重写大模型法则，第一条：忠于人类！！",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Mon, 02 Nov 2026 07:27:54 +0000",
-      "crawlDate": "2026-11-02",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/507225.html"
-      },
-      "tags": [
-        "媒体",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "OpenAI重写大模型法则，第一条：忠于人类！！。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
-    {
-      "id": "20261102_q001",
-      "title": "央视严选「中国AI创业十骏」：唯一AI制药公司是清华系",
-      "originalTitle": "央视严选「中国AI创业十骏」：唯一AI制药公司是清华系",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Mon, 02 Nov 2026 06:28:07 +0000",
-      "crawlDate": "2026-11-02",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/507150.html"
+        "url": "https://www.qbitai.com/2026/11/507448.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "央视严选「中国AI创业十骏」：唯一AI制药公司是清华系。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "模型谁都买得到，拉开差距的是AI生产力系统。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261102_q002",
-      "title": "小米开源了个150元的AI小玩意，火到配件都涨价了",
-      "originalTitle": "小米开源了个150元的AI小玩意，火到配件都涨价了",
+      "id": "20261103_q003",
+      "title": "纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri",
+      "originalTitle": "纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Mon, 02 Nov 2026 06:08:04 +0000",
-      "crawlDate": "2026-11-02",
+      "publishDate": "Tue, 03 Nov 2026 06:55:30 +0000",
+      "crawlDate": "2026-11-03",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/507107.html"
+        "url": "https://www.qbitai.com/2026/11/507419.html"
       },
       "tags": [
         "媒体",
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "小米开源了个150元的AI小玩意，火到配件都涨价了。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261102_q003",
+      "id": "20261103_q004",
+      "title": "苹果被曝的新产品，中国央企8个月前已装进公共卫生间",
+      "originalTitle": "苹果被曝的新产品，中国央企8个月前已装进公共卫生间",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 03 Nov 2026 06:29:11 +0000",
+      "crawlDate": "2026-11-03",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/11/507410.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "苹果被曝的新产品，中国央企8个月前已装进公共卫生间。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261103_q005",
       "title": "The latest AI news we announced in October 2026",
       "originalTitle": "The latest AI news we announced in October 2026",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Mon, 02 Nov 2026 17:45:00 +0000",
-      "crawlDate": "2026-11-02",
+      "crawlDate": "2026-11-03",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -189,76 +235,76 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261102_q004",
-      "title": "Raising the quality of insights in agentic analytics",
-      "originalTitle": "Raising the quality of insights in agentic analytics",
+      "id": "20261103_q006",
+      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
+      "originalTitle": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Mon, 02 Nov 2026 17:00:00 +0000",
-      "crawlDate": "2026-11-02",
+      "publishDate": "Tue, 03 Nov 2026 13:10:00 +0000",
+      "crawlDate": "2026-11-03",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/"
+        "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/"
       },
       "tags": [
         "媒体",
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "Raising the quality of insights in agentic analytics。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: controlling AI agents and “Super Intelligence” loyalty tests。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261102_q005",
-      "title": "Stop counting tokens, start counting what ships",
-      "originalTitle": "Stop counting tokens, start counting what ships",
+      "id": "20261103_q007",
+      "title": "How “reverse game theory” could keep AI agents in check",
+      "originalTitle": "How “reverse game theory” could keep AI agents in check",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Mon, 02 Nov 2026 13:10:32 +0000",
-      "crawlDate": "2026-11-02",
+      "publishDate": "Tue, 03 Nov 2026 10:43:41 +0000",
+      "crawlDate": "2026-11-03",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/"
+        "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
       },
       "tags": [
         "媒体",
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "Stop counting tokens, start counting what ships。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "How “reverse game theory” could keep AI agents in check。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261102_q006",
-      "title": "The Download: the agentic web arrives and the drive for safer roads",
-      "originalTitle": "The Download: the agentic web arrives and the drive for safer roads",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Mon, 02 Nov 2026 13:10:00 +0000",
-      "crawlDate": "2026-11-02",
+      "id": "20261103_q008",
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "originalTitle": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Tue, 03 Nov 2026 04:18:47 +0000",
+      "crawlDate": "2026-11-03",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/"
+        "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/"
       },
       "tags": [
         "媒体",
-        "Agent"
+        "应用落地"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: the agentic web arrives and the drive for safer roads。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 11,
+  "total": 13,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
