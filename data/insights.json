@@ -1,15 +1,15 @@
 {
-  "date": "20261103",
-  "updateTime": "2026-11-03T19:10:41.140Z",
+  "date": "20261104",
+  "updateTime": "2026-11-04T03:55:19.687Z",
   "headlines": [
     {
-      "id": "20261103_001",
+      "id": "20261104_001",
       "title": "Accelerating engineering for the physical world",
       "originalTitle": "Accelerating engineering for the physical world",
       "category": "devtool",
       "categoryName": "开发工具",
       "publishDate": "Tue, 03 Nov 2026 12:00:00 GMT",
-      "crawlDate": "2026-11-03",
+      "crawlDate": "2026-11-04",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +26,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261103_002",
+      "id": "20261104_002",
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "originalTitle": "How Cisco defends at machine speed with OpenAI",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 03 Nov 2026 08:00:00 GMT",
+      "crawlDate": "2026-11-04",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/cisco-cyber"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "How Cisco defends at machine speed with OpenAI。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261104_003",
       "title": "Heimstaden is changing residential real estate management with AI",
       "originalTitle": "Heimstaden is changing residential real estate management with AI",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Tue, 03 Nov 2026 08:00:00 GMT",
-      "crawlDate": "2026-11-03",
+      "crawlDate": "2026-11-04",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,59 +72,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261103_003",
-      "title": "Scaling Git at OpenAI",
-      "originalTitle": "Scaling Git at OpenAI",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Mon, 02 Nov 2026 15:30:00 GMT",
-      "crawlDate": "2026-11-03",
+      "id": "20261104_004",
+      "title": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
+      "originalTitle": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Wed, 04 Nov 2026 02:49:02 +0000",
+      "crawlDate": "2026-11-04",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/scaling-git-at-openai"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/11/507533.html"
       },
       "tags": [
-        "官方",
-        "企业动态"
+        "媒体",
+        "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "Scaling Git at OpenAI。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261103_004",
-      "title": "Rewarding defenders with bigger bug bounties",
-      "originalTitle": "Rewarding defenders with bigger bug bounties",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Mon, 02 Nov 2026 18:00:00 GMT",
-      "crawlDate": "2026-11-03",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties"
-      },
-      "tags": [
-        "官方",
-        "科研突破"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Rewarding defenders with bigger bug bounties。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261103_005",
+      "id": "20261104_005",
       "title": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
       "originalTitle": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 03 Nov 2026 13:57:11 +0000",
-      "crawlDate": "2026-11-03",
+      "crawlDate": "2026-11-04",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -120,36 +120,59 @@
   ],
   "quickBrowse": [
     {
-      "id": "20261103_q001",
-      "title": "Introducing the Grid Protectors Program",
-      "originalTitle": "Introducing the Grid Protectors Program",
+      "id": "20261104_q001",
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "originalTitle": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
       "category": "company",
       "categoryName": "企业动态",
-      "publishDate": "Mon, 02 Nov 2026 15:00:00 GMT",
-      "crawlDate": "2026-11-03",
+      "publishDate": "Tue, 03 Nov 2026 00:00:00 GMT",
+      "crawlDate": "2026-11-04",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/grid-protectors-program"
+        "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer"
       },
       "tags": [
         "官方",
         "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "Introducing the Grid Protectors Program。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261103_q002",
+      "id": "20261104_q002",
+      "title": "Scaling Git at OpenAI",
+      "originalTitle": "Scaling Git at OpenAI",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 02 Nov 2026 15:30:00 GMT",
+      "crawlDate": "2026-11-04",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/scaling-git-at-openai"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Scaling Git at OpenAI。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261104_q003",
       "title": "模型谁都买得到，拉开差距的是AI生产力系统",
       "originalTitle": "模型谁都买得到，拉开差距的是AI生产力系统",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 03 Nov 2026 11:13:49 +0000",
-      "crawlDate": "2026-11-03",
+      "crawlDate": "2026-11-04",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -166,13 +189,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261103_q003",
+      "id": "20261104_q004",
       "title": "纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri",
       "originalTitle": "纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Tue, 03 Nov 2026 06:55:30 +0000",
-      "crawlDate": "2026-11-03",
+      "crawlDate": "2026-11-04",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -189,36 +212,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261103_q004",
-      "title": "苹果被曝的新产品，中国央企8个月前已装进公共卫生间",
-      "originalTitle": "苹果被曝的新产品，中国央企8个月前已装进公共卫生间",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 03 Nov 2026 06:29:11 +0000",
-      "crawlDate": "2026-11-03",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/507410.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "苹果被曝的新产品，中国央企8个月前已装进公共卫生间。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261103_q005",
+      "id": "20261104_q005",
       "title": "The latest AI news we announced in October 2026",
       "originalTitle": "The latest AI news we announced in October 2026",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Mon, 02 Nov 2026 17:45:00 +0000",
-      "crawlDate": "2026-11-03",
+      "crawlDate": "2026-11-04",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -235,13 +235,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261103_q006",
+      "id": "20261104_q006",
       "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
       "originalTitle": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Tue, 03 Nov 2026 13:10:00 +0000",
-      "crawlDate": "2026-11-03",
+      "crawlDate": "2026-11-04",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -258,13 +258,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261103_q007",
+      "id": "20261104_q007",
       "title": "How “reverse game theory” could keep AI agents in check",
       "originalTitle": "How “reverse game theory” could keep AI agents in check",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Tue, 03 Nov 2026 10:43:41 +0000",
-      "crawlDate": "2026-11-03",
+      "crawlDate": "2026-11-04",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -281,13 +281,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261103_q008",
+      "id": "20261104_q008",
       "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
       "originalTitle": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
       "category": "application",
       "categoryName": "应用落地",
       "publishDate": "Tue, 03 Nov 2026 04:18:47 +0000",
-      "crawlDate": "2026-11-03",
+      "crawlDate": "2026-11-04",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
