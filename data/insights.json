@@ -1,118 +1,118 @@
 {
-  "date": "20261104",
-  "updateTime": "2026-11-04T03:55:19.687Z",
+  "date": "20261105",
+  "updateTime": "2026-11-05T04:14:44.730Z",
   "headlines": [
     {
-      "id": "20261104_001",
-      "title": "Accelerating engineering for the physical world",
-      "originalTitle": "Accelerating engineering for the physical world",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Tue, 03 Nov 2026 12:00:00 GMT",
-      "crawlDate": "2026-11-04",
+      "id": "20261105_001",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "originalTitle": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 04 Nov 2026 14:30:00 GMT",
+      "crawlDate": "2026-11-05",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world"
+        "url": "https://openai.com/index/openai-to-acquire-pierre"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "OpenAI to acquire Pierre Computer Company, Inc.。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261105_002",
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "originalTitle": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Wed, 04 Nov 2026 07:00:00 GMT",
+      "crawlDate": "2026-11-05",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/daybreak-red-aws-govcloud"
+      },
+      "tags": [
+        "官方",
+        "应用落地"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Daybreak Red is now available in AWS GovCloud (US-East)。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261105_003",
+      "title": "A thousand fewer paths to root",
+      "originalTitle": "A thousand fewer paths to root",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 04 Nov 2026 08:00:00 GMT",
+      "crawlDate": "2026-11-05",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/a-thousand-fewer-paths-to-root"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "A thousand fewer paths to root。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261105_004",
+      "title": "Introducing Images 2.6",
+      "originalTitle": "Introducing Images 2.6",
+      "category": "image-video",
+      "categoryName": "AI绘画/视频",
+      "publishDate": "Wed, 04 Nov 2026 00:00:00 GMT",
+      "crawlDate": "2026-11-05",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/introducing-images-2-6"
+      },
+      "tags": [
+        "官方",
+        "AI绘画/视频"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Introducing Images 2.6。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261105_005",
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "originalTitle": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Wed, 04 Nov 2026 00:00:00 GMT",
+      "crawlDate": "2026-11-05",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/devrev-enterprise-self-service"
       },
       "tags": [
         "官方",
         "开发工具"
       ],
       "isHeadline": true,
-      "coreInsight": "Accelerating engineering for the physical world。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261104_002",
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "originalTitle": "How Cisco defends at machine speed with OpenAI",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 03 Nov 2026 08:00:00 GMT",
-      "crawlDate": "2026-11-04",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/cisco-cyber"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "How Cisco defends at machine speed with OpenAI。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261104_003",
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "originalTitle": "Heimstaden is changing residential real estate management with AI",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 03 Nov 2026 08:00:00 GMT",
-      "crawlDate": "2026-11-04",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/heimstaden"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Heimstaden is changing residential real estate management with AI。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261104_004",
-      "title": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
-      "originalTitle": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Wed, 04 Nov 2026 02:49:02 +0000",
-      "crawlDate": "2026-11-04",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/507533.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "让Agent首次拥有“视听双流记忆”：openJiuwen Agent-Memory看懂长视频，关键事件一个不落。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261104_005",
-      "title": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
-      "originalTitle": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 03 Nov 2026 13:57:11 +0000",
-      "crawlDate": "2026-11-04",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/507507.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "DevRev delivers autonomous self-service with GPT-6.1 Sol。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -120,105 +120,105 @@
   ],
   "quickBrowse": [
     {
-      "id": "20261104_q001",
-      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-      "originalTitle": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 03 Nov 2026 00:00:00 GMT",
-      "crawlDate": "2026-11-04",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261104_q002",
-      "title": "Scaling Git at OpenAI",
-      "originalTitle": "Scaling Git at OpenAI",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Mon, 02 Nov 2026 15:30:00 GMT",
-      "crawlDate": "2026-11-04",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/scaling-git-at-openai"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Scaling Git at OpenAI。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261104_q003",
-      "title": "模型谁都买得到，拉开差距的是AI生产力系统",
-      "originalTitle": "模型谁都买得到，拉开差距的是AI生产力系统",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 03 Nov 2026 11:13:49 +0000",
-      "crawlDate": "2026-11-04",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/507448.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "模型谁都买得到，拉开差距的是AI生产力系统。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261104_q004",
-      "title": "纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri",
-      "originalTitle": "纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri",
+      "id": "20261105_q001",
+      "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
+      "originalTitle": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Tue, 03 Nov 2026 06:55:30 +0000",
-      "crawlDate": "2026-11-04",
+      "publishDate": "Thu, 05 Nov 2026 02:01:51 +0000",
+      "crawlDate": "2026-11-05",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/507419.html"
+        "url": "https://www.qbitai.com/2026/11/507696.html"
       },
       "tags": [
         "媒体",
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261104_q005",
+      "id": "20261105_q002",
+      "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
+      "originalTitle": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
+      "category": "image-video",
+      "categoryName": "AI绘画/视频",
+      "publishDate": "Thu, 05 Nov 2026 01:59:37 +0000",
+      "crawlDate": "2026-11-05",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/11/507707.html"
+      },
+      "tags": [
+        "媒体",
+        "AI绘画/视频"
+      ],
+      "isHeadline": false,
+      "coreInsight": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261105_q003",
+      "title": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的",
+      "originalTitle": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Thu, 05 Nov 2026 01:54:44 +0000",
+      "crawlDate": "2026-11-05",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/11/507697.html"
+      },
+      "tags": [
+        "媒体",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261105_q004",
+      "title": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题",
+      "originalTitle": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 05 Nov 2026 00:41:34 +0000",
+      "crawlDate": "2026-11-05",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/11/507675.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261105_q005",
       "title": "The latest AI news we announced in October 2026",
       "originalTitle": "The latest AI news we announced in October 2026",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Mon, 02 Nov 2026 17:45:00 +0000",
-      "crawlDate": "2026-11-04",
+      "crawlDate": "2026-11-05",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -235,76 +235,53 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261104_q006",
-      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
-      "originalTitle": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Tue, 03 Nov 2026 13:10:00 +0000",
-      "crawlDate": "2026-11-04",
+      "id": "20261105_q006",
+      "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "originalTitle": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 04 Nov 2026 18:50:55 +0000",
+      "crawlDate": "2026-11-05",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/"
+        "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"
       },
       "tags": [
         "媒体",
-        "Agent"
+        "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: controlling AI agents and “Super Intelligence” loyalty tests。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Texas was the new epicenter of the AI data center buildout. That might be kaput.。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261104_q007",
-      "title": "How “reverse game theory” could keep AI agents in check",
-      "originalTitle": "How “reverse game theory” could keep AI agents in check",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Tue, 03 Nov 2026 10:43:41 +0000",
-      "crawlDate": "2026-11-04",
+      "id": "20261105_q007",
+      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+      "originalTitle": "Roundtables: Inside the Quest for Cognitive Immortality",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 04 Nov 2026 18:21:40 +0000",
+      "crawlDate": "2026-11-05",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
+        "url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/"
       },
       "tags": [
         "媒体",
-        "Agent"
+        "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "How “reverse game theory” could keep AI agents in check。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261104_q008",
-      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-      "originalTitle": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
-      "category": "application",
-      "categoryName": "应用落地",
-      "publishDate": "Tue, 03 Nov 2026 04:18:47 +0000",
-      "crawlDate": "2026-11-04",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/"
-      },
-      "tags": [
-        "媒体",
-        "应用落地"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Roundtables: Inside the Quest for Cognitive Immortality。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 13,
+  "total": 12,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
