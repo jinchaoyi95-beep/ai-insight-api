@@ -1,15 +1,15 @@
 {
-  "date": "20261107",
-  "updateTime": "2026-11-07T03:44:37.307Z",
+  "date": "20261108",
+  "updateTime": "2026-11-08T03:22:55.300Z",
   "headlines": [
     {
-      "id": "20261107_001",
+      "id": "20261108_001",
       "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
       "originalTitle": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 06 Nov 2026 08:00:00 GMT",
-      "crawlDate": "2026-11-07",
+      "crawlDate": "2026-11-08",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +26,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261107_002",
+      "id": "20261108_002",
       "title": "Measuring how AI agents handle everyday wet-lab science",
       "originalTitle": "Measuring how AI agents handle everyday wet-lab science",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Fri, 06 Nov 2026 00:00:00 GMT",
-      "crawlDate": "2026-11-07",
+      "crawlDate": "2026-11-08",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,13 +49,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261107_003",
+      "id": "20261108_003",
       "title": "Australian universities are creating AI-native graduates",
       "originalTitle": "Australian universities are creating AI-native graduates",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Thu, 05 Nov 2026 17:00:00 GMT",
-      "crawlDate": "2026-11-07",
+      "crawlDate": "2026-11-08",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -72,13 +72,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261107_004",
+      "id": "20261108_004",
       "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
       "originalTitle": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Thu, 05 Nov 2026 09:00:00 GMT",
-      "crawlDate": "2026-11-07",
+      "crawlDate": "2026-11-08",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -95,107 +95,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261107_005",
-      "title": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
-      "originalTitle": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
-      "category": "image-video",
-      "categoryName": "AI绘画/视频",
-      "publishDate": "Fri, 06 Nov 2026 06:54:17 +0000",
-      "crawlDate": "2026-11-07",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/508118.html"
-      },
-      "tags": [
-        "媒体",
-        "AI绘画/视频"
-      ],
-      "isHeadline": true,
-      "coreInsight": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
-    {
-      "id": "20261107_q001",
-      "title": "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！",
-      "originalTitle": "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Fri, 06 Nov 2026 06:43:14 +0000",
-      "crawlDate": "2026-11-07",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/508143.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261107_q002",
-      "title": "99.4%登顶全球第一！这个中国AI师承世界冠军",
-      "originalTitle": "99.4%登顶全球第一！这个中国AI师承世界冠军",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 06 Nov 2026 05:01:47 +0000",
-      "crawlDate": "2026-11-07",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/508107.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "99.4%登顶全球第一！这个中国AI师承世界冠军。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261107_q003",
-      "title": "香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇",
-      "originalTitle": "香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 06 Nov 2026 03:36:34 +0000",
-      "crawlDate": "2026-11-07",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/507988.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261107_q004",
+      "id": "20261108_005",
       "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
       "originalTitle": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 06 Nov 2026 13:10:00 +0000",
-      "crawlDate": "2026-11-07",
+      "crawlDate": "2026-11-08",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -205,20 +111,68 @@
         "媒体",
         "大语言模型"
       ],
-      "isHeadline": false,
+      "isHeadline": true,
       "coreInsight": "The Download: a humanoid cleans house and Samsung builds for the AI boom。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    }
+  ],
+  "quickBrowse": [
+    {
+      "id": "20261108_q001",
+      "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
+      "originalTitle": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Sat, 07 Nov 2026 05:01:17 +0000",
+      "crawlDate": "2026-11-08",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/11/508264.html"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261107_q005",
+      "id": "20261108_q002",
+      "title": "AGENTS.MD，危险危险危险！！！",
+      "originalTitle": "AGENTS.MD，危险危险危险！！！",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Sat, 07 Nov 2026 03:43:55 +0000",
+      "crawlDate": "2026-11-08",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/11/508244.html"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "AGENTS.MD，危险危险危险！！！。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261108_q003",
       "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
       "originalTitle": "The Download: Texas’s fragile AI boom and energy policy shifts",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Thu, 05 Nov 2026 13:10:00 +0000",
-      "crawlDate": "2026-11-07",
+      "crawlDate": "2026-11-08",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -235,7 +189,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 10,
+  "total": 8,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
