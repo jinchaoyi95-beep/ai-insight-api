@@ -1,15 +1,15 @@
 {
-  "date": "20261108",
-  "updateTime": "2026-11-08T17:42:04.671Z",
+  "date": "20261109",
+  "updateTime": "2026-11-09T03:41:05.412Z",
   "headlines": [
     {
-      "id": "20261108_001",
+      "id": "20261109_001",
       "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
       "originalTitle": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 06 Nov 2026 08:00:00 GMT",
-      "crawlDate": "2026-11-08",
+      "crawlDate": "2026-11-09",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,36 +26,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261108_002",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "originalTitle": "Measuring how AI agents handle everyday wet-lab science",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Fri, 06 Nov 2026 00:00:00 GMT",
-      "crawlDate": "2026-11-08",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Measuring how AI agents handle everyday wet-lab science。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261108_003",
+      "id": "20261109_002",
       "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
       "originalTitle": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Sat, 07 Nov 2026 09:38:56 +0000",
-      "crawlDate": "2026-11-08",
+      "crawlDate": "2026-11-09",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -72,13 +49,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261108_004",
+      "id": "20261109_003",
       "title": "为了去AI味，人类开始主动写烂文章了……",
       "originalTitle": "为了去AI味，人类开始主动写烂文章了……",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Sat, 07 Nov 2026 07:59:28 +0000",
-      "crawlDate": "2026-11-08",
+      "crawlDate": "2026-11-09",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -95,13 +72,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261108_005",
+      "id": "20261109_004",
       "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
       "originalTitle": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Sat, 07 Nov 2026 05:01:17 +0000",
-      "crawlDate": "2026-11-08",
+      "crawlDate": "2026-11-09",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -116,17 +93,40 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261109_005",
+      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+      "originalTitle": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 06 Nov 2026 13:10:00 +0000",
+      "crawlDate": "2026-11-09",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "The Download: a humanoid cleans house and Samsung builds for the AI boom。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
   "quickBrowse": [
     {
-      "id": "20261108_q001",
+      "id": "20261109_q001",
       "title": "OpenAI新融资到账110亿美元，不及原计划一半",
       "originalTitle": "OpenAI新融资到账110亿美元，不及原计划一半",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Sat, 07 Nov 2026 08:11:25 +0000",
-      "crawlDate": "2026-11-08",
+      "crawlDate": "2026-11-09",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -141,32 +141,9 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261108_q002",
-      "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
-      "originalTitle": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 06 Nov 2026 13:10:00 +0000",
-      "crawlDate": "2026-11-08",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Download: a humanoid cleans house and Samsung builds for the AI boom。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 7,
+  "total": 6,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
