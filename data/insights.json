@@ -1,15 +1,15 @@
 {
-  "date": "20261109",
-  "updateTime": "2026-11-09T21:59:36.158Z",
+  "date": "20261110",
+  "updateTime": "2026-11-10T05:13:49.295Z",
   "headlines": [
     {
-      "id": "20261109_001",
+      "id": "20261110_001",
       "title": "ChatGPT Enterprise now available in AWS Marketplace",
       "originalTitle": "ChatGPT Enterprise now available in AWS Marketplace",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Mon, 09 Nov 2026 19:00:00 GMT",
-      "crawlDate": "2026-11-09",
+      "crawlDate": "2026-11-10",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,36 +26,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261109_002",
-      "title": "Introducing Control Room: Human control over AI workloads",
-      "originalTitle": "Introducing Control Room: Human control over AI workloads",
+      "id": "20261110_002",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "originalTitle": "Control Room: A central system to track and stop model workloads across our research infrastructure",
       "category": "research",
       "categoryName": "科研突破",
       "publishDate": "Mon, 09 Nov 2026 13:00:00 GMT",
-      "crawlDate": "2026-11-09",
+      "crawlDate": "2026-11-10",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/introducing-control-room"
+        "url": "https://openai.com/index/control-room"
       },
       "tags": [
         "官方",
         "科研突破"
       ],
       "isHeadline": true,
-      "coreInsight": "Introducing Control Room: Human control over AI workloads。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Control Room: A central system to track and stop model workloads across our research infrastructure。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261109_003",
+      "id": "20261110_003",
       "title": "CodeRabbit scales agentic software development and ships 20x more",
       "originalTitle": "CodeRabbit scales agentic software development and ships 20x more",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Mon, 09 Nov 2026 08:00:00 GMT",
-      "crawlDate": "2026-11-09",
+      "crawlDate": "2026-11-10",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -72,13 +72,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261109_004",
+      "id": "20261110_004",
       "title": "Kuken Industries searches 70 years of drawings in minutes",
       "originalTitle": "Kuken Industries searches 70 years of drawings in minutes",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Mon, 09 Nov 2026 08:00:00 GMT",
-      "crawlDate": "2026-11-09",
+      "crawlDate": "2026-11-10",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -95,13 +95,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261109_005",
+      "id": "20261110_005",
       "title": "“AI毁了我的计算机学位”",
       "originalTitle": "“AI毁了我的计算机学位”",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Mon, 09 Nov 2026 08:57:20 +0000",
-      "crawlDate": "2026-11-09",
+      "crawlDate": "2026-11-10",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -120,13 +120,13 @@
   ],
   "quickBrowse": [
     {
-      "id": "20261109_q001",
+      "id": "20261110_q001",
       "title": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
       "originalTitle": "腾讯混元跻身最强开源模型！一手实测Hy4：搭配WorkBuddy，多模态Agent交付力拉满",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Mon, 09 Nov 2026 08:44:00 +0000",
-      "crawlDate": "2026-11-09",
+      "crawlDate": "2026-11-10",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -143,13 +143,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261109_q002",
+      "id": "20261110_q002",
       "title": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
       "originalTitle": "千问办公2.0发布，首个支持多人与Agent协作的Team Agent来了",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Mon, 09 Nov 2026 08:34:03 +0000",
-      "crawlDate": "2026-11-09",
+      "crawlDate": "2026-11-10",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -166,13 +166,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261109_q003",
+      "id": "20261110_q003",
       "title": "The backlash about data centers might really just be about electricity",
       "originalTitle": "The backlash about data centers might really just be about electricity",
       "category": "application",
       "categoryName": "应用落地",
       "publishDate": "Mon, 09 Nov 2026 19:35:33 +0000",
-      "crawlDate": "2026-11-09",
+      "crawlDate": "2026-11-10",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -189,13 +189,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261109_q004",
+      "id": "20261110_q004",
       "title": "Nancy Pelosi’s replacement is ready to regulate AI",
       "originalTitle": "Nancy Pelosi’s replacement is ready to regulate AI",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Mon, 09 Nov 2026 17:05:43 +0000",
-      "crawlDate": "2026-11-09",
+      "crawlDate": "2026-11-10",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -212,13 +212,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261109_q005",
+      "id": "20261110_q005",
       "title": "The Download: empty AI climate claims, and an Nvidia investigation",
       "originalTitle": "The Download: empty AI climate claims, and an Nvidia investigation",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Mon, 09 Nov 2026 13:15:00 +0000",
-      "crawlDate": "2026-11-09",
+      "crawlDate": "2026-11-10",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
