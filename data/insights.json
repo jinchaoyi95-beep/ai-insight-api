@@ -1,15 +1,38 @@
 {
-  "date": "20261110",
-  "updateTime": "2026-11-10T19:24:45.182Z",
+  "date": "20261111",
+  "updateTime": "2026-11-11T03:46:13.093Z",
   "headlines": [
     {
-      "id": "20261110_001",
+      "id": "20261111_001",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "originalTitle": "Gilbert + Tobin rethinks the business of law with AI",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 12 Nov 2026 00:00:00 GMT",
+      "crawlDate": "2026-11-11",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/gilbert-tobin-sam-nickless"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Gilbert + Tobin rethinks the business of law with AI。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261111_002",
       "title": "Helping caregivers use AI in everyday life",
       "originalTitle": "Helping caregivers use AI in everyday life",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Tue, 10 Nov 2026 12:00:00 GMT",
-      "crawlDate": "2026-11-10",
+      "crawlDate": "2026-11-11",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +49,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261110_002",
+      "id": "20261111_003",
       "title": "Introducing Businesses in ChatGPT",
       "originalTitle": "Introducing Businesses in ChatGPT",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 10 Nov 2026 10:00:00 GMT",
-      "crawlDate": "2026-11-10",
+      "crawlDate": "2026-11-11",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,13 +72,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261110_003",
+      "id": "20261111_004",
       "title": "Closing the AI guidance gap in education",
       "originalTitle": "Closing the AI guidance gap in education",
       "category": "research",
       "categoryName": "科研突破",
       "publishDate": "Tue, 10 Nov 2026 09:00:00 GMT",
-      "crawlDate": "2026-11-10",
+      "crawlDate": "2026-11-11",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -72,13 +95,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261110_004",
+      "id": "20261111_005",
       "title": "Work at the Frontier: AI’s effect on freelance work",
       "originalTitle": "Work at the Frontier: AI’s effect on freelance work",
       "category": "research",
       "categoryName": "科研突破",
       "publishDate": "Tue, 10 Nov 2026 07:00:00 GMT",
-      "crawlDate": "2026-11-10",
+      "crawlDate": "2026-11-11",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -93,40 +116,17 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261110_005",
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "originalTitle": "ChatGPT Enterprise now available in AWS Marketplace",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Mon, 09 Nov 2026 19:00:00 GMT",
-      "crawlDate": "2026-11-10",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace"
-      },
-      "tags": [
-        "官方",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "ChatGPT Enterprise now available in AWS Marketplace。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
   "quickBrowse": [
     {
-      "id": "20261110_q001",
+      "id": "20261111_q001",
       "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
       "originalTitle": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Tue, 10 Nov 2026 07:56:29 +0000",
-      "crawlDate": "2026-11-10",
+      "crawlDate": "2026-11-11",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -143,13 +143,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261110_q002",
+      "id": "20261111_q002",
       "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
       "originalTitle": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 10 Nov 2026 07:33:19 +0000",
-      "crawlDate": "2026-11-10",
+      "crawlDate": "2026-11-11",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -166,13 +166,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261110_q003",
+      "id": "20261111_q003",
       "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
       "originalTitle": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Tue, 10 Nov 2026 14:00:00 +0000",
-      "crawlDate": "2026-11-10",
+      "crawlDate": "2026-11-11",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -189,13 +189,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261110_q004",
+      "id": "20261111_q004",
       "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
       "originalTitle": "The Download: Pelosi’s successor targets AI and data centers face power woes",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 10 Nov 2026 13:10:00 +0000",
-      "crawlDate": "2026-11-10",
+      "crawlDate": "2026-11-11",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -212,13 +212,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261110_q005",
+      "id": "20261111_q005",
       "title": "The backlash about data centers might really just be about electricity",
       "originalTitle": "The backlash about data centers might really just be about electricity",
       "category": "application",
       "categoryName": "应用落地",
       "publishDate": "Mon, 09 Nov 2026 19:35:33 +0000",
-      "crawlDate": "2026-11-10",
+      "crawlDate": "2026-11-11",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
