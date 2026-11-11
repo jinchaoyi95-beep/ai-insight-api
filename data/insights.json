@@ -1,6 +1,6 @@
 {
   "date": "20261111",
-  "updateTime": "2026-11-11T03:46:13.093Z",
+  "updateTime": "2026-11-11T19:18:39.624Z",
   "headlines": [
     {
       "id": "20261111_001",
@@ -27,6 +27,52 @@
     },
     {
       "id": "20261111_002",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "originalTitle": "ChatGPT Plus for veterans and servicemembers",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 11 Nov 2026 08:00:00 GMT",
+      "crawlDate": "2026-11-11",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/chatgpt-plus-for-veterans"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "ChatGPT Plus for veterans and servicemembers。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261111_003",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "originalTitle": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Wed, 11 Nov 2026 00:00:00 GMT",
+      "crawlDate": "2026-11-11",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/jiostar-vijay-seshadri"
+      },
+      "tags": [
+        "官方",
+        "应用落地"
+      ],
+      "isHeadline": true,
+      "coreInsight": "JioStar’s chief architect on AI discovery at 500M-user scale。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261111_004",
       "title": "Helping caregivers use AI in everyday life",
       "originalTitle": "Helping caregivers use AI in everyday life",
       "category": "company",
@@ -49,7 +95,32 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261111_003",
+      "id": "20261111_005",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "originalTitle": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Wed, 11 Nov 2026 05:01:16 GMT",
+      "crawlDate": "2026-11-11",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/qvac/botpsy"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    }
+  ],
+  "quickBrowse": [
+    {
+      "id": "20261111_q001",
       "title": "Introducing Businesses in ChatGPT",
       "originalTitle": "Introducing Businesses in ChatGPT",
       "category": "llm",
@@ -65,131 +136,152 @@
         "官方",
         "大语言模型"
       ],
-      "isHeadline": true,
+      "isHeadline": false,
       "coreInsight": "Introducing Businesses in ChatGPT。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261111_004",
-      "title": "Closing the AI guidance gap in education",
-      "originalTitle": "Closing the AI guidance gap in education",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Tue, 10 Nov 2026 09:00:00 GMT",
-      "crawlDate": "2026-11-11",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/closing-ai-guidance-gap-education"
-      },
-      "tags": [
-        "官方",
-        "科研突破"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Closing the AI guidance gap in education。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261111_005",
-      "title": "Work at the Frontier: AI’s effect on freelance work",
-      "originalTitle": "Work at the Frontier: AI’s effect on freelance work",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Tue, 10 Nov 2026 07:00:00 GMT",
-      "crawlDate": "2026-11-11",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/ai-effect-on-freelance-work"
-      },
-      "tags": [
-        "官方",
-        "科研突破"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Work at the Frontier: AI’s effect on freelance work。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
-    {
-      "id": "20261111_q001",
-      "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
-      "originalTitle": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Tue, 10 Nov 2026 07:56:29 +0000",
-      "crawlDate": "2026-11-11",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/508998.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
       "id": "20261111_q002",
-      "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
-      "originalTitle": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
+      "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
+      "originalTitle": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Tue, 10 Nov 2026 07:33:19 +0000",
+      "publishDate": "Wed, 11 Nov 2026 06:41:26 +0000",
       "crawlDate": "2026-11-11",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/508985.html"
+        "url": "https://www.qbitai.com/2026/11/509146.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20261111_q003",
-      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "originalTitle": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 10 Nov 2026 14:00:00 +0000",
+      "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
+      "originalTitle": "卷起来了！11月11日，大模型厂商在天猫打5折",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 11 Nov 2026 06:18:09 +0000",
       "crawlDate": "2026-11-11",
       "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/11/509085.html"
       },
       "tags": [
-        "官方",
-        "企业动态"
+        "媒体",
+        "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "卷起来了！11月11日，大模型厂商在天猫打5折。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20261111_q004",
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "originalTitle": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 11 Nov 2026 00:00:00 GMT",
+      "crawlDate": "2026-11-11",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/token-pooling"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Token Pooling-Aware Training for Multi-Vector Embedding Models。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261111_q005",
+      "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "originalTitle": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 11 Nov 2026 16:00:00 +0000",
+      "crawlDate": "2026-11-11",
+      "source": {
+        "name": "Google AI",
+        "type": "官方",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261111_q006",
+      "title": "What to know about this year’s UN climate talks",
+      "originalTitle": "What to know about this year’s UN climate talks",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 11 Nov 2026 17:00:00 +0000",
+      "crawlDate": "2026-11-11",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "What to know about this year’s UN climate talks。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261111_q007",
+      "title": "The Download: preserving minds and weighing open AI risks",
+      "originalTitle": "The Download: preserving minds and weighing open AI risks",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 11 Nov 2026 13:10:00 +0000",
+      "crawlDate": "2026-11-11",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The Download: preserving minds and weighing open AI risks。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261111_q008",
       "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
       "originalTitle": "The Download: Pelosi’s successor targets AI and data centers face power woes",
       "category": "llm",
@@ -210,32 +302,9 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261111_q005",
-      "title": "The backlash about data centers might really just be about electricity",
-      "originalTitle": "The backlash about data centers might really just be about electricity",
-      "category": "application",
-      "categoryName": "应用落地",
-      "publishDate": "Mon, 09 Nov 2026 19:35:33 +0000",
-      "crawlDate": "2026-11-11",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/"
-      },
-      "tags": [
-        "媒体",
-        "应用落地"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The backlash about data centers might really just be about electricity。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 10,
+  "total": 13,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
