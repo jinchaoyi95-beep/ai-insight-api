@@ -1,9 +1,32 @@
 {
   "date": "20261112",
-  "updateTime": "2026-11-12T04:54:33.738Z",
+  "updateTime": "2026-11-12T19:37:40.686Z",
   "headlines": [
     {
       "id": "20261112_001",
+      "title": "Supporting research on AI and children’s safety",
+      "originalTitle": "Supporting research on AI and children’s safety",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Thu, 12 Nov 2026 00:00:00 GMT",
+      "crawlDate": "2026-11-12",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/children-first-declaration"
+      },
+      "tags": [
+        "官方",
+        "科研突破"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Supporting research on AI and children’s safety。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261112_002",
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "originalTitle": "Gilbert + Tobin rethinks the business of law with AI",
       "category": "llm",
@@ -26,7 +49,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261112_002",
+      "id": "20261112_003",
       "title": "ChatGPT Plus for veterans and servicemembers",
       "originalTitle": "ChatGPT Plus for veterans and servicemembers",
       "category": "llm",
@@ -49,7 +72,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261112_003",
+      "id": "20261112_004",
       "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
       "originalTitle": "JioStar’s chief architect on AI discovery at 500M-user scale",
       "category": "application",
@@ -67,29 +90,6 @@
       ],
       "isHeadline": true,
       "coreInsight": "JioStar’s chief architect on AI discovery at 500M-user scale。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261112_004",
-      "title": "Helping caregivers use AI in everyday life",
-      "originalTitle": "Helping caregivers use AI in everyday life",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 10 Nov 2026 12:00:00 GMT",
-      "crawlDate": "2026-11-12",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Helping caregivers use AI in everyday life。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -121,52 +121,75 @@
   "quickBrowse": [
     {
       "id": "20261112_q001",
-      "title": "Introducing Businesses in ChatGPT",
-      "originalTitle": "Introducing Businesses in ChatGPT",
+      "title": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
+      "originalTitle": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Tue, 10 Nov 2026 10:00:00 GMT",
+      "publishDate": "Thu, 12 Nov 2026 10:45:33 +0000",
       "crawlDate": "2026-11-12",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/introducing-businesses-chatgpt"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/11/509404.html"
       },
       "tags": [
-        "官方",
+        "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "Introducing Businesses in ChatGPT。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "从通用大模型到学习过程智能，AI如何真正进入课堂？。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20261112_q002",
-      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-      "originalTitle": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "title": "让AI真正懂业务：璇玑如何成为企业AI的语义基础设施",
+      "originalTitle": "让AI真正懂业务：璇玑如何成为企业AI的语义基础设施",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Wed, 11 Nov 2026 00:00:00 GMT",
+      "publishDate": "Thu, 12 Nov 2026 09:34:06 +0000",
       "crawlDate": "2026-11-12",
       "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/token-pooling"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/11/509349.html"
       },
       "tags": [
-        "官方",
+        "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "Token Pooling-Aware Training for Multi-Vector Embedding Models。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "让AI真正懂业务：璇玑如何成为企业AI的语义基础设施。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20261112_q003",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "originalTitle": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 12 Nov 2026 19:07:35 GMT",
+      "crawlDate": "2026-11-12",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261112_q004",
       "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
       "originalTitle": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
       "category": "company",
@@ -189,7 +212,30 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261112_q004",
+      "id": "20261112_q005",
+      "title": "The Download: COP31’s climate challenge and the quest for immortality",
+      "originalTitle": "The Download: COP31’s climate challenge and the quest for immortality",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 12 Nov 2026 13:10:00 +0000",
+      "crawlDate": "2026-11-12",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The Download: COP31’s climate challenge and the quest for immortality。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261112_q006",
       "title": "What to know about this year’s UN climate talks",
       "originalTitle": "What to know about this year’s UN climate talks",
       "category": "llm",
@@ -212,7 +258,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261112_q005",
+      "id": "20261112_q007",
       "title": "The Download: preserving minds and weighing open AI risks",
       "originalTitle": "The Download: preserving minds and weighing open AI risks",
       "category": "llm",
@@ -233,32 +279,9 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261112_q006",
-      "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
-      "originalTitle": "The Download: Pelosi’s successor targets AI and data centers face power woes",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Tue, 10 Nov 2026 13:10:00 +0000",
-      "crawlDate": "2026-11-12",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/11/10/1148150/the-download-pelosi-successor-ai-regulation-data-center-backlash/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Download: Pelosi’s successor targets AI and data centers face power woes。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 11,
+  "total": 12,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
