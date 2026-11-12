@@ -1,15 +1,15 @@
 {
-  "date": "20261111",
-  "updateTime": "2026-11-11T19:18:39.624Z",
+  "date": "20261112",
+  "updateTime": "2026-11-12T04:54:33.738Z",
   "headlines": [
     {
-      "id": "20261111_001",
+      "id": "20261112_001",
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "originalTitle": "Gilbert + Tobin rethinks the business of law with AI",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Thu, 12 Nov 2026 00:00:00 GMT",
-      "crawlDate": "2026-11-11",
+      "crawlDate": "2026-11-12",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +26,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261111_002",
+      "id": "20261112_002",
       "title": "ChatGPT Plus for veterans and servicemembers",
       "originalTitle": "ChatGPT Plus for veterans and servicemembers",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Wed, 11 Nov 2026 08:00:00 GMT",
-      "crawlDate": "2026-11-11",
+      "crawlDate": "2026-11-12",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,13 +49,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261111_003",
+      "id": "20261112_003",
       "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
       "originalTitle": "JioStar’s chief architect on AI discovery at 500M-user scale",
       "category": "application",
       "categoryName": "应用落地",
       "publishDate": "Wed, 11 Nov 2026 00:00:00 GMT",
-      "crawlDate": "2026-11-11",
+      "crawlDate": "2026-11-12",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -72,13 +72,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261111_004",
+      "id": "20261112_004",
       "title": "Helping caregivers use AI in everyday life",
       "originalTitle": "Helping caregivers use AI in everyday life",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Tue, 10 Nov 2026 12:00:00 GMT",
-      "crawlDate": "2026-11-11",
+      "crawlDate": "2026-11-12",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -95,13 +95,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261111_005",
+      "id": "20261112_005",
       "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
       "originalTitle": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Wed, 11 Nov 2026 05:01:16 GMT",
-      "crawlDate": "2026-11-11",
+      "crawlDate": "2026-11-12",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -120,13 +120,13 @@
   ],
   "quickBrowse": [
     {
-      "id": "20261111_q001",
+      "id": "20261112_q001",
       "title": "Introducing Businesses in ChatGPT",
       "originalTitle": "Introducing Businesses in ChatGPT",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 10 Nov 2026 10:00:00 GMT",
-      "crawlDate": "2026-11-11",
+      "crawlDate": "2026-11-12",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -143,59 +143,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261111_q002",
-      "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
-      "originalTitle": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 11 Nov 2026 06:41:26 +0000",
-      "crawlDate": "2026-11-11",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/509146.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261111_q003",
-      "title": "卷起来了！11月11日，大模型厂商在天猫打5折",
-      "originalTitle": "卷起来了！11月11日，大模型厂商在天猫打5折",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 11 Nov 2026 06:18:09 +0000",
-      "crawlDate": "2026-11-11",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/509085.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "卷起来了！11月11日，大模型厂商在天猫打5折。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261111_q004",
+      "id": "20261112_q002",
       "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
       "originalTitle": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Wed, 11 Nov 2026 00:00:00 GMT",
-      "crawlDate": "2026-11-11",
+      "crawlDate": "2026-11-12",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -212,13 +166,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261111_q005",
+      "id": "20261112_q003",
       "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
       "originalTitle": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Wed, 11 Nov 2026 16:00:00 +0000",
-      "crawlDate": "2026-11-11",
+      "crawlDate": "2026-11-12",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -235,13 +189,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261111_q006",
+      "id": "20261112_q004",
       "title": "What to know about this year’s UN climate talks",
       "originalTitle": "What to know about this year’s UN climate talks",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Wed, 11 Nov 2026 17:00:00 +0000",
-      "crawlDate": "2026-11-11",
+      "crawlDate": "2026-11-12",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -258,13 +212,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261111_q007",
+      "id": "20261112_q005",
       "title": "The Download: preserving minds and weighing open AI risks",
       "originalTitle": "The Download: preserving minds and weighing open AI risks",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Wed, 11 Nov 2026 13:10:00 +0000",
-      "crawlDate": "2026-11-11",
+      "crawlDate": "2026-11-12",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -281,13 +235,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261111_q008",
+      "id": "20261112_q006",
       "title": "The Download: Pelosi’s successor targets AI and data centers face power woes",
       "originalTitle": "The Download: Pelosi’s successor targets AI and data centers face power woes",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 10 Nov 2026 13:10:00 +0000",
-      "crawlDate": "2026-11-11",
+      "crawlDate": "2026-11-12",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -304,7 +258,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 13,
+  "total": 11,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
