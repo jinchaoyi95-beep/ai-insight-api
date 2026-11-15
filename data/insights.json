@@ -1,15 +1,15 @@
 {
-  "date": "20261114",
-  "updateTime": "2026-11-14T17:43:30.429Z",
+  "date": "20261115",
+  "updateTime": "2026-11-15T03:49:39.019Z",
   "headlines": [
     {
-      "id": "20261114_001",
+      "id": "20261115_001",
       "title": "Introducing ChatGPT Wallet",
       "originalTitle": "Introducing ChatGPT Wallet",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Fri, 13 Nov 2026 15:00:00 GMT",
-      "crawlDate": "2026-11-14",
+      "crawlDate": "2026-11-15",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +26,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261114_002",
+      "id": "20261115_002",
       "title": "Shield helps technicians hand off legacy portal work with OpenAI",
       "originalTitle": "Shield helps technicians hand off legacy portal work with OpenAI",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Fri, 13 Nov 2026 08:00:00 GMT",
-      "crawlDate": "2026-11-14",
+      "crawlDate": "2026-11-15",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,13 +49,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261114_003",
+      "id": "20261115_003",
       "title": "Gondola doubles revenue as its team builds more with Codex",
       "originalTitle": "Gondola doubles revenue as its team builds more with Codex",
       "category": "devtool",
       "categoryName": "开发工具",
       "publishDate": "Thu, 12 Nov 2026 12:00:00 GMT",
-      "crawlDate": "2026-11-14",
+      "crawlDate": "2026-11-15",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -72,13 +72,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261114_004",
+      "id": "20261115_004",
       "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
       "originalTitle": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 13 Nov 2026 14:05:22 GMT",
-      "crawlDate": "2026-11-14",
+      "crawlDate": "2026-11-15",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -95,13 +95,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261114_005",
+      "id": "20261115_005",
       "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
       "originalTitle": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 13 Nov 2026 13:10:00 +0000",
-      "crawlDate": "2026-11-14",
+      "crawlDate": "2026-11-15",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -120,13 +120,13 @@
   ],
   "quickBrowse": [
     {
-      "id": "20261114_q001",
+      "id": "20261115_q001",
       "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
       "originalTitle": "How Amplitude ships product improvements in 1–2 days with OpenAI",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Thu, 12 Nov 2026 20:00:00 GMT",
-      "crawlDate": "2026-11-14",
+      "crawlDate": "2026-11-15",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -143,13 +143,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261114_q002",
+      "id": "20261115_q002",
       "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
       "originalTitle": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
       "category": "research",
       "categoryName": "科研突破",
       "publishDate": "Fri, 13 Nov 2026 10:00:00 +0000",
-      "crawlDate": "2026-11-14",
+      "crawlDate": "2026-11-15",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -166,13 +166,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261114_q003",
+      "id": "20261115_q003",
       "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
       "originalTitle": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 13 Nov 2026 10:00:00 +0000",
-      "crawlDate": "2026-11-14",
+      "crawlDate": "2026-11-15",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
