@@ -1,84 +1,178 @@
 {
-  "date": "20261115",
-  "updateTime": "2026-11-15T18:33:06.187Z",
+  "date": "20261116",
+  "updateTime": "2026-11-16T21:42:42.249Z",
   "headlines": [
     {
-      "id": "20261115_001",
-      "title": "Introducing ChatGPT Wallet",
-      "originalTitle": "Introducing ChatGPT Wallet",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Fri, 13 Nov 2026 15:00:00 GMT",
-      "crawlDate": "2026-11-15",
+      "id": "20261116_001",
+      "title": "Broadening access to AI for scientists",
+      "originalTitle": "Broadening access to AI for scientists",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Mon, 16 Nov 2026 17:00:00 GMT",
+      "crawlDate": "2026-11-16",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/introducing-chatgpt-wallet"
+        "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
       },
       "tags": [
         "官方",
-        "Agent"
+        "科研突破"
       ],
       "isHeadline": true,
-      "coreInsight": "Introducing ChatGPT Wallet。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Broadening access to AI for scientists。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261115_002",
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "originalTitle": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Fri, 13 Nov 2026 08:00:00 GMT",
-      "crawlDate": "2026-11-15",
+      "id": "20261116_002",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "originalTitle": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Mon, 16 Nov 2026 17:00:00 GMT",
+      "crawlDate": "2026-11-16",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/business/customer-stories/shield"
+        "url": "https://openai.com/index/strengthening-online-child-safety"
       },
       "tags": [
         "官方",
-        "Agent"
+        "开发工具"
       ],
       "isHeadline": true,
-      "coreInsight": "Shield helps technicians hand off legacy portal work with OpenAI。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Strengthening the fight against online child sexual abuse with new tools and support。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261115_003",
-      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "originalTitle": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "id": "20261116_003",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "originalTitle": "Science at the Frontier: How scientists use ChatGPT",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Mon, 16 Nov 2026 12:00:00 GMT",
+      "crawlDate": "2026-11-16",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/science-at-the-frontier"
+      },
+      "tags": [
+        "官方",
+        "科研突破"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Science at the Frontier: How scientists use ChatGPT。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261116_004",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "originalTitle": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 16 Nov 2026 09:00:00 GMT",
+      "crawlDate": "2026-11-16",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/lvmh-media-division-partnership"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "LVMH’s Media Division announces strategic partnership with OpenAI。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261116_005",
+      "title": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
+      "originalTitle": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Fri, 13 Nov 2026 14:05:22 GMT",
-      "crawlDate": "2026-11-15",
+      "publishDate": "Mon, 16 Nov 2026 08:45:17 +0000",
+      "crawlDate": "2026-11-16",
       "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/11/510526.html"
       },
       "tags": [
-        "官方",
+        "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    }
+  ],
+  "quickBrowse": [
+    {
+      "id": "20261116_q001",
+      "title": "Our first phase of embedded assessments",
+      "originalTitle": "Our first phase of embedded assessments",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Mon, 16 Nov 2026 08:00:00 GMT",
+      "crawlDate": "2026-11-16",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/our-first-phase-of-embedded-assessments"
+      },
+      "tags": [
+        "官方",
+        "科研突破"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Our first phase of embedded assessments。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261115_004",
+      "id": "20261116_q002",
+      "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+      "originalTitle": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 16 Nov 2026 07:51:57 +0000",
+      "crawlDate": "2026-11-16",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/11/510486.html"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261116_q003",
       "title": "Understanding Positional Embeddings in Modern LLMs",
       "originalTitle": "Understanding Positional Embeddings in Modern LLMs",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Sun, 15 Nov 2026 12:10:37 GMT",
-      "crawlDate": "2026-11-15",
+      "crawlDate": "2026-11-16",
       "source": {
         "name": "Sebastian Raschka",
         "type": "专家",
@@ -88,108 +182,83 @@
         "专家",
         "大语言模型"
       ],
-      "isHeadline": true,
+      "isHeadline": false,
       "coreInsight": "Understanding Positional Embeddings in Modern LLMs。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261115_005",
-      "title": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
-      "originalTitle": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Fri, 13 Nov 2026 10:00:00 +0000",
-      "crawlDate": "2026-11-15",
+      "id": "20261116_q004",
+      "title": "The open-source movement wants Jensen Huang back",
+      "originalTitle": "The open-source movement wants Jensen Huang back",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Mon, 16 Nov 2026 18:38:47 +0000",
+      "crawlDate": "2026-11-16",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/"
+        "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/"
       },
       "tags": [
         "媒体",
-        "科研突破"
-      ],
-      "isHeadline": true,
-      "coreInsight": "More autonomy, fewer NDAs: Volunteers have new requests for brain implant trials。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
-    {
-      "id": "20261115_q001",
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "originalTitle": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 12 Nov 2026 20:00:00 GMT",
-      "crawlDate": "2026-11-15",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/business/customer-stories/amplitude"
-      },
-      "tags": [
-        "官方",
-        "Agent"
+        "应用落地"
       ],
       "isHeadline": false,
-      "coreInsight": "How Amplitude ships product improvements in 1–2 days with OpenAI。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The open-source movement wants Jensen Huang back。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261115_q002",
-      "title": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
-      "originalTitle": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 13 Nov 2026 13:10:00 +0000",
-      "crawlDate": "2026-11-15",
+      "id": "20261116_q005",
+      "title": "Building trustworthy AI by fencing it in, not predicting it",
+      "originalTitle": "Building trustworthy AI by fencing it in, not predicting it",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Mon, 16 Nov 2026 16:04:28 +0000",
+      "crawlDate": "2026-11-16",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/"
+        "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Building trustworthy AI by fencing it in, not predicting it。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261116_q006",
+      "title": "The Download: testing tech promises and searching for cognitive immortality",
+      "originalTitle": "The Download: testing tech promises and searching for cognitive immortality",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Mon, 16 Nov 2026 13:10:00 +0000",
+      "crawlDate": "2026-11-16",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: Silicon Valley’s blind spot and Nvidia’s chip-tracking plan。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261115_q003",
-      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-      "originalTitle": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Fri, 13 Nov 2026 10:00:00 +0000",
-      "crawlDate": "2026-11-15",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/"
-      },
-      "tags": [
-        "媒体",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: testing tech promises and searching for cognitive immortality。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 8,
+  "total": 11,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
