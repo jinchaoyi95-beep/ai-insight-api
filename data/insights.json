@@ -1,15 +1,107 @@
 {
-  "date": "20261116",
-  "updateTime": "2026-11-16T21:42:42.249Z",
+  "date": "20261117",
+  "updateTime": "2026-11-17T20:31:36.171Z",
   "headlines": [
     {
-      "id": "20261116_001",
+      "id": "20261117_001",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "originalTitle": "Introducing GPT-6.2 Astra and Sol",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Tue, 17 Nov 2026 17:45:00 GMT",
+      "crawlDate": "2026-11-17",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
+      },
+      "tags": [
+        "官方",
+        "开发工具"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Introducing GPT-6.2 Astra and Sol。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261117_002",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "originalTitle": "Strengthening NATO and allied cyber defenses with AI",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 17 Nov 2026 00:00:00 GMT",
+      "crawlDate": "2026-11-17",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Strengthening NATO and allied cyber defenses with AI。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261117_003",
+      "title": "Introducing OpenAI for Chile",
+      "originalTitle": "Introducing OpenAI for Chile",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 17 Nov 2026 00:00:00 GMT",
+      "crawlDate": "2026-11-17",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/introducing-openai-for-chile"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Introducing OpenAI for Chile。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261117_004",
+      "title": "Astra for Law leads in legal intelligence",
+      "originalTitle": "Astra for Law leads in legal intelligence",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Tue, 17 Nov 2026 00:00:00 GMT",
+      "crawlDate": "2026-11-17",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/astra-law-6-2"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Astra for Law leads in legal intelligence。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261117_005",
       "title": "Broadening access to AI for scientists",
       "originalTitle": "Broadening access to AI for scientists",
       "category": "research",
       "categoryName": "科研突破",
       "publishDate": "Mon, 16 Nov 2026 17:00:00 GMT",
-      "crawlDate": "2026-11-16",
+      "crawlDate": "2026-11-17",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -24,155 +116,63 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
+    }
+  ],
+  "quickBrowse": [
     {
-      "id": "20261116_002",
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "originalTitle": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Mon, 16 Nov 2026 17:00:00 GMT",
-      "crawlDate": "2026-11-16",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/strengthening-online-child-safety"
-      },
-      "tags": [
-        "官方",
-        "开发工具"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Strengthening the fight against online child sexual abuse with new tools and support。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261116_003",
-      "title": "Science at the Frontier: How scientists use ChatGPT",
-      "originalTitle": "Science at the Frontier: How scientists use ChatGPT",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Mon, 16 Nov 2026 12:00:00 GMT",
-      "crawlDate": "2026-11-16",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/science-at-the-frontier"
-      },
-      "tags": [
-        "官方",
-        "科研突破"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Science at the Frontier: How scientists use ChatGPT。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261116_004",
-      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "originalTitle": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Mon, 16 Nov 2026 09:00:00 GMT",
-      "crawlDate": "2026-11-16",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/lvmh-media-division-partnership"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": true,
-      "coreInsight": "LVMH’s Media Division announces strategic partnership with OpenAI。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261116_005",
-      "title": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
-      "originalTitle": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
+      "id": "20261117_q001",
+      "title": "李沐加盟的Aimotion，是一家什么AI公司？",
+      "originalTitle": "李沐加盟的Aimotion，是一家什么AI公司？",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Mon, 16 Nov 2026 08:45:17 +0000",
-      "crawlDate": "2026-11-16",
+      "publishDate": "Tue, 17 Nov 2026 11:40:37 +0000",
+      "crawlDate": "2026-11-17",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/510526.html"
+        "url": "https://www.qbitai.com/2026/11/510688.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
-      "isHeadline": true,
-      "coreInsight": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
-    {
-      "id": "20261116_q001",
-      "title": "Our first phase of embedded assessments",
-      "originalTitle": "Our first phase of embedded assessments",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Mon, 16 Nov 2026 08:00:00 GMT",
-      "crawlDate": "2026-11-16",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/our-first-phase-of-embedded-assessments"
-      },
-      "tags": [
-        "官方",
-        "科研突破"
-      ],
       "isHeadline": false,
-      "coreInsight": "Our first phase of embedded assessments。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "李沐加盟的Aimotion，是一家什么AI公司？。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261116_q002",
-      "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
-      "originalTitle": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+      "id": "20261117_q002",
+      "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
+      "originalTitle": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Mon, 16 Nov 2026 07:51:57 +0000",
-      "crawlDate": "2026-11-16",
+      "publishDate": "Tue, 17 Nov 2026 06:09:40 +0000",
+      "crawlDate": "2026-11-17",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/510486.html"
+        "url": "https://www.qbitai.com/2026/11/510652.html"
       },
       "tags": [
         "媒体",
         "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261116_q003",
+      "id": "20261117_q003",
       "title": "Understanding Positional Embeddings in Modern LLMs",
       "originalTitle": "Understanding Positional Embeddings in Modern LLMs",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Sun, 15 Nov 2026 12:10:37 GMT",
-      "crawlDate": "2026-11-16",
+      "crawlDate": "2026-11-17",
       "source": {
         "name": "Sebastian Raschka",
         "type": "专家",
@@ -189,76 +189,30 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261116_q004",
-      "title": "The open-source movement wants Jensen Huang back",
-      "originalTitle": "The open-source movement wants Jensen Huang back",
-      "category": "application",
-      "categoryName": "应用落地",
-      "publishDate": "Mon, 16 Nov 2026 18:38:47 +0000",
-      "crawlDate": "2026-11-16",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/"
-      },
-      "tags": [
-        "媒体",
-        "应用落地"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The open-source movement wants Jensen Huang back。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261116_q005",
-      "title": "Building trustworthy AI by fencing it in, not predicting it",
-      "originalTitle": "Building trustworthy AI by fencing it in, not predicting it",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Mon, 16 Nov 2026 16:04:28 +0000",
-      "crawlDate": "2026-11-16",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Building trustworthy AI by fencing it in, not predicting it。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261116_q006",
-      "title": "The Download: testing tech promises and searching for cognitive immortality",
-      "originalTitle": "The Download: testing tech promises and searching for cognitive immortality",
+      "id": "20261117_q004",
+      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+      "originalTitle": "Roundtables: Inside the Quest for Cognitive Immortality",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Mon, 16 Nov 2026 13:10:00 +0000",
-      "crawlDate": "2026-11-16",
+      "publishDate": "Tue, 17 Nov 2026 18:46:47 +0000",
+      "crawlDate": "2026-11-17",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/"
+        "url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: testing tech promises and searching for cognitive immortality。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Roundtables: Inside the Quest for Cognitive Immortality。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 11,
+  "total": 9,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
