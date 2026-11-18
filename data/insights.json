@@ -1,15 +1,15 @@
 {
-  "date": "20261117",
-  "updateTime": "2026-11-17T20:31:36.171Z",
+  "date": "20261118",
+  "updateTime": "2026-11-18T05:08:11.407Z",
   "headlines": [
     {
-      "id": "20261117_001",
+      "id": "20261118_001",
       "title": "Introducing GPT-6.2 Astra and Sol",
       "originalTitle": "Introducing GPT-6.2 Astra and Sol",
       "category": "devtool",
       "categoryName": "开发工具",
       "publishDate": "Tue, 17 Nov 2026 17:45:00 GMT",
-      "crawlDate": "2026-11-17",
+      "crawlDate": "2026-11-18",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +26,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261117_002",
+      "id": "20261118_002",
       "title": "Strengthening NATO and allied cyber defenses with AI",
       "originalTitle": "Strengthening NATO and allied cyber defenses with AI",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Tue, 17 Nov 2026 00:00:00 GMT",
-      "crawlDate": "2026-11-17",
+      "crawlDate": "2026-11-18",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,36 +49,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261117_003",
-      "title": "Introducing OpenAI for Chile",
-      "originalTitle": "Introducing OpenAI for Chile",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Tue, 17 Nov 2026 00:00:00 GMT",
-      "crawlDate": "2026-11-17",
+      "id": "20261118_003",
+      "title": "Introducing ChatGPT for Sales",
+      "originalTitle": "Introducing ChatGPT for Sales",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Tue, 17 Nov 2026 08:00:00 GMT",
+      "crawlDate": "2026-11-18",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/introducing-openai-for-chile"
+        "url": "https://openai.com/index/introducing-chatgpt-for-sales"
       },
       "tags": [
         "官方",
-        "企业动态"
+        "科研突破"
       ],
       "isHeadline": true,
-      "coreInsight": "Introducing OpenAI for Chile。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Introducing ChatGPT for Sales。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261117_004",
+      "id": "20261118_004",
       "title": "Astra for Law leads in legal intelligence",
       "originalTitle": "Astra for Law leads in legal intelligence",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 17 Nov 2026 00:00:00 GMT",
-      "crawlDate": "2026-11-17",
+      "crawlDate": "2026-11-18",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -95,24 +95,24 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261117_005",
-      "title": "Broadening access to AI for scientists",
-      "originalTitle": "Broadening access to AI for scientists",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Mon, 16 Nov 2026 17:00:00 GMT",
-      "crawlDate": "2026-11-17",
+      "id": "20261118_005",
+      "title": "Introducing OpenAI for Chile",
+      "originalTitle": "Introducing OpenAI for Chile",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Tue, 17 Nov 2026 00:00:00 GMT",
+      "crawlDate": "2026-11-18",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
+        "url": "https://openai.com/index/introducing-openai-for-chile"
       },
       "tags": [
         "官方",
-        "科研突破"
+        "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "Broadening access to AI for scientists。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Introducing OpenAI for Chile。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -120,13 +120,59 @@
   ],
   "quickBrowse": [
     {
-      "id": "20261117_q001",
+      "id": "20261118_q001",
+      "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+      "originalTitle": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 18 Nov 2026 02:49:23 +0000",
+      "crawlDate": "2026-11-18",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/11/510737.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261118_q002",
+      "title": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
+      "originalTitle": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 18 Nov 2026 00:49:14 +0000",
+      "crawlDate": "2026-11-18",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/11/510707.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "GPT-6.2 Astra和Sol王炸双发！3D又危了。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261118_q003",
       "title": "李沐加盟的Aimotion，是一家什么AI公司？",
       "originalTitle": "李沐加盟的Aimotion，是一家什么AI公司？",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 17 Nov 2026 11:40:37 +0000",
-      "crawlDate": "2026-11-17",
+      "crawlDate": "2026-11-18",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -143,36 +189,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261117_q002",
-      "title": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
-      "originalTitle": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Tue, 17 Nov 2026 06:09:40 +0000",
-      "crawlDate": "2026-11-17",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/510652.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "材料科学智能体MatOS正式开源！大幅提高材料研发任务成功率。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261117_q003",
+      "id": "20261118_q004",
       "title": "Understanding Positional Embeddings in Modern LLMs",
       "originalTitle": "Understanding Positional Embeddings in Modern LLMs",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Sun, 15 Nov 2026 12:10:37 GMT",
-      "crawlDate": "2026-11-17",
+      "crawlDate": "2026-11-18",
       "source": {
         "name": "Sebastian Raschka",
         "type": "专家",
@@ -189,13 +212,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261117_q004",
+      "id": "20261118_q005",
       "title": "Roundtables: Inside the Quest for Cognitive Immortality",
       "originalTitle": "Roundtables: Inside the Quest for Cognitive Immortality",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 17 Nov 2026 18:46:47 +0000",
-      "crawlDate": "2026-11-17",
+      "crawlDate": "2026-11-18",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -212,7 +235,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 9,
+  "total": 10,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
