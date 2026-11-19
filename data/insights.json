@@ -1,15 +1,15 @@
 {
-  "date": "20261118",
-  "updateTime": "2026-11-18T20:03:52.257Z",
+  "date": "20261119",
+  "updateTime": "2026-11-19T05:01:52.008Z",
   "headlines": [
     {
-      "id": "20261118_001",
+      "id": "20261119_001",
       "title": "The Silent Consensus",
       "originalTitle": "The Silent Consensus",
       "category": "company",
       "categoryName": "企业动态",
-      "publishDate": "Wed, 18 Nov 2026 00:00:00 GMT",
-      "crawlDate": "2026-11-18",
+      "publishDate": "Wed, 18 Nov 2026 10:00:00 GMT",
+      "crawlDate": "2026-11-19",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,93 +26,93 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261118_002",
-      "title": "Advancing chip design with OpenAI models",
-      "originalTitle": "Advancing chip design with OpenAI models",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Wed, 18 Nov 2026 00:00:00 GMT",
-      "crawlDate": "2026-11-18",
+      "id": "20261119_002",
+      "title": "Research acceleration: The jagged frontier",
+      "originalTitle": "Research acceleration: The jagged frontier",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Wed, 18 Nov 2026 08:00:00 GMT",
+      "crawlDate": "2026-11-19",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/advancing-chip-design-with-our-models"
+        "url": "https://openai.com/index/research-acceleration-jagged-frontier"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Research acceleration: The jagged frontier。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261119_003",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "originalTitle": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Wed, 18 Nov 2026 08:00:00 GMT",
+      "crawlDate": "2026-11-19",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/business/customer-stories/sumitomo-life"
+      },
+      "tags": [
+        "官方",
+        "科研突破"
+      ],
+      "isHeadline": true,
+      "coreInsight": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261119_004",
+      "title": "Managing frontier AI risk: From training to deployment",
+      "originalTitle": "Managing frontier AI risk: From training to deployment",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Wed, 18 Nov 2026 06:00:00 GMT",
+      "crawlDate": "2026-11-19",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/managing-frontier-ai-risk"
       },
       "tags": [
         "官方",
         "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "Advancing chip design with OpenAI models。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Managing frontier AI risk: From training to deployment。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261118_003",
-      "title": "Introducing GPT-6.2 Astra and Sol",
-      "originalTitle": "Introducing GPT-6.2 Astra and Sol",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Tue, 17 Nov 2026 17:45:00 GMT",
-      "crawlDate": "2026-11-18",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
-      },
-      "tags": [
-        "官方",
-        "开发工具"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Introducing GPT-6.2 Astra and Sol。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261118_004",
-      "title": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
-      "originalTitle": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
+      "id": "20261119_005",
+      "title": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
+      "originalTitle": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Wed, 18 Nov 2026 07:24:50 +0000",
-      "crawlDate": "2026-11-18",
+      "publishDate": "Thu, 19 Nov 2026 04:02:39 +0000",
+      "crawlDate": "2026-11-19",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/510916.html"
+        "url": "https://www.qbitai.com/2026/11/511079.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261118_005",
-      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-      "originalTitle": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 18 Nov 2026 19:54:56 GMT",
-      "crawlDate": "2026-11-18",
-      "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"
-      },
-      "tags": [
-        "官方",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "安谋科技深度解析Arm Cortex-M42，发布“星辰100e”AIoT原型平台，助力打造AI性能更强的嵌入式设计。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -120,36 +120,36 @@
   ],
   "quickBrowse": [
     {
-      "id": "20261118_q001",
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "originalTitle": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Wed, 18 Nov 2026 00:00:00 GMT",
-      "crawlDate": "2026-11-18",
+      "id": "20261119_q001",
+      "title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+      "originalTitle": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 19 Nov 2026 00:26:40 +0000",
+      "crawlDate": "2026-11-19",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/11/510947.html"
       },
       "tags": [
-        "官方",
-        "企业动态"
+        "媒体",
+        "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261118_q002",
+      "id": "20261119_q002",
       "title": "GPT-6.2难产！OpenAI怕了",
       "originalTitle": "GPT-6.2难产！OpenAI怕了",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Wed, 18 Nov 2026 07:53:29 +0000",
-      "crawlDate": "2026-11-18",
+      "crawlDate": "2026-11-19",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -166,13 +166,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261118_q003",
+      "id": "20261119_q003",
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "originalTitle": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Wed, 18 Nov 2026 19:54:56 GMT",
+      "crawlDate": "2026-11-19",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"
+      },
+      "tags": [
+        "官方",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261119_q004",
       "title": "The Gemini app is now available on lower-memory Android devices.",
       "originalTitle": "The Gemini app is now available on lower-memory Android devices.",
       "category": "image-video",
       "categoryName": "AI绘画/视频",
       "publishDate": "Wed, 18 Nov 2026 17:00:00 +0000",
-      "crawlDate": "2026-11-18",
+      "crawlDate": "2026-11-19",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -189,13 +212,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261118_q004",
+      "id": "20261119_q005",
       "title": "The AI Hype Index: AI is everywhere",
       "originalTitle": "The AI Hype Index: AI is everywhere",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Wed, 18 Nov 2026 14:42:44 +0000",
-      "crawlDate": "2026-11-18",
+      "crawlDate": "2026-11-19",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -212,13 +235,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261118_q005",
+      "id": "20261119_q006",
       "title": "The Download: AI learns to smell and hydropower struggles",
       "originalTitle": "The Download: AI learns to smell and hydropower struggles",
       "category": "research",
       "categoryName": "科研突破",
       "publishDate": "Wed, 18 Nov 2026 13:10:00 +0000",
-      "crawlDate": "2026-11-18",
+      "crawlDate": "2026-11-19",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -235,13 +258,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261118_q006",
+      "id": "20261119_q007",
       "title": "This smell startup says its AI nose is as good as a human’s",
       "originalTitle": "This smell startup says its AI nose is as good as a human’s",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Wed, 18 Nov 2026 10:20:30 +0000",
-      "crawlDate": "2026-11-18",
+      "crawlDate": "2026-11-19",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -258,7 +281,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 11,
+  "total": 12,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
