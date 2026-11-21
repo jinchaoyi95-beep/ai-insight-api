@@ -1,15 +1,15 @@
 {
-  "date": "20261120",
-  "updateTime": "2026-11-20T19:40:40.416Z",
+  "date": "20261121",
+  "updateTime": "2026-11-21T04:48:04.725Z",
   "headlines": [
     {
-      "id": "20261120_001",
+      "id": "20261121_001",
       "title": "Combatting adversarial distillation",
       "originalTitle": "Combatting adversarial distillation",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Fri, 20 Nov 2026 10:00:00 GMT",
-      "crawlDate": "2026-11-20",
+      "crawlDate": "2026-11-21",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +26,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261120_002",
+      "id": "20261121_002",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "originalTitle": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Fri, 20 Nov 2026 00:00:00 GMT",
+      "crawlDate": "2026-11-21",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/business/customer-stories/hebbia"
+      },
+      "tags": [
+        "官方",
+        "科研突破"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Hebbia sees improvements in financial research with GPT-6 Astra。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261121_003",
       "title": "Can AI help scientists identify promising drug candidates?",
       "originalTitle": "Can AI help scientists identify promising drug candidates?",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 20 Nov 2026 00:00:00 GMT",
-      "crawlDate": "2026-11-20",
+      "crawlDate": "2026-11-21",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,13 +72,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261120_003",
+      "id": "20261121_004",
       "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
       "originalTitle": "How OpenAI’s Performance Factory keeps ChatGPT fast",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Thu, 19 Nov 2026 08:00:00 GMT",
-      "crawlDate": "2026-11-20",
+      "crawlDate": "2026-11-21",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -72,13 +95,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261120_004",
+      "id": "20261121_005",
       "title": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
       "originalTitle": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Fri, 20 Nov 2026 05:24:11 +0000",
-      "crawlDate": "2026-11-20",
+      "crawlDate": "2026-11-21",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -93,15 +116,17 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
+    }
+  ],
+  "quickBrowse": [
     {
-      "id": "20261120_005",
+      "id": "20261121_q001",
       "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
       "originalTitle": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Wed, 18 Nov 2026 19:54:56 GMT",
-      "crawlDate": "2026-11-20",
+      "crawlDate": "2026-11-21",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -111,22 +136,20 @@
         "官方",
         "大语言模型"
       ],
-      "isHeadline": true,
+      "isHeadline": false,
       "coreInsight": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
+    },
     {
-      "id": "20261120_q001",
+      "id": "20261121_q002",
       "title": "Introducing Tool Retrieval in the Gemini API",
       "originalTitle": "Introducing Tool Retrieval in the Gemini API",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Thu, 19 Nov 2026 18:00:00 +0000",
-      "crawlDate": "2026-11-20",
+      "crawlDate": "2026-11-21",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -143,13 +166,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261120_q002",
+      "id": "20261121_q003",
       "title": "Walter Isaacson on curiosity and creativity in the AI age.",
       "originalTitle": "Walter Isaacson on curiosity and creativity in the AI age.",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Thu, 19 Nov 2026 17:00:00 +0000",
-      "crawlDate": "2026-11-20",
+      "crawlDate": "2026-11-21",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -166,13 +189,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261120_q003",
+      "id": "20261121_q004",
       "title": "The Gemini app is now available on lower-memory Android devices.",
       "originalTitle": "The Gemini app is now available on lower-memory Android devices.",
       "category": "image-video",
       "categoryName": "AI绘画/视频",
       "publishDate": "Wed, 18 Nov 2026 17:00:00 +0000",
-      "crawlDate": "2026-11-20",
+      "crawlDate": "2026-11-21",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -189,13 +212,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261120_q004",
+      "id": "20261121_q005",
       "title": "The most misunderstood graph in AI just got a major update",
       "originalTitle": "The most misunderstood graph in AI just got a major update",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 20 Nov 2026 18:15:15 +0000",
-      "crawlDate": "2026-11-20",
+      "crawlDate": "2026-11-21",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -212,13 +235,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261120_q005",
+      "id": "20261121_q006",
       "title": "The Download: inside the quest to make our minds immortal",
       "originalTitle": "The Download: inside the quest to make our minds immortal",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Fri, 20 Nov 2026 13:10:00 +0000",
-      "crawlDate": "2026-11-20",
+      "crawlDate": "2026-11-21",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -235,13 +258,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261120_q006",
+      "id": "20261121_q007",
       "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
       "originalTitle": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
       "category": "research",
       "categoryName": "科研突破",
       "publishDate": "Thu, 19 Nov 2026 13:10:00 +0000",
-      "crawlDate": "2026-11-20",
+      "crawlDate": "2026-11-21",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -258,7 +281,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 11,
+  "total": 12,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
