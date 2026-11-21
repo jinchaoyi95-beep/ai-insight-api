@@ -1,6 +1,6 @@
 {
   "date": "20261121",
-  "updateTime": "2026-11-21T04:48:04.725Z",
+  "updateTime": "2026-11-21T18:46:33.109Z",
   "headlines": [
     {
       "id": "20261121_001",
@@ -96,23 +96,23 @@
     },
     {
       "id": "20261121_005",
-      "title": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
-      "originalTitle": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Fri, 20 Nov 2026 05:24:11 +0000",
+      "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+      "originalTitle": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Sat, 21 Nov 2026 06:35:59 +0000",
       "crawlDate": "2026-11-21",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/511582.html"
+        "url": "https://www.qbitai.com/2026/11/511779.html"
       },
       "tags": [
         "媒体",
-        "Agent"
+        "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -121,6 +121,52 @@
   "quickBrowse": [
     {
       "id": "20261121_q001",
+      "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+      "originalTitle": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Sat, 21 Nov 2026 06:32:31 +0000",
+      "crawlDate": "2026-11-21",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/11/511570.html"
+      },
+      "tags": [
+        "媒体",
+        "Agent"
+      ],
+      "isHeadline": false,
+      "coreInsight": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261121_q002",
+      "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
+      "originalTitle": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 20 Nov 2026 16:07:39 +0000",
+      "crawlDate": "2026-11-21",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/11/511727.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261121_q003",
       "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
       "originalTitle": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
       "category": "llm",
@@ -143,7 +189,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261121_q002",
+      "id": "20261121_q004",
       "title": "Introducing Tool Retrieval in the Gemini API",
       "originalTitle": "Introducing Tool Retrieval in the Gemini API",
       "category": "agent",
@@ -166,7 +212,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261121_q003",
+      "id": "20261121_q005",
       "title": "Walter Isaacson on curiosity and creativity in the AI age.",
       "originalTitle": "Walter Isaacson on curiosity and creativity in the AI age.",
       "category": "company",
@@ -189,30 +235,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261121_q004",
-      "title": "The Gemini app is now available on lower-memory Android devices.",
-      "originalTitle": "The Gemini app is now available on lower-memory Android devices.",
-      "category": "image-video",
-      "categoryName": "AI绘画/视频",
-      "publishDate": "Wed, 18 Nov 2026 17:00:00 +0000",
-      "crawlDate": "2026-11-21",
-      "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/"
-      },
-      "tags": [
-        "官方",
-        "AI绘画/视频"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Gemini app is now available on lower-memory Android devices.。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261121_q005",
+      "id": "20261121_q006",
       "title": "The most misunderstood graph in AI just got a major update",
       "originalTitle": "The most misunderstood graph in AI just got a major update",
       "category": "llm",
@@ -235,7 +258,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261121_q006",
+      "id": "20261121_q007",
       "title": "The Download: inside the quest to make our minds immortal",
       "originalTitle": "The Download: inside the quest to make our minds immortal",
       "category": "llm",
@@ -258,7 +281,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261121_q007",
+      "id": "20261121_q008",
       "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
       "originalTitle": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
       "category": "research",
@@ -281,7 +304,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 12,
+  "total": 13,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
