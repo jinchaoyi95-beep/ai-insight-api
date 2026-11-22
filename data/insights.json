@@ -1,9 +1,32 @@
 {
   "date": "20261122",
-  "updateTime": "2026-11-22T04:03:06.768Z",
+  "updateTime": "2026-11-22T19:08:46.763Z",
   "headlines": [
     {
       "id": "20261122_001",
+      "title": "Perplexity and Intelligence",
+      "originalTitle": "Perplexity and Intelligence",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Sun, 22 Nov 2026 00:00:00 GMT",
+      "crawlDate": "2026-11-22",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/perplexity-and-intelligence"
+      },
+      "tags": [
+        "官方",
+        "开发工具"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Perplexity and Intelligence。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261122_002",
       "title": "Combatting adversarial distillation",
       "originalTitle": "Combatting adversarial distillation",
       "category": "company",
@@ -26,7 +49,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261122_002",
+      "id": "20261122_003",
       "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
       "originalTitle": "Hebbia sees improvements in financial research with GPT-6 Astra",
       "category": "research",
@@ -49,7 +72,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261122_003",
+      "id": "20261122_004",
       "title": "Can AI help scientists identify promising drug candidates?",
       "originalTitle": "Can AI help scientists identify promising drug candidates?",
       "category": "llm",
@@ -72,30 +95,32 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261122_004",
-      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "originalTitle": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Thu, 19 Nov 2026 08:00:00 GMT",
+      "id": "20261122_005",
+      "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
+      "originalTitle": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Sun, 22 Nov 2026 06:03:54 +0000",
       "crawlDate": "2026-11-22",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/11/511870.html"
       },
       "tags": [
-        "官方",
-        "企业动态"
+        "媒体",
+        "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "How OpenAI’s Performance Factory keeps ChatGPT fast。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
+    }
+  ],
+  "quickBrowse": [
     {
-      "id": "20261122_005",
+      "id": "20261122_q001",
       "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
       "originalTitle": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
       "category": "llm",
@@ -111,16 +136,14 @@
         "媒体",
         "大语言模型"
       ],
-      "isHeadline": true,
+      "isHeadline": false,
       "coreInsight": "AI给乐队现场搓MV，这是黑客松还是音乐节啊。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
+    },
     {
-      "id": "20261122_q001",
+      "id": "20261122_q002",
       "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
       "originalTitle": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
       "category": "agent",
@@ -143,76 +166,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261122_q002",
-      "title": "反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢",
-      "originalTitle": "反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Sat, 21 Nov 2026 11:24:29 +0000",
-      "crawlDate": "2026-11-22",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/511791.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "反超Gemini之后，Karpo新作再开源，浏览器Agent速效双赢。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
       "id": "20261122_q003",
-      "title": "Introducing Tool Retrieval in the Gemini API",
-      "originalTitle": "Introducing Tool Retrieval in the Gemini API",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 19 Nov 2026 18:00:00 +0000",
-      "crawlDate": "2026-11-22",
-      "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Introducing Tool Retrieval in the Gemini API。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261122_q004",
-      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-      "originalTitle": "Walter Isaacson on curiosity and creativity in the AI age.",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Thu, 19 Nov 2026 17:00:00 +0000",
-      "crawlDate": "2026-11-22",
-      "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "Walter Isaacson on curiosity and creativity in the AI age.。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261122_q005",
       "title": "The most misunderstood graph in AI just got a major update",
       "originalTitle": "The most misunderstood graph in AI just got a major update",
       "category": "llm",
@@ -235,7 +189,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261122_q006",
+      "id": "20261122_q004",
       "title": "The Download: inside the quest to make our minds immortal",
       "originalTitle": "The Download: inside the quest to make our minds immortal",
       "category": "llm",
@@ -256,32 +210,9 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261122_q007",
-      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
-      "originalTitle": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Thu, 19 Nov 2026 13:10:00 +0000",
-      "crawlDate": "2026-11-22",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/"
-      },
-      "tags": [
-        "媒体",
-        "科研突破"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Download: a living liver, a billion-dollar battery deal, and AI hype。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 12,
+  "total": 9,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
