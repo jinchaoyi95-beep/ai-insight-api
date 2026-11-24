@@ -1,118 +1,118 @@
 {
-  "date": "20261123",
-  "updateTime": "2026-11-23T04:45:23.825Z",
+  "date": "20261124",
+  "updateTime": "2026-11-24T21:59:04.011Z",
   "headlines": [
     {
-      "id": "20261123_001",
-      "title": "Perplexity and Intelligence",
-      "originalTitle": "Perplexity and Intelligence",
+      "id": "20261124_001",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "originalTitle": "GPT-6 models demonstrate intrinsic protein-design capabilities",
       "category": "devtool",
       "categoryName": "开发工具",
-      "publishDate": "Sun, 22 Nov 2026 00:00:00 GMT",
-      "crawlDate": "2026-11-23",
+      "publishDate": "Tue, 24 Nov 2026 13:00:00 GMT",
+      "crawlDate": "2026-11-24",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/perplexity-and-intelligence"
+        "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
       },
       "tags": [
         "官方",
         "开发工具"
       ],
       "isHeadline": true,
-      "coreInsight": "Perplexity and Intelligence。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "GPT-6 models demonstrate intrinsic protein-design capabilities。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261123_002",
-      "title": "Combatting adversarial distillation",
-      "originalTitle": "Combatting adversarial distillation",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Fri, 20 Nov 2026 10:00:00 GMT",
-      "crawlDate": "2026-11-23",
+      "id": "20261124_002",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "originalTitle": "How iFood scales coding agents across 15,000 repositories",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Tue, 24 Nov 2026 00:00:00 GMT",
+      "crawlDate": "2026-11-24",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/combatting-adversarial-distillation"
+        "url": "https://openai.com/business/customer-stories/ifood"
+      },
+      "tags": [
+        "官方",
+        "Agent"
+      ],
+      "isHeadline": true,
+      "coreInsight": "How iFood scales coding agents across 15,000 repositories。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261124_003",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "originalTitle": "OpenAI and Cisco introduce Shirudo",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 23 Nov 2026 21:20:00 GMT",
+      "crawlDate": "2026-11-24",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/index/introducing-shirudo"
       },
       "tags": [
         "官方",
         "企业动态"
       ],
       "isHeadline": true,
-      "coreInsight": "Combatting adversarial distillation。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "OpenAI and Cisco introduce Shirudo。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261123_003",
-      "title": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
-      "originalTitle": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿",
+      "id": "20261124_004",
+      "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
+      "originalTitle": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Sun, 22 Nov 2026 06:03:54 +0000",
-      "crawlDate": "2026-11-23",
+      "publishDate": "Tue, 24 Nov 2026 06:35:06 +0000",
+      "crawlDate": "2026-11-24",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/511870.html"
+        "url": "https://www.qbitai.com/2026/11/512362.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "A社数学家用Claude又证明另一千禧难题，逼出一份写了12年的940页纯人类手稿。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261123_004",
-      "title": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
-      "originalTitle": "AI给乐队现场搓MV，这是黑客松还是音乐节啊",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Sat, 21 Nov 2026 14:14:09 +0000",
-      "crawlDate": "2026-11-23",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/511855.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "AI给乐队现场搓MV，这是黑客松还是音乐节啊。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261123_005",
-      "title": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
-      "originalTitle": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准",
+      "id": "20261124_005",
+      "title": "How to build and maintain an agentic evaluation",
+      "originalTitle": "How to build and maintain an agentic evaluation",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Sat, 21 Nov 2026 11:40:11 +0000",
-      "crawlDate": "2026-11-23",
+      "publishDate": "Mon, 23 Nov 2026 00:00:00 GMT",
+      "crawlDate": "2026-11-24",
       "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/511841.html"
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/agentic-evals"
       },
       "tags": [
-        "媒体",
+        "官方",
         "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "8万条群聊消息做成考卷：腾讯元宝×KCL发布首个基于群聊构建的Agent记忆基准。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "How to build and maintain an agentic evaluation。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -120,53 +120,99 @@
   ],
   "quickBrowse": [
     {
-      "id": "20261123_q001",
-      "title": "The most misunderstood graph in AI just got a major update",
-      "originalTitle": "The most misunderstood graph in AI just got a major update",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 20 Nov 2026 18:15:15 +0000",
-      "crawlDate": "2026-11-23",
+      "id": "20261124_q001",
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "originalTitle": "A more tailored Google Search that’s uniquely yours",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 23 Nov 2026 17:00:00 +0000",
+      "crawlDate": "2026-11-24",
       "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
+        "name": "Google AI",
+        "type": "官方",
+        "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
       },
       "tags": [
-        "媒体",
-        "大语言模型"
+        "官方",
+        "企业动态"
       ],
       "isHeadline": false,
-      "coreInsight": "The most misunderstood graph in AI just got a major update。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "A more tailored Google Search that’s uniquely yours。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261123_q002",
-      "title": "The Download: inside the quest to make our minds immortal",
-      "originalTitle": "The Download: inside the quest to make our minds immortal",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 20 Nov 2026 13:10:00 +0000",
-      "crawlDate": "2026-11-23",
+      "id": "20261124_q002",
+      "title": "Raising the stakes for enterprise networks with AI modernization",
+      "originalTitle": "Raising the stakes for enterprise networks with AI modernization",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Tue, 24 Nov 2026 15:15:16 +0000",
+      "crawlDate": "2026-11-24",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/"
+        "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: inside the quest to make our minds immortal。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Raising the stakes for enterprise networks with AI modernization。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261124_q003",
+      "title": "The Download: AI’s gas power boom and a consciousness reality check",
+      "originalTitle": "The Download: AI’s gas power boom and a consciousness reality check",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Tue, 24 Nov 2026 13:10:00 +0000",
+      "crawlDate": "2026-11-24",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/"
+      },
+      "tags": [
+        "媒体",
+        "应用落地"
+      ],
+      "isHeadline": false,
+      "coreInsight": "The Download: AI’s gas power boom and a consciousness reality check。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261124_q004",
+      "title": "Data centers are getting their own natural gas power plants",
+      "originalTitle": "Data centers are getting their own natural gas power plants",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Tue, 24 Nov 2026 11:00:00 +0000",
+      "crawlDate": "2026-11-24",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/"
+      },
+      "tags": [
+        "媒体",
+        "开发工具"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Data centers are getting their own natural gas power plants。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 7,
+  "total": 9,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
