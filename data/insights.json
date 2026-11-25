@@ -1,15 +1,15 @@
 {
-  "date": "20261124",
-  "updateTime": "2026-11-24T21:59:04.011Z",
+  "date": "20261125",
+  "updateTime": "2026-11-25T06:04:55.748Z",
   "headlines": [
     {
-      "id": "20261124_001",
+      "id": "20261125_001",
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
       "originalTitle": "GPT-6 models demonstrate intrinsic protein-design capabilities",
       "category": "devtool",
       "categoryName": "开发工具",
       "publishDate": "Tue, 24 Nov 2026 13:00:00 GMT",
-      "crawlDate": "2026-11-24",
+      "crawlDate": "2026-11-25",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,13 +26,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261124_002",
+      "id": "20261125_002",
       "title": "How iFood scales coding agents across 15,000 repositories",
       "originalTitle": "How iFood scales coding agents across 15,000 repositories",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Tue, 24 Nov 2026 00:00:00 GMT",
-      "crawlDate": "2026-11-24",
+      "crawlDate": "2026-11-25",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -49,36 +49,36 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261124_003",
-      "title": "OpenAI and Cisco introduce Shirudo",
-      "originalTitle": "OpenAI and Cisco introduce Shirudo",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Mon, 23 Nov 2026 21:20:00 GMT",
-      "crawlDate": "2026-11-24",
+      "id": "20261125_003",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "originalTitle": "Clay helps sales teams win with Codex and ChatGPT",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Tue, 24 Nov 2026 00:00:00 GMT",
+      "crawlDate": "2026-11-25",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://openai.com/index/introducing-shirudo"
+        "url": "https://openai.com/business/customer-stories/clay-plugins-openai"
       },
       "tags": [
         "官方",
-        "企业动态"
+        "科研突破"
       ],
       "isHeadline": true,
-      "coreInsight": "OpenAI and Cisco introduce Shirudo。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Clay helps sales teams win with Codex and ChatGPT。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261124_004",
+      "id": "20261125_004",
       "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
       "originalTitle": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Tue, 24 Nov 2026 06:35:06 +0000",
-      "crawlDate": "2026-11-24",
+      "crawlDate": "2026-11-25",
       "source": {
         "name": "量子位",
         "type": "媒体",
@@ -95,13 +95,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261124_005",
+      "id": "20261125_005",
       "title": "How to build and maintain an agentic evaluation",
       "originalTitle": "How to build and maintain an agentic evaluation",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Mon, 23 Nov 2026 00:00:00 GMT",
-      "crawlDate": "2026-11-24",
+      "crawlDate": "2026-11-25",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -120,13 +120,13 @@
   ],
   "quickBrowse": [
     {
-      "id": "20261124_q001",
+      "id": "20261125_q001",
       "title": "A more tailored Google Search that’s uniquely yours",
       "originalTitle": "A more tailored Google Search that’s uniquely yours",
       "category": "company",
       "categoryName": "企业动态",
       "publishDate": "Mon, 23 Nov 2026 17:00:00 +0000",
-      "crawlDate": "2026-11-24",
+      "crawlDate": "2026-11-25",
       "source": {
         "name": "Google AI",
         "type": "官方",
@@ -143,13 +143,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261124_q002",
+      "id": "20261125_q002",
       "title": "Raising the stakes for enterprise networks with AI modernization",
       "originalTitle": "Raising the stakes for enterprise networks with AI modernization",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Tue, 24 Nov 2026 15:15:16 +0000",
-      "crawlDate": "2026-11-24",
+      "crawlDate": "2026-11-25",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -166,13 +166,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261124_q003",
+      "id": "20261125_q003",
       "title": "The Download: AI’s gas power boom and a consciousness reality check",
       "originalTitle": "The Download: AI’s gas power boom and a consciousness reality check",
       "category": "application",
       "categoryName": "应用落地",
       "publishDate": "Tue, 24 Nov 2026 13:10:00 +0000",
-      "crawlDate": "2026-11-24",
+      "crawlDate": "2026-11-25",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -189,13 +189,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261124_q004",
+      "id": "20261125_q004",
       "title": "Data centers are getting their own natural gas power plants",
       "originalTitle": "Data centers are getting their own natural gas power plants",
       "category": "devtool",
       "categoryName": "开发工具",
       "publishDate": "Tue, 24 Nov 2026 11:00:00 +0000",
-      "crawlDate": "2026-11-24",
+      "crawlDate": "2026-11-25",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
