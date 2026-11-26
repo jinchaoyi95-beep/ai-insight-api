@@ -1,6 +1,6 @@
 {
   "date": "20261126",
-  "updateTime": "2026-11-26T05:57:49.319Z",
+  "updateTime": "2026-11-26T21:00:31.370Z",
   "headlines": [
     {
       "id": "20261126_001",
@@ -73,46 +73,46 @@
     },
     {
       "id": "20261126_004",
-      "title": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
-      "originalTitle": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 26 Nov 2026 03:23:35 +0000",
+      "title": "381个AI直播冲刺证明P=NP！把GitHub干崩了",
+      "originalTitle": "381个AI直播冲刺证明P=NP！把GitHub干崩了",
+      "category": "devtool",
+      "categoryName": "开发工具",
+      "publishDate": "Thu, 26 Nov 2026 13:56:01 +0000",
       "crawlDate": "2026-11-26",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/512897.html"
+        "url": "https://www.qbitai.com/2026/11/513021.html"
       },
       "tags": [
         "媒体",
-        "大语言模型"
+        "开发工具"
       ],
       "isHeadline": true,
-      "coreInsight": "任少卿带着世界模型3.0来了！蔚来智驾训练提效5倍，座舱也用上强化学习。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "381个AI直播冲刺证明P=NP！把GitHub干崩了。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20261126_005",
-      "title": "沈向洋刚讲了好多AI非共识啊",
-      "originalTitle": "沈向洋刚讲了好多AI非共识啊",
+      "title": "AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用",
+      "originalTitle": "AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Thu, 26 Nov 2026 03:13:16 +0000",
+      "publishDate": "Thu, 26 Nov 2026 12:39:08 +0000",
       "crawlDate": "2026-11-26",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/512840.html"
+        "url": "https://www.qbitai.com/2026/11/512981.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "沈向洋刚讲了好多AI非共识啊。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -121,121 +121,75 @@
   "quickBrowse": [
     {
       "id": "20261126_q001",
-      "title": "AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了",
-      "originalTitle": "AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了",
+      "title": "报名最后2天｜AI浪潮之中，来认识创造未来的人",
+      "originalTitle": "报名最后2天｜AI浪潮之中，来认识创造未来的人",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Thu, 26 Nov 2026 02:53:14 +0000",
+      "publishDate": "Thu, 26 Nov 2026 07:36:04 +0000",
       "crawlDate": "2026-11-26",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/512828.html"
+        "url": "https://www.qbitai.com/2026/11/512942.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "报名最后2天｜AI浪潮之中，来认识创造未来的人。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20261126_q002",
-      "title": "我以为这是摄影作品，你告诉我这是最新的国产AI？！",
-      "originalTitle": "我以为这是摄影作品，你告诉我这是最新的国产AI？！",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 25 Nov 2026 16:34:09 +0000",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "originalTitle": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Thu, 26 Nov 2026 00:00:00 GMT",
       "crawlDate": "2026-11-26",
       "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/512748.html"
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/training-swarms"
       },
       "tags": [
-        "媒体",
-        "大语言模型"
+        "官方",
+        "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "我以为这是摄影作品，你告诉我这是最新的国产AI？！。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20261126_q003",
-      "title": "Where scientists draw the line on AI agents",
-      "originalTitle": "Where scientists draw the line on AI agents",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Wed, 25 Nov 2026 18:52:55 GMT",
+      "title": "The Download: Better bionic hands and AI’s natural-gas boom",
+      "originalTitle": "The Download: Better bionic hands and AI’s natural-gas boom",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Thu, 26 Nov 2026 13:10:00 +0000",
       "crawlDate": "2026-11-26",
       "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents"
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/"
       },
       "tags": [
-        "官方",
-        "Agent"
+        "媒体",
+        "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "Where scientists draw the line on AI agents。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: Better bionic hands and AI’s natural-gas boom。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20261126_q004",
-      "title": "An Indic Voice Agent with CUGA",
-      "originalTitle": "An Indic Voice Agent with CUGA",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Wed, 25 Nov 2026 10:22:09 GMT",
-      "crawlDate": "2026-11-26",
-      "source": {
-        "name": "Hugging Face",
-        "type": "官方",
-        "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga"
-      },
-      "tags": [
-        "官方",
-        "Agent"
-      ],
-      "isHeadline": false,
-      "coreInsight": "An Indic Voice Agent with CUGA。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261126_q005",
-      "title": "A more tailored Google Search that’s uniquely yours",
-      "originalTitle": "A more tailored Google Search that’s uniquely yours",
-      "category": "company",
-      "categoryName": "企业动态",
-      "publishDate": "Mon, 23 Nov 2026 17:00:00 +0000",
-      "crawlDate": "2026-11-26",
-      "source": {
-        "name": "Google AI",
-        "type": "官方",
-        "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
-      },
-      "tags": [
-        "官方",
-        "企业动态"
-      ],
-      "isHeadline": false,
-      "coreInsight": "A more tailored Google Search that’s uniquely yours。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261126_q006",
       "title": "How data centers are driving a US natural-gas boom",
       "originalTitle": "How data centers are driving a US natural-gas boom",
       "category": "llm",
@@ -256,55 +210,9 @@
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261126_q007",
-      "title": "The Download: AI swamping open records, and firefighting for permafrost",
-      "originalTitle": "The Download: AI swamping open records, and firefighting for permafrost",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 25 Nov 2026 13:10:00 +0000",
-      "crawlDate": "2026-11-26",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "The Download: AI swamping open records, and firefighting for permafrost。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261126_q008",
-      "title": "AI is straining America’s open records systems",
-      "originalTitle": "AI is straining America’s open records systems",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Wed, 25 Nov 2026 10:00:00 +0000",
-      "crawlDate": "2026-11-26",
-      "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "AI is straining America’s open records systems。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 13,
+  "total": 9,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
