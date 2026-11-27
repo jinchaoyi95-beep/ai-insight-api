@@ -1,6 +1,6 @@
 {
   "date": "20261127",
-  "updateTime": "2026-11-27T05:51:37.765Z",
+  "updateTime": "2026-11-27T20:45:54.229Z",
   "headlines": [
     {
       "id": "20261127_001",
@@ -27,92 +27,92 @@
     },
     {
       "id": "20261127_002",
-      "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
-      "originalTitle": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "originalTitle": "How iFood scales coding agents across 15,000 repositories",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Fri, 27 Nov 2026 03:53:49 +0000",
+      "publishDate": "Tue, 24 Nov 2026 00:00:00 GMT",
       "crawlDate": "2026-11-27",
       "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/513163.html"
-      },
-      "tags": [
-        "媒体",
-        "Agent"
-      ],
-      "isHeadline": true,
-      "coreInsight": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261127_003",
-      "title": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
-      "originalTitle": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 27 Nov 2026 03:33:11 +0000",
-      "crawlDate": "2026-11-27",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/513125.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "具身公司抱团回应：通用大模型跨维打击？没那么简单。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261127_004",
-      "title": "第三批嘉宾来袭！速戳报名MEET2027，驭见AI新共识！",
-      "originalTitle": "第三批嘉宾来袭！速戳报名MEET2027，驭见AI新共识！",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Fri, 27 Nov 2026 02:56:03 +0000",
-      "crawlDate": "2026-11-27",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/513091.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": true,
-      "coreInsight": "第三批嘉宾来袭！速戳报名MEET2027，驭见AI新共识！。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261127_005",
-      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
-      "originalTitle": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
-      "category": "agent",
-      "categoryName": "Agent",
-      "publishDate": "Thu, 26 Nov 2026 00:00:00 GMT",
-      "crawlDate": "2026-11-27",
-      "source": {
-        "name": "Hugging Face",
+        "name": "OpenAI Blog",
         "type": "官方",
-        "url": "https://huggingface.co/blog/training-swarms"
+        "url": "https://openai.com/business/customer-stories/ifood"
       },
       "tags": [
         "官方",
         "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "How iFood scales coding agents across 15,000 repositories。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261127_003",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "originalTitle": "Clay helps sales teams win with Codex and ChatGPT",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Tue, 24 Nov 2026 00:00:00 GMT",
+      "crawlDate": "2026-11-27",
+      "source": {
+        "name": "OpenAI Blog",
+        "type": "官方",
+        "url": "https://openai.com/business/customer-stories/clay-plugins-openai"
+      },
+      "tags": [
+        "官方",
+        "科研突破"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Clay helps sales teams win with Codex and ChatGPT。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261127_004",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "originalTitle": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "category": "image-video",
+      "categoryName": "AI绘画/视频",
+      "publishDate": "Fri, 27 Nov 2026 00:00:00 GMT",
+      "crawlDate": "2026-11-27",
+      "source": {
+        "name": "Hugging Face",
+        "type": "官方",
+        "url": "https://huggingface.co/blog/video-trainium3"
+      },
+      "tags": [
+        "官方",
+        "AI绘画/视频"
+      ],
+      "isHeadline": true,
+      "coreInsight": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261127_005",
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "originalTitle": "A more tailored Google Search that’s uniquely yours",
+      "category": "company",
+      "categoryName": "企业动态",
+      "publishDate": "Mon, 23 Nov 2026 17:00:00 +0000",
+      "crawlDate": "2026-11-27",
+      "source": {
+        "name": "Google AI",
+        "type": "官方",
+        "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
+      },
+      "tags": [
+        "官方",
+        "企业动态"
+      ],
+      "isHeadline": true,
+      "coreInsight": "A more tailored Google Search that’s uniquely yours。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
@@ -121,52 +121,167 @@
   "quickBrowse": [
     {
       "id": "20261127_q001",
-      "title": "The Download: Better bionic hands and AI’s natural-gas boom",
-      "originalTitle": "The Download: Better bionic hands and AI’s natural-gas boom",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 26 Nov 2026 13:10:00 +0000",
+      "title": "Introducing Tool Retrieval in the Gemini API",
+      "originalTitle": "Introducing Tool Retrieval in the Gemini API",
+      "category": "agent",
+      "categoryName": "Agent",
+      "publishDate": "Thu, 19 Nov 2026 18:00:00 +0000",
       "crawlDate": "2026-11-27",
       "source": {
-        "name": "MIT Technology Review",
-        "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/"
+        "name": "Google AI",
+        "type": "官方",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/"
       },
       "tags": [
-        "媒体",
-        "大语言模型"
+        "官方",
+        "Agent"
       ],
       "isHeadline": false,
-      "coreInsight": "The Download: Better bionic hands and AI’s natural-gas boom。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "Introducing Tool Retrieval in the Gemini API。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
       "id": "20261127_q002",
-      "title": "How data centers are driving a US natural-gas boom",
-      "originalTitle": "How data centers are driving a US natural-gas boom",
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "originalTitle": "Understanding Positional Embeddings in Modern LLMs",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Wed, 25 Nov 2026 17:00:00 +0000",
+      "publishDate": "Sun, 15 Nov 2026 12:10:37 GMT",
+      "crawlDate": "2026-11-27",
+      "source": {
+        "name": "Sebastian Raschka",
+        "type": "专家",
+        "url": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings"
+      },
+      "tags": [
+        "专家",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Understanding Positional Embeddings in Modern LLMs。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261127_q003",
+      "title": "Harness Engineering for Self-Improvement",
+      "originalTitle": "Harness Engineering for Self-Improvement",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Sat, 04 Jul 2026 00:00:00 +0000",
+      "crawlDate": "2026-11-27",
+      "source": {
+        "name": "Lil Log",
+        "type": "专家",
+        "url": "https://lilianweng.github.io/posts/2026-07-04-harness/"
+      },
+      "tags": [
+        "专家",
+        "科研突破"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Harness Engineering for Self-Improvement。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261127_q004",
+      "title": "Scaling Laws, Carefully",
+      "originalTitle": "Scaling Laws, Carefully",
+      "category": "application",
+      "categoryName": "应用落地",
+      "publishDate": "Wed, 24 Jun 2026 00:00:00 +0000",
+      "crawlDate": "2026-11-27",
+      "source": {
+        "name": "Lil Log",
+        "type": "专家",
+        "url": "https://lilianweng.github.io/posts/2026-06-24-scaling-laws/"
+      },
+      "tags": [
+        "专家",
+        "应用落地"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Scaling Laws, Carefully。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261127_q005",
+      "title": "Why We Think",
+      "originalTitle": "Why We Think",
+      "category": "research",
+      "categoryName": "科研突破",
+      "publishDate": "Thu, 01 May 2025 00:00:00 +0000",
+      "crawlDate": "2026-11-27",
+      "source": {
+        "name": "Lil Log",
+        "type": "专家",
+        "url": "https://lilianweng.github.io/posts/2025-05-01-thinking/"
+      },
+      "tags": [
+        "专家",
+        "科研突破"
+      ],
+      "isHeadline": false,
+      "coreInsight": "Why We Think。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261127_q006",
+      "title": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+      "originalTitle": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 27 Nov 2026 13:00:00 +0000",
       "crawlDate": "2026-11-27",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
-        "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/"
+        "url": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": false,
-      "coreInsight": "How data centers are driving a US natural-gas boom。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "The Download: Innovators Under 35 nominations are open, and a bionic window into the mind。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261127_q007",
+      "title": "How cutting-edge prosthetics can help probe the human mind",
+      "originalTitle": "How cutting-edge prosthetics can help probe the human mind",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 27 Nov 2026 10:00:00 +0000",
+      "crawlDate": "2026-11-27",
+      "source": {
+        "name": "MIT Technology Review",
+        "type": "媒体",
+        "url": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": false,
+      "coreInsight": "How cutting-edge prosthetics can help probe the human mind。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 7,
+  "total": 12,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
