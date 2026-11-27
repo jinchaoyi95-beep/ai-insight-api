@@ -1,15 +1,15 @@
 {
-  "date": "20261126",
-  "updateTime": "2026-11-26T21:00:31.370Z",
+  "date": "20261127",
+  "updateTime": "2026-11-27T05:51:37.765Z",
   "headlines": [
     {
-      "id": "20261126_001",
+      "id": "20261127_001",
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
       "originalTitle": "GPT-6 models demonstrate intrinsic protein-design capabilities",
       "category": "devtool",
       "categoryName": "开发工具",
       "publishDate": "Tue, 24 Nov 2026 13:00:00 GMT",
-      "crawlDate": "2026-11-26",
+      "crawlDate": "2026-11-27",
       "source": {
         "name": "OpenAI Blog",
         "type": "官方",
@@ -26,130 +26,82 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261126_002",
-      "title": "How iFood scales coding agents across 15,000 repositories",
-      "originalTitle": "How iFood scales coding agents across 15,000 repositories",
+      "id": "20261127_002",
+      "title": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
+      "originalTitle": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩",
       "category": "agent",
       "categoryName": "Agent",
-      "publishDate": "Tue, 24 Nov 2026 00:00:00 GMT",
-      "crawlDate": "2026-11-26",
+      "publishDate": "Fri, 27 Nov 2026 03:53:49 +0000",
+      "crawlDate": "2026-11-27",
       "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/business/customer-stories/ifood"
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/11/513163.html"
       },
       "tags": [
-        "官方",
+        "媒体",
         "Agent"
       ],
       "isHeadline": true,
-      "coreInsight": "How iFood scales coding agents across 15,000 repositories。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "20个AI Agents组队，4天狂跑350次实验，超越ClickBench最佳公开成绩。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261126_003",
-      "title": "Clay helps sales teams win with Codex and ChatGPT",
-      "originalTitle": "Clay helps sales teams win with Codex and ChatGPT",
-      "category": "research",
-      "categoryName": "科研突破",
-      "publishDate": "Tue, 24 Nov 2026 00:00:00 GMT",
-      "crawlDate": "2026-11-26",
-      "source": {
-        "name": "OpenAI Blog",
-        "type": "官方",
-        "url": "https://openai.com/business/customer-stories/clay-plugins-openai"
-      },
-      "tags": [
-        "官方",
-        "科研突破"
-      ],
-      "isHeadline": true,
-      "coreInsight": "Clay helps sales teams win with Codex and ChatGPT。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261126_004",
-      "title": "381个AI直播冲刺证明P=NP！把GitHub干崩了",
-      "originalTitle": "381个AI直播冲刺证明P=NP！把GitHub干崩了",
-      "category": "devtool",
-      "categoryName": "开发工具",
-      "publishDate": "Thu, 26 Nov 2026 13:56:01 +0000",
-      "crawlDate": "2026-11-26",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/513021.html"
-      },
-      "tags": [
-        "媒体",
-        "开发工具"
-      ],
-      "isHeadline": true,
-      "coreInsight": "381个AI直播冲刺证明P=NP！把GitHub干崩了。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
-    {
-      "id": "20261126_005",
-      "title": "AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用",
-      "originalTitle": "AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用",
+      "id": "20261127_003",
+      "title": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
+      "originalTitle": "具身公司抱团回应：通用大模型跨维打击？没那么简单",
       "category": "llm",
       "categoryName": "大语言模型",
-      "publishDate": "Thu, 26 Nov 2026 12:39:08 +0000",
-      "crawlDate": "2026-11-26",
+      "publishDate": "Fri, 27 Nov 2026 03:33:11 +0000",
+      "crawlDate": "2026-11-27",
       "source": {
         "name": "量子位",
         "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/512981.html"
+        "url": "https://www.qbitai.com/2026/11/513125.html"
       },
       "tags": [
         "媒体",
         "大语言模型"
       ],
       "isHeadline": true,
-      "coreInsight": "AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用。该技术值得关注，建议评估其落地可行性。",
-      "scenarios": "企业级应用、开发者工具",
-      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
-      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    }
-  ],
-  "quickBrowse": [
-    {
-      "id": "20261126_q001",
-      "title": "报名最后2天｜AI浪潮之中，来认识创造未来的人",
-      "originalTitle": "报名最后2天｜AI浪潮之中，来认识创造未来的人",
-      "category": "llm",
-      "categoryName": "大语言模型",
-      "publishDate": "Thu, 26 Nov 2026 07:36:04 +0000",
-      "crawlDate": "2026-11-26",
-      "source": {
-        "name": "量子位",
-        "type": "媒体",
-        "url": "https://www.qbitai.com/2026/11/512942.html"
-      },
-      "tags": [
-        "媒体",
-        "大语言模型"
-      ],
-      "isHeadline": false,
-      "coreInsight": "报名最后2天｜AI浪潮之中，来认识创造未来的人。该技术值得关注，建议评估其落地可行性。",
+      "coreInsight": "具身公司抱团回应：通用大模型跨维打击？没那么简单。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261126_q002",
+      "id": "20261127_004",
+      "title": "第三批嘉宾来袭！速戳报名MEET2027，驭见AI新共识！",
+      "originalTitle": "第三批嘉宾来袭！速戳报名MEET2027，驭见AI新共识！",
+      "category": "llm",
+      "categoryName": "大语言模型",
+      "publishDate": "Fri, 27 Nov 2026 02:56:03 +0000",
+      "crawlDate": "2026-11-27",
+      "source": {
+        "name": "量子位",
+        "type": "媒体",
+        "url": "https://www.qbitai.com/2026/11/513091.html"
+      },
+      "tags": [
+        "媒体",
+        "大语言模型"
+      ],
+      "isHeadline": true,
+      "coreInsight": "第三批嘉宾来袭！速戳报名MEET2027，驭见AI新共识！。该技术值得关注，建议评估其落地可行性。",
+      "scenarios": "企业级应用、开发者工具",
+      "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
+      "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
+    },
+    {
+      "id": "20261127_005",
       "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
       "originalTitle": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
       "category": "agent",
       "categoryName": "Agent",
       "publishDate": "Thu, 26 Nov 2026 00:00:00 GMT",
-      "crawlDate": "2026-11-26",
+      "crawlDate": "2026-11-27",
       "source": {
         "name": "Hugging Face",
         "type": "官方",
@@ -159,20 +111,22 @@
         "官方",
         "Agent"
       ],
-      "isHeadline": false,
+      "isHeadline": true,
       "coreInsight": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems。该技术值得关注，建议评估其落地可行性。",
       "scenarios": "企业级应用、开发者工具",
       "techKeywords": "AI大模型(Large Language Model)：基于Transformer架构的预训练语言模型，具备强大的文本理解和生成能力。",
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
-    },
+    }
+  ],
+  "quickBrowse": [
     {
-      "id": "20261126_q003",
+      "id": "20261127_q001",
       "title": "The Download: Better bionic hands and AI’s natural-gas boom",
       "originalTitle": "The Download: Better bionic hands and AI’s natural-gas boom",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Thu, 26 Nov 2026 13:10:00 +0000",
-      "crawlDate": "2026-11-26",
+      "crawlDate": "2026-11-27",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -189,13 +143,13 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     },
     {
-      "id": "20261126_q004",
+      "id": "20261127_q002",
       "title": "How data centers are driving a US natural-gas boom",
       "originalTitle": "How data centers are driving a US natural-gas boom",
       "category": "llm",
       "categoryName": "大语言模型",
       "publishDate": "Wed, 25 Nov 2026 17:00:00 +0000",
-      "crawlDate": "2026-11-26",
+      "crawlDate": "2026-11-27",
       "source": {
         "name": "MIT Technology Review",
         "type": "媒体",
@@ -212,7 +166,7 @@
       "productDesign": "可关注该技术在现有产品中的集成可能性，评估用户体验提升空间。"
     }
   ],
-  "total": 9,
+  "total": 7,
   "categories": {
     "llm": "大语言模型",
     "image-video": "AI绘画/视频",
